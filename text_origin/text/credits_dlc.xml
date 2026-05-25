@@ -1,0 +1,2420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<credits>
+    <page>
+        <line style="break">110</line>
+        <line style="image">wh3_logo.png</line>
+        <line style="break">50</line>
+        <line style="image">CA_secondary_white_small.png</line>
+        <line style="break">50</line>
+    </page>
+    <page>
+        <line style="break">100</line>
+        <line style="image">gw_logo.png</line>
+        <line style="break">20</line>
+        <line style="text">&quot;Special thanks to everyone at Sega and</line>
+        <line style="text">Creative Assembly for this masterpiece of authenticity,</line>
+        <line style="text">gameplay and world building. Also special thanks to all</line>
+        <line style="text">our colleagues at Games Workshop for building and</line>
+        <line style="text">creating the Warhammer Fantasy Battles world.&quot;</line>
+        <line style="text"> - Games Workshop Licensing</line>
+    </page>
+    <page>
+        <line style="subheader">Game Director</line>
+        <line>
+            <left style="text_pair">Richard Aldridge</left>
+            <right style="text_pair">Todor Nikolov</right>
+        </line>
+        <line style="subheader">Associate Design Director</line>
+        <line style="text">Sean MacDonald</line>
+        <line style="subheader">Development Director</line>
+        <line>
+            <left style="text_pair">Ivan 'Jovanie' Kanev</left>
+            <right style="text_pair">Stefan Aluttis</right>
+        </line>
+        <line style="subheader">Lead Game Producer</line>
+        <line style="text">Evgeniy Tenev</line>
+        <line style="subheader">Principal Game Producer</line>
+        <line style="text">Dimitar Dimitrov</line>
+        <line style="subheader">Project Art Director</line>
+        <line>
+            <left style="text_pair">Greg Alston</left>
+            <right style="text_pair">Stoyan Stoyanov</right>
+        </line>
+        <line style="subheader">Project Technical Director</line>
+        <line>
+            <left style="text_pair">Boris Weber</left>
+            <right style="text_pair">Valeri Vuchov</right>
+        </line>
+        <line style="subheader">Associate Live Game Director</line>
+        <line style="text">Elliott Lock</line>
+        <line style="subheader">Project Audio Director</line>
+        <line style="text">Chris Goldsmith</line>
+        <line style="subheader">Project Audio Director (Consulting)</line>
+        <line style="text">Laszlo Vincze</line>
+    </page>
+    <page>
+        <line style="header">PRODUCTION</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Adam Macintosh</left>
+            <right style="text_pair">Delyana Stoeva</right>
+        </line>
+        <line>
+            <left style="text_pair">Iain Angus</left>
+            <right style="text_pair">James Hosker</right>
+        </line>
+        <line>
+            <left style="text_pair">Krystiana Gutbub</left>
+            <right style="text_pair">Lachezar Petrov</right>
+        </line>
+        <line>
+            <left style="text_pair">Mark Shaw</left>
+            <right style="text_pair">Matthew Ridding</right>
+        </line>
+        <line>
+            <left style="text_pair">Michael Beirne</left>
+            <right style="text_pair">Momchil Gradinarov</right>
+        </line>
+        <line>
+            <left style="text_pair">Nikolay Alamanov</left>
+            <right style="text_pair">Peter Timlett</right>
+        </line>
+        <line>
+            <left style="text_pair">Plamen Filipov</left>
+            <right style="text_pair">Rich Clement</right>
+        </line>
+        <line>
+            <left style="text_pair">Ryan Wolfe</left>
+            <right style="text_pair">Samuel Jones </right>
+        </line>
+        <line>
+            <left style="text_pair">Tim Hough</left>
+            <right style="text_pair">Tom Burningham</right>
+        </line>
+        <line>
+            <left style="text_pair">Vivien Koo</left>
+            <right style="text_pair">Will Emmett</right>
+        </line>
+    </page>
+    <page>
+        <line style="header">DESIGN</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Aleksandar Landzhev</left>
+            <right style="text_pair">Alexandar Radulov</right>
+        </line>
+        <line>
+            <left style="text_pair">Alexander Correia</left>
+            <right style="text_pair">Alexandre Cliquennois</right>
+        </line>
+        <line>
+            <left style="text_pair">Alexandre Serim</left>
+            <right style="text_pair">Allan Suleman</right>
+        </line>
+        <line>
+            <left style="text_pair">Andrew Hall</left>
+            <right style="text_pair">Anuj Malhotra</right>
+        </line>
+        <line>
+            <left style="text_pair">Atanas Danovski</left>
+            <right style="text_pair">Balint Marczin</right>
+        </line>
+        <line>
+            <left style="text_pair">Ben Leech</left>
+            <right style="text_pair">Billy Blake</right>
+        </line>
+        <line>
+            <left style="text_pair">Boris Stamatov</left>
+            <right style="text_pair">Chris Gambold</right>
+        </line>
+        <line>
+            <left style="text_pair">Craig Kirby</left>
+            <right style="text_pair">Daniel Griliopoulos </right>
+        </line>
+        <line>
+            <left style="text_pair">Dean Beale</left>
+            <right style="text_pair">Emanuil Tomov</right>
+        </line>
+        <line>
+            <left style="text_pair">Erin Williams</left>
+            <right style="text_pair">Evgeni Proykov</right>
+        </line>
+        <line>
+            <left style="text_pair">Faidon Tzaidas</left>
+            <right style="text_pair">Gary Deans</right>
+        </line>
+        <line>
+            <left style="text_pair">Georgi Ivanov</left>
+            <right style="text_pair">Hristo Enev</right>
+        </line>
+        <line>
+            <left style="text_pair">Ian Skelton</left>
+            <right style="text_pair">James Cox</right>
+        </line>
+        <line>
+            <left style="text_pair">James Martin</left>
+            <right style="text_pair">James Whitston</right>
+        </line>
+        <line>
+            <left style="text_pair">Joe Chetcuti</left>
+            <right style="text_pair">Josh King</right>
+        </line>
+        <line>
+            <left style="text_pair">Joy Dey</left>
+            <right style="text_pair">Kaia Zhdanova</right>
+        </line>
+        <line>
+            <left style="text_pair">Leif Burrows</left>
+            <right style="text_pair">Mark Sinclair</right>
+        </line>
+        <line>
+            <left style="text_pair">Martin Montford</left>
+            <right style="text_pair">Matthew Perkins</right>
+        </line>
+        <line>
+            <left style="text_pair">Matthieu Bonnet-Mille</left>
+            <right style="text_pair">Milcho Vasilev</right>
+        </line>
+        <line>
+            <left style="text_pair">Mitchell Heastie</left>
+            <right style="text_pair">Nicolas Graber</right>
+        </line>
+        <line>
+            <left style="text_pair">Paul Erdei</left>
+            <right style="text_pair">Radoslav Borisov</right>
+        </line>
+        <line>
+            <left style="text_pair">Rhiannon McGarth</left>
+            <right style="text_pair">Roman Dimitrov</right>
+        </line>
+        <line>
+            <left style="text_pair">Sami Hamid</left>
+            <right style="text_pair">Sean Macdonald</right>
+        </line>
+        <line>
+            <left style="text_pair">Simon Warrener</left>
+            <right style="text_pair">Thomas Cleaves</right>
+        </line>
+        <line>
+            <left style="text_pair">Thomas Slade</left>
+            <right style="text_pair">Toma Solarov</right>
+        </line>
+        <line>
+            <left style="text_pair">Vasil Nikolov</left>
+            <right style="text_pair">Viktor Dimitrov</right>
+        </line>
+        <line>
+            <left style="text_pair">Alva Håkestad</left>
+            <right style="text_pair">William Wright</right>
+        </line>
+        <line>
+            <left style="text_pair">Yavor Mihaylov</left>
+        </line>
+    </page>
+    <page>
+        <line style="header">ADDITIONAL DESIGN</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Alexandre Laine</left>
+            <right style="text_pair">Boian Spasov</right>
+        </line>
+        <line>
+            <left style="text_pair">Chris Johnston</left>
+            <right style="text_pair">Lewis Miller</right>
+        </line>
+        <line>
+            <left style="text_pair">Liam Newman</left>
+            <right style="text_pair">Luke Browne</right>
+        </line>
+        <line>
+            <left style="text_pair">Martin Brunotte</left>
+            <right style="text_pair">Teodor Kozhukov</right>
+        </line>
+        <line>
+            <left style="text_pair">Tim McKenzie</left>
+        </line>
+    </page>
+    <page>
+        <line style="header">PROGRAMMING</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Aleksandar Mladenov</left>
+            <right style="text_pair">Alessio Ambrosj</right>
+        </line>
+        <line>
+            <left style="text_pair">Alper Canal</left>
+            <right style="text_pair">Angel Dimitrov</right>
+        </line>
+        <line>
+            <left style="text_pair">Anton Cholakov</left>
+            <right style="text_pair">Ben Munson</right>
+        </line>
+        <line>
+            <left style="text_pair">Boyan Spassov</left>
+            <right style="text_pair">Christian Skogen</right>
+        </line>
+        <line>
+            <left style="text_pair">Christos Lappas</left>
+            <right style="text_pair">David Blasco</right>
+        </line>
+        <line>
+            <left style="text_pair">David Considine</left>
+            <right style="text_pair">Diyan Popov</right>
+        </line>
+        <line>
+            <left style="text_pair">Felipe Dias</left>
+            <right style="text_pair">Fergus Griggs </right>
+        </line>
+        <line>
+            <left style="text_pair">Filip Uzunov</left>
+            <right style="text_pair">Huw Moorhouse</right>
+        </line>
+        <line>
+            <left style="text_pair">Iago Calvo Lista</left>
+            <right style="text_pair">Ilian Georgiev</right>
+        </line>
+        <line>
+            <left style="text_pair">Imanol Saenz</left>
+            <right style="text_pair">Ivan Galabov</right>
+        </line>
+        <line>
+            <left style="text_pair">Jacob Arcangeli</left>
+            <right style="text_pair">Jacob Nielsen</right>
+        </line>
+        <line>
+            <left style="text_pair">Joshua Hancock</left>
+            <right style="text_pair">Justyna Cichosz</right>
+        </line>
+        <line>
+            <left style="text_pair">Kevin Hoque</left>
+            <right style="text_pair">Kishore Kumar</right>
+        </line>
+        <line>
+            <left style="text_pair">Lachezar Belev</left>
+            <right style="text_pair">Lidia Teleoaca</right>
+        </line>
+        <line>
+            <left style="text_pair">Luke Carter</left>
+            <right style="text_pair">Lyubomir Vasilev</right>
+        </line>
+        <line>
+            <left style="text_pair">Maotian He</left>
+            <right style="text_pair">Marcos Sueiro</right>
+        </line>
+        <line>
+            <left style="text_pair">Mihail Balabanov</left>
+            <right style="text_pair">Mikaela Lidstrom</right>
+        </line>
+        <line>
+            <left style="text_pair">Moritz Fink</left>
+            <right style="text_pair">Nikola Dafinski</right>
+        </line>
+        <line>
+            <left style="text_pair">Nikola Tasev</left>
+            <right style="text_pair">Nikolaos Lazaridis</right>
+        </line>
+        <line>
+            <left style="text_pair">Oleg Zlatarski</left>
+            <right style="text_pair">Olly Brabiner</right>
+        </line>
+        <line>
+            <left style="text_pair">Peter Ellsum</left>
+            <right style="text_pair">Petr Tomicek</right>
+        </line>
+        <line>
+            <left style="text_pair">Petros Papanikolaou</left>
+            <right style="text_pair">Rick Rodgers</right>
+        </line>
+        <line>
+            <left style="text_pair">Scott Backhouse</left>
+            <right style="text_pair">Scott Pitkethly</right>
+        </line>
+        <line>
+            <left style="text_pair">Tamás Rábel</left>
+            <right style="text_pair">Tim Gosling</right>
+        </line>
+        <line>
+            <left style="text_pair">Ting Pong Li</left>
+            <right style="text_pair">Todor Samardzhiev</right>
+        </line>
+        <line>
+            <left style="text_pair">Vasil Stamatov</left>
+            <right style="text_pair">Veli Mollov</right>
+        </line>
+    </page>
+    <page>
+        <line style="header">ADDITIONAL PROGRAMMING</line>
+        <line style="break">25</line>
+        <line style="text">Charlie Dell</line>
+    </page>
+    <page>
+        <line style="header">ART</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Adam Fisher</left>
+            <right style="text_pair">Aleksandra Gospodinova</right>
+        </line>
+        <line>
+            <left style="text_pair">Alex Voysey</left>
+            <right style="text_pair">Alexa Palmer</right>
+        </line>
+        <line>
+            <left style="text_pair">Andrew Oakley</left>
+            <right style="text_pair">Anna Rosenkranz</right>
+        </line>
+        <line>
+            <left style="text_pair">Anton Slavov</left>
+            <right style="text_pair">Ashley Heppell</right>
+        </line>
+        <line>
+            <left style="text_pair">Baj Singh</left>
+            <right style="text_pair">Ben Lane</right>
+        </line>
+        <line>
+            <left style="text_pair">Biserka Georgieva</left>
+            <right style="text_pair">Bonita Sidhu</right>
+        </line>
+        <line>
+            <left style="text_pair">Cal Glover</left>
+            <right style="text_pair">Chloe Chew</right>
+        </line>
+        <line>
+            <left style="text_pair">Christopher Molyneaux</left>
+            <right style="text_pair">Coen Van Camp</right>
+        </line>
+        <line>
+            <left style="text_pair">Cynthia Ng</left>
+            <right style="text_pair">Damian Navarro Mendez </right>
+        </line>
+        <line>
+            <left style="text_pair">Daniel Mccarthy</left>
+            <right style="text_pair">Dilyan Tonchev</right>
+        </line>
+        <line>
+            <left style="text_pair">Dmitry Gaborak</left>
+            <right style="text_pair">Eleonora Predeva</right>
+        </line>
+        <line>
+            <left style="text_pair">Ellie Koorlander Lester</left>
+            <right style="text_pair">Emma Charnley</right>
+        </line>
+        <line>
+            <left style="text_pair">Evgeniya Egorova</left>
+            <right style="text_pair">Faust Messely</right>
+        </line>
+        <line>
+            <left style="text_pair">Georgi Petkov</left>
+            <right style="text_pair">Georgi Petrov</right>
+        </line>
+        <line>
+            <left style="text_pair">Hennadii Omelchenko</left>
+            <right style="text_pair">Ignacio Lazcano</right>
+        </line>
+        <line>
+            <left style="text_pair">Igor Golovkov </left>
+            <right style="text_pair">Ioan-Ovidiu Vladut</right>
+        </line>
+        <line>
+            <left style="text_pair">Jaco Herbst</left>
+            <right style="text_pair">James Robertson</right>
+        </line>
+        <line>
+            <left style="text_pair">Jason Waller</left>
+            <right style="text_pair">Jim Russell</right>
+        </line>
+        <line>
+            <left style="text_pair">Joe Franklin</left>
+            <right style="text_pair">Joe Hornsby</right>
+        </line>
+        <line>
+            <left style="text_pair">Josh Swarbrick</left>
+            <right style="text_pair">Juan Novelletto</right>
+        </line>
+        <line>
+            <left style="text_pair">Karen Choi</left>
+            <right style="text_pair">Karthi Shanmugasundaram </right>
+        </line>
+        <line>
+            <left style="text_pair">Keezia Mahusay</left>
+            <right style="text_pair">Kiril Pekov</right>
+        </line>
+        <line>
+            <left style="text_pair">Laurence Tully </left>
+            <right style="text_pair">Leila El Mrabet</right>
+        </line>
+        <line>
+            <left style="text_pair">Lewis Murphy</left>
+            <right style="text_pair">Lukas Miguel</right>
+        </line>
+        <line>
+            <left style="text_pair">Luke Burnell</left>
+            <right style="text_pair">Lulu Zhang</right>
+        </line>
+        <line>
+            <left style="text_pair">Margarita Taskova</left>
+            <right style="text_pair">Mariyan Hristov</right>
+        </line>
+        <line>
+            <left style="text_pair">Mark Ojar</left>
+            <right style="text_pair">Martin Kolev</right>
+        </line>
+        <line>
+            <left style="text_pair">Molly Mae Brady</left>
+            <right style="text_pair">Morgan Ketelaar-Jarass </right>
+        </line>
+        <line>
+            <left style="text_pair">Naomi Biro</left>
+            <right style="text_pair">Nestor Lichev</right>
+        </line>
+        <line>
+            <left style="text_pair">Nikolay Toshev</left>
+            <right style="text_pair">Olesia Kononenko</right>
+        </line>
+        <line>
+            <left style="text_pair">Pedro Garcia</left>
+            <right style="text_pair">Phillip Obretenov</right>
+        </line>
+        <line>
+            <left style="text_pair">Plamen Genov</left>
+            <right style="text_pair">Robin Benes</right>
+        </line>
+        <line>
+            <left style="text_pair">Saeed Ramezani </left>
+            <right style="text_pair">Samuil Tomov</right>
+        </line>
+        <line>
+            <left style="text_pair">Simeon Todorov</left>
+            <right style="text_pair">Simon Pennington</right>
+        </line>
+        <line>
+            <left style="text_pair">Simon Tosovsky</left>
+            <right style="text_pair">Stoyan Kamburov</right>
+        </line>
+        <line>
+            <left style="text_pair">Teodor Velev</left>
+            <right style="text_pair">Tim Rust</right>
+        </line>
+        <line>
+            <left style="text_pair">Tjalle Keus</left>
+            <right style="text_pair">Todor Hristov</right>
+        </line>
+        <line>
+            <left style="text_pair">Tom Parker</left>
+            <right style="text_pair">Varvara Lapshina</right>
+        </line>
+        <line>
+            <left style="text_pair">Veronika Chorbadjieva</left>
+            <right style="text_pair">Vessela Ognyanova</right>
+        </line>
+        <line>
+            <left style="text_pair">Victor Gaza</left>
+            <right style="text_pair">Viktor Angelov</right>
+        </line>
+        <line>
+            <left style="text_pair">Viktoriya Gosheva</left>
+            <right style="text_pair">Yolanda Nikolova</right>
+        </line>
+        <line>
+            <left style="text_pair">Zhivko Popov</left>
+            <right style="text_pair">Zoltan Molnar</right>
+        </line>
+        <line>
+            <left style="text_pair">Zongyi Chen</left>
+        </line>
+    </page>
+    <page>
+        <line style="header">ADDITIONAL ART</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Adam Wesierski</left>
+            <right style="text_pair">Aria Safarzadegan</right>
+        </line>
+        <line>
+            <left style="text_pair">Billy Christian</left>
+            <right style="text_pair">Esmail Zalat</right>
+        </line>
+        <line>
+            <left style="text_pair">Jan Drenovek</left>
+            <right style="text_pair">Johan Grenier</right>
+        </line>
+        <line>
+            <left style="text_pair">Konstantin Porubov</left>
+            <right style="text_pair">Michał Gutowski</right>
+        </line>
+        <line>
+            <left style="text_pair">Simon Urban</left>
+            <right style="text_pair">Tomasz Jedruszek</right>
+        </line>
+        <line>
+            <left style="text_pair">Xavier Ribeiro</left>
+            <right style="text_pair">Yuliia Lishchynska</right>
+        </line>
+    </page>
+    <page>
+        <line style="break">1000</line>
+        <line style="header">ANIMATION</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Agathe Pillot</left>
+            <right style="text_pair">Alba Rodriguez del Rio   </right>
+        </line>
+        <line>
+            <left style="text_pair">Alex Tavener</left>
+            <right style="text_pair">Callum Williams</right>
+        </line>
+        <line>
+            <left style="text_pair">Corentin Caminade        </left>
+            <right style="text_pair">Daniel Schellhaas</right>
+        </line>
+        <line>
+            <left style="text_pair">Denislav Balevski</left>
+            <right style="text_pair">Dominic Mee</right>
+        </line>
+        <line>
+            <left style="text_pair">Firat Cenkci</left>
+            <right style="text_pair">Jay Lee</right>
+        </line>
+        <line>
+            <left style="text_pair">Joe Hornsby</left>
+            <right style="text_pair">Lluis Cavalcanti</right>
+        </line>
+        <line>
+            <left style="text_pair">Matthew Lewis</left>
+            <right style="text_pair">Mohamed Thanish</right>
+        </line>
+        <line>
+            <left style="text_pair">Morten Zimmerman</left>
+            <right style="text_pair">Petko Todorov</right>
+        </line>
+        <line>
+            <left style="text_pair">Phillip Obretenov</left>
+            <right style="text_pair">Rebecca Belle</right>
+        </line>
+        <line>
+            <left style="text_pair">Robert Leonard</left>
+            <right style="text_pair">Ross Harrop</right>
+        </line>
+        <line>
+            <left style="text_pair">Rumyana Aleksandrova</left>
+            <right style="text_pair">Serhii Krystiev</right>
+        </line>
+        <line>
+            <left style="text_pair">Sophie Shepherd</left>
+            <right style="text_pair">Stefan Kolev</right>
+        </line>
+        <line>
+            <left style="text_pair">Stephan Bakarov</left>
+            <right style="text_pair">Theo Bonora</right>
+        </line>
+        <line>
+            <left style="text_pair">Veselin Kashev</left>
+            <right style="text_pair">Viktorija Ardamatskaja</right>
+        </line>
+    </page>
+    <page>
+        <line style="header">ADDITIONAL ANIMATION</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Ryan French</left>
+            <right style="text_pair">Stefano Marchesini</right>
+        </line>
+    </page>
+    <page>
+        <line style="header">CINEMATICS</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Alex Bridge</left>
+            <right style="text_pair">Axel Larrson</right>
+        </line>
+        <line>
+            <left style="text_pair">Bryan Rogers</left>
+            <right style="text_pair">Carl Allen</right>
+        </line>
+        <line>
+            <left style="text_pair">Chloé Bonnet</left>
+            <right style="text_pair">Danail Lazarov</right>
+        </line>
+        <line>
+            <left style="text_pair">Daniel Poncelet</left>
+            <right style="text_pair">Daniel Purcell</right>
+        </line>
+        <line>
+            <left style="text_pair">James Wooldridge</left>
+            <right style="text_pair">Javier Orella Matilla</right>
+        </line>
+        <line>
+            <left style="text_pair">Kalina Zhelyazkova</left>
+            <right style="text_pair">Laura Guill</right>
+        </line>
+        <line>
+            <left style="text_pair">Lluís Carreras Ballvé</left>
+            <right style="text_pair">Marin Pirovski</right>
+        </line>
+        <line>
+            <left style="text_pair">Mike Chernett</left>
+            <right style="text_pair">Milovan Kolev</right>
+        </line>
+        <line>
+            <left style="text_pair">Nedim Incebay</left>
+            <right style="text_pair">Oliver Rea</right>
+        </line>
+        <line>
+            <left style="text_pair">Peter Chernozemski</left>
+            <right style="text_pair">Raveen Rajadorai</right>
+        </line>
+        <line>
+            <left style="text_pair">Vicky Danko</left>
+        </line>
+    </page>
+    <page>
+        <line style="header">Motion Capture</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Matthew Murdoch</left>
+            <right style="text_pair">Peter Clapperton</right>
+        </line>
+        <line>
+            <left style="text_pair">Thomas Neill</left>
+        </line>
+    </page>
+    <page>
+        <line style="header">AUDIO</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Aaron Holland</left>
+            <right style="text_pair">Alex Hynes</right>
+        </line>
+        <line>
+            <left style="text_pair">Beckie Thornton</left>
+            <right style="text_pair">Christopher Quinn</right>
+        </line>
+        <line>
+            <left style="text_pair">Daniel Matarov</left>
+            <right style="text_pair">Daniel Stirling</right>
+        </line>
+        <line>
+            <left style="text_pair">Douglas Pennant</left>
+            <right style="text_pair">Ed Smallwood</right>
+        </line>
+        <line>
+            <left style="text_pair">Francesca Sartori</left>
+            <right style="text_pair">Jack Melham</right>
+        </line>
+        <line>
+            <left style="text_pair">James Shacklock</left>
+            <right style="text_pair">Joe Galbraith</right>
+        </line>
+        <line>
+            <left style="text_pair">John Sutherland</left>
+            <right style="text_pair">Jon Raftery</right>
+        </line>
+        <line>
+            <left style="text_pair">Joseph Exell</left>
+            <right style="text_pair">Josh Croft</right>
+        </line>
+        <line>
+            <left style="text_pair">Julian Garcia Moreno</left>
+            <right style="text_pair">Juuso Tolonen</right>
+        </line>
+        <line>
+            <left style="text_pair">Kiril Petrushev</left>
+            <right style="text_pair">Krasimir Totev</right>
+        </line>
+        <line>
+            <left style="text_pair">Liam Price</left>
+            <right style="text_pair">Matt Ray</right>
+        </line>
+        <line>
+            <left style="text_pair">Neil Doyle</left>
+            <right style="text_pair">Peter Tolnay</right>
+        </line>
+        <line>
+            <left style="text_pair">Richard Beddow</left>
+            <right style="text_pair">Rosalie Wilson</right>
+        </line>
+        <line>
+            <left style="text_pair">Ruben Villa</left>
+            <right style="text_pair">Sam Papworth</right>
+        </line>
+        <line>
+            <left style="text_pair">Stephen Thomas</left>
+            <right style="text_pair">Stoyan Orsov</right>
+        </line>
+        <line>
+            <left style="text_pair">Yavor Lazov</left>
+        </line>
+    </page>
+    <page>
+        <line style="header">ADDITIONAL AUDIO</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">(composer) Ian Livingstone</left>
+            <right style="text_pair">(composer) Simon Ravn</right>
+        </line>
+        <line>
+            <left style="text_pair">Bob Rissolo</left>
+            <right style="text_pair">Chris Goldsmith</right>
+        </line>
+        <line>
+            <left style="text_pair">Matthew Bradley</left>
+            <right style="text_pair">Niall Coates</right>
+        </line>
+        <line>
+            <left style="text_pair">Tom McCaren</left>
+        </line>
+    </page>
+    <page>
+        <line style="header">QA</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Alan Danczyk</left>
+            <right style="text_pair">Alistair Gardiner</right>
+        </line>
+        <line>
+            <left style="text_pair">Annina Melissa</left>
+            <right style="text_pair">Anthony Brown-Rawlinson</right>
+        </line>
+        <line>
+            <left style="text_pair">Arron Donnelly</left>
+            <right style="text_pair">Arthur McKechnie</right>
+        </line>
+        <line>
+            <left style="text_pair">Ben Wood</left>
+            <right style="text_pair">Bradley Roberg</right>
+        </line>
+        <line>
+            <left style="text_pair">Calum Laverick</left>
+            <right style="text_pair">Carl Miller</right>
+        </line>
+        <line>
+            <left style="text_pair">Charlotte Sibley</left>
+            <right style="text_pair">Chris Gray</right>
+        </line>
+        <line>
+            <left style="text_pair">Chris Johnston </left>
+            <right style="text_pair">Christopher Read</right>
+        </line>
+        <line>
+            <left style="text_pair">Connor McCrory</left>
+            <right style="text_pair">Conor Scott</right>
+        </line>
+        <line>
+            <left style="text_pair">Daniel Wright</left>
+            <right style="text_pair">David Chapman</right>
+        </line>
+        <line>
+            <left style="text_pair">Declan Stewart</left>
+            <right style="text_pair">Duncan Jacob</right>
+        </line>
+        <line>
+            <left style="text_pair">Fahim Mostafa</left>
+            <right style="text_pair">Fergus Haworth</right>
+        </line>
+        <line>
+            <left style="text_pair">Graeme Burr</left>
+            <right style="text_pair">Graham Axford</right>
+        </line>
+        <line>
+            <left style="text_pair">Jack Kempton</left>
+            <right style="text_pair">Jacob Percival-Green</right>
+        </line>
+        <line>
+            <left style="text_pair">James Bedson</left>
+            <right style="text_pair">James Tillman</right>
+        </line>
+        <line>
+            <left style="text_pair">Jason Cini</left>
+            <right style="text_pair">Jason Strachan</right>
+        </line>
+        <line>
+            <left style="text_pair">Jeremy Gapper-Towse</left>
+            <right style="text_pair">Jessica Gordon</right>
+        </line>
+        <line>
+            <left style="text_pair">Joel Thomas</left>
+            <right style="text_pair">Jonathan Jacob</right>
+        </line>
+        <line>
+            <left style="text_pair">Jordan Stewart</left>
+            <right style="text_pair">Josh Grimes</right>
+        </line>
+        <line>
+            <left style="text_pair">Kevin Botorek</left>
+            <right style="text_pair">Lewis Miller</right>
+        </line>
+        <line>
+            <left style="text_pair">Lewis Rowe</left>
+            <right style="text_pair">Liam Farthing</right>
+        </line>
+        <line>
+            <left style="text_pair">Liam Newman </left>
+            <right style="text_pair">Luke Browne</right>
+        </line>
+        <line>
+            <left style="text_pair">Mark Gilby</left>
+            <right style="text_pair">Matthew Ridding</right>
+        </line>
+        <line>
+            <left style="text_pair">Matthew Storr</left>
+            <right style="text_pair">Michael Pettitt</right>
+        </line>
+        <line>
+            <left style="text_pair">Mihai Terhes</left>
+            <right style="text_pair">Nathan Hall</right>
+        </line>
+        <line>
+            <left style="text_pair">Pedro Castro</left>
+            <right style="text_pair">Pedro Mestre</right>
+        </line>
+        <line>
+            <left style="text_pair">Peter Lamoureux</left>
+            <right style="text_pair">Phillip Abram</right>
+        </line>
+        <line>
+            <left style="text_pair">Phillip MacLennan</left>
+            <right style="text_pair">Reece White</right>
+        </line>
+        <line>
+            <left style="text_pair">Roan van Drie</left>
+            <right style="text_pair">Sam Daniels</right>
+        </line>
+        <line>
+            <left style="text_pair">Sam Greaves</left>
+            <right style="text_pair">Sam Tasker</right>
+        </line>
+        <line>
+            <left style="text_pair">Samuel Belsey</left>
+            <right style="text_pair">Tammara Payen </right>
+        </line>
+        <line>
+            <left style="text_pair">Teagan Curwen </left>
+            <right style="text_pair">Theo Burchell</right>
+        </line>
+        <line>
+            <left style="text_pair">Thomas Landtsheere</left>
+            <right style="text_pair">Tim Colley</right>
+        </line>
+        <line>
+            <left style="text_pair">Tim McKenzie</left>
+            <right style="text_pair">Tom Cleaves</right>
+        </line>
+        <line>
+            <left style="text_pair">Vojtech Matusinsky</left>
+        </line>
+    </page>
+    <page>
+        <line style="header">AUDIO QA</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Hannah Watts</left>
+            <right style="text_pair">Ivan Chilingirov</right>
+        </line>
+        <line>
+            <left style="text_pair">Jake Morgan</left>
+            <right style="text_pair">Neil Doyle</right>
+        </line>
+        <line>
+            <left style="text_pair">Ross Gallacher</left>
+            <right style="text_pair">Stefan Piperkov</right>
+        </line>
+        <line>
+            <left style="text_pair">Stephan Grzelkowski</left>
+            <right style="text_pair">Stoyan Orsov</right>
+        </line>
+        <line>
+            <left style="text_pair">Toby Collard</left>
+            <right style="text_pair">Viktor Ivanov</right>
+        </line>
+    </page>
+    <page>
+        <line style="header">SOFIA QA</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Aleksandar Zhivkov</left>
+            <right style="text_pair">Dimitar Shopov</right>
+        </line>
+        <line>
+            <left style="text_pair">Eduard Petrov</left>
+            <right style="text_pair">Georgi Dimitrov </right>
+        </line>
+        <line>
+            <left style="text_pair">Georgi Petkov</left>
+            <right style="text_pair">Ivan Dionisiev</right>
+        </line>
+        <line>
+            <left style="text_pair">Katrin Kumanova</left>
+            <right style="text_pair">Lyubomir Vryashkov</right>
+        </line>
+        <line>
+            <left style="text_pair">Maria Zdravkova</left>
+            <right style="text_pair">Stefan Todorov</right>
+        </line>
+        <line>
+            <left style="text_pair">Tsvetin Dzhurov </left>
+            <right style="text_pair">Tsvetomir Ivanov</right>
+        </line>
+        <line>
+            <left style="text_pair">Yordan Deliyski</left>
+        </line>
+    </page>
+    <page>
+        <line style="header">SEGA OPERATIONS</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Jacob Nixon</left>
+            <right style="text_pair">Shimpei Omae</right>
+        </line>
+    </page>
+    <page>
+        <line style="header">SEGA QA</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Aleksandar Pavlov</left>
+            <right style="text_pair">Alexandra Krusteva</right>
+        </line>
+        <line>
+            <left style="text_pair">Andrian Marinov</left>
+            <right style="text_pair">Antani Moldovanov</right>
+        </line>
+        <line>
+            <left style="text_pair">Anton Nankov</left>
+            <right style="text_pair">Asen Nenov</right>
+        </line>
+        <line>
+            <left style="text_pair">Boris Dimitrov</left>
+            <right style="text_pair">Boris Mihailov</right>
+        </line>
+        <line>
+            <left style="text_pair">Daniel Ovale</left>
+            <right style="text_pair">Daniel Petrov</right>
+        </line>
+        <line>
+            <left style="text_pair">Dean Getsov</left>
+            <right style="text_pair">Deyana Kaloyanova</right>
+        </line>
+        <line>
+            <left style="text_pair">Dimana Ivanova</left>
+            <right style="text_pair">Dimitar Kraev</right>
+        </line>
+        <line>
+            <left style="text_pair">Dimitar Nikolov</left>
+            <right style="text_pair">Dragomir Dimov</right>
+        </line>
+        <line>
+            <left style="text_pair">Elvir Sirakov</left>
+            <right style="text_pair">Evgeny Kolev</right>
+        </line>
+        <line>
+            <left style="text_pair">Galya Kurshumova</left>
+            <right style="text_pair">Georgi Todorov</right>
+        </line>
+        <line>
+            <left style="text_pair">Harry Boyadzhiyski</left>
+            <right style="text_pair">Hristiyan Todorov</right>
+        </line>
+        <line>
+            <left style="text_pair">Iulian Bajan</left>
+            <right style="text_pair">Ivan Aleksandrov</right>
+        </line>
+        <line>
+            <left style="text_pair">Ivan Ivanov</left>
+            <right style="text_pair">Ivan Tsarev</right>
+        </line>
+        <line>
+            <left style="text_pair">Ivana Nikolova</left>
+            <right style="text_pair">Ivaylo Nedkov</right>
+        </line>
+        <line>
+            <left style="text_pair">Kieran Stanley</left>
+            <right style="text_pair">Kiril Yolovski</right>
+        </line>
+        <line>
+            <left style="text_pair">Kristiyan Paskov</left>
+            <right style="text_pair">Kristiyan Pishtikov</right>
+        </line>
+        <line>
+            <left style="text_pair">Lazarin Hristov</left>
+            <right style="text_pair">Lubomir Stefanov</right>
+        </line>
+        <line>
+            <left style="text_pair">Lyubomir Mehandzhiyski</left>
+            <right style="text_pair">Lyuboslav Karmidzhanov</right>
+        </line>
+        <line>
+            <left style="text_pair">Miroslav Donchev</left>
+            <right style="text_pair">Miroslav Pirindov</right>
+        </line>
+        <line>
+            <left style="text_pair">Mustafa Kazandzhiev</left>
+            <right style="text_pair">Nedelin Gochev</right>
+        </line>
+        <line>
+            <left style="text_pair">Nikolay Kostov</left>
+            <right style="text_pair">Presiyana Varbanova</right>
+        </line>
+        <line>
+            <left style="text_pair">Reni Dimitrova</left>
+            <right style="text_pair">Rusalin Venev</right>
+        </line>
+        <line>
+            <left style="text_pair">Sabi Simeonov</left>
+            <right style="text_pair">Stanislav Milenkov</right>
+        </line>
+        <line>
+            <left style="text_pair">Svetoslav Berberski</left>
+            <right style="text_pair">Teodora Dimitrova</right>
+        </line>
+        <line>
+            <left style="text_pair">Tsvetan Aleksandrov</left>
+            <right style="text_pair">Tsvetelin Dimitrov</right>
+        </line>
+        <line>
+            <left style="text_pair">Tsvetomir Tsvetkov</left>
+            <right style="text_pair">Viktor Hristov</right>
+        </line>
+        <line>
+            <left style="text_pair">Viktor Todorov</left>
+            <right style="text_pair">Viktor Yordanov</right>
+        </line>
+        <line>
+            <left style="text_pair">Vladimir Nikolov</left>
+            <right style="text_pair">Yasser Ramirez</right>
+        </line>
+    </page>
+    <page>
+        <line style="header">GREENLINK QA</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Andrei Lolea</left>
+            <right style="text_pair">Andrei Voicila</right>
+        </line>
+        <line>
+            <left style="text_pair">Bogdan Secaci</left>
+            <right style="text_pair">Bogdan Zgabei</right>
+        </line>
+        <line>
+            <left style="text_pair">Florin Cristea</left>
+            <right style="text_pair">Cristian Si</right>
+        </line>
+        <line>
+            <left style="text_pair">George Serban</left>
+            <right style="text_pair">Marian Samoila</right>
+        </line>
+        <line>
+            <left style="text_pair">Mihai Decu</left>
+            <right style="text_pair">Robert Ciortan</right>
+        </line>
+    </page>
+    <page>
+        <line style="header">LOCALISATION</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Ajay Modasiya</left>
+            <right style="text_pair">Alan Desole</right>
+        </line>
+        <line>
+            <left style="text_pair">Alessandro Irranca</left>
+            <right style="text_pair">Alexandre Vivies</right>
+        </line>
+        <line>
+            <left style="text_pair">Anita Hubayova</left>
+            <right style="text_pair">Antonella Dotti</right>
+        </line>
+        <line>
+            <left style="text_pair">Antonio Matrone</left>
+            <right style="text_pair">Artiom Timofeyev</right>
+        </line>
+        <line>
+            <left style="text_pair">Barbora Řiháková</left>
+            <right style="text_pair">Burcu Parsons</right>
+        </line>
+        <line>
+            <left style="text_pair">Camille Krieg</left>
+            <right style="text_pair">Carlos López &quot;Vlaisnut&quot;</right>
+        </line>
+        <line>
+            <left style="text_pair">Carman Li</left>
+            <right style="text_pair">Carsten Vagani</right>
+        </line>
+        <line>
+            <left style="text_pair">Chenhao Li</left>
+            <right style="text_pair">Chi Kiu Wong</right>
+        </line>
+        <line>
+            <left style="text_pair">Chiara Cavaliere</left>
+            <right style="text_pair">Daniel Ip</right>
+        </line>
+        <line>
+            <left style="text_pair">Daniel Serrano Albert</left>
+            <right style="text_pair">Ekaterina Tabachnikova </right>
+        </line>
+        <line>
+            <left style="text_pair">Elisa Cavaliere</left>
+            <right style="text_pair">Fabio Rossini</right>
+        </line>
+        <line>
+            <left style="text_pair">Fatih Donmez</left>
+            <right style="text_pair">Felix Neuperth</right>
+        </line>
+        <line>
+            <left style="text_pair">Firas Al Sekran</left>
+            <right style="text_pair">Flora Souza</right>
+        </line>
+        <line>
+            <left style="text_pair">Frederico Encarnação</left>
+            <right style="text_pair">Gianni Bruno Magnoli</right>
+        </line>
+        <line>
+            <left style="text_pair">Giuseppina Macheda</left>
+            <right style="text_pair">Gordon McKendrick</right>
+        </line>
+        <line>
+            <left style="text_pair">Grace Hsu</left>
+            <right style="text_pair">Irina Nekrashevich</right>
+        </line>
+        <line>
+            <left style="text_pair">Jaehyuck Byun</left>
+            <right style="text_pair">Jo-Yu Feng</right>
+        </line>
+        <line>
+            <left style="text_pair">Kaihua Liao</left>
+            <right style="text_pair">Katarzyna Olszewska-Iwanczuk</right>
+        </line>
+        <line>
+            <left style="text_pair">Kay Iwanczuk</left>
+            <right style="text_pair">Krzysztof Piotrowicz</right>
+        </line>
+        <line>
+            <left style="text_pair">Ksenia Leskovski</left>
+            <right style="text_pair">Laura Costa</right>
+        </line>
+        <line>
+            <left style="text_pair">Lucas Andres Casas</left>
+            <right style="text_pair">Lucile Minard</right>
+        </line>
+        <line>
+            <left style="text_pair">Man Lai Lee</left>
+            <right style="text_pair">Melanie Fuchs</right>
+        </line>
+        <line>
+            <left style="text_pair">Mónica González Alacreu</left>
+            <right style="text_pair">Nico Marusso</right>
+        </line>
+        <line>
+            <left style="text_pair">Nika Hodkevica</left>
+            <right style="text_pair">Ozan Karslioglu</right>
+        </line>
+        <line>
+            <left style="text_pair">Pawel Bryll</left>
+            <right style="text_pair">Pedro L. Ortega</right>
+        </line>
+        <line>
+            <left style="text_pair">Rebeca C. Acco</left>
+            <right style="text_pair">Robert Kaczmarek</right>
+        </line>
+        <line>
+            <left style="text_pair">Sabrina Horstmannshoff</left>
+            <right style="text_pair">Selina Kishore</right>
+        </line>
+        <line>
+            <left style="text_pair">Shi-En Chang</left>
+            <right style="text_pair">Sori Lee</right>
+        </line>
+        <line>
+            <left style="text_pair">Sunay Altair Aksu</left>
+            <right style="text_pair">Tiago de Lima Albuquerque</right>
+        </line>
+        <line>
+            <left style="text_pair">Tianyu Zhou</left>
+            <right style="text_pair">Tinshui Yeung</right>
+        </line>
+        <line>
+            <left style="text_pair">Vanessa Shallcross</left>
+            <right style="text_pair">Wade Kylar Wilde</right>
+        </line>
+    </page>
+    <page>
+        <line style="header">BRAND - CREATIVE</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Andrew Perry</left>
+            <right style="text_pair">Dominic Read</right>
+        </line>
+        <line>
+            <left style="text_pair">Matt Wright</left>
+            <right style="text_pair">Peter Brophy</right>
+        </line>
+        <line>
+            <left style="text_pair">Richard Clement</left>
+            <right style="text_pair">Will White</right>
+        </line>
+    </page>
+    <page>
+        <line style="header">BRAND</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Abbie Dickinson</left>
+            <right style="text_pair">Adam Wilsher</right>
+        </line>
+        <line>
+            <left style="text_pair">Al Bickham</left>
+            <right style="text_pair">Alex Thompson</right>
+        </line>
+        <line>
+            <left style="text_pair">Amanda Cuthbert</left>
+            <right style="text_pair">Ben Boudreau</right>
+        </line>
+        <line>
+            <left style="text_pair">Ben Parfitt</left>
+            <right style="text_pair">Callum Taylor</right>
+        </line>
+        <line>
+            <left style="text_pair">Catrin Jones</left>
+            <right style="text_pair">Chen Ding</right>
+        </line>
+        <line>
+            <left style="text_pair">David Cullum</left>
+            <right style="text_pair">David Halse</right>
+        </line>
+        <line>
+            <left style="text_pair">Davie Andrew</left>
+            <right style="text_pair">Eric Duan</right>
+        </line>
+        <line>
+            <left style="text_pair">Evan Teicheira</left>
+            <right style="text_pair">Grace Clancy</right>
+        </line>
+        <line>
+            <left style="text_pair">Greg Gilbey</left>
+            <right style="text_pair">Harry Boscoe</right>
+        </line>
+        <line>
+            <left style="text_pair">Hristiana Pencheva</left>
+            <right style="text_pair">James Rees</right>
+        </line>
+        <line>
+            <left style="text_pair">Jamie Hurdley</left>
+            <right style="text_pair">Keiran Galaska</right>
+        </line>
+        <line>
+            <left style="text_pair">Kerri West</left>
+            <right style="text_pair">Kevin Taylor</right>
+        </line>
+        <line>
+            <left style="text_pair">Lori Reynolds</left>
+            <right style="text_pair">Mingzhen Li</right>
+        </line>
+        <line>
+            <left style="text_pair">Nathan Wiggett</left>
+            <right style="text_pair">Neil Whelan</right>
+        </line>
+        <line>
+            <left style="text_pair">Niklas Johansson</left>
+            <right style="text_pair">Richard Gittins</right>
+        </line>
+        <line>
+            <left style="text_pair">Rob Harling</left>
+            <right style="text_pair">Spencer Colvin</right>
+        </line>
+        <line>
+            <left style="text_pair">Ste Stanley</left>
+            <right style="text_pair">Thomas Staples</right>
+        </line>
+        <line>
+            <left style="text_pair">William Glynn</left>
+            <right style="text_pair">Yusif Ali</right>
+        </line>
+    </page>
+    <page>
+        <line style="header">BRAND - COMMUNITY &amp; LIVE SERVICE</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Adam Freeman</left>
+            <right style="text_pair">Anastasija Dolgosejeva</right>
+        </line>
+        <line>
+            <left style="text_pair">Konstantin Kovalev</left>
+            <right style="text_pair">Steve Coleman</right>
+        </line>
+    </page>
+    <page>
+        <line style="header">BRAND - INFLUENCERS &amp; PR</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Joshua Williams</left>
+            <right style="text_pair">Kieran Rooney</right>
+        </line>
+    </page>
+    <page>
+        <line style="header">BRAND - PLAYER EXPERIENCE</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Crystal Hall</left>
+            <right style="text_pair">Tom Phillips</right>
+        </line>
+    </page>
+    <page>
+        <line style="header">CORE TECHNOLOGY</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Afiq Yeong</left>
+            <right style="text_pair">Andrew Zimmerman</right>
+        </line>
+        <line>
+            <left style="text_pair">Clover Ross</left>
+            <right style="text_pair">Jack Hardie</right>
+        </line>
+        <line>
+            <left style="text_pair">Mark Ojar</left>
+            <right style="text_pair">Moustafa Raafat</right>
+        </line>
+    </page>
+    <page>
+        <line style="header">FORMOSA INTERACTIVE UK </line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Byron Bullock</left>
+            <right style="text_pair">Cameron Gillies</right>
+        </line>
+        <line>
+            <left style="text_pair">David Philipp</left>
+            <right style="text_pair">Jack Webber</right>
+        </line>
+        <line>
+            <left style="text_pair">Jemma Riley-Tolch</left>
+            <right style="text_pair">Jonathan Bell</right>
+        </line>
+        <line>
+            <left style="text_pair">Kasia Dziekan</left>
+            <right style="text_pair">Matteo Lupieri</right>
+        </line>
+        <line>
+            <left style="text_pair">Thomas De Deyn</left>
+            <right style="text_pair">Valentin Goellner</right>
+        </line>
+    </page>
+    <page>
+        <line style="header">XAC Inc.</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Bo Zhang</left>
+            <right style="text_pair">Carrie Zhou</right>
+        </line>
+        <line>
+            <left style="text_pair">DanDan Zhang</left>
+            <right style="text_pair">DongLai Zhang</right>
+        </line>
+        <line>
+            <left style="text_pair">Ellen Sun</left>
+            <right style="text_pair">Enya Chang</right>
+        </line>
+        <line>
+            <left style="text_pair">Haohsien Hsu</left>
+            <right style="text_pair">HaoZhong You</right>
+        </line>
+        <line>
+            <left style="text_pair">HongBin Du</left>
+            <right style="text_pair">HongYi Liu</right>
+        </line>
+        <line>
+            <left style="text_pair">Hsuan Tsai</left>
+            <right style="text_pair">Hu Liu</right>
+        </line>
+        <line>
+            <left style="text_pair">Hua Fang</left>
+            <right style="text_pair">Huiju Wei</right>
+        </line>
+        <line>
+            <left style="text_pair">Huiwen Liu</left>
+            <right style="text_pair">Jessie Ji</right>
+        </line>
+        <line>
+            <left style="text_pair">Jiaxin Ji</left>
+            <right style="text_pair">JiaXing Chen</right>
+        </line>
+        <line>
+            <left style="text_pair">Jing Wang</left>
+            <right style="text_pair">Jing Zhang</right>
+        </line>
+        <line>
+            <left style="text_pair">John Yeh</left>
+            <right style="text_pair">Kang Yao</right>
+        </line>
+        <line>
+            <left style="text_pair">Ken Huang</left>
+            <right style="text_pair">Kenghao Chang</right>
+        </line>
+        <line>
+            <left style="text_pair">Kiki Wang</left>
+            <right style="text_pair">Lei Mei</right>
+        </line>
+        <line>
+            <left style="text_pair">Liangyin Chou</left>
+            <right style="text_pair">Lillian Lee</right>
+        </line>
+        <line>
+            <left style="text_pair">Ming Juang</left>
+            <right style="text_pair">PeiYu Lin</right>
+        </line>
+        <line>
+            <left style="text_pair">Peiyun Luo</left>
+            <right style="text_pair">Pokai Huang</right>
+        </line>
+        <line>
+            <left style="text_pair">SsuJung Wang</left>
+            <right style="text_pair">Tong Jin</right>
+        </line>
+        <line>
+            <left style="text_pair">TzuChieh Chao</left>
+            <right style="text_pair">Wentao Zhang</right>
+        </line>
+        <line>
+            <left style="text_pair">Xiaofeng Wang</left>
+            <right style="text_pair">Xiaowei Yang</right>
+        </line>
+        <line>
+            <left style="text_pair">YanNi Qiu</left>
+            <right style="text_pair">Yucheng Wang</right>
+        </line>
+        <line>
+            <left style="text_pair">Yuting Tsai</left>
+            <right style="text_pair">ZhiChao Lian</right>
+        </line>
+        <line>
+            <left style="text_pair">ZhongZheng Zhu</left>
+        </line>
+    </page>
+    <page>
+        <line style="header">LAKSHYA</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Abhinandan Ghosh</left>
+            <right style="text_pair">Abhinav Malhotra</right>
+        </line>
+        <line>
+            <left style="text_pair">Abhineet Singh Bhana</left>
+            <right style="text_pair">Adam Frezell</right>
+        </line>
+        <line>
+            <left style="text_pair">Adesh Ankush Sutar</left>
+            <right style="text_pair">Aditya James</right>
+        </line>
+        <line>
+            <left style="text_pair">Aeon Fitzgerald</left>
+            <right style="text_pair">Ajoy Paul</right>
+        </line>
+        <line>
+            <left style="text_pair">Allan Dale Licaros</left>
+            <right style="text_pair">Allen John Germinal</right>
+        </line>
+        <line>
+            <left style="text_pair">Amit Gupta</left>
+            <right style="text_pair">Amol Ramesh Kulkarni</right>
+        </line>
+        <line>
+            <left style="text_pair">Anando Banerjee</left>
+            <right style="text_pair">Aniket Chandrakant Kharamare</right>
+        </line>
+        <line>
+            <left style="text_pair">Aniket Madhukar Agam</left>
+            <right style="text_pair">Aniket Prakash Kumbhar</right>
+        </line>
+        <line>
+            <left style="text_pair">Anirban  Debnath</left>
+            <right style="text_pair">Anirudh Vijay Suryavanshi</right>
+        </line>
+        <line>
+            <left style="text_pair">Ankit Singhal</left>
+            <right style="text_pair">Anshul Kushwaha</right>
+        </line>
+        <line>
+            <left style="text_pair">Anshuman Singh</left>
+            <right style="text_pair">Anupam Thapliyal</right>
+        </line>
+        <line>
+            <left style="text_pair">Appu Laxman Gharale</left>
+            <right style="text_pair">Arjun Agnihotri</right>
+        </line>
+        <line>
+            <left style="text_pair">Arpit  Gaur</left>
+            <right style="text_pair">Arvind  Singh</right>
+        </line>
+        <line>
+            <left style="text_pair">Arvind Kumar Sarswat</left>
+            <right style="text_pair">Ashu Gaba</right>
+        </line>
+        <line>
+            <left style="text_pair">Bhagyashree Subhash Kolekar</left>
+            <right style="text_pair">Bhavneet Singh</right>
+        </line>
+        <line>
+            <left style="text_pair">Bivas  Hira</left>
+            <right style="text_pair">Caritta Antoinette Alonzo Rabat</right>
+        </line>
+        <line>
+            <left style="text_pair">Czarina Loraine Milan</left>
+            <right style="text_pair">Dapinderpal Khair</right>
+        </line>
+        <line>
+            <left style="text_pair">Deepak Kumar Chakardhari</left>
+            <right style="text_pair">Deepak Rai</right>
+        </line>
+        <line>
+            <left style="text_pair">Dhiraj Digamber Nagvekar</left>
+            <right style="text_pair">Dolly Verma</right>
+        </line>
+        <line>
+            <left style="text_pair">Dwijadas Subhashchandra Nayak</left>
+            <right style="text_pair">Garima  Rajput</right>
+        </line>
+        <line>
+            <left style="text_pair">Garima Rajput</left>
+            <right style="text_pair">Gaurav Kant Pawar</right>
+        </line>
+        <line>
+            <left style="text_pair">Gaurav Khatri</left>
+            <right style="text_pair">Gulshan Kumar Nayak</right>
+        </line>
+        <line>
+            <left style="text_pair">Harshit Gaur</left>
+            <right style="text_pair">Harvey Bunda</right>
+        </line>
+        <line>
+            <left style="text_pair">Imran Dilawar</left>
+            <right style="text_pair">Jagpreet Singh</right>
+        </line>
+        <line>
+            <left style="text_pair">Jagriti Sukhpal</left>
+            <right style="text_pair">Jan Ariel Razon</right>
+        </line>
+        <line>
+            <left style="text_pair">John Roberth Regacho</left>
+            <right style="text_pair">Jun Tsujimoto</right>
+        </line>
+        <line>
+            <left style="text_pair">Kamal Singh Bisht</left>
+            <right style="text_pair">Karthik  Jayan</right>
+        </line>
+        <line>
+            <left style="text_pair">Kartik Anil Kambale</left>
+            <right style="text_pair">Ketan Talwar</right>
+        </line>
+        <line>
+            <left style="text_pair">Komal Paswan</left>
+            <right style="text_pair">Krushna Popalghat</right>
+        </line>
+        <line>
+            <left style="text_pair">Kshitiz  Chandra</left>
+            <right style="text_pair">Kshitiz Chandra</right>
+        </line>
+        <line>
+            <left style="text_pair">Kumar Ramchandra Powar</left>
+            <right style="text_pair">Laxmi Verma</right>
+        </line>
+        <line>
+            <left style="text_pair">Lokendra Shekhawat</left>
+            <right style="text_pair">M Sowmya Bharati</right>
+        </line>
+        <line>
+            <left style="text_pair">Madhuri Annaso Kothavale</left>
+            <right style="text_pair">Manish Bhandari</right>
+        </line>
+        <line>
+            <left style="text_pair">Mansi Singh</left>
+            <right style="text_pair">Manvendra Shukul</right>
+        </line>
+        <line>
+            <left style="text_pair">Maury Weiss</left>
+            <right style="text_pair">Mayank Rajpoot</right>
+        </line>
+        <line>
+            <left style="text_pair">Mayur Ashokrao Dhole</left>
+            <right style="text_pair">Mayur Dilip Paste</right>
+        </line>
+        <line>
+            <left style="text_pair">Mintoo</left>
+            <right style="text_pair">Mohammad Asif</right>
+        </line>
+        <line>
+            <left style="text_pair">Mohd Kafil Khan</left>
+            <right style="text_pair">Mohit Bisht</right>
+        </line>
+        <line>
+            <left style="text_pair">Mukund Vasishta</left>
+            <right style="text_pair">Nikki  Kumari</right>
+        </line>
+        <line>
+            <left style="text_pair">Nisha Saxena</left>
+            <right style="text_pair">Nishigandh Apte</right>
+        </line>
+        <line>
+            <left style="text_pair">Nitish Kumar</left>
+            <right style="text_pair">Nitish Pushpjivi</right>
+        </line>
+        <line>
+            <left style="text_pair">Pankaj Pradeep Gawande</left>
+            <right style="text_pair">Pankaj Singh</right>
+        </line>
+        <line>
+            <left style="text_pair">Prashant Katepallewar</left>
+            <right style="text_pair">Prathamesh Keshav Suki</right>
+        </line>
+        <line>
+            <left style="text_pair">Rachit Misra</left>
+            <right style="text_pair">Raghav  Rao</right>
+        </line>
+        <line>
+            <left style="text_pair">Rajesh Harishchandra Koli</left>
+            <right style="text_pair">Raju Patil</right>
+        </line>
+        <line>
+            <left style="text_pair">Rakesh Kumar</left>
+            <right style="text_pair">Ramesh Lore</right>
+        </line>
+        <line>
+            <left style="text_pair">Rheno Ladublan</left>
+            <right style="text_pair">Rob Olson</right>
+        </line>
+        <line>
+            <left style="text_pair">Ruben Nevarez</left>
+            <right style="text_pair">Sagar Taware</right>
+        </line>
+        <line>
+            <left style="text_pair">Samarjit Das</left>
+            <right style="text_pair">Sameer Pinjari</right>
+        </line>
+        <line>
+            <left style="text_pair">Sandeep Saini</left>
+            <right style="text_pair">Sangram Sil</right>
+        </line>
+        <line>
+            <left style="text_pair">Satyabrata Samui</left>
+            <right style="text_pair">Satyendra Kumar Gautam</right>
+        </line>
+        <line>
+            <left style="text_pair">Sharmistha Dey</left>
+            <right style="text_pair">Shishil Kumar Vishwakarma</right>
+        </line>
+        <line>
+            <left style="text_pair">Shruti Paria</left>
+            <right style="text_pair">Shubham</right>
+        </line>
+        <line>
+            <left style="text_pair">Shubham Verma</left>
+            <right style="text_pair">Shuchi  Kumari</right>
+        </line>
+        <line>
+            <left style="text_pair">Siddharth  Rakshit</left>
+            <right style="text_pair">Simbram Das</right>
+        </line>
+        <line>
+            <left style="text_pair">Smitil Vijaykumar Chougule</left>
+            <right style="text_pair">Soham Roy</right>
+        </line>
+        <line>
+            <left style="text_pair">Subham  Sarkar</left>
+            <right style="text_pair">Subham Mondal</right>
+        </line>
+        <line>
+            <left style="text_pair">Suraj Kumar</left>
+            <right style="text_pair">Swapnil Santosh Shetye</right>
+        </line>
+        <line>
+            <left style="text_pair">Swapnil Shetye</left>
+            <right style="text_pair">Tanushree Sharma</right>
+        </line>
+        <line>
+            <left style="text_pair">Terry Maranda</left>
+            <right style="text_pair">Tushar Rajesh Bhavsar</right>
+        </line>
+        <line>
+            <left style="text_pair">Umesh  Mahadeva</left>
+            <right style="text_pair">Uttam Pandurang Lohar</right>
+        </line>
+        <line>
+            <left style="text_pair">Vijay Kumar Sharma</left>
+            <right style="text_pair">Vikas</right>
+        </line>
+        <line>
+            <left style="text_pair">Vikrant</left>
+            <right style="text_pair">Vikrant Bhadani</right>
+        </line>
+    </page>
+    <page>
+        <line style="header">CHASE A CLOUD</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Alexander Nachev</left>
+            <right style="text_pair">Ani Nedyalkova</right>
+        </line>
+        <line>
+            <left style="text_pair">Atanas Filipov</left>
+            <right style="text_pair">Grigor Georgiev</right>
+        </line>
+        <line>
+            <left style="text_pair">Nikolay Uzunov</left>
+            <right style="text_pair">Petar Atanasov</right>
+        </line>
+        <line>
+            <left style="text_pair">Pollyna Vucheva</left>
+            <right style="text_pair">Radostin Stefanov</right>
+        </line>
+        <line>
+            <left style="text_pair">Raya Chicheva</left>
+            <right style="text_pair">Rosi Dimitrova</right>
+        </line>
+        <line>
+            <left style="text_pair">Sava Komitski</left>
+            <right style="text_pair">Simone Torcasio</right>
+        </line>
+        <line>
+            <left style="text_pair">Stanimir Milev</left>
+            <right style="text_pair">Vladislav Lakov</right>
+        </line>
+        <line>
+            <left style="text_pair">Zackery Adame</left>
+            <right style="text_pair">Zhou Xunhan</right>
+        </line>
+    </page>
+    <page>
+        <line style="header">MOLINAIRE</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Chris Norrish</left>
+            <right style="text_pair">Dylan Vadamootoo</right>
+        </line>
+        <line>
+            <left style="text_pair">Emiliyan Arnaudov</left>
+            <right style="text_pair">Max Fader</right>
+        </line>
+    </page>
+    <page>
+        <line style="header">CYAN WOLF FILMS LTD</line>
+        <line style="break">25</line>
+        <line style="text">David Lea</line>
+    </page>
+    <page>
+        <line style="header">AUDIO (EXTERNAL)</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Adam Jones</left>
+            <right style="text_pair">Adam Scrivener</right>
+        </line>
+        <line>
+            <left style="text_pair">Ben Chick</left>
+            <right style="text_pair">Ben Grossman</right>
+        </line>
+        <line>
+            <left style="text_pair">Chloe Lochbaum</left>
+            <right style="text_pair">David Moore</right>
+        </line>
+        <line>
+            <left style="text_pair">Dirk Campbell</left>
+            <right style="text_pair">Dzijan Emin</right>
+        </line>
+        <line>
+            <left style="text_pair">Ed Watkins</left>
+            <right style="text_pair">Emer Barry</right>
+        </line>
+        <line>
+            <left style="text_pair">Four For Music</left>
+            <right style="text_pair">George Lee</right>
+        </line>
+        <line>
+            <left style="text_pair">Guy Schalom</left>
+            <right style="text_pair">Hamed Nikpay</right>
+        </line>
+        <line>
+            <left style="text_pair">Heather Wrighton</left>
+            <right style="text_pair">Ivan Cortes Mora</right>
+        </line>
+        <line>
+            <left style="text_pair">Jamie Christopherson</left>
+            <right style="text_pair">Jerome Watson</right>
+        </line>
+        <line>
+            <left style="text_pair">Jim Fowler</left>
+            <right style="text_pair">Jon Banks</right>
+        </line>
+        <line>
+            <left style="text_pair">Joshua Messick</left>
+            <right style="text_pair">Laszlo Vincze</right>
+        </line>
+        <line>
+            <left style="text_pair">Lewis Hampson</left>
+            <right style="text_pair">Luke French</right>
+        </line>
+        <line>
+            <left style="text_pair">Marvin B. Gordy</left>
+            <right style="text_pair">Matt Constantine</right>
+        </line>
+        <line>
+            <left style="text_pair">Mauricio Vela Sierra</left>
+            <right style="text_pair">Melissa Yildirim</right>
+        </line>
+        <line>
+            <left style="text_pair">MUSA</left>
+            <right style="text_pair">Olga M. Reed</right>
+        </line>
+        <line>
+            <left style="text_pair">Rory O'Shea</left>
+            <right style="text_pair">SIDE UK</right>
+        </line>
+        <line>
+            <left style="text_pair">Tim Wynn</left>
+        </line>
+    </page>
+    <page>
+        <line style="header">LOCALISATION (EXTERNAL)</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">23 Studios</left>
+            <right style="text_pair">Altagram</right>
+        </line>
+        <line>
+            <left style="text_pair">BADA Games</left>
+            <right style="text_pair">Binari Sonori (Keywords)</right>
+        </line>
+        <line>
+            <left style="text_pair">Effective Media</left>
+            <right style="text_pair">GlobalStep</right>
+        </line>
+        <line>
+            <left style="text_pair">Lionbridge</left>
+            <right style="text_pair">Roboto Translation</right>
+        </line>
+        <line>
+            <left style="text_pair">Softclub (Q-loc)</left>
+            <right style="text_pair">The Most Games</right>
+        </line>
+    </page>
+    <page>
+        <line style="header"> GLOBALSTEP</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Adriana Boza Olmedo</left>
+            <right style="text_pair">Alessia Lio</right>
+        </line>
+        <line>
+            <left style="text_pair">Anaïs Gadais</left>
+            <right style="text_pair">Antonio Stasi</right>
+        </line>
+        <line>
+            <left style="text_pair">Borja Sagredo</left>
+            <right style="text_pair">Burcu Olgen</right>
+        </line>
+        <line>
+            <left style="text_pair">Camila Leiva Varas</left>
+            <right style="text_pair">Daniil Vavilin</right>
+        </line>
+        <line>
+            <left style="text_pair">Daria Moshkina</left>
+            <right style="text_pair">Donnie Xiang</right>
+        </line>
+        <line>
+            <left style="text_pair">Eonji Kim</left>
+            <right style="text_pair">Florent Bleser</right>
+        </line>
+        <line>
+            <left style="text_pair">Gyuvin Kim</left>
+            <right style="text_pair">Hamit Sen</right>
+        </line>
+        <line>
+            <left style="text_pair">Hua Yun</left>
+            <right style="text_pair">Ilian Farucci</right>
+        </line>
+        <line>
+            <left style="text_pair">Iryna Volodymyrova</left>
+            <right style="text_pair">Jalil Marquis</right>
+        </line>
+        <line>
+            <left style="text_pair">JuEun Lee</left>
+            <right style="text_pair">Julia Motel</right>
+        </line>
+        <line>
+            <left style="text_pair">Julien Rogeau</left>
+            <right style="text_pair">Kaja Kolar</right>
+        </line>
+        <line>
+            <left style="text_pair">Kateryna Kostiuchenko</left>
+            <right style="text_pair">Kira Wang</right>
+        </line>
+        <line>
+            <left style="text_pair">Larissa Sousa</left>
+            <right style="text_pair">Magdalena Pieniazek</right>
+        </line>
+        <line>
+            <left style="text_pair">Marek Straponček</left>
+            <right style="text_pair">Maria Domagała-Saidi</right>
+        </line>
+        <line>
+            <left style="text_pair">Marie Baud</left>
+            <right style="text_pair">Matthias Bieler</right>
+        </line>
+        <line>
+            <left style="text_pair">Mattia Ferretti</left>
+            <right style="text_pair">Maurizio Cigoli</right>
+        </line>
+        <line>
+            <left style="text_pair">Muriel Pacheco</left>
+            <right style="text_pair">Natalia Milshina</right>
+        </line>
+        <line>
+            <left style="text_pair">Nikolay Grishin</left>
+            <right style="text_pair">Nunzia Vitale</right>
+        </line>
+        <line>
+            <left style="text_pair">Oğuz Kertiş</left>
+            <right style="text_pair">Paulo Fortis</right>
+        </line>
+        <line>
+            <left style="text_pair">Pedro Arango Rodriguez</left>
+            <right style="text_pair">Peter Zhang</right>
+        </line>
+        <line>
+            <left style="text_pair">Roy Chen</left>
+            <right style="text_pair">Sandra Hellenthal</right>
+        </line>
+        <line>
+            <left style="text_pair">Selva Kahya</left>
+            <right style="text_pair">Seokhyun Son</right>
+        </line>
+        <line>
+            <left style="text_pair">Simón Rodicio Cruz</left>
+            <right style="text_pair">Tetiana Tieriekhova</right>
+        </line>
+        <line>
+            <left style="text_pair">Tian Yi Xie</left>
+            <right style="text_pair">Till Lukas Beckmann</right>
+        </line>
+        <line>
+            <left style="text_pair">Titi Gao</left>
+            <right style="text_pair">Yong Kang Ma</right>
+        </line>
+        <line>
+            <left style="text_pair">Zdenek Eisenhammer</left>
+            <right style="text_pair">Ziemowit Szadkowski</right>
+        </line>
+    </page>
+    <page>
+        <line>
+            <right style="text_pair"> </right>
+            <left style="text_pair"> </left>
+        </line>
+        <line>
+            <left style="text_pair"> </left>
+            <right style="text_pair"> </right>
+        </line>
+        <line>
+            <left style="text_pair"> </left>
+            <left style="text_pair"> </left>
+        </line>
+        <line>
+            <right style="text_pair"> </right>
+            <left style="text_pair"> </left>
+        </line>
+        <line>
+            <right style="text_pair"> </right>
+            <right style="text_pair"> </right>
+        </line>
+        <line>
+            <left style="text_pair"> </left>
+            <left style="text_pair"> </left>
+        </line>
+        <line style="header"> NEEMU STUDIO</line>
+        <line style="break">25</line>
+        <line style="text">Mihran Aghuzumtsyan</line>
+    </page>
+    <page>
+        <line style="header">ACTORS</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Adam Diggle</left>
+            <right style="text_pair">Al Doyle</right>
+        </line>
+        <line>
+            <left style="text_pair">Aliona Baranova</left>
+            <right style="text_pair">Andrew Wheildon-Dennis</right>
+        </line>
+        <line>
+            <left style="text_pair">Andrew Wincott</left>
+            <right style="text_pair">Arina Li</right>
+        </line>
+        <line>
+            <left style="text_pair">Arni Larusson</left>
+            <right style="text_pair">Atilla Akinci</right>
+        </line>
+        <line>
+            <left style="text_pair">Atli Gunarsson</left>
+            <right style="text_pair">Avital Lvova</right>
+        </line>
+        <line>
+            <left style="text_pair">Brendan McCoy</left>
+            <right style="text_pair">Clare Corbett</right>
+        </line>
+        <line>
+            <left style="text_pair">Crispin Redman</left>
+            <right style="text_pair">Dan Starkey</right>
+        </line>
+        <line>
+            <left style="text_pair">Dave Jones</left>
+            <right style="text_pair">David Rintoul</right>
+        </line>
+        <line>
+            <left style="text_pair">David Shaw Parker</left>
+            <right style="text_pair">Dean Williamson</right>
+        </line>
+        <line>
+            <left style="text_pair">Donovan Duval</left>
+            <right style="text_pair">Drew Campbell</right>
+        </line>
+        <line>
+            <left style="text_pair">Ewan Bailey</left>
+            <right style="text_pair">Genevieve Gaunt</right>
+        </line>
+        <line>
+            <left style="text_pair">George Coley</left>
+            <right style="text_pair">Giles New</right>
+        </line>
+        <line>
+            <left style="text_pair">Gordon Cooper</left>
+            <right style="text_pair">Grahame Fox</right>
+        </line>
+        <line>
+            <left style="text_pair">Gudmundur Thorvaldsson</left>
+            <right style="text_pair">Ian Drysdale</right>
+        </line>
+        <line>
+            <left style="text_pair">Ian Houghton</left>
+            <right style="text_pair">Islah Abdur-Rahman</right>
+        </line>
+        <line>
+            <left style="text_pair">Jake Everett</left>
+            <right style="text_pair">James Ballanger </right>
+        </line>
+        <line>
+            <left style="text_pair">Jason Wong</left>
+            <right style="text_pair">Jay Britton</right>
+        </line>
+        <line>
+            <left style="text_pair">Jeremy Ang Jones</left>
+            <right style="text_pair">Jo Troy</right>
+        </line>
+        <line>
+            <left style="text_pair">Joe Tandberg</left>
+            <right style="text_pair">Joshua Manning</right>
+        </line>
+        <line>
+            <left style="text_pair">Keith Higinbotham</left>
+            <right style="text_pair">Logan Wong</right>
+        </line>
+        <line>
+            <left style="text_pair">Magnus Bruun</left>
+            <right style="text_pair">Mark Noble</right>
+        </line>
+        <line>
+            <left style="text_pair">Martin Sarreal</left>
+            <right style="text_pair">Mathias Asplund</right>
+        </line>
+        <line>
+            <left style="text_pair">Michael Geary</left>
+            <right style="text_pair">Muzz Khan</right>
+        </line>
+        <line>
+            <left style="text_pair">Nezar Alderazi</left>
+            <right style="text_pair">Nicholas Khan</right>
+        </line>
+        <line>
+            <left style="text_pair">Nigel Boyle</left>
+            <right style="text_pair">Olivia Quinn</right>
+        </line>
+        <line>
+            <left style="text_pair">Paul Bullion</left>
+            <right style="text_pair">Paul Delaross</right>
+        </line>
+        <line>
+            <left style="text_pair">Piotr Baumann</left>
+            <right style="text_pair">Rachid Sabitri</right>
+        </line>
+        <line>
+            <left style="text_pair">Rae Lim</left>
+            <right style="text_pair">Rena Valeh</right>
+        </line>
+        <line>
+            <left style="text_pair">Rich Keeble</left>
+            <right style="text_pair">Richard Crowest</right>
+        </line>
+        <line>
+            <left style="text_pair">Richard Reed</left>
+            <right style="text_pair">Richard Ridings</right>
+        </line>
+        <line>
+            <left style="text_pair">Richard Summers-Calvert</left>
+            <right style="text_pair">Ronak Patani</right>
+        </line>
+        <line>
+            <left style="text_pair">Ryan Laughton</left>
+            <right style="text_pair">Sean Ruttledge</right>
+        </line>
+        <line>
+            <left style="text_pair">Sidsel Rostrup</left>
+            <right style="text_pair">Silas Carson</right>
+        </line>
+        <line>
+            <left style="text_pair">Stephane Cornicard</left>
+            <right style="text_pair">Stewart Scudamore</right>
+        </line>
+        <line>
+            <left style="text_pair">Terry Wilton</left>
+            <right style="text_pair">Thomas Mitchells</right>
+        </line>
+        <line>
+            <left style="text_pair">Thomas Thoroe</left>
+            <right style="text_pair">Tim Treloar</right>
+        </line>
+        <line>
+            <left style="text_pair">Timothy Bentinck</left>
+            <right style="text_pair">Will Harrison-Wallace</right>
+        </line>
+        <line>
+            <left style="text_pair">Zora Bishop</left>
+        </line>
+    </page>
+    <page>
+        <line style="header">ADDITIONAL VOICES</line>
+        <line style="break">25</line>
+        <line>
+            <left style="text_pair">Adam McIntosh</left>
+            <right style="text_pair">Aleksandar Landzhev</right>
+        </line>
+        <line>
+            <left style="text_pair">Alex Tavener</left>
+            <right style="text_pair">Alistair Vince-Brown</right>
+        </line>
+        <line>
+            <left style="text_pair">Alix Coleno</left>
+            <right style="text_pair">Atanas Clarkson</right>
+        </line>
+        <line>
+            <left style="text_pair">Bozhidar Velikov</left>
+            <right style="text_pair">Chris Goldsmith</right>
+        </line>
+        <line>
+            <left style="text_pair">David Considine</left>
+            <right style="text_pair">Dragomir Dimov</right>
+        </line>
+        <line>
+            <left style="text_pair">Drumi Nachev</left>
+            <right style="text_pair">Faidon Tzaidas</right>
+        </line>
+        <line>
+            <left style="text_pair">Gareth Edmondson</left>
+            <right style="text_pair">Gavin Childs</right>
+        </line>
+        <line>
+            <left style="text_pair">Ivaylo Ivanchev</left>
+            <right style="text_pair">Ivo Georgiev</right>
+        </line>
+        <line>
+            <left style="text_pair">James Hosker</left>
+            <right style="text_pair">James Pearson</right>
+        </line>
+        <line>
+            <left style="text_pair">Joe Chetcuti</left>
+            <right style="text_pair">Joe Galbraith</right>
+        </line>
+        <line>
+            <left style="text_pair">John Sutherland</left>
+            <right style="text_pair">Konstantin Dragomanov</right>
+        </line>
+        <line>
+            <left style="text_pair">Lachezar Petrov</left>
+            <right style="text_pair">Martin Mitev</right>
+        </line>
+        <line>
+            <left style="text_pair">Martin Sheyretov</left>
+            <right style="text_pair">Mladen Andonov</right>
+        </line>
+        <line>
+            <left style="text_pair">Momchil Gradinarov</left>
+            <right style="text_pair">Nedelin Gochev</right>
+        </line>
+        <line>
+            <left style="text_pair">Nestor Lichev</left>
+            <right style="text_pair">Nikolay Alamanov</right>
+        </line>
+        <line>
+            <left style="text_pair">Paul Kntyl</left>
+            <right style="text_pair">Pedro Mestre</right>
+        </line>
+        <line>
+            <left style="text_pair">Philip Gradidge</left>
+            <right style="text_pair">Richard Aldridge</right>
+        </line>
+        <line>
+            <left style="text_pair">Roberto Geroli</left>
+            <right style="text_pair">Ross Harrop</right>
+        </line>
+        <line>
+            <left style="text_pair">Sam Papworth</left>
+            <right style="text_pair">Stefan Piperkov</right>
+        </line>
+        <line>
+            <left style="text_pair">Steve Coleman</left>
+            <right style="text_pair">Stoyan Orsov</right>
+        </line>
+        <line>
+            <left style="text_pair">Teodor Kozhukov</left>
+            <right style="text_pair">Teodor Toshev</right>
+        </line>
+        <line>
+            <left style="text_pair">Todor Nikolov</left>
+            <right style="text_pair">Viktor Angelov</right>
+        </line>
+        <line>
+            <left style="text_pair">Will Emmett</left>
+            <right style="text_pair">Yanko Georgiev</right>
+        </line>
+    </page>
+    <page>
+        <line style="header">SPECIAL THANKS</line>
+        <line>
+            <left style="text_pair">Andy</left>
+            <right style="text_pair">Aray The Tyrant</right>
+        </line>
+        <line>
+            <left style="text_pair">Battlesey</left>
+            <right style="text_pair">BBBLuciano77 </right>
+        </line>
+        <line>
+            <left style="text_pair">Ben Nunn</left>
+            <right style="text_pair">Brendan Quinn</right>
+        </line>
+        <line>
+            <left style="text_pair">Cataph</left>
+            <right style="text_pair">Catholic Alcoholic</right>
+        </line>
+        <line>
+            <left style="text_pair">Cody Bonds</left>
+            <right style="text_pair">Colonel Damneders</right>
+        </line>
+        <line>
+            <left style="text_pair">Daniel Brown</left>
+            <right style="text_pair">eLKAi</right>
+        </line>
+        <line>
+            <left style="text_pair">Enticity</left>
+            <right style="text_pair">Fergus Haworth</right>
+        </line>
+        <line>
+            <left style="text_pair">Flying Taco</left>
+            <right style="text_pair">Frazer Cook</right>
+        </line>
+        <line>
+            <left style="text_pair">Furgoth</left>
+            <right style="text_pair">Gabriel Smyk </right>
+        </line>
+        <line>
+            <left style="text_pair">Gareth Howell</left>
+            <right style="text_pair">Gone Gaming</right>
+        </line>
+        <line>
+            <left style="text_pair">Groove Wizard</left>
+            <right style="text_pair">GunGon</right>
+        </line>
+        <line>
+            <left style="text_pair">Harrison Mellor</left>
+            <right style="text_pair">HDS Javi</right>
+        </line>
+        <line>
+            <left style="text_pair">Indypride from milkandcookiesTW</left>
+            <right style="text_pair">Ismael Gutiérrez González</right>
+        </line>
+        <line>
+            <left style="text_pair">Jake Morgan</left>
+            <right style="text_pair">Jerome Jazz Miles Kandekore</right>
+        </line>
+        <line>
+            <left style="text_pair">John M T Dows</left>
+            <right style="text_pair">Joni Lindfors</right>
+        </line>
+        <line>
+            <left style="text_pair">Jordan Travers</left>
+            <right style="text_pair">Kamil Manuszewski</right>
+        </line>
+        <line>
+            <left style="text_pair">Kerry Fox</left>
+            <right style="text_pair">Kevin Schalk</right>
+        </line>
+        <line>
+            <left style="text_pair">Kevin Sennhenn</left>
+            <right style="text_pair">Konstantin Schoenleber</right>
+        </line>
+        <line>
+            <left style="text_pair">LegendofTotalWar</left>
+            <right style="text_pair">Loremaster of Sotek</right>
+        </line>
+        <line>
+            <left style="text_pair">Marthenil</left>
+            <right style="text_pair">Mikko Pirkola</right>
+        </line>
+        <line>
+            <left style="text_pair">Mister Moerp</left>
+            <right style="text_pair">Nanako Alexia Cook</right>
+        </line>
+        <line>
+            <left style="text_pair">Nathan - The Great Book of Grudges</left>
+            <right style="text_pair">Nicholas &quot;Turin&quot; Scolari</right>
+        </line>
+        <line>
+            <left style="text_pair">Okoii</left>
+            <right style="text_pair">Olli Kortelainen</right>
+        </line>
+        <line>
+            <left style="text_pair">Omar Aroche</left>
+            <right style="text_pair">Pascal Schick</right>
+        </line>
+        <line>
+            <left style="text_pair">Rider of Rohan</left>
+            <right style="text_pair">Robert Stevens</right>
+        </line>
+        <line>
+            <left style="text_pair">Ronin</left>
+            <right style="text_pair">Ross Gallacher</right>
+        </line>
+        <line>
+            <left style="text_pair">Samurai Warrior</left>
+            <right style="text_pair">Sebastian Ryan (Sebidee)</right>
+        </line>
+        <line>
+            <left style="text_pair">Shuang Wei Hui Xing</left>
+            <right style="text_pair">Stephan Grzelkowski</right>
+        </line>
+        <line>
+            <left style="text_pair">TEJ</left>
+            <right style="text_pair">Tim Wilder</right>
+        </line>
+        <line>
+            <left style="text_pair">Tim Wilder</left>
+            <right style="text_pair">Todd Finn</right>
+        </line>
+        <line>
+            <left style="text_pair">Twilight Harbinger </left>
+            <right style="text_pair">Viktor Dosev</right>
+        </line>
+        <line>
+            <left style="text_pair">War Game Institute</left>
+            <right style="text_pair">Will Bacius</right>
+        </line>
+        <line>
+            <left style="text_pair">Zerar</left>
+        </line>
+        <line style="break">25</line>
+    </page>
+    <page>
+        <line style="break">100</line>
+        <line style="text">This product uses Simplygon ® . Copyright © - 2017 Donya Labs AB</line>
+        <line style="text">Powered by Wwise (c) 2006 – 2017 Audiokinetic Inc. All rights reserved</line>
+        <line style="image">Wwise_simplygon_logos.png</line>
+    </page>
+</credits>

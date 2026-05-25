@@ -1,0 +1,29 @@
+key	text	tooltip
+#Loc;1;text/db/abilities__.loc		
+abilities_on_screen_description_assist_army	Anh hùng của bạn sẽ gia nhập quân đội trong trận chiến và tăng cường sức mạnh cho lực lượng trên bản đồ chiến dịch.	false
+abilities_on_screen_description_assist_province	Anh hùng của bạn sẽ sử dụng kỹ năng của họ để hỗ trợ hoạt động của tỉnh sở tại.	false
+abilities_on_screen_description_command_force	a	false
+abilities_on_screen_description_hinder_agent	Anh hùng của bạn sẽ thuyết phục anh hùng đối phương gia nhập phe của bạn.	false
+abilities_on_screen_description_hinder_army	Anh hùng của bạn sẽ gây sát thương cho quân đội đối phương hoặc cản trở hiệu quả của họ trên bản đồ chiến dịch.	false
+abilities_on_screen_description_hinder_character	Anh hùng của bạn sẽ ám sát nhân vật đối phương.	false
+abilities_on_screen_description_hinder_province	Anh hùng của bạn sẽ sử dụng kỹ năng của mình để làm giảm hiệu quả hoạt động của tỉnh đối phương.	false
+abilities_on_screen_description_hinder_settlement	Anh hùng của bạn sẽ cản trở hiệu quả của khu định cư đối phương.	false
+abilities_on_screen_description_passive_ability	 	false
+abilities_on_screen_name_assist_army	Điều phái Anh hùng	false
+abilities_on_screen_name_assist_province	Triển khai Anh hùng	false
+abilities_on_screen_name_command_force	 	false
+abilities_on_screen_name_hinder_agent	Thao túng Anh hùng	false
+abilities_on_screen_name_hinder_army	Nhắm mục tiêu Quân đội	false
+abilities_on_screen_name_hinder_character	Ám sát	false
+abilities_on_screen_name_hinder_province	Triển khai Anh hùng	false
+abilities_on_screen_name_hinder_settlement	Nhắm mục tiêu Khu định cư	false
+abilities_on_screen_name_passive_ability	 	false
+abilities_on_screen_target_assist_army	 	false
+abilities_on_screen_target_assist_province	Tỉnh nhà	false
+abilities_on_screen_target_command_force	 	false
+abilities_on_screen_target_hinder_agent	Anh hùng	false
+abilities_on_screen_target_hinder_army	Quân đội	false
+abilities_on_screen_target_hinder_character	Nhân vật	false
+abilities_on_screen_target_hinder_province	Tỉnh nước ngoài	false
+abilities_on_screen_target_hinder_settlement	Khu định cư	false
+abilities_on_screen_target_passive_ability	 	false

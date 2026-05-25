@@ -1,0 +1,280 @@
+key	text	tooltip
+#Loc;1;text/db/achievements__.loc		
+achievements_description_WH3_ACHIEVEMENT_BATTLE_MULTIPLAYER_1	Chơi một trận chiến nhiều người chơi.	false
+achievements_description_WH3_ACHIEVEMENT_BATTLE_MULTIPLAYER_VIRAL	Đánh bại một nhân viên CA hoặc bất kỳ ai khác có thành tựu này trong một trận chiến nhiều người chơi.	false
+achievements_description_WH3_ACHIEVEMENT_BATTLE_OUTNUMBERED	Thắng một trận chiến chiến dịch mà lực lượng của bạn bị áp đảo với tỷ lệ 10 chọi 1.	false
+achievements_description_WH3_ACHIEVEMENT_BATTLE_QUEST	Thực hiện một trận chiến nhiệm vụ.	false
+achievements_description_WH3_ACHIEVEMENT_BATTLE_WINS_10	Thắng 10 trận chiến trong một chiến dịch duy nhất.	false
+achievements_description_WH3_ACHIEVEMENT_BATTLE_WINS_50	Thắng 50 trận chiến trong một chiến dịch duy nhất.	false
+achievements_description_WH3_ACHIEVEMENT_BATTLE_WINS_AMBUSH_5	Thắng 5 trận phục kích trong một chiến dịch duy nhất.	false
+achievements_description_WH3_ACHIEVEMENT_BATTLE_WINS_SIEGE_ATTACK_25	Thắng 25 trận công thành trong một chiến dịch duy nhất.	false
+achievements_description_WH3_ACHIEVEMENT_BORIS_UNLOCK	Chơi phe Kislev, thắng trận chiến nhiệm vụ để giải phóng Boris Ursus.	false
+achievements_description_WH3_ACHIEVEMENT_CATHAY_COMPLETE_CARAVAN	Chơi phe Cathay, hoàn thành hành trình của một Đoàn buôn.	false
+achievements_description_WH3_ACHIEVEMENT_CATHAY_CONSTRUCT_OBSERVATORY	Chơi phe Cathay, xây dựng Đài thiên văn vĩ đại của Xing Po.	false
+achievements_description_WH3_ACHIEVEMENT_CATHAY_OCCUPY_GREAT_BASTION	Chơi phe Cathay, chiếm đóng toàn bộ Đại Trường Thành.	false
+achievements_description_WH3_ACHIEVEMENT_CATHAY_OCCUPY_WEI_JIN	Chơi phe Cathay, chiếm đóng Wei-Jin.	false
+achievements_description_WH3_ACHIEVEMENT_CATHAY_RECRUIT_TERRACOTTA_SENTINEL	Chơi phe Cathay, chiêu mộ một Vệ binh Đất nung vào một trong những đội quân của bạn.	false
+achievements_description_WH3_ACHIEVEMENT_CHARACTERS_ANCILLARIES_MOUNTS_1	Sở hữu một thú cưỡi đặc biệt.	false
+achievements_description_WH3_ACHIEVEMENT_CHARACTERS_ANCILLARIES_MOUNTS_2	Sở hữu 3 thú cưỡi đặc biệt.	false
+achievements_description_WH3_ACHIEVEMENT_CHARACTERS_HERO_LEVEL_1	Sở hữu 1 Anh hùng cấp 10.	false
+achievements_description_WH3_ACHIEVEMENT_CHARACTERS_HERO_LEVEL_2	Sở hữu cùng lúc 2 Anh hùng cấp 20.	false
+achievements_description_WH3_ACHIEVEMENT_CHARACTERS_HERO_LEVEL_3	Sở hữu cùng lúc 3 Anh hùng cấp 30.	false
+achievements_description_WH3_ACHIEVEMENT_CHARACTERS_LORD_LEVEL_1	Sở hữu một Lãnh chúa cấp 10.	false
+achievements_description_WH3_ACHIEVEMENT_CHARACTERS_LORD_LEVEL_2	Sở hữu một Lãnh chúa cấp 20.	false
+achievements_description_WH3_ACHIEVEMENT_CHARACTERS_LORD_LEVEL_3	Sở hữu một Lãnh chúa cấp 30.	false
+achievements_description_WH3_ACHIEVEMENT_COMPLETE_KHORNE_REALM	Đánh bại Hoàng tử Quỷ tại Brass Citadel trong vương quốc của Khorne.	false
+achievements_description_WH3_ACHIEVEMENT_COMPLETE_NURGLE_REALM	Đánh bại Hoàng tử Quỷ tại Mansion of the Plaguelord trong vương quốc của Nurgle.	false
+achievements_description_WH3_ACHIEVEMENT_COMPLETE_SLAANESH_REALM	Đánh bại Hoàng tử Quỷ tại Palace of Slaanesh trong vương quốc của Slaanesh.	false
+achievements_description_WH3_ACHIEVEMENT_COMPLETE_TZEENTCH_REALM	Đánh bại Hoàng tử Quỷ tại Impossible Fortress trong vương quốc của Tzeentch.	false
+achievements_description_WH3_ACHIEVEMENT_CONQUEST_RAZE_SETTLEMENTS_1	San phẳng 1 khu định cư.	false
+achievements_description_WH3_ACHIEVEMENT_CONQUEST_RAZE_SETTLEMENTS_30	San phẳng 30 khu định cư trong một chiến dịch duy nhất.	false
+achievements_description_WH3_ACHIEVEMENT_CONSTRUCT_ALLIED_OUTPOST	Xây dựng một tiền đồn đồng minh tại khu định cư của một đồng minh quân sự.	false
+achievements_description_WH3_ACHIEVEMENT_DAEMON_PRINCE_ASCEND	Chơi phe Hoàng tử Quỷ, thăng hoa theo con đường của một Thần Hỗn mang.	false
+achievements_description_WH3_ACHIEVEMENT_DAEMON_PRINCE_ASCEND_UNDIVIDED	Chơi phe Hoàng tử Quỷ, thăng hoa theo con đường Vô định (Undivided).	false
+achievements_description_WH3_ACHIEVEMENT_DAEMON_PRINCE_GIFTS_15	Chơi phe Hoàng tử Quỷ, mở khóa 15 Quà tặng Quỷ dữ.	false
+achievements_description_WH3_ACHIEVEMENT_DAEMON_PRINCE_GIFTS_5	Chơi phe Hoàng tử Quỷ, mở khóa 5 Quà tặng Quỷ dữ.	false
+achievements_description_WH3_ACHIEVEMENT_DIPLOMACY_CONCURRENT_ALLIANCES_2	Có liên minh quân sự với 5 phe phái khác cùng một lúc.	false
+achievements_description_WH3_ACHIEVEMENT_DIPLOMACY_CONCURRENT_ALLIANCES_3	Có liên minh quân sự với 10 phe phái khác cùng một lúc.	false
+achievements_description_WH3_ACHIEVEMENT_DIPLOMACY_CONCURRENT_TRADE_AGREEMENTS_2	Có hiệp ước thương mại với 5 phe phái khác cùng một lúc.	false
+achievements_description_WH3_ACHIEVEMENT_DIPLOMACY_CONCURRENT_TRADE_AGREEMENTS_3	Có hiệp ước thương mại với 10 phe phái khác cùng một lúc.	false
+achievements_description_WH3_ACHIEVEMENT_ECONOMY_INCOME_GROSS_1	Có tổng thu nhập 5.000 mỗi lượt.	false
+achievements_description_WH3_ACHIEVEMENT_ECONOMY_INCOME_GROSS_2	Có tổng thu nhập 20.000 mỗi lượt.	false
+achievements_description_WH3_ACHIEVEMENT_ECONOMY_INCOME_GROSS_3	Có tổng thu nhập 60.000 mỗi lượt.	false
+achievements_description_WH3_ACHIEVEMENT_ENTER_REALM	Tiến vào Vương quốc Hỗn mang bằng cách sử dụng một Vết nứt (Rift).	false
+achievements_description_WH3_ACHIEVEMENT_KHORNE_BLOODLETTING	Chơi phe Khorne, đạt cấp độ Bloodletting cao nhất với một đội quân.	false
+achievements_description_WH3_ACHIEVEMENT_KHORNE_COLLECT_SKULLS	Chơi phe Khorne, thu thập 10.000 Hộp sọ.	false
+achievements_description_WH3_ACHIEVEMENT_KHORNE_CONSTRUCT_KHADEIUM_PARADOX	Chơi phe Khorne, xây dựng Khadeium Paradox.	false
+achievements_description_WH3_ACHIEVEMENT_KHORNE_RECRUIT_BLOODTHIRSTER	Chơi phe Khorne, chiêu mộ một Bloodthirster vào một trong những đội quân của bạn.	false
+achievements_description_WH3_ACHIEVEMENT_KHORNE_REPLACE_HERALD	Chơi phe Khorne, thay thế một Herald of Khorne bằng một Exalted Bloodthirster.	false
+achievements_description_WH3_ACHIEVEMENT_KISLEV_MOTHERLAND	Chơi phe Kislev, đạt cấp độ hỗ trợ 20 với Ice Court hoặc Orthodoxy.	false
+achievements_description_WH3_ACHIEVEMENT_KISLEV_OCCUPY_3_CITIES	Chơi phe Kislev, chiếm đóng Kislev, Erengrad và Praag.	false
+achievements_description_WH3_ACHIEVEMENT_KISLEV_RECRUIT_ELEMENTAL_BEAR	Chơi phe Kislev, chiêu mộ một Elemental Bear vào một trong những đội quân của bạn.	false
+achievements_description_WH3_ACHIEVEMENT_LOAN_ARMY	Mượn một đội quân từ một đồng minh quân sự.	false
+achievements_description_WH3_ACHIEVEMENT_MP_CAMPAIGN_START	Chơi một chiến dịch nhiều người chơi.	false
+achievements_description_WH3_ACHIEVEMENT_NURGLE_COLLECT_INFECTIONS	Chơi phe Nurgle, thu thập 5.000 Điểm lây nhiễm (Infections).	false
+achievements_description_WH3_ACHIEVEMENT_NURGLE_RECRUIT_GREAT_UNCLEAN_ONE	Chơi phe Nurgle, chiêu mộ một Great Unclean One vào một trong những đội quân của bạn.	false
+achievements_description_WH3_ACHIEVEMENT_NURGLE_REPLACE_HERALD	Chơi phe Nurgle, thay thế một Herald of Nurgle bằng một Exalted Great Unclean One.	false
+achievements_description_WH3_ACHIEVEMENT_NURGLE_SPREAD_PLAGUE	Chơi phe Nurgle, lây lan một Bệnh dịch.	false
+achievements_description_WH3_ACHIEVEMENT_NURGLE_UNLOCK_PLAGUE_INGREDIENTS	Chơi phe Nurgle, sử dụng mỗi Triệu chứng Bệnh dịch ít nhất một lần.	false
+achievements_description_WH3_ACHIEVEMENT_OGRES_CONSTRUCT_THE_FIRE_MOUTH	Chơi phe Vương quốc Ogre, xây dựng Fire Mouth.	false
+achievements_description_WH3_ACHIEVEMENT_OGRES_DEPLOY_CAMPS	Chơi phe Vương quốc Ogre, triển khai 5 doanh trại trong một chiến dịch duy nhất.	false
+achievements_description_WH3_ACHIEVEMENT_OGRES_DESTROY_CARAVAN	Chơi phe Vương quốc Ogre, tiêu diệt một Đoàn buôn thuộc về Cathay.	false
+achievements_description_WH3_ACHIEVEMENT_OGRES_OFFER_TRIBUTE	Chơi phe Vương quốc Ogre, dâng lễ vật Thịt cho Great Maw.	false
+achievements_description_WH3_ACHIEVEMENT_PROLOGUE_ARMY_CAP	Trong phần Mở đầu, lấp đầy đội quân của Yuri bằng các đơn vị.	false
+achievements_description_WH3_ACHIEVEMENT_PROLOGUE_BATTLE_WIN	Trong phần Mở đầu, thắng trận chiến đầu tiên của bạn tại Chaos Wastes.	false
+achievements_description_WH3_ACHIEVEMENT_PROLOGUE_BUILDING_CONSTRUCTION	Trong phần Mở đầu, xây dựng 5 công trình.	false
+achievements_description_WH3_ACHIEVEMENT_PROLOGUE_COMPLETE	Hoàn thành phần Mở đầu.	false
+achievements_description_WH3_ACHIEVEMENT_PROLOGUE_ITEMS	Trong phần Mở đầu, trang bị cho Yuri mọi loại vật phẩm ma thuật.	false
+achievements_description_WH3_ACHIEVEMENT_PROLOGUE_SECOND_GENERAL	Trong phần Mở đầu, chiêu mộ Lãnh chúa thứ hai.	false
+achievements_description_WH3_ACHIEVEMENT_PROLOGUE_SETTLEMENT_CAPTURE	Trong phần Mở đầu, chiếm một khu định cư tại Chaos Wastes.	false
+achievements_description_WH3_ACHIEVEMENT_PROLOGUE_SETTLEMENT_UPGRADE	Trong phần Mở đầu, nâng cấp hoàn toàn một khu định cư.	false
+achievements_description_WH3_ACHIEVEMENT_PROLOGUE_SKILL_POINTS	Trong phần Mở đầu, sử dụng 10 điểm kỹ năng.	false
+achievements_description_WH3_ACHIEVEMENT_SLAANESH_CONSTRUCT_PANDEMOURNIUM	Chơi phe Slaanesh, xây dựng Pandemournium.	false
+achievements_description_WH3_ACHIEVEMENT_SLAANESH_RECRUIT_KEEPER_OF_SECRETS	Chơi phe Slaanesh, chiêu mộ một Keeper of Secrets vào một trong những đội quân của bạn.	false
+achievements_description_WH3_ACHIEVEMENT_SLAANESH_REPLACE_HERALD	Chơi phe Slaanesh, thay thế một Herald of Slaanesh bằng một Exalted Keeper of Secrets.	false
+achievements_description_WH3_ACHIEVEMENT_SLAANESH_SPREAD_GIFT	Chơi phe Slaanesh, lây lan một Quà tặng của Slaanesh.	false
+achievements_description_WH3_ACHIEVEMENT_SLAANESH_SUMMON_DISCIPLE_ARMY	Chơi phe Slaanesh, triệu hồi một Đội quân Môn đồ (Disciple Army).	false
+achievements_description_WH3_ACHIEVEMENT_TZEENTCH_CONSTRUCT_SYMPOSIUM_OF_CHANGE	Chơi phe Tzeentch, xây dựng Symposium of Change.	false
+achievements_description_WH3_ACHIEVEMENT_TZEENTCH_COTW_SETTLEMENT	Chơi phe Tzeentch, nắm quyền kiểm soát một khu định cư thông qua Changing of the Ways.	false
+achievements_description_WH3_ACHIEVEMENT_TZEENTCH_RECRUIT_LORD_OF_CHANGE	Chơi phe Tzeentch, chiêu mộ một Lord of Change vào một trong những đội quân của bạn.	false
+achievements_description_WH3_ACHIEVEMENT_TZEENTCH_REPLACE_HERALD	Chơi phe Tzeentch, thay thế một Herald of Tzeentch bằng một Exalted Lord of Change.	false
+achievements_description_WH3_ACHIEVEMENT_TZEENTCH_UNLOCK_ALL_COTW	Chơi phe Tzeentch, mở khóa tất cả các hành động Changing of the Ways.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_BEASTMEN_1	Chơi phe Beastmen, thắng một chiến dịch chơi đơn.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_BEASTMEN_2	Chơi phe Beastmen, thắng một chiến dịch chơi đơn ở độ khó Rất khó hoặc Truyền thuyết.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_BRETONNIA_1	Chơi phe Bretonnia, thắng một chiến dịch chơi đơn.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_BRETONNIA_2	Chơi phe Bretonnia, thắng một chiến dịch chơi đơn ở độ khó Rất khó hoặc Truyền thuyết.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_CATHAY_1	Chơi phe Cathay, thắng một chiến dịch chơi đơn.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_CATHAY_2	Chơi phe Cathay, thắng một chiến dịch chơi đơn ở độ khó Rất khó hoặc Truyền thuyết.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_CHAOS_1	Chơi phe Warriors of Chaos, thắng một chiến dịch chơi đơn.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_CHAOS_2	Chơi phe Warriors of Chaos, thắng một chiến dịch chơi đơn ở độ khó Rất khó hoặc Truyền thuyết.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_CHAOS_DWARFS_1	Chơi phe Chaos Dwarfs, thắng một chiến dịch chơi đơn.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_CHAOS_DWARFS_2	Chơi phe Chaos Dwarfs, thắng một chiến dịch chơi đơn ở độ khó Rất khó hoặc Truyền thuyết.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_DAEMON_PRINCE_1	Chơi phe Hoàng tử Quỷ, thắng một chiến dịch chơi đơn.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_DAEMON_PRINCE_2	Chơi phe Hoàng tử Quỷ, thắng một chiến dịch chơi đơn ở độ khó Rất khó hoặc Truyền thuyết.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_DARK_ELVES_1	Chơi phe Dark Elves, thắng một chiến dịch chơi đơn.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_DARK_ELVES_2	Chơi phe Dark Elves, thắng một chiến dịch chơi đơn ở độ khó Rất khó hoặc Truyền thuyết.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_DWARFS_1	Chơi phe Dwarfs, thắng một chiến dịch chơi đơn.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_DWARFS_2	Chơi phe Dwarfs, thắng một chiến dịch chơi đơn ở độ khó Rất khó hoặc Truyền thuyết.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_EMPIRE_1	Chơi phe Đế chế (Empire), thắng một chiến dịch chơi đơn.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_EMPIRE_2	Chơi phe Đế chế (Empire), thắng một chiến dịch chơi đơn ở độ khó Rất khó hoặc Truyền thuyết.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_GREENSKINS_1	Chơi phe Greenskins, thắng một chiến dịch chơi đơn.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_GREENSKINS_2	Chơi phe Greenskins, thắng một chiến dịch chơi đơn ở độ khó Rất khó hoặc Truyền thuyết.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_HIGH_ELVES_1	Chơi phe High Elves, thắng một chiến dịch chơi đơn.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_HIGH_ELVES_2	Chơi phe High Elves, thắng một chiến dịch chơi đơn ở độ khó Rất khó hoặc Truyền thuyết.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_KHORNE_1	Chơi phe Khorne, thắng một chiến dịch chơi đơn.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_KHORNE_2	Chơi phe Khorne, thắng một chiến dịch chơi đơn ở độ khó Rất khó hoặc Truyền thuyết.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_KISLEV_1	Chơi phe Kislev, thắng một chiến dịch chơi đơn.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_KISLEV_2	Chơi phe Kislev, thắng một chiến dịch chơi đơn ở độ khó Rất khó hoặc Truyền thuyết.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_LEGENDARY	Thắng một chiến dịch chơi đơn ở độ khó Truyền thuyết.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_LIZARDMEN_1	Chơi phe Lizardmen, thắng một chiến dịch chơi đơn.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_LIZARDMEN_2	Chơi phe Lizardmen, thắng một chiến dịch chơi đơn ở độ khó Rất khó hoặc Truyền thuyết.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_NORSCA_1	Chơi phe Norsca, thắng một chiến dịch chơi đơn.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_NORSCA_2	Chơi phe Norsca, thắng một chiến dịch chơi đơn ở độ khó Rất khó hoặc Truyền thuyết.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_NURGLE_1	Chơi phe Nurgle, thắng một chiến dịch chơi đơn.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_NURGLE_2	Chơi phe Nurgle, thắng một chiến dịch chơi đơn ở độ khó Rất khó hoặc Truyền thuyết.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_OGRES_1	Chơi phe Vương quốc Ogre, thắng một chiến dịch chơi đơn.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_OGRES_2	Chơi phe Vương quốc Ogre, thắng một chiến dịch chơi đơn ở độ khó Rất khó hoặc Truyền thuyết.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_SKAVEN_1	Chơi phe Skaven, thắng một chiến dịch chơi đơn.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_SKAVEN_2	Chơi phe Skaven, thắng một chiến dịch chơi đơn ở độ khó Rất khó hoặc Truyền thuyết.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_SLAANESH_1	Chơi phe Slaanesh, thắng một chiến dịch chơi đơn.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_SLAANESH_2	Chơi phe Slaanesh, thắng một chiến dịch chơi đơn ở độ khó Rất khó hoặc Truyền thuyết.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_TOMB_KINGS_1	Chơi phe Tomb Kings, thắng một chiến dịch chơi đơn.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_TOMB_KINGS_2	Chơi phe Tomb Kings, thắng một chiến dịch chơi đơn ở độ khó Rất khó hoặc Truyền thuyết.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_TZEENTCH_1	Chơi phe Tzeentch, thắng một chiến dịch chơi đơn.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_TZEENTCH_2	Chơi phe Tzeentch, thắng một chiến dịch chơi đơn ở độ khó Rất khó hoặc Truyền thuyết.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_VAMPIRE_COAST_1	Chơi phe Vampire Coast, thắng một chiến dịch chơi đơn.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_VAMPIRE_COAST_2	Chơi phe Vampire Coast, thắng một chiến dịch chơi đơn ở độ khó Rất khó hoặc Truyền thuyết.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_VAMPIRE_COUNTS_1	Chơi phe Vampire Counts, thắng một chiến dịch chơi đơn.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_VAMPIRE_COUNTS_2	Chơi phe Vampire Counts, thắng một chiến dịch chơi đơn ở độ khó Rất khó hoặc Truyền thuyết.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_WOOD_ELVES_1	Chơi phe Wood Elves, thắng một chiến dịch chơi đơn.	false
+achievements_description_WH3_ACHIEVEMENT_WINNING_WOOD_ELVES_2	Chơi phe Wood Elves, thắng một chiến dịch chơi đơn ở độ khó Rất khó hoặc Truyền thuyết.	false
+achievements_description_WH3_PRO10_MOM_ACHIEVEMENT_TRIAL_BRONZE_0	Đạt số điểm 15.000 trong Thử thách Black Fire Pass	false
+achievements_description_WH3_PRO10_MOM_ACHIEVEMENT_TRIAL_BRONZE_1	Đạt số điểm 15.000 trong Thử thách Hel Fenn	false
+achievements_description_WH3_PRO10_MOM_ACHIEVEMENT_TRIAL_BRONZE_2	Đạt số điểm 15.000 trong Thử thách Fallen Gates	false
+achievements_description_WH3_PRO10_MOM_ACHIEVEMENT_TRIAL_BRONZE_3	Đạt số điểm 15.000 trong Thử thách Altar of Ultimate Darkness	false
+achievements_description_WH3_PRO10_MOM_ACHIEVEMENT_TRIAL_BRONZE_4	Đạt số điểm 15.000 trong Thử thách Vương quốc Tzeentch	false
+achievements_description_WH3_PRO10_MOM_ACHIEVEMENT_TRIAL_GOLD_0	Đạt số điểm 50.000 trong Thử thách Black Fire Pass	false
+achievements_description_WH3_PRO10_MOM_ACHIEVEMENT_TRIAL_GOLD_1	Đạt số điểm 50.000 trong Thử thách Hel Fenn	false
+achievements_description_WH3_PRO10_MOM_ACHIEVEMENT_TRIAL_GOLD_2	Đạt số điểm 50.000 trong Thử thách Fallen Gates	false
+achievements_description_WH3_PRO10_MOM_ACHIEVEMENT_TRIAL_GOLD_3	Đạt số điểm 50.000 trong Thử thách Altar of Ultimate Darkness	false
+achievements_description_WH3_PRO10_MOM_ACHIEVEMENT_TRIAL_GOLD_4	Đạt số điểm 50.000 trong Thử thách Vương quốc Tzeentch	false
+achievements_description_WH3_PRO10_MOM_ACHIEVEMENT_TRIAL_PLATINUM_0	Đạt số điểm 100.000 trong tất cả các Thử thách Vận mệnh (Trials of Fate)	false
+achievements_title_WH3_ACHIEVEMENT_BATTLE_MULTIPLAYER_1	Đối thủ Hoạt náo	false
+achievements_title_WH3_ACHIEVEMENT_BATTLE_MULTIPLAYER_VIRAL	Đánh bại Tinh anh	false
+achievements_title_WH3_ACHIEVEMENT_BATTLE_OUTNUMBERED	Xóa tan Nghịch cảnh	false
+achievements_title_WH3_ACHIEVEMENT_BATTLE_QUEST	Nhiệm vụ Thành công	false
+achievements_title_WH3_ACHIEVEMENT_BATTLE_WINS_10	Nghiệp dư Tài năng	false
+achievements_title_WH3_ACHIEVEMENT_BATTLE_WINS_50	Chiến thuật gia Chuyên nghiệp	false
+achievements_title_WH3_ACHIEVEMENT_BATTLE_WINS_AMBUSH_5	Nghệ thuật Bất ngờ	false
+achievements_title_WH3_ACHIEVEMENT_BATTLE_WINS_SIEGE_ATTACK_25	Kẻ Công thành rực lửa	false
+achievements_title_WH3_ACHIEVEMENT_BORIS_UNLOCK	Trận chiến giành Bokha	false
+achievements_title_WH3_ACHIEVEMENT_CATHAY_COMPLETE_CARAVAN	Con đường Làm giàu	false
+achievements_title_WH3_ACHIEVEMENT_CATHAY_CONSTRUCT_OBSERVATORY	Bầu trời phía trên	false
+achievements_title_WH3_ACHIEVEMENT_CATHAY_OCCUPY_GREAT_BASTION	Canh giữ Trường Thành	false
+achievements_title_WH3_ACHIEVEMENT_CATHAY_OCCUPY_WEI_JIN	Bảo vệ Thiên thành	false
+achievements_title_WH3_ACHIEVEMENT_CATHAY_RECRUIT_TERRACOTTA_SENTINEL	Đứng trên vai Người khổng lồ	false
+achievements_title_WH3_ACHIEVEMENT_CHARACTERS_ANCILLARIES_MOUNTS_1	Chiến mã Tuyệt vời	false
+achievements_title_WH3_ACHIEVEMENT_CHARACTERS_ANCILLARIES_MOUNTS_2	Sự xuất sắc được nâng tầm	false
+achievements_title_WH3_ACHIEVEMENT_CHARACTERS_HERO_LEVEL_1	Mũ trắng	false
+achievements_title_WH3_ACHIEVEMENT_CHARACTERS_HERO_LEVEL_2	Trung tâm của Sự xuất sắc	false
+achievements_title_WH3_ACHIEVEMENT_CHARACTERS_HERO_LEVEL_3	Đỉnh cao của lòng dũng cảm	false
+achievements_title_WH3_ACHIEVEMENT_CHARACTERS_LORD_LEVEL_1	Thế lực đang lên	false
+achievements_title_WH3_ACHIEVEMENT_CHARACTERS_LORD_LEVEL_2	Lực lượng thống trị	false
+achievements_title_WH3_ACHIEVEMENT_CHARACTERS_LORD_LEVEL_3	Quý tộc Đỉnh cao	false
+achievements_title_WH3_ACHIEVEMENT_COMPLETE_KHORNE_REALM	Người gác cổng	false
+achievements_title_WH3_ACHIEVEMENT_COMPLETE_NURGLE_REALM	Người làm vườn	false
+achievements_title_WH3_ACHIEVEMENT_COMPLETE_SLAANESH_REALM	Kỹ nữ	false
+achievements_title_WH3_ACHIEVEMENT_COMPLETE_TZEENTCH_REALM	Thủ thư	false
+achievements_title_WH3_ACHIEVEMENT_CONQUEST_RAZE_SETTLEMENTS_1	Phá đổ Tường thành	false
+achievements_title_WH3_ACHIEVEMENT_CONQUEST_RAZE_SETTLEMENTS_30	Thiêu rụi Thế giới	false
+achievements_title_WH3_ACHIEVEMENT_CONSTRUCT_ALLIED_OUTPOST	Vị trí Tiền tiêu	false
+achievements_title_WH3_ACHIEVEMENT_DAEMON_PRINCE_ASCEND	Tín đồ Kiên định nhất	false
+achievements_title_WH3_ACHIEVEMENT_DAEMON_PRINCE_ASCEND_UNDIVIDED	Sức mạnh Thần thánh được ban tặng	false
+achievements_title_WH3_ACHIEVEMENT_DAEMON_PRINCE_GIFTS_15	Lời chúc của sự Thất thường	false
+achievements_title_WH3_ACHIEVEMENT_DAEMON_PRINCE_GIFTS_5	Đặc ân của sự Biến hóa	false
+achievements_title_WH3_ACHIEVEMENT_DIPLOMACY_CONCURRENT_ALLIANCES_2	Lý tưởng chung	false
+achievements_title_WH3_ACHIEVEMENT_DIPLOMACY_CONCURRENT_ALLIANCES_3	Liên minh các Quốc gia	false
+achievements_title_WH3_ACHIEVEMENT_DIPLOMACY_CONCURRENT_TRADE_AGREEMENTS_2	Tiện nghi Thương mại	false
+achievements_title_WH3_ACHIEVEMENT_DIPLOMACY_CONCURRENT_TRADE_AGREEMENTS_3	Quốc gia Thương mại	false
+achievements_title_WH3_ACHIEVEMENT_ECONOMY_INCOME_GROSS_1	Dòng chảy Ổn định	false
+achievements_title_WH3_ACHIEVEMENT_ECONOMY_INCOME_GROSS_2	Giàu có	false
+achievements_title_WH3_ACHIEVEMENT_ECONOMY_INCOME_GROSS_3	Kho bạc tràn trề	false
+achievements_title_WH3_ACHIEVEMENT_ENTER_REALM	Tiến vào Cõi hư vô	false
+achievements_title_WH3_ACHIEVEMENT_KHORNE_BLOODLETTING	Máu phải chảy	false
+achievements_title_WH3_ACHIEVEMENT_KHORNE_COLLECT_SKULLS	Kẻ Thu thập	false
+achievements_title_WH3_ACHIEVEMENT_KHORNE_CONSTRUCT_KHADEIUM_PARADOX	Kẻ hủy diệt Ma thuật	false
+achievements_title_WH3_ACHIEVEMENT_KHORNE_RECRUIT_BLOODTHIRSTER	Máu là Sự sống	false
+achievements_title_WH3_ACHIEVEMENT_KHORNE_REPLACE_HERALD	Tiêm tĩnh mạch	false
+achievements_title_WH3_ACHIEVEMENT_KISLEV_MOTHERLAND	Giáo hội và Nhà nước	false
+achievements_title_WH3_ACHIEVEMENT_KISLEV_OCCUPY_3_CITIES	Giành lại Vị thế	false
+achievements_title_WH3_ACHIEVEMENT_KISLEV_RECRUIT_ELEMENTAL_BEAR	Gấu đồng hành	false
+achievements_title_WH3_ACHIEVEMENT_LOAN_ARMY	Vũ khí được điều động	false
+achievements_title_WH3_ACHIEVEMENT_MP_CAMPAIGN_START	Đối tác Chinh phạt	false
+achievements_title_WH3_ACHIEVEMENT_NURGLE_COLLECT_INFECTIONS	Kẻ tích tụ Bệnh tật	false
+achievements_title_WH3_ACHIEVEMENT_NURGLE_RECRUIT_GREAT_UNCLEAN_ONE	Chúa Ruồi đang đến	false
+achievements_title_WH3_ACHIEVEMENT_NURGLE_REPLACE_HERALD	Thăng chức mưng mủ	false
+achievements_title_WH3_ACHIEVEMENT_NURGLE_SPREAD_PLAGUE	Thiên sứ Bệnh dịch	false
+achievements_title_WH3_ACHIEVEMENT_NURGLE_UNLOCK_PLAGUE_INGREDIENTS	Yếu tố của sự Thối rữa	false
+achievements_title_WH3_ACHIEVEMENT_OGRES_CONSTRUCT_THE_FIRE_MOUTH	Sự hung hãn của Núi lửa	false
+achievements_title_WH3_ACHIEVEMENT_OGRES_DEPLOY_CAMPS	Người xây dựng nóng nảy	false
+achievements_title_WH3_ACHIEVEMENT_OGRES_DESTROY_CARAVAN	Kẻ cướp Thương đoàn	false
+achievements_title_WH3_ACHIEVEMENT_OGRES_OFFER_TRIBUTE	Thực phẩm dâng lễ	false
+achievements_title_WH3_ACHIEVEMENT_PROLOGUE_ARMY_CAP	Hàng ngũ Hoàng gia tăng cường	false
+achievements_title_WH3_ACHIEVEMENT_PROLOGUE_BATTLE_WIN	Một vết thương chí mạng đã giáng xuống	false
+achievements_title_WH3_ACHIEVEMENT_PROLOGUE_BUILDING_CONSTRUCTION	Thiết lập & Tiến bước	false
+achievements_title_WH3_ACHIEVEMENT_PROLOGUE_COMPLETE	Kết thúc của sự Khởi đầu	false
+achievements_title_WH3_ACHIEVEMENT_PROLOGUE_ITEMS	Kho vũ khí Phép thuật	false
+achievements_title_WH3_ACHIEVEMENT_PROLOGUE_SECOND_GENERAL	Hai cái đầu Quý tộc	false
+achievements_title_WH3_ACHIEVEMENT_PROLOGUE_SETTLEMENT_CAPTURE	Kẻ đảo ngược sự Hủy diệt	false
+achievements_title_WH3_ACHIEVEMENT_PROLOGUE_SETTLEMENT_UPGRADE	Những ngọn tháp vươn tới bầu trời	false
+achievements_title_WH3_ACHIEVEMENT_PROLOGUE_SKILL_POINTS	Tự cải thiện	false
+achievements_title_WH3_ACHIEVEMENT_SLAANESH_CONSTRUCT_PANDEMOURNIUM	Kiệt tác Vĩnh cửu	false
+achievements_title_WH3_ACHIEVEMENT_SLAANESH_RECRUIT_KEEPER_OF_SECRETS	Kẻ ăn nỗi sợ	false
+achievements_title_WH3_ACHIEVEMENT_SLAANESH_REPLACE_HERALD	Sự mọng nước được chọn lọc	false
+achievements_title_WH3_ACHIEVEMENT_SLAANESH_SPREAD_GIFT	Kẻ cung cấp sự Sa đọa	false
+achievements_title_WH3_ACHIEVEMENT_SLAANESH_SUMMON_DISCIPLE_ARMY	Quân đội của sự Cám dỗ	false
+achievements_title_WH3_ACHIEVEMENT_TZEENTCH_CONSTRUCT_SYMPOSIUM_OF_CHANGE	Yến tiệc của những Câu đố	false
+achievements_title_WH3_ACHIEVEMENT_TZEENTCH_COTW_SETTLEMENT	Kẻ thao túng Đô thị	false
+achievements_title_WH3_ACHIEVEMENT_TZEENTCH_RECRUIT_LORD_OF_CHANGE	Nỗi kinh hoàng biến dạng	false
+achievements_title_WH3_ACHIEVEMENT_TZEENTCH_REPLACE_HERALD	Thay đổi	false
+achievements_title_WH3_ACHIEVEMENT_TZEENTCH_UNLOCK_ALL_COTW	Đối mặt với sự Kỳ quái	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_BEASTMEN_1	Vương quốc của sự Hủy hoại	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_BEASTMEN_2	Vùng đất đẫm máu, ở khắp mọi nơi!	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_BRETONNIA_1	Người thừa kế của Breton	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_BRETONNIA_2	Thời đại Hiệp sĩ	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_CATHAY_1	Hoàng đế Phương Đông	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_CATHAY_2	Long Đế	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_CHAOS_1	Đứa con ưu tú của Hỗn mang	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_CHAOS_2	Thời đại Tận thế đang đến gần	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_CHAOS_DWARFS_1	Những đứa con của Hashut	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_CHAOS_DWARFS_2	Cỗ máy của sự Hủy diệt	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_DAEMON_PRINCE_1	Mọi linh hồn đã bị sát hại	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_DAEMON_PRINCE_2	Bậc thầy Bóng tối	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_DARK_ELVES_1	Chúa tể kinh hoàng	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_DARK_ELVES_2	Vu vương (Witch King)	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_DWARFS_1	Sự thống trị của Dawi	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_DWARFS_2	Thời đại Phán xét	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_EMPIRE_1	Những người Đế chế Xuất sắc	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_EMPIRE_2	Huyền thoại giữa loài người	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_GREENSKINS_1	Waaagh! Tuyệt nhất!	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_GREENSKINS_2	Waaagh! Vĩ đại nhất từ trước đến nay!	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_HIGH_ELVES_1	Hoàng tử Asur	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_HIGH_ELVES_2	Phượng Hoàng Vương	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_KHORNE_1	Thần Máu	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_KHORNE_2	Kẻ chiến thắng đẫm máu	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_KISLEV_1	Nicator phương Bắc	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_KISLEV_2	Chúa tể vùng Oblast	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_LEGENDARY	Chiến lược gia Truyền thuyết	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_LIZARDMEN_1	Ma pháp Sư-Tư tế Slann	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_LIZARDMEN_2	Cổ Thần (Old One)	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_NORSCA_1	Món đồ chơi của các Tà thần	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_NORSCA_2	Những kẻ cướp bóc bất tử	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_NURGLE_1	Chúa tể của sự Thối rữa	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_NURGLE_2	Kẻ đánh bại suy tàn	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_OGRES_1	Bạo chúa của tất cả	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_OGRES_2	Đại Bạo chúa đáng ghét	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_SKAVEN_1	Lãnh chúa Chiến tranh	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_SKAVEN_2	Lãnh chúa Chuột (Verminlord)	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_SLAANESH_1	Hoàng tử của sự Sa đọa	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_SLAANESH_2	Kẻ chinh phục biến dạng	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_TOMB_KINGS_1	Bước đi như một người Nehekhara	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_TOMB_KINGS_2	Vua của các vị Vua	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_TZEENTCH_1	Kẻ thay đổi con đường	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_TZEENTCH_2	Lãnh chúa Chiến tranh có cánh	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_VAMPIRE_COAST_1	Bậc thầy biển cả	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_VAMPIRE_COAST_2	Một câu chuyện sẽ được kể lại	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_VAMPIRE_COUNTS_1	Lũ cừu chờ bị xẻ thịt	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_VAMPIRE_COUNTS_2	Sự thống trị của thuật Chiêu hồn	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_WOOD_ELVES_1	Mùa của sự Thượng đẳng	false
+achievements_title_WH3_ACHIEVEMENT_WINNING_WOOD_ELVES_2	Thời đại của Cây Sồi Vĩnh cửu	false
+achievements_title_WH3_PRO10_MOM_ACHIEVEMENT_TRIAL_BRONZE_0	Kẻ mưu sát Black Fire	false
+achievements_title_WH3_PRO10_MOM_ACHIEVEMENT_TRIAL_BRONZE_1	Kẻ mưu sát Hel Fenn	false
+achievements_title_WH3_PRO10_MOM_ACHIEVEMENT_TRIAL_BRONZE_2	Kẻ mưu sát Fallen	false
+achievements_title_WH3_PRO10_MOM_ACHIEVEMENT_TRIAL_BRONZE_3	Kẻ mưu sát bóng tối	false
+achievements_title_WH3_PRO10_MOM_ACHIEVEMENT_TRIAL_BRONZE_4	Kẻ mưu sát Tzeentchian	false
+achievements_title_WH3_PRO10_MOM_ACHIEVEMENT_TRIAL_GOLD_0	Bậc thầy Black Fire	false
+achievements_title_WH3_PRO10_MOM_ACHIEVEMENT_TRIAL_GOLD_1	Bậc thầy Hel Fenn	false
+achievements_title_WH3_PRO10_MOM_ACHIEVEMENT_TRIAL_GOLD_2	Bậc thầy Fallen	false
+achievements_title_WH3_PRO10_MOM_ACHIEVEMENT_TRIAL_GOLD_3	Bậc thầy bóng tối	false
+achievements_title_WH3_PRO10_MOM_ACHIEVEMENT_TRIAL_GOLD_4	Bậc thầy Tzeentchian	false
+achievements_title_WH3_PRO10_MOM_ACHIEVEMENT_TRIAL_PLATINUM_0	Bậc thầy tối thượng	false
