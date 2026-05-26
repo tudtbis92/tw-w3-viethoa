@@ -1,0 +1,148 @@
+key	text	tooltip
+#Loc;1;text/db/campaign_interactable_marker_infos__.loc		
+campaign_interactable_marker_infos_name_dragon_marker	Cuộc chạm trán Rồng	false
+campaign_interactable_marker_infos_name_encounter_marker_1	Xác Chết Trên Biển	false
+campaign_interactable_marker_infos_name_encounter_marker_10	Hòn Đảo Bí Ẩn 	false
+campaign_interactable_marker_infos_name_encounter_marker_11	Rạn san hô Đầu Lâu	false
+campaign_interactable_marker_infos_name_encounter_marker_12	Hòn Đảo Bí Ẩn 	false
+campaign_interactable_marker_infos_name_encounter_marker_13	Tàn tích của Trận chiến	false
+campaign_interactable_marker_infos_name_encounter_marker_15	Tàn tích của Trận chiến	false
+campaign_interactable_marker_infos_name_encounter_marker_16	Tàn tích của Trận chiến	false
+campaign_interactable_marker_infos_name_encounter_marker_17	Tàn tích của Trận chiến	false
+campaign_interactable_marker_infos_name_encounter_marker_18	Hòn Đảo Bí Ẩn 	false
+campaign_interactable_marker_infos_name_encounter_marker_19	Tàn tích của Trận chiến	false
+campaign_interactable_marker_infos_name_encounter_marker_2	Xác tàu đắm 	false
+campaign_interactable_marker_infos_name_encounter_marker_20	Tàn tích của Trận chiến	false
+campaign_interactable_marker_infos_name_encounter_marker_21	Tàn tích của Trận chiến	false
+campaign_interactable_marker_infos_name_encounter_marker_22	Tàn tích của Trận chiến	false
+campaign_interactable_marker_infos_name_encounter_marker_23	Hòn Đảo Bí Ẩn 	false
+campaign_interactable_marker_infos_name_encounter_marker_24	Xác Chết Trên Biển	false
+campaign_interactable_marker_infos_name_encounter_marker_25	Xác tàu đắm 	false
+campaign_interactable_marker_infos_name_encounter_marker_26	Xác tàu đắm 	false
+campaign_interactable_marker_infos_name_encounter_marker_27	Xác Chết Trên Biển	false
+campaign_interactable_marker_infos_name_encounter_marker_28	Hàng hóa Chết chóc	false
+campaign_interactable_marker_infos_name_encounter_marker_29	Tàn tích của Trận chiến	false
+campaign_interactable_marker_infos_name_encounter_marker_3	Xác tàu đắm 	false
+campaign_interactable_marker_infos_name_encounter_marker_30	Hàng hóa Chết chóc	false
+campaign_interactable_marker_infos_name_encounter_marker_31	Hàng hóa Chết chóc	false
+campaign_interactable_marker_infos_name_encounter_marker_32	Hòn Đảo Bí Ẩn 	false
+campaign_interactable_marker_infos_name_encounter_marker_4	Xác Chết Trên Biển	false
+campaign_interactable_marker_infos_name_encounter_marker_5	Hàng hóa Chết chóc	false
+campaign_interactable_marker_infos_name_encounter_marker_6	Hàng hóa Chết chóc	false
+campaign_interactable_marker_infos_name_encounter_marker_7	Hàng hóa Chết chóc	false
+campaign_interactable_marker_infos_name_encounter_marker_8	Hàng hóa Chết chóc	false
+campaign_interactable_marker_infos_name_encounter_marker_9	Hòn Đảo Bí Ẩn 	false
+campaign_interactable_marker_infos_name_endgame_vermintide_marker	Sự xáo trộn ở Ubersreik	false
+campaign_interactable_marker_infos_name_food_merchant	Thương nhân Lương thực	false
+campaign_interactable_marker_infos_name_gotrek_marker	Gotrek & Felix	false
+campaign_interactable_marker_infos_name_invasion_marker_1	Cuộc Xâm Lược Sắp Xảy Ra	false
+campaign_interactable_marker_infos_name_invasion_marker_2	Cuộc Xâm Lược Sắp Xảy Ra	false
+campaign_interactable_marker_infos_name_invasion_marker_3	Cuộc Xâm Lược Sắp Xảy Ra	false
+campaign_interactable_marker_infos_name_oxyotl_chaos_mission	Nhiệm vụ Tầm nhìn của các Cựu Thần (Old Ones)	false
+campaign_interactable_marker_infos_name_prologue_marker_1	Thử nghiệm	false
+campaign_interactable_marker_infos_name_tzeentch_poi_marker_dead_king	Đường đến Tàn tích của Vua Chết (Ruins of the Dead King)	false
+campaign_interactable_marker_infos_name_tzeentch_poi_marker_eternity_stair	Đường đến Cầu thang Vĩnh cửu (The Eternity Stair)	false
+campaign_interactable_marker_infos_name_tzeentch_poi_marker_eyrie	Đường đến Tổ đại bàng của Kẻ Canh Gác (The Eyrie of the Watcher)	false
+campaign_interactable_marker_infos_name_tzeentch_poi_marker_heavenward	Đường đến Sảnh đường Hướng Thiên (The Heavenward Halls)	false
+campaign_interactable_marker_infos_name_tzeentch_poi_marker_iron_knight	Đường đến Thành trì của Hiệp sĩ Sắt (Citadel of the Iron Knight)	false
+campaign_interactable_marker_infos_name_tzeentch_poi_marker_liars_monolith	Đường đến Khối đá cự thạch của Kẻ Nói Dối Đích Thực (The True Liar's Monolith)	false
+campaign_interactable_marker_infos_name_wh3_cp1_bhashiva_chaos_narrative_khorne	Đường Lửa (Burning Path)	false
+campaign_interactable_marker_infos_name_wh3_cp1_bhashiva_chaos_narrative_nurgle	Con đường Mục nát (Path of Decay)	false
+campaign_interactable_marker_infos_name_wh3_dlc24_the_changeling_rifts_schemes	Điểm Vết nứt Kẻ Lừa gạt (Trickster Rift Locus)	false
+campaign_interactable_marker_infos_name_wh3_dlc24_the_changeling_rifts_tech	Điểm Vết nứt Kẻ Lừa gạt (Trickster Rift Locus)	false
+campaign_interactable_marker_infos_name_wh3_dlc25_malakai_adventures_battle_chaos_dwarfs	Đội Tuần tra Chaos Dwarfs	false
+campaign_interactable_marker_infos_name_wh3_dlc25_malakai_adventures_battle_greenskins	Nhóm chiến binh Greenskins	false
+campaign_interactable_marker_infos_name_wh3_dlc25_malakai_adventures_battle_high_elves	Đoàn Viễn chinh High Elves	false
+campaign_interactable_marker_infos_name_wh3_dlc25_malakai_adventures_battle_skaven	Lực lượng Skaven	false
+campaign_interactable_marker_infos_name_wh3_dlc25_malakai_adventures_battle_vampire_counts	Quân đội Vampire Counts	false
+campaign_interactable_marker_infos_name_wh3_dlc25_malakai_adventures_battle_wood_elves	Lực lượng Wood Elves	false
+campaign_interactable_marker_infos_name_wh3_dlc25_malakai_adventures_dilemma_caravan_detoured	Tình huống Khó xử Chuyến thương đội Chuyển hướng	false
+campaign_interactable_marker_infos_name_wh3_dlc25_malakai_adventures_dilemma_dwarf_refugees	Tình huống Khó xử của Người tị nạn Dwarfs	false
+campaign_interactable_marker_infos_name_wh3_dlc25_malakai_adventures_dilemma_manling_priorities	Tình huống Khó xử Ưu tiên của Con người	false
+campaign_interactable_marker_infos_name_wh3_dlc25_nemesis_crown_battle_marker	Khu Khai quật Vương miện Nemesis (Nemesis Crown Dig Site)	false
+campaign_interactable_marker_infos_name_wh3_dlc27_monster_arcanum	Bí thuật Quái dị (Monstrous Arcanum)	false
+campaign_interactable_marker_infos_name_wh3_main_kho_machina_daemonium	Đường đến Machina Daemonium	false
+campaign_interactable_marker_infos_name_wh3_main_kho_skull_of_the_first	Đường đến Hộp Sọ của Kẻ Đầu Tiên (Skull of the First)	false
+campaign_interactable_marker_infos_name_wh3_main_kho_skull_pile	Đống Đầu Lâu	false
+campaign_interactable_marker_infos_name_wh3_main_kho_tree_of_souls	Đường đến Cây Linh hồn (Tree of Souls)	false
+campaign_interactable_marker_infos_name_wh3_main_kho_wrathgate	Đường đến Cổng Phẫn nộ (The Wrathgate)	false
+campaign_interactable_marker_infos_name_wh3_main_nur_arghus_the_plague_moon	Đường đến Arghus Mặt Trăng Dịch Bệnh	false
+campaign_interactable_marker_infos_name_wh3_main_nur_lair_of_the_maggot_lord	Đường đến Hang Ổ của Chúa Tể Giòi Bọ (Lair of the Maggot Lord)	false
+campaign_interactable_marker_infos_name_wh3_main_nur_the_great_tree	Đường đến Cây Đại Thụ (The Great Tree)	false
+campaign_interactable_marker_infos_name_wh3_main_nur_the_septic_isle	Đường đến Đảo Nhiễm Trùng (The Septic Isle)	false
+campaign_interactable_marker_infos_name_wh3_main_sla_portal	Cổng Vòng Tròn (Circle Gateway)	false
+campaign_interactable_marker_infos_name_wh3_main_tze_waystone	Điểm Dịch chuyển	false
+campaign_interactable_marker_infos_name_worldroots_encounter	Chạm Trán Trong Rừng	false
+campaign_interactable_marker_infos_tooltip_dragon_marker	Một con Rồng đã được nhìn thấy ở khu vực lân cận! Tiến vào điểm đánh dấu cùng Imrik hoặc bất kỳ [[img:icon_general]][[/img]]Lãnh chúa[[/col]] nào để tìm hiểu thêm.	false
+campaign_interactable_marker_infos_tooltip_encounter_marker_1	Hài cốt của một quái vật biển khổng lồ. [[col:magic]]Có thể tìm kiếm bằng một [[img:icon_general]][[/img]]Lãnh chúa.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_encounter_marker_10	Một hòn đảo chưa được khám phá. [[col:magic]]Có thể tìm kiếm bằng một [[img:icon_general]][[/img]]Lãnh chúa.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_encounter_marker_11	Một rạn san hô chết chóc. [[col:magic]]Có thể tìm kiếm bằng một [[img:icon_general]][[/img]]Lãnh chúa.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_encounter_marker_12	Một hòn đảo chưa được khám phá. [[col:magic]]Có thể tìm kiếm bằng một [[img:icon_general]][[/img]]Lãnh chúa.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_encounter_marker_13	Một chiến trường gần đây. [[col:magic]]Có thể tìm kiếm bằng một [[img:icon_general]][[/img]]Lãnh chúa.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_encounter_marker_15	Một chiến trường gần đây. [[col:magic]]Có thể tìm kiếm bằng một [[img:icon_general]][[/img]]Lãnh chúa.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_encounter_marker_16	Một chiến trường gần đây. [[col:magic]]Có thể tìm kiếm bằng một [[img:icon_general]][[/img]]Lãnh chúa.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_encounter_marker_17	Một chiến trường gần đây. [[col:magic]]Có thể tìm kiếm bằng một [[img:icon_general]][[/img]]Lãnh chúa.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_encounter_marker_18	Một hòn đảo chưa được khám phá. [[col:magic]]Có thể tìm kiếm bằng một [[img:icon_general]][[/img]]Lãnh chúa.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_encounter_marker_19	Một chiến trường gần đây. [[col:magic]]Có thể tìm kiếm bằng một [[img:icon_general]][[/img]]Lãnh chúa.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_encounter_marker_2	Xác bằng gỗ của một con tàu chở kho báu. [[col:magic]]Có thể tìm kiếm bằng một [[img:icon_general]][[/img]]Lãnh chúa.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_encounter_marker_20	Một chiến trường gần đây. [[col:magic]]Có thể tìm kiếm bằng một [[img:icon_general]][[/img]]Lãnh chúa.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_encounter_marker_21	Một chiến trường gần đây. [[col:magic]]Có thể tìm kiếm bằng một [[img:icon_general]][[/img]]Lãnh chúa.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_encounter_marker_22	Một chiến trường gần đây. [[col:magic]]Có thể tìm kiếm bằng một [[img:icon_general]][[/img]]Lãnh chúa.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_encounter_marker_23	Một hòn đảo chưa được khám phá. [[col:magic]]Có thể tìm kiếm bằng một [[img:icon_general]][[/img]]Lãnh chúa.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_encounter_marker_24	Hài cốt của một quái vật biển khổng lồ. [[col:magic]]Có thể tìm kiếm bằng một [[img:icon_general]][[/img]]Lãnh chúa.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_encounter_marker_25	Xác bằng gỗ của một con tàu chở kho báu. [[col:magic]]Có thể tìm kiếm bằng một [[img:icon_general]][[/img]]Lãnh chúa.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_encounter_marker_26	Xác bằng gỗ của một con tàu chở kho báu. [[col:magic]]Có thể tìm kiếm bằng một [[img:icon_general]][[/img]]Lãnh chúa.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_encounter_marker_27	Hài cốt của một quái vật biển khổng lồ. [[col:magic]]Có thể tìm kiếm bằng một [[img:icon_general]][[/img]]Lãnh chúa.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_encounter_marker_28	Xác một chiếc tàu buôn. [[col:magic]]Có thể tìm kiếm bằng một [[img:icon_general]][[/img]]Lãnh chúa.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_encounter_marker_29	Một chiến trường gần đây. [[col:magic]]Có thể tìm kiếm bằng một [[img:icon_general]][[/img]]Lãnh chúa.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_encounter_marker_3	Xác bằng gỗ của một con tàu chở kho báu. [[col:magic]]Có thể tìm kiếm bằng một [[img:icon_general]][[/img]]Lãnh chúa.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_encounter_marker_30	Xác một chiếc tàu buôn. [[col:magic]]Có thể tìm kiếm bằng một [[img:icon_general]][[/img]]Lãnh chúa.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_encounter_marker_31	Xác một chiếc tàu buôn. [[col:magic]]Có thể tìm kiếm bằng một [[img:icon_general]][[/img]]Lãnh chúa.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_encounter_marker_32	Một hòn đảo chưa được khám phá. [[col:magic]]Có thể tìm kiếm bằng một [[img:icon_general]][[/img]]Lãnh chúa.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_encounter_marker_4	Hài cốt của một quái vật biển khổng lồ. [[col:magic]]Có thể tìm kiếm bằng một [[img:icon_general]][[/img]]Lãnh chúa.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_encounter_marker_5	Xác một chiếc tàu buôn. [[col:magic]]Có thể tìm kiếm bằng một [[img:icon_general]][[/img]]Lãnh chúa.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_encounter_marker_6	Xác một chiếc tàu buôn. [[col:magic]]Có thể tìm kiếm bằng một [[img:icon_general]][[/img]]Lãnh chúa.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_encounter_marker_7	Xác một chiếc tàu buôn. [[col:magic]]Có thể tìm kiếm bằng một [[img:icon_general]][[/img]]Lãnh chúa.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_encounter_marker_8	Xác một chiếc tàu buôn. [[col:magic]]Có thể tìm kiếm bằng một [[img:icon_general]][[/img]]Lãnh chúa.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_encounter_marker_9	Một hòn đảo chưa được khám phá. [[col:magic]]Có thể tìm kiếm bằng một [[img:icon_general]][[/img]]Lãnh chúa.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_endgame_vermintide_marker	Một lực lượng địch đang tập trung sức mạnh tại đây. [[col:magic]]Di chuyển lực lượng đến đây để cố gắng giao chiến với kẻ thù.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_food_merchant	Thương nhân Lương thực đã được phát hiện trong khu vực này! Tiến vào điểm đánh dấu cùng bất kỳ nhân vật nào để tương tác với bà ấy.	false
+campaign_interactable_marker_infos_tooltip_gotrek_marker	Gotrek và Felix đã được phát hiện trong khu vực này! Tiến vào điểm đánh dấu trên bản đồ để chiêu mộ họ vào phe phái của bạn.	false
+campaign_interactable_marker_infos_tooltip_invasion_marker_1	An enemy force is gathering strength here and will appear on the [[col:red]]next turn.[[/col]] [[col:magic]]Move a force here to attempt to ambush the foe – even if you are defeated, they may be prevented from reaching full strength.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_invasion_marker_2	An enemy force is gathering strength here and will appear in [[col:red]]2 turns.[[/col]] [[col:magic]]Move a force here to attempt to ambush the foe – even if you are defeated, they may be prevented from reaching full strength.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_invasion_marker_3	An enemy force is gathering strength here and will appear in [[col:red]]3 turns.[[/col]] [[col:magic]]Move a force here to attempt to ambush the foe – even if you are defeated, they may be prevented from reaching full strength.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_oxyotl_chaos_mission	Một tội ác được báo trước sắp được thực hiện tại đây! Tiến vào điểm đánh dấu cùng Oxyotl hoặc bất kỳ [[img:icon_general]][[/img]]Lãnh chúa[[/col]] nào để phục kích những kẻ thủ ác.	false
+campaign_interactable_marker_infos_tooltip_prologue_marker_1	Thử nghiệm	false
+campaign_interactable_marker_infos_tooltip_tzeentch_poi_marker_dead_king	[[col:magic]]Di chuyển [[img:icon_general]][[/img]]Lãnh chúa của bạn đến đây và bạn có thể nhận được một ân huệ từ Pháp sư Vĩ đại.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_tzeentch_poi_marker_eternity_stair	[[col:magic]]Di chuyển [[img:icon_general]][[/img]]Lãnh chúa của bạn đến đây và bạn có thể nhận được một ân huệ từ Pháp sư Vĩ đại.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_tzeentch_poi_marker_eyrie	[[col:magic]]Di chuyển [[img:icon_general]][[/img]]Lãnh chúa của bạn đến đây và bạn có thể nhận được một ân huệ từ Pháp sư Vĩ đại.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_tzeentch_poi_marker_heavenward	[[col:magic]]Di chuyển [[img:icon_general]][[/img]]Lãnh chúa của bạn đến đây và bạn có thể nhận được một ân huệ từ Pháp sư Vĩ đại.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_tzeentch_poi_marker_iron_knight	[[col:magic]]Di chuyển [[img:icon_general]][[/img]]Lãnh chúa của bạn đến đây và bạn có thể nhận được một ân huệ từ Pháp sư Vĩ đại.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_tzeentch_poi_marker_liars_monolith	[[col:magic]]Di chuyển [[img:icon_general]][[/img]]Lãnh chúa của bạn đến đây và bạn có thể nhận được một ân huệ từ Pháp sư Vĩ đại.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_wh3_cp1_bhashiva_chaos_narrative_khorne	A Khornate force draws near!\\n\\nIntercept its armies before they gain momentum.	false
+campaign_interactable_marker_infos_tooltip_wh3_cp1_bhashiva_chaos_narrative_nurgle	A Nurgle force draws near!\\n\\nIntercept its armies before they gain momentum.	false
+campaign_interactable_marker_infos_tooltip_wh3_dlc24_the_changeling_rifts_schemes	A site with strong latent magical energy.\\n[[col:magic]]This [[img:icon_rift_gems]][[/img]]Trickster Rift can be opened by completing the Sylvanian Rift scheme.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_wh3_dlc24_the_changeling_rifts_tech	A site with strong latent magical energy.\\n[[col:magic]]This [[img:icon_rift_gems]][[/img]]Trickster Rift can be opened by researching a technology.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_wh3_dlc25_malakai_adventures_battle_chaos_dwarfs	Một đội tuần tra Chaos Dwarfs đã được nhìn thấy tại địa điểm này	false
+campaign_interactable_marker_infos_tooltip_wh3_dlc25_malakai_adventures_battle_greenskins	Một nhóm chiến binh Goblin của Greenskins đã được nhìn thấy tại địa điểm này	false
+campaign_interactable_marker_infos_tooltip_wh3_dlc25_malakai_adventures_battle_high_elves	Một cuộc viễn chinh của High Elves đã được nhìn thấy tại địa điểm này	false
+campaign_interactable_marker_infos_tooltip_wh3_dlc25_malakai_adventures_battle_skaven	Một lực lượng Skaven đã được nhìn thấy tại địa điểm này	false
+campaign_interactable_marker_infos_tooltip_wh3_dlc25_malakai_adventures_battle_vampire_counts	Một đội quân Vampire Counts đã được nhìn thấy tại địa điểm này	false
+campaign_interactable_marker_infos_tooltip_wh3_dlc25_malakai_adventures_battle_wood_elves	Một lực lượng Wood Elves đã được nhìn thấy tại địa điểm này	false
+campaign_interactable_marker_infos_tooltip_wh3_dlc25_malakai_adventures_dilemma_caravan_detoured	Bắt đầu Tình huống khó xử Chuyến thương đội Chuyển hướng khi bạn tiến vào địa điểm này	false
+campaign_interactable_marker_infos_tooltip_wh3_dlc25_malakai_adventures_dilemma_dwarf_refugees	Bắt đầu Tình huống khó xử Người tị nạn Dwarfs khi bạn tiến vào địa điểm này	false
+campaign_interactable_marker_infos_tooltip_wh3_dlc25_malakai_adventures_dilemma_manling_priorities	Bắt đầu Tình huống khó xử Ưu tiên của Con người khi bạn tiến vào địa điểm này	false
+campaign_interactable_marker_infos_tooltip_wh3_dlc25_nemesis_crown_battle_marker	Những tiếng thì thầm từ Vương miện phát ra từ địa điểm này. [[col:magic]]Di chuyển [[img:icon_general]][[/img]]Lãnh chúa của bạn đến đây để tấn công bầy sinh vật tồi tệ đã chiếm đoạt nó![[/col]]	false
+campaign_interactable_marker_infos_tooltip_wh3_dlc27_monster_arcanum	[[col:magic]]Di chuyển [[img:icon_general]][[/img]]Lãnh chúa của bạn đến đây để săn lùng một con quái vật! Bạn sẽ có thể chiến đấu với nó hoặc tìm thấy manh mối về nơi ở của nó.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_wh3_main_kho_machina_daemonium	[[col:magic]]Di chuyển [[img:icon_general]][[/img]]Lãnh chúa của bạn đến đây và bạn sẽ nhận được một vũ khí của Huyết Thần.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_wh3_main_kho_skull_of_the_first	[[col:magic]]Di chuyển [[img:icon_general]][[/img]]Lãnh chúa của bạn đến đây và bạn sẽ nhận được một vũ khí của Huyết Thần.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_wh3_main_kho_skull_pile	Một đống đầu lâu khổng lồ, tàn tích của một trận chiến gần đây. [[col:magic]]Chúng có thể được thu thập bởi một [[img:icon_general]][[/img]]Lãnh chúa hoặc [[img:icon_hero]][[/img]]Anh hùng phe Khorne.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_wh3_main_kho_tree_of_souls	[[col:magic]]Di chuyển [[img:icon_general]][[/img]]Lãnh chúa của bạn đến đây và bạn sẽ nhận được một vũ khí của Huyết Thần.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_wh3_main_kho_wrathgate	[[col:magic]]Di chuyển [[img:icon_general]][[/img]]Lãnh chúa của bạn đến đây và bạn sẽ nhận được một vũ khí của Huyết Thần.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_wh3_main_nur_arghus_the_plague_moon	[[col:magic]]Di chuyển [[img:icon_general]][[/img]]Lãnh chúa của bạn đến đây và bạn sẽ nhận được một món quà từ Bố già Dịch bệnh (Plaguefather).[[/col]]	false
+campaign_interactable_marker_infos_tooltip_wh3_main_nur_lair_of_the_maggot_lord	[[col:magic]]Di chuyển [[img:icon_general]][[/img]]Lãnh chúa của bạn đến đây và bạn sẽ nhận được một món quà từ Bố già Dịch bệnh (Plaguefather).[[/col]]	false
+campaign_interactable_marker_infos_tooltip_wh3_main_nur_the_great_tree	[[col:magic]]Di chuyển [[img:icon_general]][[/img]]Lãnh chúa của bạn đến đây và bạn sẽ nhận được một món quà từ Bố già Dịch bệnh (Plaguefather).[[/col]]	false
+campaign_interactable_marker_infos_tooltip_wh3_main_nur_the_septic_isle	[[col:magic]]Di chuyển [[img:icon_general]][[/img]]Lãnh chúa của bạn đến đây và bạn sẽ nhận được một món quà từ Bố già Dịch bệnh (Plaguefather).[[/col]]	false
+campaign_interactable_marker_infos_tooltip_wh3_main_sla_portal	[[col:magic]]Di chuyển [[img:icon_general]][[/img]]Lãnh chúa của bạn vào Cổng Vòng Tròn (Circle Gateway) để đi xuống vòng tiếp theo.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_wh3_main_tze_waystone	[[col:magic]]Di chuyển [[img:icon_general]][[/img]]Lãnh chúa của bạn vào Điểm Dịch chuyển (Teleport Locus) để dịch chuyển đến một hòn đảo nổi khác.[[/col]]	false
+campaign_interactable_marker_infos_tooltip_worldroots_encounter	Một mối đe dọa đối với Rễ Thế Giới đã được xác định tại đây. [[col:magic]]Việc giải quyết cuộc chạm trán này sẽ cải thiện [[img:forest_health]][[/img]]sức khỏe của khu rừng địa phương.[[/col]]	false

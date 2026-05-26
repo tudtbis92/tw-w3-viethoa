@@ -1,0 +1,11 @@
+key	text	tooltip
+#Loc;1;text/db/campaign_factorial_ui_infos__.loc		
+campaign_factorial_ui_infos_effect_text_buildings	Khả năng Khám phá:	false
+campaign_factorial_ui_infos_effect_text_buildings_settlement	Khả năng Khám phá Giáo phái Hỗn mang, Thành phố Ngầm Skaven, Giáo phái Kẻ Lừa gạt & Sự Phản trắc:	false
+campaign_factorial_ui_infos_effect_text_characters	Khả năng Khám phá:	false
+campaign_factorial_ui_infos_negative_name_buildings	Các Công trình	false
+campaign_factorial_ui_infos_negative_name_buildings_settlement	Khu định cư	false
+campaign_factorial_ui_infos_negative_name_characters	Các Nhân vật	false
+campaign_factorial_ui_infos_positive_name_buildings	Các Công trình	false
+campaign_factorial_ui_infos_positive_name_buildings_settlement	Khu định cư	false
+campaign_factorial_ui_infos_positive_name_characters	Các Nhân vật	false

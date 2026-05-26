@@ -1,0 +1,8 @@
+key	text	tooltip
+#Loc;1;text/db/campaign_border_display_modes__.loc		
+campaign_border_display_modes_description_EXT_FACTIONS_INT_PROVINCES	Hiển thị các đường viền dày khi quyền sở hữu thay đổi và các đường viền mỏng hơn ở ranh giới tỉnh	false
+campaign_border_display_modes_description_EXT_FACTIONS_INT_REGIONS	Hiển thị các đường viền dày khi quyền sở hữu thay đổi và các đường viền mỏng hơn ở ranh giới khu vực nội bộ	false
+campaign_border_display_modes_description_EXT_PROVINCES_INT_REGIONS	Hiển thị các đường viền dày ở ranh giới tỉnh và các đường viền mỏng hơn ở ranh giới khu vực nội bộ	false
+campaign_border_display_modes_name_EXT_FACTIONS_INT_PROVINCES	Quyền sở hữu & Tỉnh	false
+campaign_border_display_modes_name_EXT_FACTIONS_INT_REGIONS	Quyền sở hữu & Khu vực	false
+campaign_border_display_modes_name_EXT_PROVINCES_INT_REGIONS	Tỉnh & Khu vực	false

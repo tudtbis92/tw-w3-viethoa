@@ -43,9 +43,20 @@
 | building_sets__.loc.tsv | 560 | 560 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (560/560). |
 | building_short_description_texts__.loc.tsv | 3297 | 3297 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (3297/3297). |
 | campaign_areas_of_interest__.loc.tsv | 118 | 118 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (118/118). |
-| ... (230 tables khác) | - | 0 | Not Started | 0% | Sẽ cập nhật khi bắt đầu dịch |
+| campaign_border_display_modes__.loc.tsv | 6 | 6 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (6/6). |
+| campaign_companion_army_details__.loc.tsv | 2 | 2 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (2/2). |
+| campaign_decision_choices__.loc.tsv | 52 | 52 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (52/52). |
+| campaign_decisions__.loc.tsv | 26 | 26 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (26/26). |
+| campaign_effect_scope_categories__.loc.tsv | 8 | 8 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (8/8). |
+| campaign_effect_scopes__.loc.tsv | 432 | 432 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (432/432). |
+| campaign_factorial_ui_infos__.loc.tsv | 9 | 9 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (9/9). |
+| campaign_ground_types__.loc.tsv | 21 | 21 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (21/21). |
+| campaign_group_ritual_chains__.loc.tsv | 91 | 91 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (91/91). Chứa toàn placeholder/empty. |
+| campaign_group_rituals__.loc.tsv | 1275 | 1275 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (1275/1275). |
+| campaign_interactable_marker_infos__.loc.tsv | 146 | 146 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (146/146). |
+| ... (219 tables khác) | - | 0 | Not Started | 0% | Sẽ cập nhật khi bắt đầu dịch |
 ---
-*Cập nhật lần cuối: 2026-05-26 (20:03 ICT)*
+*Cập nhật lần cuối: 2026-05-26 (20:30 ICT)*
 *Quy tắc an toàn: Cập nhật ngay sau mỗi table hoặc mỗi 100 dòng dịch.*
 *Xem các quy tắc dịch đặc biệt tại: GEMINI.md (Section 4)*
 
