@@ -16,7 +16,7 @@ Tài liệu này quy định quy trình làm việc bắt buộc cho Agent khi t
 - Khi dịch một file từ `text_origin/`, kết quả phải được lưu vào đường dẫn tương ứng trong `text_translated/`.
 - **Quy trình dịch (Bắt buộc cho mọi file):** Mọi file translation **bắt buộc** phải xử lý theo các bước sau:
     1. Chạy script `split_tsv.py <path_to_origin_tsv>` để chia file gốc thành các file chunk lưu trực tiếp trong thư mục `chunks/` theo định dạng `filename_chunk_x.tsv` (mỗi file 200 key).
-    2. Dịch lần lượt từng file chunk. Kết quả dịch của mỗi chunk phải được lưu thành `filename_chunk_translated_x.tsv` trong cùng thư mục `chunks/`.
+    2. Spawn sub-agent dịch song song các file chunk. Kết quả dịch của mỗi chunk phải được lưu thành `filename_chunk_translated_x.tsv` trong cùng thư mục `chunks/`.
     3. Cập nhật `PROGRESS.md` sau khi hoàn thành mỗi chunk.
     4. Sau khi dịch xong toàn bộ các chunk, chạy script `merge_chunks.py <filename>` để nối các file chunk đã dịch thành file kết quả cuối cùng trong `text_translated/`. Script này cũng sẽ thực hiện xóa bỏ các file chunk (gốc và dịch) sau khi hoàn tất.
     5. Thực hiện so sánh số lượng key giữa file kết quả và file gốc để đảm bảo tính toàn vẹn.
