@@ -60,7 +60,11 @@
 | campaign_group_rituals__.loc.tsv | 1275 | 1275 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (1275/1275). |
 | campaign_interactable_marker_infos__.loc.tsv | 146 | 146 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (146/146). |
 | campaign_localised_strings__.loc.tsv | 2264 | 2264 | Done | 100% | Đã chia 12 chunk và dùng subagents dịch song song. Dịch xong toàn bộ file và kiểm tra số lượng key khớp (2264/2264). |
-| ... (218 tables khác) | - | 0 | Not Started | 0% | Sẽ cập nhật khi bắt đầu dịch |
+| campaign_map_attritions__.loc.tsv | 174 | 174 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (174/174). |
+| campaign_map_playable_areas__.loc.tsv | 20 | 20 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (20/20). |
+| campaign_map_tooltip_texts__.loc.tsv | 91 | 91 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (91/91). |
+| campaign_map_winds_of_magic_areas__.loc.tsv | 299 | 299 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (299/299). |
+| ... (214 tables khác) | - | 0 | Not Started | 0% | Sẽ cập nhật khi bắt đầu dịch |
 ---
 *Cập nhật lần cuối: 2026-05-26 (21:05 ICT)*
 *Quy tắc an toàn: Cập nhật ngay sau mỗi table hoặc mỗi 100 dòng dịch.*
