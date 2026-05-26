@@ -1,0 +1,88 @@
+key	text	tooltip
+#Loc;1;text/db/battle_ui_cheatsheet_items__.loc		
+battle_ui_cheatsheet_items_description_text_ambush_escape_zone	Khi ở trong vùng này, các đơn vị phòng thủ có thể rút lui thông qua nút rút lui, trong trường hợp đó họ sẽ sống sót sau trận chiến.	false
+battle_ui_cheatsheet_items_description_text_ambush_objectives	[[col:fe_white]]Kẻ tấn công[[/col]]\\nKẻ tấn công phải tiêu diệt hoặc đánh bại toàn bộ đơn vị địch trước khi hết thời gian.\\n\\n[[col:fe_white]]Người phòng thủ[[/col]]\\nNgười phòng thủ phải rút lui thành công các đơn vị qua vùng thoát hiểm, hoặc tiêu diệt hay đánh bại toàn bộ đơn vị địch trước khi hết thời gian, hoặc vẫn còn đơn vị hiện diện và không tháo chạy vào thời điểm đó.	false
+battle_ui_cheatsheet_items_description_text_conquest_balance_of_power_bar	Hiển thị sức mạnh hiện tại của hai lực lượng so với nhau.	false
+battle_ui_cheatsheet_items_description_text_conquest_capture_points_and_tickets	Chiếm giữ các điểm chiếm đóng sẽ tạo ra một số vé chiến thắng mỗi giây.	false
+battle_ui_cheatsheet_items_description_text_conquest_objectives	Tiêu diệt hoặc đánh bại toàn bộ đơn vị địch trước khi hết thời gian hoặc đạt 500 vé chiến thắng bằng cách chiếm các điểm chiếm đóng.	false
+battle_ui_cheatsheet_items_description_text_domination_capture_points_and_tickets	Chiếm giữ các điểm chiếm đóng sẽ tạo ra một số vé chiến thắng mỗi giây. Chiếm nhiều điểm chiếm đóng hơn để tăng thu nhập vé chiến thắng.	false
+battle_ui_cheatsheet_items_description_text_domination_objectives	Đạt 1500 vé chiến thắng bằng cách chiếm các điểm chiếm đóng.	false
+battle_ui_cheatsheet_items_description_text_domination_reinforcements	Chi tiêu tiếp tế để gọi thêm các đơn vị mà bạn đã chọn trước trận chiến.	false
+battle_ui_cheatsheet_items_description_text_domination_supplies	Nhận thêm tiếp tế bằng cách gây sát thương. Liên minh đang thua nhận được tiếp tế bổ sung. Sử dụng tiếp tế để gọi viện binh.	false
+battle_ui_cheatsheet_items_description_text_domination_teleport	Các đơn vị bị tổn thất nặng nề có thể được dịch chuyển khỏi trận chiến và sẽ phục hồi trong kho viện binh.	false
+battle_ui_cheatsheet_items_description_text_land_battle_abilities	Các nút này kiểm soát mọi kỹ năng của đơn vị được chọn.	false
+battle_ui_cheatsheet_items_description_text_land_battle_army_abilities	Mọi kỹ năng quân đội sẽ xuất hiện ở đây khi có sẵn. Nhấp vào để kích hoạt.	false
+battle_ui_cheatsheet_items_description_text_land_battle_balance_of_power_bar	Hiển thị sức mạnh hiện tại của hai lực lượng so với nhau.	false
+battle_ui_cheatsheet_items_description_text_land_battle_magic	Chọn một phép thuật để thi triển, hoặc xem lượng Gió Ma Thuật đang dự trữ hay hiện có để sử dụng.	false
+battle_ui_cheatsheet_items_description_text_land_battle_objectives	[[col:fe_white]]Kẻ tấn công[[/col]]\\nKẻ tấn công phải tiêu diệt hoặc đánh bại toàn bộ đơn vị địch trước khi hết thời gian.\\n\\n[[col:fe_white]]Người phòng thủ[[/col]]\\nNgười phòng thủ phải tiêu diệt hoặc đánh bại toàn bộ đơn vị địch trước khi hết thời gian, hoặc vẫn còn đơn vị hiện diện và không tháo chạy vào thời điểm đó.  	false
+battle_ui_cheatsheet_items_description_text_land_battle_reinforcements	Hiển thị vị trí mà viện binh sẽ gia nhập trận chiến. Di chuột qua để xem thêm thông tin.	false
+battle_ui_cheatsheet_items_description_text_land_battle_time_limit_and_controls	Các nút này kiểm soát dòng chảy thời gian trong trận chiến.	false
+battle_ui_cheatsheet_items_description_text_land_battle_unit_banners	[[col:fe_white]]Máu[[/col]]\\n\\n[[col:fe_white]]Tinh thần[[/col]]\\n\\n[[col:fe_white]]Đạn dược[[/col]]\\n\\n[[col:fe_white]]Biểu tượng trạng thái[[/col]]\\nCác biểu tượng khác nhau thể hiện trạng thái của một đơn vị. Di chuột qua để xem thêm thông tin.	false
+battle_ui_cheatsheet_items_description_text_land_battle_unit_buttons	Các nút này kiểm soát nhiều khía cạnh hành vi của đơn vị hoặc các đơn vị được chọn. Di chuột qua từng nút để xem thêm thông tin.	false
+battle_ui_cheatsheet_items_description_text_minor_settlement_capture_points	Có thể chiếm bằng cách đặt các đơn vị trong vùng chiếm đóng. 	false
+battle_ui_cheatsheet_items_description_text_minor_settlement_deployables	Mỗi điểm chiếm đóng kiểm soát thêm các vị trí mà người phòng thủ có thể xây tháp và chướng ngại vật.	false
+battle_ui_cheatsheet_items_description_text_minor_settlement_objectives	[[col:fe_white]]Kẻ tấn công[[/col]]\\nKẻ tấn công phải tiêu diệt hoặc đánh bại toàn bộ đơn vị địch trước khi hết thời gian.\\n\\n[[col:fe_white]]Người phòng thủ[[/col]]\\nNgười phòng thủ phải tiêu diệt hoặc đánh bại toàn bộ đơn vị địch trước khi hết thời gian, hoặc vẫn còn đơn vị hiện diện và không tháo chạy vào thời điểm đó.  	false
+battle_ui_cheatsheet_items_description_text_minor_settlement_supplies	Người phòng thủ có thể sử dụng những thứ này để xây tháp và chướng ngại vật trên các ô trống có sẵn.	false
+battle_ui_cheatsheet_items_description_text_siege_capture_points	Có thể chiếm bằng cách đặt các đơn vị trong vùng chiếm đóng. 	false
+battle_ui_cheatsheet_items_description_text_siege_deployables	Mỗi điểm chiếm đóng kiểm soát thêm các vị trí mà người phòng thủ có thể xây tháp và chướng ngại vật.	false
+battle_ui_cheatsheet_items_description_text_siege_objectives	[[col:fe_white]]Kẻ tấn công[[/col]]\\nKẻ tấn công phải tiêu diệt hoặc đánh bại toàn bộ đơn vị địch trước khi hết thời gian, hoặc giảm vé chiến thắng của kẻ địch xuống 0. \\n\\n[[col:fe_white]]Người phòng thủ[[/col]]\\nNgười phòng thủ phải tiêu diệt hoặc đánh bại toàn bộ đơn vị địch trước khi hết thời gian, hoặc vẫn còn đơn vị hiện diện và không tháo chạy vào thời điểm đó.	false
+battle_ui_cheatsheet_items_description_text_siege_supplies	Người phòng thủ có thể sử dụng những thứ này để xây tháp và chướng ngại vật trên các ô trống có sẵn.	false
+battle_ui_cheatsheet_items_description_text_siege_victory_tickets	Mất điểm chiếm đóng vào tay kẻ tấn công sẽ khiến người phòng thủ mất vé chiến thắng.	false
+battle_ui_cheatsheet_items_description_text_survival_capture_points	Tiến qua bản đồ chiếm các điểm chiếm đóng và đánh bại liên tiếp các đợt kẻ địch.	false
+battle_ui_cheatsheet_items_description_text_survival_defensive_structures_1	Các điểm chiếm đóng kiểm soát thêm các vị trí có thể xây tháp và chướng ngại vật. \\n\\nĐây là phương tiện then chốt để chuyển hướng và tiêu hao kẻ địch, giúp các đơn vị của bạn tiến đến điểm chiếm đóng tiếp theo.	false
+battle_ui_cheatsheet_items_description_text_survival_objective_1	Mỗi đợt tấn công sẽ mở rào cản dẫn đến khu vực tiếp theo trên bản đồ. \\n\\nSau khi đánh bại đợt cuối cùng, bạn phải đánh bại Đấu sĩ của các Thần!	false
+battle_ui_cheatsheet_items_description_text_survival_reinforcements	Mỗi điểm chiếm đóng bổ sung thêm viện binh vào kho của bạn.	false
+battle_ui_cheatsheet_items_description_text_survival_supplies	Các điểm chiếm đóng cung cấp tiếp tế có thể được sử dụng để hỗ trợ nỗ lực của bạn.	false
+battle_ui_cheatsheet_items_description_text_survival_teleport	Các đơn vị bị tổn thất nặng nề có thể được dịch chuyển khỏi trận chiến và sẽ phục hồi trong kho viện binh.	false
+battle_ui_cheatsheet_items_description_text_survival_unit_replenishments	Phục hồi máu, thể lực, đạn dược hoặc Gió Ma Thuật của một đơn vị.	false
+battle_ui_cheatsheet_items_description_text_survival_unit_upgrades	Cải thiện khả năng cận chiến, phòng thủ, tầm xa và khiên của một đơn vị.	false
+battle_ui_cheatsheet_items_description_text_trial_battle_army_abilities	Kỹ năng quân đội được kích hoạt khi bạn gây sát thương lên kẻ địch, dần lấp đầy các thanh liên quan.\\n\\nSử dụng kỹ năng quân đội sẽ làm cạn thanh, vô hiệu hóa nó cho đến khi thanh được lấp đầy lại.	false
+battle_ui_cheatsheet_items_description_text_trial_battle_army_ability_upgrades	Nâng cấp kỹ năng quân đội trong trận chiến bằng cách sử dụng [[img:forbidden_knowledge]][[/img]] Tri Thức Bị Cấm.	false
+battle_ui_cheatsheet_items_description_text_trial_battle_forbidden_knowledge	[[img:forbidden_knowledge]][[/img]] Tri Thức Bị Cấm có thể được sử dụng để mua nâng cấp cho các kỹ năng quân đội của bạn trong trận chiến.	false
+battle_ui_cheatsheet_items_description_text_trial_battle_objective	Sống sót trước các đợt tấn công vô tận từ kẻ địch ngày càng tinh nhuệ hơn.	false
+battle_ui_cheatsheet_items_description_text_trial_battle_reward_progress	Tăng điểm số cho thử thách sẽ lấp đầy thanh, mang lại tiến độ hướng đến phần thưởng tiếp theo. 	false
+battle_ui_cheatsheet_items_description_text_trial_battle_score	Gây sát thương lên kẻ địch để tăng điểm số. Kẻ địch càng tinh nhuệ, điểm số nhận được càng cao.	false
+battle_ui_cheatsheet_items_description_text_trial_battle_shard_of_tzeentch	Kiểm soát điểm chiếm đóng Mảnh Vỡ của Tzeentch sẽ kiếm [[img:forbidden_knowledge]][[/img]] Tri Thức Bị Cấm và tăng tốc độ hồi phục Gió Ma Thuật của bạn.	false
+battle_ui_cheatsheet_items_header_text_ambush_escape_zone	Vùng Thoát Hiểm	false
+battle_ui_cheatsheet_items_header_text_ambush_objectives	Mục tiêu:	false
+battle_ui_cheatsheet_items_header_text_conquest_balance_of_power_bar	Thanh Cân Bằng Lực Lượng	false
+battle_ui_cheatsheet_items_header_text_conquest_capture_points_and_tickets	Điểm Chiếm Đóng & Vé	false
+battle_ui_cheatsheet_items_header_text_conquest_objectives	Mục tiêu	false
+battle_ui_cheatsheet_items_header_text_domination_capture_points_and_tickets	Điểm Chiếm Đóng & Vé	false
+battle_ui_cheatsheet_items_header_text_domination_objectives	Mục tiêu	false
+battle_ui_cheatsheet_items_header_text_domination_reinforcements	Viện Binh	false
+battle_ui_cheatsheet_items_header_text_domination_supplies	Tiếp Tế	false
+battle_ui_cheatsheet_items_header_text_domination_teleport	Dịch Chuyển	false
+battle_ui_cheatsheet_items_header_text_land_battle_abilities	Kỹ Năng	false
+battle_ui_cheatsheet_items_header_text_land_battle_army_abilities	Kỹ Năng Quân Đội	false
+battle_ui_cheatsheet_items_header_text_land_battle_balance_of_power_bar	Thanh Cân Bằng Lực Lượng	false
+battle_ui_cheatsheet_items_header_text_land_battle_magic	Ma Thuật	false
+battle_ui_cheatsheet_items_header_text_land_battle_objectives	Mục tiêu:	false
+battle_ui_cheatsheet_items_header_text_land_battle_reinforcements	Viện Binh	false
+battle_ui_cheatsheet_items_header_text_land_battle_time_limit_and_controls	Giới Hạn Thời Gian & Điều Khiển	false
+battle_ui_cheatsheet_items_header_text_land_battle_unit_banners	Biểu Ngữ Đơn Vị:	false
+battle_ui_cheatsheet_items_header_text_land_battle_unit_buttons	Nút Đơn Vị	false
+battle_ui_cheatsheet_items_header_text_minor_settlement_capture_points	Điểm Chiếm Đóng	false
+battle_ui_cheatsheet_items_header_text_minor_settlement_deployables	Công Trình Triển Khai	false
+battle_ui_cheatsheet_items_header_text_minor_settlement_objectives	Mục tiêu:	false
+battle_ui_cheatsheet_items_header_text_minor_settlement_supplies	Tiếp Tế	false
+battle_ui_cheatsheet_items_header_text_siege_capture_points	Điểm Chiếm Đóng	false
+battle_ui_cheatsheet_items_header_text_siege_deployables	Công Trình Triển Khai	false
+battle_ui_cheatsheet_items_header_text_siege_objectives	Mục tiêu:	false
+battle_ui_cheatsheet_items_header_text_siege_supplies	Tiếp Tế	false
+battle_ui_cheatsheet_items_header_text_siege_victory_tickets	Vé Chiến Thắng	false
+battle_ui_cheatsheet_items_header_text_survival_capture_points	Điểm Chiếm Đóng	false
+battle_ui_cheatsheet_items_header_text_survival_defensive_structures_1	Công Trình Phòng Thủ	false
+battle_ui_cheatsheet_items_header_text_survival_objective_1	Mục Tiêu	false
+battle_ui_cheatsheet_items_header_text_survival_reinforcements	Viện Binh	false
+battle_ui_cheatsheet_items_header_text_survival_supplies	Tiếp Tế	false
+battle_ui_cheatsheet_items_header_text_survival_teleport	Dịch Chuyển	false
+battle_ui_cheatsheet_items_header_text_survival_unit_replenishments	Bổ Sung Đơn Vị	false
+battle_ui_cheatsheet_items_header_text_survival_unit_upgrades	Nâng Cấp Đơn Vị	false
+battle_ui_cheatsheet_items_header_text_trial_battle_army_abilities	Kỹ Năng Quân Đội	false
+battle_ui_cheatsheet_items_header_text_trial_battle_army_ability_upgrades	Nâng Cấp Kỹ Năng Quân Đội	false
+battle_ui_cheatsheet_items_header_text_trial_battle_forbidden_knowledge	Tri Thức Bị Cấm	false
+battle_ui_cheatsheet_items_header_text_trial_battle_objective	Mục Tiêu	false
+battle_ui_cheatsheet_items_header_text_trial_battle_reward_progress	Tiến Độ Phần Thưởng	false
+battle_ui_cheatsheet_items_header_text_trial_battle_score	Điểm Số	false
+battle_ui_cheatsheet_items_header_text_trial_battle_shard_of_tzeentch	Mảnh Vỡ của Tzeentch	false

@@ -1,0 +1,28 @@
+key	text	tooltip
+#Loc;1;text/db/bretonnia_vows__.loc		
+bretonnia_vows_localised_description_grail_vow	"Những gì thiêng liêng, ta sẽ gìn giữ\\n Những gì cao quý, ta sẽ bảo vệ\\nNhững gì đe doạ, ta sẽ tiêu diệt\\nBởi cơn thịnh nộ thánh thiện của ta sẽ không có giới hạn..."	false
+bretonnia_vows_localised_description_grail_vow_agent	"Những gì thiêng liêng, ta sẽ gìn giữ\\n Những gì cao quý, ta sẽ bảo vệ\\nNhững gì đe doạ, ta sẽ tiêu diệt\\nBởi cơn thịnh nộ thánh thiện của ta sẽ không có giới hạn..."	false
+bretonnia_vows_localised_description_knights_vow	"Khi tiếng kèn hiệu vang lên\\n Ta sẽ cưỡi ngựa ra trận, chiến đấu nhân danh Lãnh Chúa và Nữ Thần\\nChừng nào ta còn thở, vùng đất được trao\\n cho ta sẽ không bị ô uế bởi tà ác\\n Danh dự là tất cả, Hiệp nghĩa là tất cả..."	false
+bretonnia_vows_localised_description_knights_vow_agent	"Khi tiếng kèn hiệu vang lên\\n Ta sẽ cưỡi ngựa ra trận, chiến đấu nhân danh Lãnh Chúa và Nữ Thần\\nChừng nào ta còn thở, vùng đất được trao\\n cho ta sẽ không bị ô uế bởi tà ác\\n Danh dự là tất cả, Hiệp nghĩa là tất cả..."	false
+bretonnia_vows_localised_description_questing_vow	"Ta đặt xuống ngọn giáo, biểu tượng của bổn phận\\nTa ruồng bỏ những người ta yêu thương\\nTa từ bỏ tất cả và cầm lấy những công cụ cho cuộc hành trình\\nKhông trở ngại nào sẽ cản bước ta\\nKhông lời cầu cứu nào sẽ thấy ta chần chừ\\nKhông vầng trăng nào nhìn ta hai lần kẻo ta bị xét là lười biếng\\nTa dâng hiến thân xác, trái tim và linh hồn cho Nữ Thần mà ta tìm kiếm..."	false
+bretonnia_vows_localised_description_questing_vow_agent	"Ta đặt xuống ngọn giáo, biểu tượng của bổn phận\\nTa ruồng bỏ những người ta yêu thương\\nTa từ bỏ tất cả và cầm lấy những công cụ cho cuộc hành trình\\nKhông trở ngại nào sẽ cản bước ta\\nKhông lời cầu cứu nào sẽ thấy ta chần chừ\\nKhông vầng trăng nào nhìn ta hai lần kẻo ta bị xét là lười biếng\\nTa dâng hiến thân xác, trái tim và linh hồn cho Nữ Thần mà ta tìm kiếm..."	false
+bretonnia_vows_localised_description_troth_of_protection	"Khi các hiệp sĩ Bretonnia đáp lời gọi của trận chiến\\nViệc bảo vệ và trao sức mạnh cho họ là bổn phận của ta\\nĐể họ có thể xua đuổi mọi thứ ô uế và tà ác\\nGiáng đòn xuống kẻ thù của vùng đất Hiệp Nghĩa vĩ đại này\\nNghĩa vụ của ta với Nữ Thần đã được thực hiện…"	false
+bretonnia_vows_localised_description_troth_of_protection_agent	"Khi các hiệp sĩ Bretonnia đáp lời gọi của trận chiến\\nViệc bảo vệ và trao sức mạnh cho họ là bổn phận của ta\\nĐể họ có thể xua đuổi mọi thứ ô uế và tà ác\\nGiáng đòn xuống kẻ thù của vùng đất Hiệp Nghĩa vĩ đại này\\nNghĩa vụ của ta với Nữ Thần đã được thực hiện…"	false
+bretonnia_vows_localised_description_troth_of_virtue	"Với sự tận tâm tuyệt đối với mọi đức hạnh chính nghĩa\\nTa xử lý mọi việc với lòng ngay thẳng thuần khiết\\nLuôn nỗ lực giải phóng bản thân khỏi sự giam cầm của đạo đức\\nVới tự do thoát khỏi xiềng xích của những ràng buộc trần tục\\nVà chỉ sự cống hiến tối cao cho bổn phận của ta với Nữ Thần…"	false
+bretonnia_vows_localised_description_troth_of_virtue_agent	"Với sự tận tâm tuyệt đối với mọi đức hạnh chính nghĩa\\nTa xử lý mọi việc với lòng ngay thẳng thuần khiết\\nLuôn nỗ lực giải phóng bản thân khỏi sự giam cầm của đạo đức\\nVới tự do thoát khỏi xiềng xích của những ràng buộc trần tục\\nVà chỉ sự cống hiến tối cao cho bổn phận của ta với Nữ Thần…"	false
+bretonnia_vows_localised_description_troth_of_virtue_fay	"Với sự tận tâm tuyệt đối với mọi đức hạnh chính nghĩa\\nTa xử lý mọi việc với lòng ngay thẳng thuần khiết\\nLuôn nỗ lực giải phóng bản thân khỏi sự giam cầm của đạo đức\\nVới tự do thoát khỏi xiềng xích của những ràng buộc trần tục\\nVà chỉ sự cống hiến tối cao cho bổn phận của ta với Nữ Thần…"	false
+bretonnia_vows_localised_description_troth_of_wisdom	"Với trái tim thuần khiết nhất trong những trái tim thuần khiết\\nTa sẽ vun đắp tri thức và tinh thần để đối mặt với tà ác\\nVới sự tự tin, tình yêu thương và sự an ủi của Nữ Thần\\nĐể thực hiện ý chí của Người, sự xua trừ bạo ngược là tất cả\\nBởi ta là người phụng sự của Người, nay và mãi mãi…"	false
+bretonnia_vows_localised_description_troth_of_wisdom_agent	"Với trái tim thuần khiết nhất trong những trái tim thuần khiết\\nTa sẽ vun đắp tri thức và tinh thần để đối mặt với tà ác\\nVới sự tự tin, tình yêu thương và sự an ủi của Nữ Thần\\nĐể thực hiện ý chí của Người, sự xua trừ bạo ngược là tất cả\\nBởi ta là người phụng sự của Người, nay và mãi mãi…"	false
+bretonnia_vows_localised_name_grail_vow	Lời Thề Chén Thánh	false
+bretonnia_vows_localised_name_grail_vow_agent	Lời Thề Chén Thánh	false
+bretonnia_vows_localised_name_knights_vow	Lời Thề Hiệp Sĩ	false
+bretonnia_vows_localised_name_knights_vow_agent	Lời Thề Hiệp Sĩ	false
+bretonnia_vows_localised_name_questing_vow	Lời Thề Hành Trình	false
+bretonnia_vows_localised_name_questing_vow_agent	Lời Thề Hành Trình	false
+bretonnia_vows_localised_name_troth_of_protection	Lời Hứa Bảo Hộ	false
+bretonnia_vows_localised_name_troth_of_protection_agent	Lời Hứa Bảo Hộ	false
+bretonnia_vows_localised_name_troth_of_virtue	Lời Hứa Đức Hạnh	false
+bretonnia_vows_localised_name_troth_of_virtue_agent	Lời Hứa Đức Hạnh	false
+bretonnia_vows_localised_name_troth_of_virtue_fay	Lời Hứa Đức Hạnh	false
+bretonnia_vows_localised_name_troth_of_wisdom	Lời Hứa Trí Tuệ	false
+bretonnia_vows_localised_name_troth_of_wisdom_agent	Lời Hứa Trí Tuệ	false

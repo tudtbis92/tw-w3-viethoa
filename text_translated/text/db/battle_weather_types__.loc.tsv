@@ -1,0 +1,6 @@
+key	text	tooltip
+#Loc;1;text/db/battle_weather_types__.loc		
+battle_weather_types_onscreen_dry	Khô ráo	false
+battle_weather_types_onscreen_fog	Sương mù	false
+battle_weather_types_onscreen_rain	Mưa	false
+battle_weather_types_onscreen_snow	Tuyết	false

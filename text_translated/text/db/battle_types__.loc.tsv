@@ -1,0 +1,46 @@
+key	text	tooltip
+#Loc;1;text/db/battle_types__.loc		
+battle_types_description_Tutorial	placeholder	false
+battle_types_description_ambush	Giao chiến với kẻ thù trên một tuyến đường phục kích, bên tấn công sẽ chiếm ưu thế hơn bên phòng thủ.	false
+battle_types_description_campaign_battle	placeholder	false
+battle_types_description_capture_point	placeholder	false
+battle_types_description_classic	Giao chiến với kẻ thù trên bản đồ trận chiến trên bộ tiêu chuẩn.	false
+battle_types_description_coastal_battle	placeholder	false
+battle_types_description_conquest	Giao chiến với kẻ thù trên bản đồ trận chiến trên bộ tiêu chuẩn. Tiêu diệt đội quân địch hoặc chiếm và giữ mục tiêu trung tâm để giành chiến thắng.	false
+battle_types_description_domination	Chiến đấu giành điểm bằng cách tiêu diệt kẻ thù, chiếm mục tiêu và tăng viện quân chống lại những người chơi khác trên bản đồ đấu trường.	false
+battle_types_description_filter_all	placeholder	false
+battle_types_description_free_for_all	Chiến đấu giành điểm bằng cách giao chiến và tiêu diệt ba người chơi khác trên bản đồ đấu trường.	false
+battle_types_description_historic	placeholder	false
+battle_types_description_limes	placeholder	false
+battle_types_description_napoleon_historic	placeholder	false
+battle_types_description_naval	placeholder	false
+battle_types_description_naval_siege	placeholder	false
+battle_types_description_river_crossing_battle	Giao chiến với kẻ thù trên bản đồ điểm yết hầu, nơi bên phòng thủ phải cầm cự trước cuộc tấn công của đối phương.	false
+battle_types_description_siege	Giao chiến tại một khu định cư có tường thành, nơi bên phòng thủ phải cầm cự trước cuộc bao vây của kẻ tấn công bằng cách xây dựng chướng ngại vật và tháp phòng thủ.	false
+battle_types_description_survival	Chiến đấu và sinh tồn trước các đợt tấn công liên tiếp của kẻ thù bằng cách xây dựng chướng ngại vật và tháp phòng thủ, tăng viện và nâng cấp quân đội của bạn.	false
+battle_types_description_trial	Mô tả thử thách vận mệnh	false
+battle_types_description_underground_intercept	Giao chiến với kẻ thù trên bản đồ ngầm dưới lòng đất.	false
+battle_types_description_unfortified_port	placeholder	false
+battle_types_description_unfortified_settlement	Giao chiến tại một khu định cư không có tường thành, nơi bên phòng thủ phải cầm cự trước cuộc bao vây của kẻ tấn công bằng cách xây dựng chướng ngại vật và tháp phòng thủ.	false
+battle_types_onscreen_Tutorial	Hướng Dẫn	false
+battle_types_onscreen_ambush	Trận Phục Kích	false
+battle_types_onscreen_campaign_battle	Trận Chiến Chiến Dịch	false
+battle_types_onscreen_capture_point	Trận Chiếm Điểm	false
+battle_types_onscreen_classic	Trận Chiến Trên Bộ	false
+battle_types_onscreen_coastal_battle	Trận Chiến Ven Biển	false
+battle_types_onscreen_conquest	Chinh Phục	false
+battle_types_onscreen_domination	Thống Trị	false
+battle_types_onscreen_filter_all	Tất Cả Loại Trận	false
+battle_types_onscreen_free_for_all	Trận Loạn Chiến	false
+battle_types_onscreen_historic	Trận Chiến Kịch Bản	false
+battle_types_onscreen_limes	Limes	false
+battle_types_onscreen_napoleon_historic	text_rejected	false
+battle_types_onscreen_naval	Trận Hải Chiến	false
+battle_types_onscreen_naval_siege	Tấn Công Cảng	false
+battle_types_onscreen_river_crossing_battle	Trận Điểm Yết Hầu	false
+battle_types_onscreen_siege	Trận Công Thành	false
+battle_types_onscreen_survival	Trận Sinh Tồn	false
+battle_types_onscreen_trial	Thử Thách Vận Mệnh	false
+battle_types_onscreen_underground_intercept	Trận Chiến Ngầm	false
+battle_types_onscreen_unfortified_port	Tấn Công Cảng Không Phòng Thủ	false
+battle_types_onscreen_unfortified_settlement	Trận Khu Định Cư Nhỏ	false
