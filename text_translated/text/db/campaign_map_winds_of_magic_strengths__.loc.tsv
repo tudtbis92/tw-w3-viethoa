@@ -1,0 +1,8 @@
+﻿key	text	tooltip
+#Loc;1;text/db/campaign_map_winds_of_magic_strengths__.loc		
+campaign_map_winds_of_magic_strengths_localised_name_wom_strength_0	Tĩnh lặng [[col:red]](-10)[[/col]]	false
+campaign_map_winds_of_magic_strengths_localised_name_wom_strength_1	Yếu ớt [[col:red]](-5)[[/col]]	false
+campaign_map_winds_of_magic_strengths_localised_name_wom_strength_2	Thổi	false
+campaign_map_winds_of_magic_strengths_localised_name_wom_strength_3	Mạnh mẽ [[col:green]](+5)[[/col]]	false
+campaign_map_winds_of_magic_strengths_localised_name_wom_strength_4	Dữ dội [[col:green]](+10)[[/col]]	false
+campaign_map_winds_of_magic_strengths_localised_name_wom_strength_5	Bão Phép thuật [[col:green]](+100)[[/col]]	false
