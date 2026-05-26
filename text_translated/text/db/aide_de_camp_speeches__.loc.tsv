@@ -1,0 +1,63 @@
+﻿key	text	tooltip
+#Loc;1;text/db/aide_de_camp_speeches__.loc		
+aide_de_camp_speeches_text_adc_allied_general_injured	Chúa tể của đồng minh đã bị thương!	false
+aide_de_camp_speeches_text_adc_allied_general_killed	Chúa tể của đồng minh đã ngã xuống.	false
+aide_de_camp_speeches_text_adc_allies_come_under_player_control	Đồng minh hiện đang dưới sự chỉ huy của ngài!	false
+aide_de_camp_speeches_text_adc_ally_reinforcements	Viện quân đã đến!	false
+aide_de_camp_speeches_text_adc_enemy_attacking_gates	Kẻ địch đang tấn công cổng!	false
+aide_de_camp_speeches_text_adc_enemy_capturing_gates	Kẻ địch đang cố gắng chiếm lấy cổng!	false
+aide_de_camp_speeches_text_adc_enemy_capturing_victory_point	Kẻ thù đang chiếm cứ điểm chiến thắng của chúng ta!	false
+aide_de_camp_speeches_text_adc_enemy_flying_units_must_land	Không có đơn vị trên mặt đất, kẻ địch buộc phải hạ cánh và tấn công, hoặc đầu hàng nhượng lại lãnh thổ này!	false
+aide_de_camp_speeches_text_adc_enemy_fort_about_to_be_captured	Thành trì của kẻ địch sẽ sớm thuộc về ngài.	false
+aide_de_camp_speeches_text_adc_enemy_gate_captured	Cổng thành là của ngài!	false
+aide_de_camp_speeches_text_adc_enemy_gate_destroyed	Cổng thành của kẻ địch đã bị phá hủy!	false
+aide_de_camp_speeches_text_adc_enemy_general_appears	Chúa tể của kẻ địch tham gia trận chiến!	false
+aide_de_camp_speeches_text_adc_enemy_general_injured	Chúa tể của kẻ địch đã bị thương!	false
+aide_de_camp_speeches_text_adc_enemy_general_killed	Chúa tể của kẻ địch đã chết!	false
+aide_de_camp_speeches_text_adc_enemy_hidden_unit_spotted	Quân của ngài đã phát hiện ra kẻ thù ẩn nấp!	false
+aide_de_camp_speeches_text_adc_enemy_ladders_docked	Thang của kẻ địch đã tiếp cận tường thành của chúng ta!	false
+aide_de_camp_speeches_text_adc_enemy_point_captured	Ngài đã chiếm được cứ điểm chiến thắng của kẻ thù!	false
+aide_de_camp_speeches_text_adc_enemy_reclaimed_victory_point	Chúng ta đã mất cứ điểm chiến thắng!	false
+aide_de_camp_speeches_text_adc_enemy_reinforcements	Viện quân của kẻ địch đang tiếp cận!	false
+aide_de_camp_speeches_text_adc_enemy_siege_equipment_destroyed	Thiết bị công thành của kẻ địch đã bị phá hủy!	false
+aide_de_camp_speeches_text_adc_enemy_toggle_building_attacked	Công trình của kẻ địch đang bị tấn công!	false
+aide_de_camp_speeches_text_adc_enemy_toggle_building_destroyed	Công trình của kẻ địch đã bị phá hủy!	false
+aide_de_camp_speeches_text_adc_enemy_tower_captured	Các chiến binh của ngài đã chiếm được tháp!	false
+aide_de_camp_speeches_text_adc_enemy_tower_destroyed	Tháp của kẻ địch đã bị phá hủy!	false
+aide_de_camp_speeches_text_adc_enemy_underground_units_must_dig_out	Không có đơn vị trên mặt đất, kẻ địch buộc phải đào lên và tấn công, hoặc đầu hàng nhượng lại lãnh thổ này!	false
+aide_de_camp_speeches_text_adc_enemy_unit_spawned_from_army_ability	Một kỹ năng quân đội đã sinh ra một đơn vị địch!	false
+aide_de_camp_speeches_text_adc_losing	Ngài đang đánh mất lợi thế!	false
+aide_de_camp_speeches_text_adc_neutral_point_captured	Ngài đã chiếm được một cứ điểm chiến thắng trung lập!	false
+aide_de_camp_speeches_text_adc_own_ally_attacked	Kẻ thù tấn công đồng minh của chúng ta!	false
+aide_de_camp_speeches_text_adc_own_ally_destroyed	Đồng minh của ngài đã bị tiêu diệt.	false
+aide_de_camp_speeches_text_adc_own_attacking_gates	Quân ta đã bắt đầu tấn công cổng thành!	false
+aide_de_camp_speeches_text_adc_own_capturing_gates	Chúng ta đang chiếm cổng thành!	false
+aide_de_camp_speeches_text_adc_own_capturing_victory_point	Chúng ta đang chiếm một cứ điểm chiến thắng!	false
+aide_de_camp_speeches_text_adc_own_flying_units_must_land	Đơn vị bay không thể tự mình giữ vững mặt đất! Hãy hạ cánh và tấn công, hoặc đầu hàng nhượng lại lãnh thổ này.	false
+aide_de_camp_speeches_text_adc_own_fort_about_to_be_captured	Thành trì của ngài đang gặp nguy hiểm cận kề!	false
+aide_de_camp_speeches_text_adc_own_gate_captured	Kẻ thù đã chiếm được cổng thành!	false
+aide_de_camp_speeches_text_adc_own_gate_destroyed	Cổng thành của ngài đã bị phá hủy.	false
+aide_de_camp_speeches_text_adc_own_general_attacked	Chúa tể của ngài đang bị tấn công!	false
+aide_de_camp_speeches_text_adc_own_general_injured	Nguyền rủa kẻ thù! Chúa tể của ngài đã bị thương.	false
+aide_de_camp_speeches_text_adc_own_general_killed	Cái chết đang bủa vây lấy Chúa tể của ngài...	false
+aide_de_camp_speeches_text_adc_own_hidden_unit_spotted	Các đơn vị ẩn nấp của ngài đã bị phát hiện!	false
+aide_de_camp_speeches_text_adc_own_ladders_docked	Thang của chúng ta đã tiếp cận tường thành!	false
+aide_de_camp_speeches_text_adc_own_point_captured	Ngài đã mất một cứ điểm chiến thắng.	false
+aide_de_camp_speeches_text_adc_own_reclaimed_victory_point	Chúng ta đã giành lại cứ điểm chiến thắng!	false
+aide_de_camp_speeches_text_adc_own_reinforcements	Viện quân đã đến!	false
+aide_de_camp_speeches_text_adc_own_ship_being_boarded	Một trong những con tàu của ngài đang bị đổ bộ!	false
+aide_de_camp_speeches_text_adc_own_ship_on_fire	Một trong những con tàu của ngài đang bốc cháy!	false
+aide_de_camp_speeches_text_adc_own_siege_equipment_destroyed	Thiết bị công thành của ngài đã bị phá hủy!	false
+aide_de_camp_speeches_text_adc_own_toggle_building_attacked	Công trình của ngài đang bị tấn công!	false
+aide_de_camp_speeches_text_adc_own_toggle_building_destroyed	Công trình của ngài đã bị phá hủy!	false
+aide_de_camp_speeches_text_adc_own_tower_captured	Kẻ thù đã kiểm soát tòa tháp!	false
+aide_de_camp_speeches_text_adc_own_tower_destroyed	Một tòa tháp đã bị phá hủy!	false
+aide_de_camp_speeches_text_adc_own_underground_units_must_dig_out	Đơn vị dưới lòng đất không thể tự mình giữ vững mặt đất! Hãy đào lên và tấn công, hoặc đầu hàng nhượng lại lãnh thổ này!	false
+aide_de_camp_speeches_text_adc_own_unit_berserk	Một trong những đơn vị của ngài đã trở nên điên loạn!	false
+aide_de_camp_speeches_text_adc_own_unit_lost	Một đơn vị đã bị tiêu diệt hoàn toàn!	false
+aide_de_camp_speeches_text_adc_own_unit_out_of_ammo	Một trong những đơn vị của ngài đã cạn kiệt đạn dược!	false
+aide_de_camp_speeches_text_adc_own_unit_rallied	Các chiến binh của ngài đang tập hợp lại!	false
+aide_de_camp_speeches_text_adc_own_unit_routed	Lũ hèn nhát! Các chiến binh của ngài đang bỏ chạy!	false
+aide_de_camp_speeches_text_adc_own_unit_wavering	Các chiến binh của ngài đang dao động!	false
+aide_de_camp_speeches_text_adc_walls_breached	Tường thành đã bị phá vỡ!	false
+aide_de_camp_speeches_text_adc_winning	Chiến thắng nằm trong tầm tay của chúng ta!	false

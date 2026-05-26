@@ -13,8 +13,10 @@
 | agent_localisations__.loc.tsv | 91 | 91 | Done | 100% | Đã dịch xong toàn bộ thuật ngữ và giao diện Anh hùng. |
 | agent_recruitment_categories__.loc.tsv | 134 | 134 | Done | 100% | Đã dịch xong các danh mục chiêu mộ Chúa tể. |
 | agent_subtypes__.loc.tsv | 1228 | 1228 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
+| aide_de_camp_speeches__.loc.tsv | 60 | 60 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
+| ancillaries__.loc.tsv | 8002 | 0 | In Progress | 0% | Bắt đầu dịch lại từ đầu. |
 | unit_abilities__.loc.tsv | 5773 | 0 | Not Started | 0% | |
 | ... (231 tables khác) | - | 0 | Not Started | 0% | Sẽ cập nhật khi bắt đầu dịch |
 ---
-*Cập nhật lần cuối: 2026-05-25*
+*Cập nhật lần cuối: 2026-05-26*
 *Quy tắc an toàn: Cập nhật ngay sau mỗi table hoặc mỗi 100 dòng dịch.*
