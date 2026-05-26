@@ -1,0 +1,26 @@
+key	text	tooltip
+#Loc;1;text/db/ancillaries_categories__.loc		
+ancillaries_categories_default_entry_name_arcane_item	Vật phẩm Phép thuật	false
+ancillaries_categories_default_entry_name_armour	Áo giáp Cơ bản	false
+ancillaries_categories_default_entry_name_enchanted_item	Không có	false
+ancillaries_categories_default_entry_name_form	Không có	false
+ancillaries_categories_default_entry_name_general	Không có	false
+ancillaries_categories_default_entry_name_mount	Không có	false
+ancillaries_categories_default_entry_name_talisman	Không có	false
+ancillaries_categories_default_entry_name_weapon	Vũ khí Cầm tay	false
+ancillaries_categories_default_entry_tooltip_arcane_item	{{tr:arcane_item_description}}	false
+ancillaries_categories_default_entry_tooltip_armour	Thu thập và trang bị [[col:yellow]]áo giáp[[/col]] tại đây để cường hóa nhân vật của bạn.	false
+ancillaries_categories_default_entry_tooltip_enchanted_item	Thu thập và trang bị một [[col:yellow]]vật phẩm yểm phép[[/col]] tại đây để cường hóa nhân vật của bạn.	false
+ancillaries_categories_default_entry_tooltip_form	Không có	false
+ancillaries_categories_default_entry_tooltip_general	{{tr:followers_and_banners_cat_tooltip}}	false
+ancillaries_categories_default_entry_tooltip_mount	Nhân vật sẽ đi bộ trừ khi được trang bị [[col:yellow]]thú cưỡi[[/col]], hoặc mặc định phải cưỡi thú.||Có thể nhận thú cưỡi thông qua việc cộng điểm kỹ năng vào các kỹ năng tương ứng.	false
+ancillaries_categories_default_entry_tooltip_talisman	Thu thập và trang bị một [[col:yellow]]bùa hộ mệnh[[/col]] tại đây để cường hóa nhân vật của bạn.	false
+ancillaries_categories_default_entry_tooltip_weapon	Thu thập và trang bị một [[col:yellow]]vũ khí[[/col]] tại đây để cường hóa nhân vật của bạn.	false
+ancillaries_categories_onscreen_name_arcane_item	{{tr:arcane_item_title}}	false
+ancillaries_categories_onscreen_name_armour	Áo giáp	false
+ancillaries_categories_onscreen_name_enchanted_item	Vật phẩm Yểm phép	false
+ancillaries_categories_onscreen_name_form	Hình thái	false
+ancillaries_categories_onscreen_name_general	Chung	false
+ancillaries_categories_onscreen_name_mount	{{tr:mount_header}}	false
+ancillaries_categories_onscreen_name_talisman	Bùa hộ mệnh	false
+ancillaries_categories_onscreen_name_weapon	Vũ khí	false

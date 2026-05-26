@@ -15,6 +15,16 @@
 | agent_subtypes__.loc.tsv | 1228 | 1228 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
 | aide_de_camp_speeches__.loc.tsv | 60 | 60 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
 | ancillaries__.loc.tsv | 8004 | 8004 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
+| ancillaries_categories__.loc.tsv | 24 | 24 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
+| ancillaries_subcategories__.loc.tsv | 11 | 11 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
+| ancillary_sets__.loc.tsv | 170 | 170 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
+| ancillary_uniqueness_groupings__.loc.tsv | 16 | 16 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
+| armory_item_set_ui_infos__.loc.tsv | 56 | 56 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
+| armory_item_ui_infos__.loc.tsv | 724 | 724 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
+| armory_item_variant_ui_infos__.loc.tsv | 944 | 944 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
+| armory_slot_type_ui_infos__.loc.tsv | 13 | 13 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
+| battle_result_types__.loc.tsv | 52 | 52 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
+| battle_secondary_currency_source_types__.loc.tsv | 25 | 25 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
 | unit_abilities__.loc.tsv | 5773 | 0 | Not Started | 0% | |
 | ... (231 tables khác) | - | 0 | Not Started | 0% | Sẽ cập nhật khi bắt đầu dịch |
 ---

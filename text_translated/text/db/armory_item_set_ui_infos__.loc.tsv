@@ -1,0 +1,58 @@
+key	text	tooltip
+#Loc;1;text/db/armory_item_set_ui_infos__.loc		
+armory_item_set_ui_infos_description_wh3_main_dae_daemon_prince_default	Ngươi đã thăng hoa thành Ác Quỷ và giờ đây khiến bao kẻ phải khiếp sợ với tư cách là Hoàng Tử Ác Quỷ của Hỗn Mang.	false
+armory_item_set_ui_infos_description_wh3_main_dae_daemon_prince_generic_set_1	Hoàng Tử Toàn Vẹn đại diện cho toàn bộ Hỗn Mang: không một Quyền Năng Hủy Diệt đơn lẻ nào có thể ảnh hưởng lên thực thể này.	false
+armory_item_set_ui_infos_description_wh3_main_dae_daemon_prince_generic_set_2	Hoàng Tử Ác Quỷ Thiết Giáp khoác lên mình bộ giáp được rèn bởi chính Hỗn Mang. Năng lượng Hủy Diệt tuôn trào, làm tha hóa những kẻ xung quanh.	false
+armory_item_set_ui_infos_description_wh3_main_dae_daemon_prince_generic_set_3	Hoàng Tử Ác Quỷ Cháy Đen này đã thực sự trải qua thử thách của lửa đỏ, và có thể chịu đựng vô số đòn trừng phạt mà không hề nao núng.	false
+armory_item_set_ui_infos_description_wh3_main_dae_daemon_prince_generic_set_4	Quân Khí Hỗn Mang ban cho ngươi sức mạnh của chính Hỗn Mang. Đây là những công cụ của sự hủy diệt.	false
+armory_item_set_ui_infos_description_wh3_main_dae_daemon_prince_generic_set_5	Làn da của Hoàng Tử Nanh Nhọn để lộ xương trắng, gai nhọn và nanh vuốt nhô ra từ đó – thêm nhiều công cụ để sử dụng trong chiến đấu.	false
+armory_item_set_ui_infos_description_wh3_main_dae_daemon_prince_khorne_set_1	Hoàng Tử Rực Lửa của Khorne còn nóng nảy hơn bất kỳ ngọn lửa nào từ bên trong, ngọn lửa của hắn thiêu rụi bất kỳ ai dám đến gần.	false
+armory_item_set_ui_infos_description_wh3_main_dae_daemon_prince_khorne_set_2	Hoàng Tử Khát Máu của Khorne khao khát chiến đấu và máu tươi, thứ mà chắc chắn sẽ được đổ xuống vì Huyết Thần.	false
+armory_item_set_ui_infos_description_wh3_main_dae_daemon_prince_khorne_set_3	Quân Khí Chiến Tranh sẽ ban cho ngươi bộ giáp mạnh mẽ nhất, được rèn trong chính cõi giới của Khorne.	false
+armory_item_set_ui_infos_description_wh3_main_dae_daemon_prince_khorne_set_4	Hoàng Tử Hung Tợn khoác lên mình chiến lợi phẩm từ những kẻ thù bị đánh bại trong chiến đấu. Nếu ngươi chùn bước, hãy chuẩn bị tinh thần để xương thịt của mình bị lấy làm phần thưởng đi!	false
+armory_item_set_ui_infos_description_wh3_main_dae_daemon_prince_nurgle_set_1	Hoàng Tử Phình To của Nurgle đã phát triển lớn hơn đa số đồng loại. Khối năng lượng Ác quỷ khổng lồ này chứa đầy sự thối rữa vinh quang của Chúa Tể Ruồi Nhặng.	false
+armory_item_set_ui_infos_description_wh3_main_dae_daemon_prince_nurgle_set_2	Hoàng Tử Từ Thiện của Nurgle tìm cách lây lan dịch bệnh và sự phân hủy cho tất cả những kẻ chưa từng trải nghiệm khoái cảm từ vinh quang của nó.	false
+armory_item_set_ui_infos_description_wh3_main_dae_daemon_prince_nurgle_set_3	Quân Khí Dịch Bệnh đủ để khiến hầu hết mọi kẻ phải kinh tởm. Những món quà này được ban bởi Nurgle để những kẻ khác có thể trải nghiệm những căn bệnh thú vị của Ngài.	false
+armory_item_set_ui_infos_description_wh3_main_dae_daemon_prince_nurgle_set_4	Hoàng Tử Hôi Thối ngày càng trở nên gớm ghiếc hơn theo thời gian, đủ để ban cho hắn sức mạnh dị giáo cần thiết nhằm đánh lừa cả cái chết.	false
+armory_item_set_ui_infos_description_wh3_main_dae_daemon_prince_set_khorne_body_1	placeholder	false
+armory_item_set_ui_infos_description_wh3_main_dae_daemon_prince_set_nurgle_body_1	placeholder	false
+armory_item_set_ui_infos_description_wh3_main_dae_daemon_prince_set_slaanesh_body_1	placeholder	false
+armory_item_set_ui_infos_description_wh3_main_dae_daemon_prince_set_tzeentch_body_1	placeholder	false
+armory_item_set_ui_infos_description_wh3_main_dae_daemon_prince_slaanesh_set_1	Hoàng Tử Rực Rỡ của Slaanesh toát ra dục vọng và sự khao khát. Hiếm có kẻ nào có thể kìm nén được thôi thúc của mình khi đứng trước sự hiện diện của hắn.	false
+armory_item_set_ui_infos_description_wh3_main_dae_daemon_prince_slaanesh_set_2	Hoàng Tử Tô Điểm của Slaanesh mặc bộ giáp có chất lượng cao nhất. Cẩn thận đừng đánh mất bản thân trong sự phản chiếu tuyệt đẹp của nó!	false
+armory_item_set_ui_infos_description_wh3_main_dae_daemon_prince_slaanesh_set_3	Quân Khí Dục Vọng khiến bao kẻ phải ngoái nhìn. Mọi kẻ đều khao khát được biết về vẻ đẹp ẩn giấu bên dưới...	false
+armory_item_set_ui_infos_description_wh3_main_dae_daemon_prince_slaanesh_set_4	Với sự điềm tĩnh và duyên dáng, Hoàng Tử Gợi Cảm lướt qua sức nóng của trận chiến giữa bạn và thù.	false
+armory_item_set_ui_infos_description_wh3_main_dae_daemon_prince_tzeentch_set_1	Hoàng Tử Nạm Ngọc của Tzeentch đã được ban tặng vô số đồ trang sức và ngọc ngà để có thể tiếp cận với những sức mạnh không tưởng.	false
+armory_item_set_ui_infos_description_wh3_main_dae_daemon_prince_tzeentch_set_2	Hoàng Tử Bí Ẩn của Tzeentch đã tắm mình trong ngọn lửa của Tzeentch. Giờ đây cơ thể hắn dâng trào sức mạnh từ những Ngọn Gió Ma Thuật chảy bên trong.	false
+armory_item_set_ui_infos_description_wh3_main_dae_daemon_prince_tzeentch_set_3	Quân Khí Biến Đổi mang bản chất được phù phép, cho phép ngươi chế ngự những Ngọn Gió Ma Thuật.	false
+armory_item_set_ui_infos_description_wh3_main_dae_daemon_prince_tzeentch_set_4	Dù có vẻ ngoài ốm yếu, trải qua nhiều thời đại, Hoàng Tử Héo Mòn đã sống sót lâu hơn hầu hết đồng loại.	false
+armory_item_set_ui_infos_description_wh3_pro_mom_trial_champion_set_01	Quán quân này đã hoàn thành Thử Thách Của Định Mệnh. Fateweaver không còn chút quyền lực nào đối với vận mệnh của Hoàng Tử Ác Quỷ này.	false
+armory_item_set_ui_infos_description_wh3_pro_mom_trial_set	 	false
+armory_item_set_ui_infos_name_wh3_main_dae_daemon_prince_default	Hoàng Tử Ác Quỷ Hỗn Mang Thăng Hoa	false
+armory_item_set_ui_infos_name_wh3_main_dae_daemon_prince_generic_set_1	Hoàng Tử Toàn Vẹn Của Hỗn Mang	false
+armory_item_set_ui_infos_name_wh3_main_dae_daemon_prince_generic_set_2	Hoàng Tử Ác Quỷ Thiết Giáp	false
+armory_item_set_ui_infos_name_wh3_main_dae_daemon_prince_generic_set_3	Hoàng Tử Ác Quỷ Cháy Đen	false
+armory_item_set_ui_infos_name_wh3_main_dae_daemon_prince_generic_set_4	Quân Khí Hỗn Mang	false
+armory_item_set_ui_infos_name_wh3_main_dae_daemon_prince_generic_set_5	Hoàng Tử Nanh Nhọn	false
+armory_item_set_ui_infos_name_wh3_main_dae_daemon_prince_khorne_set_1	Hoàng Tử Rực Lửa của Khorne	false
+armory_item_set_ui_infos_name_wh3_main_dae_daemon_prince_khorne_set_2	Hoàng Tử Khát Máu của Khorne	false
+armory_item_set_ui_infos_name_wh3_main_dae_daemon_prince_khorne_set_3	Quân Khí Chiến Tranh	false
+armory_item_set_ui_infos_name_wh3_main_dae_daemon_prince_khorne_set_4	Hoàng Tử Hung Tợn	false
+armory_item_set_ui_infos_name_wh3_main_dae_daemon_prince_nurgle_set_1	Hoàng Tử Phình To của Nurgle	false
+armory_item_set_ui_infos_name_wh3_main_dae_daemon_prince_nurgle_set_2	Hoàng Tử Từ Thiện của Nurgle	false
+armory_item_set_ui_infos_name_wh3_main_dae_daemon_prince_nurgle_set_3	Quân Khí Dịch Bệnh	false
+armory_item_set_ui_infos_name_wh3_main_dae_daemon_prince_nurgle_set_4	Hoàng Tử Hôi Thối	false
+armory_item_set_ui_infos_name_wh3_main_dae_daemon_prince_set_khorne_body_1	Khorne	false
+armory_item_set_ui_infos_name_wh3_main_dae_daemon_prince_set_nurgle_body_1	Nurgle	false
+armory_item_set_ui_infos_name_wh3_main_dae_daemon_prince_set_slaanesh_body_1	Slaanesh	false
+armory_item_set_ui_infos_name_wh3_main_dae_daemon_prince_set_tzeentch_body_1	Tzeentch	false
+armory_item_set_ui_infos_name_wh3_main_dae_daemon_prince_slaanesh_set_1	Hoàng Tử Rực Rỡ của Slaanesh	false
+armory_item_set_ui_infos_name_wh3_main_dae_daemon_prince_slaanesh_set_2	Hoàng Tử Tô Điểm của Slaanesh	false
+armory_item_set_ui_infos_name_wh3_main_dae_daemon_prince_slaanesh_set_3	Quân Khí Dục Vọng	false
+armory_item_set_ui_infos_name_wh3_main_dae_daemon_prince_slaanesh_set_4	Hoàng Tử Gợi Cảm	false
+armory_item_set_ui_infos_name_wh3_main_dae_daemon_prince_tzeentch_set_1	Hoàng Tử Nạm Ngọc của Tzeentch	false
+armory_item_set_ui_infos_name_wh3_main_dae_daemon_prince_tzeentch_set_2	Hoàng Tử Bí Ẩn của Tzeentch	false
+armory_item_set_ui_infos_name_wh3_main_dae_daemon_prince_tzeentch_set_3	Quân Khí Biến Đổi	false
+armory_item_set_ui_infos_name_wh3_main_dae_daemon_prince_tzeentch_set_4	Hoàng Tử Héo Mòn	false
+armory_item_set_ui_infos_name_wh3_pro_mom_trial_champion_set_01	Kẻ Định Đoạt Vận Mệnh	false
+armory_item_set_ui_infos_name_wh3_pro_mom_trial_set	 	false

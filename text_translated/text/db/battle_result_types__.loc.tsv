@@ -1,0 +1,54 @@
+key	text	tooltip
+#Loc;1;text/db/battle_result_types__.loc		
+battle_result_types_result_description_close_defeat	“Chiến thắng đã ở trong tầm tay ngươi… gần đến mức ngươi có thể nếm được nó. Vậy mà, tất cả những gì lịch sử sẽ nhớ đến là ngươi đã thất bại.”	false
+battle_result_types_result_description_close_victory	“Ngươi có thể gọi đó là một chiến thắng, ta gọi đó là sự may mắn.”	false
+battle_result_types_result_description_crushing_defeat	“Ôi chao. Đồng loại của ta đều đang cười nhạo ngươi. Có lẽ lần sau nên thử ra vài mệnh lệnh xem sao?”	false
+battle_result_types_result_description_decisive_defeat	“Ngươi bốc mùi của sự thất bại. Một thứ mùi còn kinh tởm hơn cả một Đại Uế Nhân (Great Unclean One).”	false
+battle_result_types_result_description_decisive_victory	“Không chỉ là một chiến thắng đơn thuần: số mệnh đã được viết lại, định mệnh chấm dứt và những điều bất di bất dịch đã bị thay đổi. Tất cả là vì ngươi.”	false
+battle_result_types_result_description_draw	“Kẻ chiến thắng duy nhất ở đây là Huyết Thần (Blood God), và Ngài không phải chủ nhân của ta!”	false
+battle_result_types_result_description_error_unknown	0	false
+battle_result_types_result_description_failed_challenge	Chỉ huy địch đã đánh bại chúa tể của bạn trong một trận đấu tay đôi.	false
+battle_result_types_result_description_heroic_victory	“Ta chẳng thấy người hùng nào ở đây cả. Chỉ có những quân cờ đang diễn vai của mình. Hãy chứng minh ta sai đi.”	false
+battle_result_types_result_description_pyrrhic_victory	“Một chiến thắng rỗng tuếch. Có lẽ chúng ta nên gọi nó là một thất bại?”	false
+battle_result_types_result_description_successful_challenge	Bạn đã đánh bại chỉ huy địch trong một trận đấu tay đôi. Đội quân của họ đang rút lui.	false
+battle_result_types_result_description_valiant_defeat	“Những kẻ khác sẽ gọi đây là sự quả cảm hay thậm chí là can trường… Nó vẫn là một thất bại.”	false
+battle_result_types_result_description_wh3_demo_defeat	Thêm máu cho Huyết Thần (Blood God)! Thật không ngờ những kẻ phàm trần nhỏ bé lại có thể làm vấy bẩn Tử Cấm Thành Bằng Đồng (Brass Citadel) của Khorne.	false
+battle_result_types_result_description_wh3_demo_victory	Nữ Hoàng Băng Giá (Ice Queen) đã hạ gục kẻ gác cổng và làm vấy bẩn Tử Cấm Thành Bằng Đồng (Brass Citadel). Khorne sẽ thịnh nộ vì sự báng bổ này! Cuộc tìm kiếm những gì đã mất của cô ấy vẫn tiếp tục.	false
+battle_result_types_result_description_wh3_dlc20_survival_altar_of_battle_defeat	Bạn bị ném khỏi Bàn Thờ Chiến Trận (Altar of Battle) trong sự thất bại! Bạn không là gì ngoài một nỗi thất vọng trong mắt Ác Thần (Dark God) của mình.	false
+battle_result_types_result_description_wh3_dlc20_survival_altar_of_battle_victory	Bạn là Quán Quân của Hỗn Mang (Champion of Chaos)! Bạn đã chứng minh được bản thân trước các Ác Thần (Dark Gods) và tất cả những kẻ dám thách thức sức mạnh của bạn!	false
+battle_result_types_result_description_wh3_survival_belakor_defeat	Bạn bị ném khỏi Lò Rèn Linh Hồn (Forge of Souls) trong sự thất bại. Tuy nhiên… nếu bạn nhanh chân lên, có lẽ vẫn còn kịp để ngăn cản Chúa Tể Hắc Ám (Dark Master) đạt được Thần Cách (Godhood). Hãy trở về đế chế của mình và xây dựng một đội quân hùng mạnh hơn để đối mặt với Be’lakor một lần nữa!	false
+battle_result_types_result_description_wh3_survival_belakor_victory	Hãy tận hưởng chiến thắng, vì bạn đã phế truất một Ác Thần mới nổi! Be’lakor sẽ bị ném trở lại vào bóng tối, và phần thưởng đang chờ đợi bạn ở các tầng dưới của lò rèn. 	false
+battle_result_types_result_description_wh3_survival_khorne_defeat	Thêm sọ cho Huyết Thần (Blood God)! Thật không ngờ đội quân thảm hại của bạn lại có thể làm vấy bẩn Tử Cấm Thành Bằng Đồng (Brass Citadel) của Khorne.	false
+battle_result_types_result_description_wh3_survival_khorne_victory	Khorne sẽ thịnh nộ vì sự báng bổ này! Đứng trước Tử Cấm Thành Bằng Đồng (Brass Citadel) và tiêu diệt Kẻ Gác Cổng của Ngài... bạn đã biến mình thành kẻ thù của Huyết Thần nhưng dẫu sao thì bạn cũng đã chiến thắng!	false
+battle_result_types_result_description_wh3_survival_nurgle_defeat	Vùng đất trước dinh thự của Chúa Tể Dịch Bệnh (Plaguelord) luôn khao khát dinh dưỡng, và xác chết từ đội quân của bạn sẽ mưng mủ và làm phân bón cho mảnh đất xú uế này. Thất bại là điều không thể tránh khỏi.	false
+battle_result_types_result_description_wh3_survival_nurgle_victory	Ác Quỷ Vương (Daemon Prince) của Nurgle, Người Làm Vườn (The Gardener), đã bị hạ gục. Hãy chiếm lấy linh hồn của hắn trước khi cơ thể hắn mục nát. Sau đó bạn phải rời đi, vì khi bạn ở gần Thần Phân Hủy (God of Decay) đến vậy, không có sự miễn dịch nào kéo dài được lâu đâu.	false
+battle_result_types_result_description_wh3_survival_slaanesh_defeat	Bạn đã vượt qua Sáu Vòng Tròn Cám Dỗ (Six Circles of Seduction), bản thân nó đã là một kỳ tích đáng kinh ngạc, nhưng việc hành quân đến Cung Điện Slaanesh (Palace of Slaanesh) và đoạt lấy linh hồn méo mó của Kỹ Nữ (Courtesan) lại là một thử thách quá sức. Bạn đã bị đánh bại.	false
+battle_result_types_result_description_wh3_survival_slaanesh_victory	Kỹ Nữ (Courtesan) đã bị tiêu diệt. Bạn đã làm vấy bẩn tận cốt lõi vương quốc của Hắc Ám Vương (Dark Prince) để đoạt lấy phần thưởng của mình. Hãy lấy nó trước khi đội quân của bạn bị dụ vào Cung Điện, nơi mà không một sinh vật nào có thể trở về!	false
+battle_result_types_result_description_wh3_survival_tzeentch_defeat	Nhiệm vụ của bạn kết thúc trong thất bại, đội quân của bạn bị tiêu diệt bởi lực lượng của Đại Pháp Sư (Great Sorcerer) và Ác Quỷ Vương (Daemon Prince) của Ngài. Đã đi được bao xa mà lại thất bại cay đắng thế này… Bạn có thể không biết trước kết quả, nhưng Tzeentch chắc chắn là có.	false
+battle_result_types_result_description_wh3_survival_tzeentch_victory	Ác Quỷ Vương (Daemon Prince) được sủng ái của Tzeentch, Kẻ Giữ Sách (The Librarian), đã bị đánh bại. Việc giành lấy linh hồn của hắn là điều tất yếu… nhưng liệu đó có phải là kế hoạch của Đại Pháp Sư (Great Sorcerer) ngay từ đầu?	false
+battle_result_types_result_screen_name_close_defeat	Thất Bại Sát Nút	false
+battle_result_types_result_screen_name_close_victory	Chiến Thắng Sát Nút	false
+battle_result_types_result_screen_name_crushing_defeat	Thất Bại Thảm Hại	false
+battle_result_types_result_screen_name_decisive_defeat	Thất Bại Quyết Định	false
+battle_result_types_result_screen_name_decisive_victory	Chiến Thắng Quyết Định	false
+battle_result_types_result_screen_name_draw	Hòa	false
+battle_result_types_result_screen_name_error_unknown	LỖI KHÔNG XÁC ĐỊNH	false
+battle_result_types_result_screen_name_failed_challenge	Bị Đánh Bại Trong Quyết Đấu	false
+battle_result_types_result_screen_name_heroic_victory	Chiến Thắng Anh Hùng	false
+battle_result_types_result_screen_name_pyrrhic_victory	Chiến Thắng Trả Giá Đắt	false
+battle_result_types_result_screen_name_successful_challenge	Kẻ Địch Rút Lui	false
+battle_result_types_result_screen_name_valiant_defeat	Thất Bại Quả Cảm	false
+battle_result_types_result_screen_name_wh3_demo_defeat	Thất Bại	false
+battle_result_types_result_screen_name_wh3_demo_victory	Chiến Thắng	false
+battle_result_types_result_screen_name_wh3_dlc20_survival_altar_of_battle_defeat	Thất Bại	false
+battle_result_types_result_screen_name_wh3_dlc20_survival_altar_of_battle_victory	Chiến Thắng	false
+battle_result_types_result_screen_name_wh3_survival_belakor_defeat	Thất Bại	false
+battle_result_types_result_screen_name_wh3_survival_belakor_victory	Chiến Thắng	false
+battle_result_types_result_screen_name_wh3_survival_khorne_defeat	Thất Bại	false
+battle_result_types_result_screen_name_wh3_survival_khorne_victory	Chiến Thắng	false
+battle_result_types_result_screen_name_wh3_survival_nurgle_defeat	Thất Bại	false
+battle_result_types_result_screen_name_wh3_survival_nurgle_victory	Chiến Thắng	false
+battle_result_types_result_screen_name_wh3_survival_slaanesh_defeat	Thất Bại	false
+battle_result_types_result_screen_name_wh3_survival_slaanesh_victory	Chiến Thắng	false
+battle_result_types_result_screen_name_wh3_survival_tzeentch_defeat	Thất Bại	false
+battle_result_types_result_screen_name_wh3_survival_tzeentch_victory	Chiến Thắng	false

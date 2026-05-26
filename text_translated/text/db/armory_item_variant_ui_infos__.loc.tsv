@@ -1,0 +1,946 @@
+key	text	tooltip
+#Loc;1;text/db/armory_item_variant_ui_infos__.loc		
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_armoured_01	Những chiếc găng tay bọc thép vỡ nát vẫn điểm xuyết trên cánh tay, tàn tích hư hại của chúng không gì khác ngoài một minh chứng cho sự kiên cường.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_armoured_02	Găng tay bọc thép nhẹ làm từ da và vảy, đẫm máu kẻ thù của kẻ mang nó.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_armoured_03	Găng tay bọc thép nặng vừa phải, để cân bằng giữa sự cơ động và sức mạnh.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_armoured_04	Găng tay dạng tấm làm từ đồng thau và sắt, một bức tường không thể xuyên thủng giữa kẻ mang nó và những nạn nhân sắp tới.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_armoured_05	Những chiếc gai kim loại sắc nhọn tô điểm cho những chiếc găng tay Khorne đầy đe dọa, gia tăng sự chết chóc tàn bạo cho mọi đòn đánh không vũ khí.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_armoured_06	Tính khí rực lửa của Khorne phồng rộp và bốc cháy trên bề mặt đôi găng tay, được châm ngòi bởi ngọn lửa địa ngục của Hỗn Mang.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_base_01	To lớn và mạnh mẽ, hai cánh tay cuồn cuộn cơ bắp và tràn đầy sức mạnh siêu nhiên.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_base_02	Đôi tay đen nhẻm và bỏng rát, cháy đen hoàn toàn ngoại trừ những viên than hồng rực rỡ còn sót lại, vẫn đang cháy sáng nơi đầu ngón tay. 	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_base_03	Những nguồn năng lượng vặn vẹo của Hỗn Mang chảy qua cánh tay, phát ra ánh sáng đỏ rực rỡ và dữ dội.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_base_04	Một chiếc găng tay kim loại chắc chắn được đeo trên cánh tay, ban sức mạnh vô lượng chỉ trong một cú đấm. 	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_base_05	Một chiếc găng tay bọc thép nhẹ bảo vệ cánh tay, đảm bảo không có nhát chém lạc hướng nào có thể gây hại.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_base_06	Những chiếc gai nhọn hoắt như dao cạo nhô ra từ cánh tay, có khả năng xé toạc cả thịt lẫn xương.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_beast_01	Cánh tay ngắn nhưng cực kỳ vạm vỡ, với bộ lông thô ráp mọc thành từng mảng trên da.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_beast_02	Các cơ bắp trên cánh tay phồng lên và căng ra giữa những đoạn xích quấn chặt.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_beast_03	Những dải da dày quấn quanh mỗi cánh tay, một biện pháp bảo vệ khỏi những nhát chém và đòn đánh nhẹ.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_beast_04	Những chiếc giáp tay bằng đồng thau được đeo trên cổ tay, nơi những chiếc gai kim loại dựng đứng lên trên lớp lông dày. 	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_beast_05	Những mảnh xương và những phần phụ đẫm máu treo trên những tấm kim loại, được hàn chặt vào chính cánh tay.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_beast_06	Đôi bàn tay rực cháy với ngọn lửa hung bạo, một ngọn lửa bỏng rát đốt cháy khắp bề mặt da.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_bird_01	Những cổ tay gầy guộc, giống như chim đỡ lấy đôi bàn tay, nơi những móng vuốt sắc như dao cạo mọc ra, giữ chặt một con mắt luôn cảnh giác, ánh nhìn của nó lướt qua mọi thứ.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_bird_02	Đôi tay được quấn trong những dải kim loại dày, nơi da và lông vũ phồng lên giữa mỗi mắt xích.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_bird_03	Những chiếc giáp tay được trang trí cầu kỳ bao phủ lấy cánh tay, mang lại ít sự chắc chắn.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_bird_04	Toàn bộ cánh tay được bảo vệ bởi một chiếc giáp tay nặng gồm nhiều phần, để lộ rất ít da thịt.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_bird_05	Đôi tay được bao bọc bởi những chiếc ngạnh dày chạy dọc theo chiều dài của chúng, mỗi chiếc đều có khả năng gây ra một vết thương chí mạng. 	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_bird_06	Những chiếc vòng nhỏ trang trí ôm quanh cánh tay, lấp lánh dưới ánh mặt trời.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_corpulent_01	Đôi tay phồng rộp đến kích thước khổng lồ, da thịt thối rữa trên xương.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_corpulent_02	Những chiếc gai mang mầm bệnh nhô ra từ cánh tay, gia tăng sức cắt phá hủy bên cạnh sức nặng khổng lồ của chúng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_corpulent_03	Phần mỡ thừa thãi của cánh tay đã làm vỡ chiếc găng tay bên trên, làm nứt bộ áo giáp và để hở phần da thịt.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_corpulent_04	Chiếc găng tay bọc thép nhẹ căng ra để giữ lấy cánh tay ngày càng béo phì mà nó phải bảo vệ.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_corpulent_05	Một dải kim loại khổng lồ đã được rèn lại với nhau thành một chiếc găng tay xấu xí, bảo vệ mô mỡ mềm mại bên dưới.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_corpulent_06	Từ vai đến đầu ngón tay, cánh tay béo phì, bệnh tật được bảo vệ bởi lớp áo giáp dạng tấm dày và nặng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_flamer_01	Mỗi cánh tay kết thúc bằng một cái miệng ngoạm dữ dội, nhe ra với những chiếc răng nhọn và thường xuyên khạc ra Lửa quỷ (wyrdflame).	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_flamer_02	Những cánh tay được trang trí bằng những dải ngọc và những sợi dây chuyền tinh xảo nhất.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_flamer_03	Trong khi cái miệng ngoạm độc ác vẫn không được che đậy, phần còn lại của cánh tay được bảo vệ bởi một chiếc giáp tay trang trí.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_flamer_04	Được bảo vệ nghiêm ngặt, cánh tay được che chở hoàn toàn bằng lớp giáp tấm nặng nề ngoại trừ cái miệng đói khát ở phần cuối.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_flamer_05	Những chiếc gai lớn mọc ra từ cánh tay gần như sắc bén như những chiếc răng hình kim mà chúng dẫn đến.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_flamer_06	Những chiếc vòng kim loại ôm lấy đôi tay, chẳng có tác dụng gì trong việc đánh lạc hướng sự chú ý khỏi bộ hàm đang đớp lấy một cách dữ dội ở tận cùng của chúng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_moutharm_01	Bàn tay đã biến đổi thành một cái miệng sâu hoắm, nơi mọc ra những hàng răng giống như nanh vuốt.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_moutharm_02	Cái miệng ở cuối cánh tay há rộng để lộ một chiếc lưỡi lớn và nặng nề, nơi những chiếc gai mọc lên không kiểm soát ở phần đầu.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_moutharm_03	Khi cái miệng mở ra và chiếc lưỡi thò ra, móng vuốt sắc nhọn và chết chóc của một con Ruồi Thối phóng ra ở phần đầu.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_moutharm_04	Một nhãn cầu quan sát từ bên trong miệng, dán chặt ánh nhìn vào con mồi tiềm năng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_moutharm_05	Từ cái miệng trên cánh tay quằn quại một xúc tu lố bịch, tầm vươn xa và sự khéo léo của nó là mối đe dọa cho mọi kẻ thù.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_moutharm_06	Một cái lưỡi phóng ra khỏi miệng với tốc độ hung bạo, móng vuốt ở đầu nó chộp lấy mọi thứ mà nó có thể tìm thấy.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_mutated_01	Cánh tay đã biến đổi thành một vũ khí cùn thô kệch và tàn bạo, phần da thịt đúc một cách mất tự nhiên xung quanh một thanh chùy nặng nề.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_mutated_02	Nơi từng là chuôi kiếm, giờ là một đống thịt nơi cánh tay đã mọc ra, giữ chặt lấy lưỡi kiếm của chúng vĩnh viễn.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_mutated_03	Hộp sọ của những kẻ thù bị tàn sát đã hòa vào cánh tay, phần thịt của nó biến đổi để nuốt chửng chúng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_mutated_04	Một chiếc búa khổng lồ mọc ra từ cánh tay thay cho bàn tay, một sự kết hợp đáng sợ giữa thịt và kim loại.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_mutated_05	Đầu của một chiếc rìu nằm ở cuối cánh tay, bị biến đổi một cách ghê tởm thành một công cụ hủy diệt vĩnh viễn.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_mutated_06	Phần thịt của cánh tay xoắn lại và uốn cong quanh một tập hợp những chiếc sừng, những điểm lởm chởm nhô ra tứ phía.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_pincer_01	Lớp da nhẵn của cánh tay nhường chỗ cho phần thịt đặc, bị biến đổi, tạo thành chiếc càng tàn phá nơi từng là bàn tay.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_pincer_02	Cạnh kim loại sắc bén của những chiếc càng có hình răng cưa, có khả năng làm đổ máu một cách dễ dàng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_pincer_03	Những chiếc răng sắc nhọn chạy dọc theo mép lưỡi càng, cắn và xé nát da thịt của mọi thứ chúng chạm tới.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_pincer_04	Những chiếc gai lớn nhô ra từ đỉnh của chiếc càng, khiến cho cả hai bên của phần phụ này đều nguy hiểm chết người như nhau.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_pincer_05	Những chiếc càng được bảo vệ bởi lớp áo giáp trang trí tinh tế, gắn dọc theo chiều dài của chúng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_pincer_06	Một vầng hào quang Ác quỷ mạnh mẽ tỏa ra từ những chiếc càng, gieo rắc sự tha hóa đen tối của Hỗn Mang.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_scythe_01	Phần thịt của cánh tay bị biến đổi hoàn toàn. Nơi từng thuộc về cẳng tay và bàn tay, giờ đây những lưỡi hái thâm độc, chết người mọc lên thay thế.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_scythe_02	Mép lưỡi sắc bén của những chiếc lưỡi hái có răng cưa để cắt qua hàng tá kẻ thù dễ dàng hơn.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_scythe_03	Những chiếc răng nanh chạy dọc theo mép trong của lưỡi kiếm, để kẻ thù có thể cảm nhận được vết cắn của chúng qua mỗi cú vung.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_scythe_04	Trong khi mép trong của mỗi lưỡi hái là một lưỡi kiếm sắc bén chết người, thì mép kia lại đầy gai nhọn, có khả năng tạo ra lực tác động cùn tàn bạo.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_scythe_05	Mỗi chiếc lưỡi hái được gia cố bởi bộ áo giáp trang trí công phu, thu trọn một vẻ đẹp chết người nhất.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_arm_scythe_06	Một nguồn năng lượng Ác quỷ thâm độc và hôi hám rung động từ những chiếc lưỡi hái, làm tha hóa cả không khí mà chúng cắt qua.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_2headed_01	Một cơn ác mộng vặn vẹo của xác thịt Ác quỷ, hai cái đầu di chuyển như một, dính liền với nhau bởi xương và da.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_2headed_02	Từ cái đầu dính liền mọc ra những chiếc sừng lớn, quái dị, một biểu tượng của sức mạnh và ý đồ thâm độc.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_2headed_03	Những chiếc gai dài, đáng sợ nhô ra từ khuôn mặt và hốc mắt.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_2headed_04	Giống như cái đầu nơi chúng mọc ra, những chiếc sừng này đã xoắn lại và dị dạng, hòa nhập làm một.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_2headed_05	Để bọc giáp cho hộp sọ dị dạng, một chiếc mũ trùm đầu xấu xí đã được rèn lại với nhau từ những tấm sắt không đồng bộ.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_2headed_06	Một loạt mũi tên gãy và những thanh kiếm vỡ nát vẫn còn cắm trên hộp sọ, chỉ là những kỷ vật của một trận chiến vinh quang.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_adornedhelmet_01	Chiếc mũ bảo hộ được trang trí nhẹ nhàng với một chùm lông ngắn tô điểm phía sau.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_adornedhelmet_02	Một chiếc mũ trùm đầu với chi tiết tinh xảo, với những chiếc sừng lớn và trang trí công phu mọc ra từ hai bên.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_adornedhelmet_03	Một túm tóc dài buộc túm treo ở phía sau mũ, đung đưa một cách thôi miên theo từng cử động.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_adornedhelmet_04	Được trang trí bằng lông vũ ngay chính giữa, chiếc mũ không chỉ là một tác phẩm nghệ thuật mà còn là một mảnh áo giáp.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_adornedhelmet_05	Những chiếc lông vũ dài trang trí chiếc mũ, tạo nên một vẻ đẹp tàn nhẫn xứng đáng với Hoàng tử Khoái lạc.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_adornedhelmet_06	Qua khe hở hẹp của khe nhìn, ánh sáng hung ác của đôi mắt là tất cả những gì có thể nhìn thấy trên khuôn mặt trong chiếc mũ trùm đầu được tô điểm lộng lẫy này.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_adornedhelmet_7	Chiếc mũ bảo hộ được trang trí nhẹ nhàng, không cần đến những bộ lông vũ hoặc đồ trang sức cầu kỳ.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_adornedhelmet_8	Khuôn mặt được giấu một phần dưới chiếc mặt nạ trang trí, một thứ còn nhiều điều phải bàn.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_base_01	Những chiếc sừng ngắn đâm thủng lớp da, uốn cong thành một chiếc vương miện Ác quỷ khủng khiếp.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_base_02	Một chiếc sừng đứng đó, nứt nẻ và gãy vụn, bị bẻ gãy giữa cuộc tàn sát bạo lực của trận chiến.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_base_03	Sắc bén quái dị như mũi kiếm, những chiếc sừng vươn tới bầu trời tối tăm của Hỗn Mang.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_base_04	Những chiếc sừng nằm thấp, nghiêng đi như thể sẵn sàng đâm xuyên qua nạn nhân bằng một đòn lao tới tàn phá.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_base_05	Được bọc bằng đồng thau, những chiếc sừng thấp, giống như ngọn giáo này chỉ về phía trước với ý đồ chết người. 	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_base_06	Cháy đen cùng tro tàn, những chiếc sừng có đầu nhọn như dao cạo này rực sáng với ngọn lửa vĩnh cửu. 	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_base_10	Những chiếc sừng lớn như dây leo xoắn và xoay quanh nhau, uốn cong vào nhau cho đến khi cấu trúc xương bện chặt vào nhau.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_base_11	Những chiếc sừng lớn, dị dạng được trang trí bằng chuông để cảnh báo kẻ thù về mối nguy hiểm cận kề.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_base_7	Những chiếc sừng mang bệnh dịch đã xuyên qua lớp da để trở thành điểm nhấn chính.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_base_8	Những chiếc sừng mỏng manh này đã uốn cong, vỡ nát và gãy vụn trong sức nóng của trận chiến.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_base_9	Sự ảnh hưởng của Nurgle đã khiến nhiều chiếc gai nhô ra từ hộp sọ, lây nhiễm toàn bộ phần đầu.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_beast_01	Một khuôn mặt có sừng và ghê tởm, từ đó nhô ra những chiếc răng nanh sắc nhọn và cái mõm mang hình hài thú vật. 	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_beast_02	Những chiếc sừng chỉ về phía trước và một cái mõm đeo khuyên là hiện thân vật lý cho cơn thịnh nộ tàn độc của Khorne.  	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_beast_03	Chiếc đầu – thú tính và vặn vẹo – được điểm xuyết bởi những chiếc sừng gãy vụn của một kẻ quá rành rẽ sự tàn bạo và đổ máu.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_beast_04	Những chiến lợi phẩm đẫm máu của những kẻ bị giết treo lơ lửng trên râu và sừng, như một lời cảnh báo rùng rợn cho tất cả.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_beast_05	Bất cứ sự khủng khiếp nào của khuôn mặt đều được giấu kín phía sau chiếc mũ bảo hiểm chắc chắn và tinh xảo này.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_beast_06	Ngọn lửa đáng nguyền rủa từ cơn cuồng nộ giết chóc của Khorne thiêu rụi toàn bộ chiều dài của những chiếc sừng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_bird_01	Được biến đổi theo hình ảnh của Tzeentch, cái đầu có mỏ và được phủ một lớp lông vũ mỏng để phản chiếu tốt hơn những bí ẩn của Chúa tể Sự thay đổi.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_bird_02	Lông vũ kết lại với nhau trên đầu, mọc thành những búi xấu xí.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_bird_03	Cái mỏ sắc nhọn tạo thành một điểm dài và chết người. 	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_bird_04	Vỡ nát và uốn cong không thể sửa chữa, chỉ còn lại những tàn dư của một chiếc mỏ từng rất kiêu hãnh.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_bird_05	Bọc trong bộ áo giáp được trang trí tinh xảo, chiếc mỏ được bảo vệ tốt và trang trí bằng một mặt dây chuyền nổi bật, luôn lơ lửng trong trạng thái thay đổi không ngừng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_bird_06	Được che giấu bởi một chiếc mặt nạ có sừng khủng khiếp, người đội nó vẫn bị bao phủ bởi sự bí ẩn. 	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_bird_7	Ám chỉ hình ảnh của Tzeentch, một cái mỏ nhô ra để phản chiếu hình ảnh của Chúa tể Sự thay đổi.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_bird_8	Bị vặt trụi, gãy và uốn cong đến biến dạng, chỉ còn lại những tàn dư của một chiếc mỏ từng rất kiêu hãnh.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_corpulent_01	Cái đầu nhợt nhạt và sưng húp vì bệnh tật, mang một con mắt duy nhất ở giữa và một chiếc sừng đầy bệnh dịch trên đỉnh.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_corpulent_02	Bị suy yếu do sự thối rữa và phân hủy, những chiếc sừng đã gãy đôi dưới tác động của một đòn đánh hùng mạnh.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_corpulent_03	Những chiếc gai tàn phá mọc ra từ những phần thịt trên khuôn mặt, lây nhiễm toàn bộ cái đầu.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_corpulent_04	Những chiếc sừng lớn, xoắn lại mọc ra từ cái đầu tròn trịa, uốn cong vào nhau cho đến khi cấu trúc xương đan xen vào nhau. 	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_corpulent_05	Những chiếc sừng lớn, dị dạng được trang trí bằng chuông để cảnh báo kẻ thù về mối nguy hiểm sắp xảy ra.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_corpulent_06	Những chiếc sừng ghê tởm giống như những khối u mọc ra từ cái đầu, xoay và vặn vẹo theo mọi hướng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_dreads_01	Những lọn tóc dài nguy hiểm rủ xuống từ đỉnh đầu, bết lại thành những sợi dây thừng dày đặc quằn quại với ý thức của riêng chúng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_dreads_02	Mái tóc nằm phía sau hai chiếc sừng dài và nhô cao uốn cong gợi cảm về phía đầu.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_dreads_03	Những chiếc móc câu cắm vào phần thịt cằm, nối với những chuỗi xích kim loại trang trí.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_dreads_04	Từng lọn tóc riêng lẻ đã hợp nhất với nhau, tạo thành một tổ tết tóc có ý thức.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_dreads_05	Một chiếc mũ trùm đầu lộng lẫy và uyển chuyển được đúc theo hình dạng của khuôn mặt, che kín tất cả ngoại trừ cái miệng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_dreads_06	Phần đầu của mỗi lọn tóc xoắn lại phát sáng một cách kỳ quái cả ngày lẫn đêm.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_fiend_01	Cái đầu mỏng và thon dài thành một cái mõm khủng khiếp có sừng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_fiend_02	Những chiếc sừng mọc ra từ phía sau đầu, bị bẻ gãy bởi một cú đánh đặc biệt nặng nề.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_fiend_03	Vô số sừng mọc ra từ đầu theo mọi hướng, chắc chắn, sậm màu và sắc nhọn một cách thâm độc.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_fiend_04	Phía sau đầu được bọc giáp dày và nặng nề, nơi những chiếc gai kim loại đầy đe dọa nhô ra.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_fiend_05	Phía sau đầu treo hộp sọ và các bộ phận cơ thể khô héo của kẻ thù bị tiêu diệt, lạch cạch một cách đáng ngại theo từng cử động.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_fiend_06	Một cái lưỡi dài, mỏng xé toạc hàm răng, thường xuyên nhỏ dãi thứ nước bọt đặc sệt. 	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_helmeted_01	Đơn giản và không trang trí, chiếc mũ bảo hộ là một phương tiện bảo vệ cơ bản và không gì hơn.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_helmeted_02	Từng nhô ra từ chiếc mũ bảo hộ như hai trụ cột sức mạnh vinh quang, giờ đây một chiếc sừng đứng đó gãy vỡ và nát vụn.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_helmeted_03	Chiếc mũ đã bị nứt do chịu sự trừng phạt nghiền nát từ việc phòng thủ trước những đòn tấn công gây thương tích liên tục.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_helmeted_04	Được chạm khắc những hoa văn phức tạp và tuyệt đẹp, chiếc mũ bảo hộ này đã được điêu khắc với sự chăm chút tinh xảo nhất.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_helmeted_05	Những chiếc sừng đã bị xé toạc khỏi chiếc mũ này và thay thế bằng những chiến lợi phẩm rùng rợn của chiến tranh.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_helmeted_06	Sức mạnh bóng tối và tha hóa của Hỗn Mang cuộn trào qua chiếc mũ, tỏa sáng kỳ quái từ những chiếc sừng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_horror_01	Phía trên cái miệng sâu hoắm là một con mắt duy nhất, cái nhìn của nó gây bất an như những chiếc răng nhọn bên dưới nó.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_horror_02	Cái đầu lớn và dị dạng, gần như bị nuốt chửng bởi chính cái hàm đang há rộng của nó.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_horror_03	Hai chiếc sừng dài uốn lượn nhô ra từ đống thịt nhầy nhụa tạo nên cái đầu.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_horror_04	Những chiếc sừng mọc lên từ đỉnh đầu, cuộn trào với ma thuật mờ mịt và dễ thay đổi như chính hình dạng của cái đầu.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_horror_05	Một xúc tu duy nhất kéo dài từ phía sau đầu, nhẵn thín và sưng húp một cách kỳ cục.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_horror_06	Bộ áo giáp bao phủ phần đỉnh của cái đầu dị dạng và chiếc mũi, bảo vệ những nỗi kinh hoàng nằm bên dưới nó.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_livingarmour_01	Bề mặt của chiếc mũ thô kệch và xấu xí dường như gợn sóng và chuyển động với tri giác, thì thầm những bí mật đen tối với người đội nó.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_livingarmour_02	Chùy của kẻ thù đã đập vỡ một lỗ hổng ở phía trước mũ, để lộ một con mắt đe dọa.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_livingarmour_03	Chiếc mũ đã nứt, bị chẻ đôi bởi một chiếc sừng gãy duy nhất xuyên qua lớp kim loại.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_livingarmour_04	Gầm gừ và đớp, những chiếc răng hung bạo mọc trên mặt trước của chiếc mũ, sống động với ý đồ thâm độc của riêng chúng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_livingarmour_05	Hai xúc tu dài và đung đưa đã đâm xuyên qua lớp vỏ của chiếc mũ, tự động cuộn lại và vặn vẹo.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_livingarmour_06	Bề mặt sống động của chiếc mũ đã biến đổi thành hai chiếc sừng chết người ở hai bên.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_moon_01	Thông qua quá trình biến đổi diện rộng, cái đầu đã méo mó thành một hình dạng khó coi, phản chiếu hình dạng của một vầng trăng khuyết.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_moon_02	Một xúc tu dài, đung đưa mọc ra từ cằm, nhanh nhẹn và sống động theo từng chuyển động.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_moon_03	Nơi từng là một điểm tuyệt vời trên đỉnh đầu, thay vào đó lại tạo thành một phần gốc nứt nẻ, nơi ma thuật liên tục rò rỉ.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_moon_04	Những chiếc răng nanh cực dài và sắc nhọn phóng ra từ hàm dưới mang đến một hiệu ứng đáng sợ. 	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_moon_05	Những vết hằn kỳ lạ chạy dọc trên khuôn mặt theo những hoa văn phức tạp, tỏa sáng nhẹ nhàng với nguồn năng lượng huyền bí.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_moon_06	Một tấm kim loại bọc mặt được trang trí tinh xảo bảo vệ phần đầu, uốn cong rõ rệt che lên một con mắt vàng duy nhất.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_skull_01	Vùng da đầu đã héo mòn và thối rữa, bong tróc để lộ lại duy nhất một hộp sọ Ác quỷ gớm ghiếc.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_skull_02	Những vết nứt sâu chạy qua hộp sọ, lan rộng thành hình mạng nhện từ những vết chém của vũ khí trong các cuộc xung đột gần đây.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_skull_03	Từ hai bên hộp sọ mọc lên những chiếc sừng bằng xương cao, đầy đe dọa.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_skull_04	Lớp da vẫn bám vào hộp sọ ở vùng cổ và cằm, nơi mọc ra một bộ râu bết dính, được tết cùng những chiến lợi phẩm gây kinh tởm từ chiến tranh. 	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_skull_05	Đúc thẳng vào hộp sọ là một chiếc mũ đội đầu chạm khắc tỉ mỉ, làm nổi bật từng đường cong và bóng tối của bộ xương. 	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_skull_06	Ngọn lửa trái tự nhiên gầm thét từ hộp sọ, leo theo đường cong của mỗi chiếc sừng và tạo thành hai cột lửa cao chót vót.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_unclean_01	Cái đầu là một khối thịt gớm ghiếc, béo phì, đổi màu và nhỏ giọt những mầm bệnh chết người.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_unclean_02	Những chiếc sừng mọc ra từ giữa những nếp thịt sưng tấy đã bị thối rữa, khiến chúng vỡ vụn và gãy ngang.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_unclean_03	Đầu rỉ ra chất dịch ôn dịch, mưng mủ thành những nhọt lớn rỉ mủ nổi khắp trên da.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_unclean_04	Cái đầu sưng tấy và gớm ghiếc được đội trên mình một tổ sừng chia nhánh.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_unclean_05	Những hộp sọ và những cái đầu khô lạch cạch với nhau ở phía sau đầu, buộc vào một chiếc sừng duy nhất và được đeo như những chiến lợi phẩm đáng sợ.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_head_unclean_06	Cằm và hàm đều rách nát và dị dạng, bị đẩy lệch do sự quẫy đạp mất kiểm soát của một cái lưỡi khổng lồ, phồng rộp.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_base_01	Những bó cơ lớn bao bọc lấy đôi chân, và mỗi sải bước đều vang lên sức mạnh có thể cảm nhận rõ ràng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_base_02	Những chiến lợi phẩm rùng rợn được buộc quanh thắt lưng, giật lấy một cách tàn nhẫn từ xác của những nạn nhân đã gục ngã.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_base_03	Ngọn lửa Ác quỷ của Vương quốc Hỗn Mang đã thiêu rụi và làm cháy đen bàn chân cùng cẳng chân dưới, khiến lớp da đen nhẻm trở nên rắn chắc và không thể xuyên thủng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_base_04	Từ lớp da thô ráp trên chân nhô lên những chiếc cựa chết người, đủ sắc để lấy máu chỉ bằng một sự đụng chạm nhẹ nhất.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_base_05	Giáp sắt tấm nặng nề bao phủ toàn bộ đôi chân, đóng vai trò bảo vệ vững chắc chống lại bất kỳ loại vũ khí nào.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_base_06	Phần cẳng chân dưới được bảo vệ bởi lớp giáp sắt nặng nề, trong khi phần đùi chủ yếu vẫn không được che đậy.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_beast_01	Đôi chân thú tính dày đặc và ngắn tũn, với những mảng lông thô ráp mọc dày phía trên những chiếc móng chẻ sẫm màu.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_beast_02	Giữa những mảng lông, những sợi xích và vòng đồng được lộ ra, quấn quanh đôi chân và rộn rã năng lượng tha hóa.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_beast_03	Từ những tấm sắt lớn được hàn vào da là nơi treo xương và nỗi buồn của những kẻ bị tàn sát.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_beast_04	Cơ bắp nổi cuồn cuộn giữa mỗi đường xích kim loại không khoan nhượng, kéo căng hoàn toàn quanh chân. 	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_beast_05	Đôi chân được bọc giáp toàn bộ, với những tấm giáp lớn cần thiết để bảo vệ phần đùi rộng lớn.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_beast_06	Trong khi phần đùi vẫn để trần ngoại trừ những mớ lông xơ xác, cẳng chân dưới lại được thắt chặt bằng áo giáp kim loại dày dặn.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_beast_7	Đôi chân thú tính dày đặc và ngắn tũn, với những mảng lông thô ráp mọc dày phía trên những chiếc móng chẻ sẫm màu.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_beast_8	Trong khi phần đùi vẫn để trần ngoại trừ những mớ lông xơ xác, cẳng chân dưới lại được thắt chặt bằng áo giáp kim loại dày dặn.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_bird_01	Những chiếc lông vũ dài che phủ phần đùi của đôi chân thon thả, giống chim này, nhường chỗ cho vùng da thô ráp kéo dài xuống đôi chân vuốt nhọn. 	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_bird_02	Giữa những lớp lông trên đùi là những chiếc gai lớn và chết người mọc lên.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_bird_03	Những vòng nhẫn nhỏ và xích lấp lánh bao quanh mắt cá chân, thu hút ánh nhìn của cả đồng minh lẫn kẻ thù.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_bird_04	Đôi chân xương xẩu, giống chim được bảo vệ hoàn toàn bởi lớp giáp lưới và tấm thép nặng nề, loại bỏ hầu hết các điểm yếu.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_bird_05	Lớp giáp chân nặng nề bằng sắt kéo dài đến tận đầu gối, nơi sự mỏng manh, yếu ớt của đôi chân nhường chỗ cho khối cơ bắp rắn rỏi.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_bird_06	Một mảnh khố được quấn ở eo, phát ra ma thuật kỳ lạ và bí ẩn của Tzeentch.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_bird_7	Lớp giáp chân nặng nề bằng sắt kéo dài đến tận đầu gối; đồ trang sức và hình khắc tô điểm cho các tấm giáp.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_bird_8	Dưới sự ảnh hưởng của Tzeentch, đôi chân này đã được định hình và ban cho móng vuốt để mang hình bóng của Chúa tể Sự thay đổi.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_corpulent_01	Đôi chân mập mạp và phình to, và đầy rẫy sự thối rữa kinh tởm của Nurgle. 	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_corpulent_02	Những mụn mủ kinh tởm trên chân đã vỡ tung, để lộ những chiếc gai lớn mọc xuyên qua lớp da.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_corpulent_03	Đôi chân này mang đầy mầm bệnh dịch, nơi những nốt sần lớn hình thành, rỉ ra thứ mùi hôi thối và mủ gớm ghiếc.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_corpulent_04	Sức mạnh từ sự thối rữa của Nurgle đã ảnh hưởng đến cả áo giáp chân, thứ đã suy yếu và xuống cấp do mục nát và mưng mủ.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_corpulent_05	Trơn tuột với cùng thứ chất nhờn kinh tởm rỏ xuống từ da, những chiếc giáp chân nhẹ nhàng này chẳng làm gì để che giấu thứ mùi hôi thối.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_corpulent_06	Bộ áo giáp bị căng ra dưới nhiệm vụ bao bọc toàn bộ đôi chân, nhưng dẫu sao vẫn cung cấp đủ sự bảo vệ.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_corpulent_7	Bộ áo giáp bị căng ra dưới nhiệm vụ bao bọc toàn bộ đôi chân; những chiếc gai nhọn gây ra vô vàn đau đớn cho bất kỳ kẻ tấn công nào.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_daemonette_01	Đôi chân nhợt nhạt, đi bằng ngón này chủ yếu không được trang bị gì, hoàn toàn phơi bày trước ảnh hưởng tha hóa của Hỗn Mang.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_daemonette_02	Những dải dây kim loại và đồ trang sức tô điểm cho đôi chân, cung cấp một chút bảo vệ nhỏ bé và sự trang trí.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_daemonette_03	Vài chiếc sừng và gai mọc ra một cách ngẫu nhiên từ lớp da, tô điểm cho đôi chân bằng một kiểu trang trí chết chóc nhất.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_daemonette_04	Hộp sọ và các phần phụ teo tóp treo lơ lửng được đính vào một chiếc thắt lưng ở hông, những chiến lợi phẩm vinh quang của chiến đấu và sự thống trị.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_daemonette_05	Đôi chân hầu như để trần, ngoại trừ những chiếc giáp nhẹ đảm bảo diện tích da thịt lớn vẫn được khoe ra.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_daemonette_06	Khi nhu cầu bảo vệ vượt trội hơn so với bất kỳ ý định dâm dục nào, những chiếc giáp cẳng chân nặng nề được đeo lên tận khuỷu chân. 	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_daemonette_7	Đôi chân hầu như để trần, ngoại trừ những chiếc giáp nhẹ đảm bảo diện tích da thịt lớn vẫn được khoe ra.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_legs_daemonette_8	Khi nhu cầu bảo vệ vượt trội hơn so với bất kỳ ý định dâm dục nào, những chiếc giáp cẳng chân nặng nề được đeo lên tận khuỷu chân.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_base_01	Xương sống dẫn đến một cái đuôi Ác quỷ, dài và mượt mà khi chạm vào.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_base_02	Đuôi kết thúc bằng một chiếc gai đồng chí mạng, có khả năng đâm với lực của bất kỳ ngọn giáo nào.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_base_03	Nơi ánh sáng chiếu rọi của ngọn lửa kết thúc, phần thịt bị cháy đen, vôi hóa của chiếc đuôi bắt đầu.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_base_04	Dọc theo chiều dài của đuôi mọc ra những gai nhọn tàn bạo; những mảnh xương sắc nhọn đến mức chúng đã tự đâm thủng da.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_base_05	Giống như một chiếc chùy sống động, những chiếc gai dài mọc ra từ cuối đuôi, có khả năng đánh đập kẻ thù và đập nát hộp sọ của chúng thành những mảnh vụn.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_base_06	Chiếc đuôi được bọc giáp, gia tăng cả sự bảo vệ và trọng lượng cho đòn đánh cùn và nặng nề của nó. 	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_beast_01	Cái đuôi ngắn và dày, với một chùm lông dày xào xạc thô ráp ở đầu mút.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_beast_02	Áo giáp sắt bọc ngoài chiếc đuôi, xấu xí nhưng cứng cáp không thể chối cãi.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_beast_03	Phần dưới của cột sống kéo dài thành cái đuôi dày và nhọn của một con Chó săn Thịt.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_beast_04	Cái đuôi bị quấn chặt bởi những sợi xích, bị kéo trĩu xuống bởi lượng kim loại cồng kềnh.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_beast_05	Phần đuôi đã đột biến và thay đổi, tạo thành một khối thịt đặc, rắn chắc như chiếc chùy.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_beast_06	Lớp thịt cháy đen và lớp da thui chét của chiếc đuôi đã bị tổn thương không thể chữa lành, bị thiêu rụi trong cuộc tàn sát rực lửa của chiến tranh.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_corpulent_01	Một chiếc đuôi béo mập, giống như loài sên rỉ ra chướng khí mục nát của cái chết và sự thối rữa.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_corpulent_02	Bị xói mòn bởi chính sự thối rữa của mình, bộ áo giáp che chắn đuôi đã bị vỡ, cũ nát và yếu ớt.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_corpulent_03	Phủ lên trên những chất tiết nhầy nhụa của chiếc đuôi là một lớp áo giáp nặng nề để che chắn.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_corpulent_04	Những chiếc gai nhô lên trên lớp bụi bẩn bao phủ lớp da của đuôi, vết cắt của chúng chắc chắn sẽ để lại bệnh tật và ốm yếu.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_corpulent_05	Những mụn mủ và mụn sưng húp bao phủ chiếc đuôi, rỉ ra sự thối nát ghê tởm và xảo quyệt của Nurgle.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_corpulent_06	Mỗi khớp sưng tấy và nhiễm trùng của đuôi đều được quấn bằng dây xích, nơi những hộp sọ vỡ vụn của các nạn nhân trong quá khứ bị trói chặt, kéo lê vĩnh viễn phía sau. 	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_fiend_01	Chiếc đuôi nhẵn bóng và mạnh mẽ, luôn trong tư thế sẵn sàng đốt. 	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_fiend_02	Những chiếc vòng trang trí uốn lượn dọc theo chiếc đuôi, làm tăng thêm vẻ tinh tế và quyến rũ ma quái.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_fiend_03	Vẻ ngoài giống bọ cạp của chiếc đuôi chỉ bị che khuất phần nào bởi lớp áo giáp tấm gắn dọc theo chiều dài của nó.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_fiend_04	Chiếc đuôi được che chắn bởi một lớp áo giáp gai kim loại hùng vĩ, bảo vệ nó khỏi kẻ thù của Hỗn mang.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_fiend_05	Những chiếc móc và dây xích quấn quanh chiếc đuôi, gỉ sét và đẫm máu từ đủ mọi thú vui tàn ác.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_fiend_06	Một lưỡi kiếm hình lưỡi hái đã đột biến ở cuối đuôi, có khả năng xiên qua kẻ thù chỉ bằng một cú đâm dã man.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_flamer_01	Một bầu không khí có ý thức huyền bí bao quanh chiếc đuôi, quẫy đập và cắn xé theo ý muốn.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_flamer_02	Được mạ kim loại dày đặc, chiếc đuôi vặn vẹo không thể kiểm soát, tàn phá mọi thứ bằng sức nặng của nó.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_flamer_03	Chiếc đuôi được trang trí bằng những chiếc vòng nhỏ và đồ trang sức, mặc dù là theo sở thích của chủ nhân hay của chính chiếc đuôi vẫn chưa ai rõ.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_flamer_04	Những chiếc răng nhỏ, sắc cạnh mọc dọc theo chiếc đuôi, gây ra hàng ngàn vết cắt chỉ bằng một cú quẹt.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_flamer_05	Những chiếc răng nanh hung hãn, sắc nhọn lấp đầy vô số miệng dọc theo đuôi, mỗi cái đều tìm cách thỏa mãn cơn đói vô tận của chính mình.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_flamer_06	Năng lượng Ác quỷ ma thuật đánh trống dọc theo chiếc đuôi, vừa rực rỡ và quyến rũ vừa làm thối nát.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_living_01	Một cái miệng háu đói, độc ác quẫy đập ở cuối chiếc đuôi, vặn vẹo và quay cuồng tìm kiếm con mồi dễ dàng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_living_02	Được mạ áo giáp dày, chiếc đuôi ngày càng liều lĩnh trong việc háu đói tìm kiếm nạn nhân của mình.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_living_03	Sự trói buộc nghẹt thở của dây xích không làm giảm đi bản chất hung dữ của chiếc đuôi.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_living_04	Những chiếc gai tàn phá trên chiếc đuôi có tri giác này khiến cơn thèm khát sự hỗn loạn của nó càng dễ dàng được thỏa mãn.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_living_05	Những mũi tên và vết sẹo khoét sâu tàn phá chiếc đuôi, nhưng sự thù hận và hung hãn không ngừng của nó vẫn không hề suy giảm.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_living_06	Năng lượng độc ác, khát máu của Khorne thấm nhuần chiếc đuôi, tỏa ra từ nó những làn sóng Hỗn mang của sự căm ghét thuần túy.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_rotfly_01	Một cái miệng sâu hoắm đã hình thành trên đuôi, khao khát được ăn và nuốt chửng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_rotfly_02	Những chiếc gai hung tợn chạy dọc theo chiếc đuôi và quanh miệng, biến phần phụ này thành một vũ khí đáng gờm.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_rotfly_03	Những mụn mủ chứa đầy bệnh tật, đầy bụi bẩn và mủ, lây nhiễm toàn bộ chiếc đuôi.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_rotfly_04	Một chiếc gai độc duy nhất phun ra từ đầu đuôi, mang đến một vết chích chết người. 	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_rotfly_05	Chiếc đuôi kết thúc bằng một gò thịt củ hành độc hại, đầy bệnh tật.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_rotfly_06	Một nhãn cầu trơn trượt và đỏ ngầu ngự ở đầu chiếc đuôi, ánh nhìn của nó sắc bén và kiên định.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_screamer_01	Một chiếc đuôi dài và bồng bềnh kéo dài từ đáy cột sống.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_screamer_02	Sự bồng bềnh của chiếc đuôi được trang trí bằng những vòng kim loại và những sợi dây xích nhẹ.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_screamer_03	Những chiếc gai chết người mọc từ chiếc đuôi, tụ lại ở phần dưới cùng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_screamer_04	Chiếc đuôi bồng bềnh theo dõi kẻ thù của mình thông qua vô số con mắt cảnh giác.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_screamer_05	Những chiếc gai nhọn nhô ra từ chiếc đuôi, khiến bất cứ kẻ ngốc nào đến gần từ phía sau cũng phải chùn bước.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_screamer_06	Những chiếc răng gớm ghiếc với nhiều kích cỡ khác nhau chạy dọc theo chiều dài của chiếc đuôi.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_steed_01	Chiếc đuôi dài và có vây, giống như đuôi của Steed of Slaanesh quyến rũ một cách đồi bại.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_steed_02	Chiếc đuôi có vây được tô điểm bằng những chiếc vòng nhỏ mỏng manh, chỉ dùng để làm tăng thêm vẻ đẹp kỳ lạ của nó.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_steed_03	Tấm kim loại bọc lấy đuôi, tạo thành một lớp vỏ bảo vệ vững chắc.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_steed_04	Những chiếc gai đe dọa mọc lên từ chiếc đuôi, chạy từ gốc đến ngọn.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_steed_05	Sự đột biến đã làm biến đổi chiếc đuôi, thay vì có vây giờ đây nó kết thúc bằng một cụm gai nhọn chết người.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_tail_steed_06	Những đầu sừng mọc ra từ chiếc đuôi, kết quả kinh hoàng của sự thối nát và đột biến.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_adornedarmour_01	Một cơ thể dẻo dai và duyên dáng không rõ giới tính, vừa mạnh mẽ và gớm ghiếc vừa quyến rũ đến kỳ lạ.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_adornedarmour_02	Những hình chạm khắc đẫm máu trang trí phần thịt bị rách của cơ thể, vặn vẹo theo những họa tiết hỗn loạn để tôn vinh Hắc ám vương Slaanesh.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_adornedarmour_03	Cả những viên ngọc lấp lánh và những chiến lợi phẩm rùng rợn đều trang trí cho cơ thể, một minh chứng cho sức mạnh và uy tín trong Vương quốc Hỗn mang.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_adornedarmour_04	Áo giáp nguyên sơ bằng tấm dày được điêu khắc vào cơ thể và vai, ôm sát từng hình dáng và đường cong.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_adornedarmour_05	Áo giáp nặng nề đúc theo cơ thể, để trần đôi vai.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_adornedarmour_06	Áo giáp mỏng và nhẹ, bảo vệ được rất ít và còn che giấu được ít hơn.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_armoured_01	Tấm bảo vệ ngực đã bị nứt và gãy, để lại một vực thẳm khổng lồ ở giữa.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_armoured_02	Dây đeo ngực bằng da buộc vào những miếng đệm vai đơn giản, cả hai đều mang ảnh hưởng rõ rệt của Khorne.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_armoured_03	Tấm che ngực chắc chắn bị nhuốm đỏ bởi máu của những kẻ thù bị hạ gục.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_armoured_04	Nặng nề và mang tính bảo vệ, áo giáp tấm và miếng đệm vai màu đỏ là lớp vỏ bọc khổng lồ thể hiện sức mạnh của Khornate.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_armoured_05	Những chiếc gai lớn nhô ra từ tấm bảo vệ ngực, một màu đỏ đẫm máu hệt như tấm kim loại của chính chiếc áo giáp.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_armoured_06	Các mảng kim loại trang trí cho bộ giáp da, nơi treo các chiến lợi phẩm chiến tranh như một thông điệp điềm báo cho kẻ thù.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_base_01	Cơ thể là một bức tường cơ bắp thuần túy, với Dấu ấn Hỗn mang tự hào trên ngực.  	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_base_02	To lớn và tàn bạo như chính Huyết Thần, cơ thể này mang Dấu ấn cháy bỏng của Khorne. 	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_base_03	Với Dấu ấn của Nurgle hiện rõ trên ngực, cơ thể này là ống dẫn của cái chết và sự thối rữa.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_base_04	Dấu ấn của Slaanesh được tạo hình hoàn hảo tô điểm cho làn da mịn màng, khao khát trên ngực.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_base_05	Thấm nhuần kiến thức bí ẩn và khủng khiếp, Dấu ấn Tzeentch được mang như một dấu ấn tự hào trên cơ thể.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_base_06	Tạo thành hình chữ thập trên ngực, hai dây da chéo tạo nên một mục tiêu chế nhạo kẻ thù của Hỗn mang.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_base_07	Những chiếc sừng và gai nhỏ nhú ra khỏi da, để lại một vệt đầy gai góc ngang qua cơ thể.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_base_08	Cơ thể được che chắn bởi lớp áo giáp dày và nặng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_base_09	Áo giáp nặng bảo vệ ngực, trong khi việc không có miếng đệm vai giúp giảm thiểu mọi hạn chế về khả năng vận động.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_base_10	Những dải áo giáp da đơn giản bảo vệ cơ thể, với những miếng đệm vai dày gắn ở vai.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_bird_01	Cơ thể đã biến dạng và đột biến thành một vóc dáng giống loài chim, với những chùm lông vũ nhẹ nhú ra từ da.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_bird_02	Sức nặng của đồ trang sức nặng trĩu chẳng là gì đối với người mang sức nặng kiến thức đen tối của Tzeentch.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_bird_03	Các dây đai da giữ chặt các lông vũ mọc thành từng mảng dọc theo thân, cung cấp một chút bảo vệ.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_bird_04	Một mảnh giáp ngực nặng nề bảo vệ vóc dáng nhỏ bé của loài chim.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_bird_05	Áo giáp ngực dạng tấm nặng và miếng đệm vai cung cấp sự bảo vệ tối đa trước mọi loại vũ khí.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_bird_06	Những chữ Rune khắc sâu vào cơ thể cuộn xoáy và tỏa sáng với năng lượng ma thuật. 	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_brasscollar_01	Sự thối nát rỉ ra từ những chiếc gai kim loại sắc nhọn của vòng cổ, để lại sự lây nhiễm đen tối tỏa sáng trong huyết quản của người đeo. 	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_brasscollar_02	Bên dưới cổ áo bằng đồng thau là một dải da cứng đeo ngang bụng, được mạ thêm để tăng khả năng bảo vệ.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_brasscollar_03	Dây đai da và kim loại kép vắt chéo ngực, hầu như không che giấu được tác động hư hỏng từ cổ áo phía trên.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_brasscollar_04	Những tấm kim loại lót trên cơ thể, hàn vào da và được tô điểm bằng những chiến lợi phẩm khủng khiếp của cái chết và chiến thắng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_brasscollar_05	Cổ áo nằm chênh vênh giữa những chiếc gai xương lớn nhô ra từ vai và lưng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_brasscollar_06	Những miếng đệm vai bằng lông thú đơn giản bảo vệ vai, gắn vào chiếc vòng cổ bằng đồng Khornate ôm chặt lấy cổ.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_corpulent_01	Một khối thịt và xác thối khổng lồ, cơ thể này đã thối rữa và bốc mùi. 	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_corpulent_02	Những chiếc gai mọc xuyên qua lớp da bụng, ngực và lưng, rỉ bệnh tật từ mọi đầu mút.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_corpulent_03	Những chiếc sừng lớn nhô ra từ khắp cơ thể, thò ra giữa những nếp gấp mỡ dính đầy bụi bẩn.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_corpulent_04	Những nạn nhân mắc bệnh tật và sự thối rữa của Nurgle đã bị treo xương làm chiến lợi phẩm trên cơ thể.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_corpulent_05	Mang theo mầm bệnh chết người, cơ thể bị bao phủ bởi những mụn mủ kinh tởm và sưng tấy, chứa đầy mủ.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_corpulent_06	Những chiếc chuông nhỏ nảy lên và reo vang khi cơ thể lao về phía nạn nhân tiếp theo.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_fiend_01	Một vòng cổ dày bảo vệ cổ, dẫn đến một chiếc đệm vai đặc biệt hấp dẫn bảo vệ một bên vai.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_fiend_02	Dây đai kim loại cố định vào cổ áo, hỗ trợ thêm và bảo vệ với phong cách thanh lịch.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_fiend_03	Cổ áo kéo dài với vẻ duyên dáng và độ cong thu hút ánh nhìn.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_fiend_04	Bộ áo giáp mỏng nhẹ và thoáng khí, để lại rất ít khoảng trống cho trí tưởng tượng. 	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_fiend_05	Cơ thể nhanh nhẹn được bảo vệ bằng áo giáp dày, để trần đôi vai để có sự khéo léo tối đa.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_fiend_06	Sự duyên dáng và uyển chuyển rất khó có được trong một bộ áo giáp nặng nề như vậy, thế nhưng nó lại được đúc theo cơ thể theo một phong cách thanh lịch và quyến rũ.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_livingarmour_01	Áo giáp ẩm ướt khi chạm vào, một bề mặt sống động, vỡ vụn, bị xé toạc bởi lưỡi kiếm của kẻ thù để lộ lớp thịt đổi màu bên dưới.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_livingarmour_02	Bị nứt do những chiếc sừng và gai từ da xuyên qua, áo giáp vẫn chắc chắn và nguyên vẹn.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_livingarmour_03	Dây đai da vắt chéo cơ thể, yếu ớt vì nấm mốc và thối rữa.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_livingarmour_04	Bệnh tật và ôn dịch lây nhiễm chính cấu trúc của mảnh ngực, ăn mòn cả kim loại.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_livingarmour_05	Những miếng đệm vai và áo giáp tấm nặng độc hại tạo thành một lá chắn bảo vệ quanh cơ thể, trong khi kim loại dịch chuyển và sưng tấy với sự sống.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_livingarmour_06	Dây da của áo giáp được buộc bằng những chiến lợi phẩm khủng khiếp của những kẻ bị đánh bại để vinh danh Grandfather Nurgle.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_magical_01	Sự Hỗn mang thuần túy tỏa ra từ cơ thể theo từng làn sóng, giải phóng năng lượng ma thuật mạnh mẽ.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_magical_02	Cơ thể bốc cháy với ngọn lửa dữ dội của Khorne, sương mù thịnh nộ màu đỏ bao trùm lấy làn da.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_magical_03	Năng lượng đen tối và quyến rũ của Slaanesh bao quanh cơ thể, nhịp đập trong bầu không khí quyến rũ.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_magical_04	Luồng chướng khí cay nồng của bụi bẩn và bệnh tật được giải phóng khỏi cơ thể, một đám mây ôn dịch của Nurgle lây nhiễm khu vực xung quanh.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_magical_05	Một luồng ánh sáng vũ trụ, cuộn xoáy bao quanh cơ thể, bao bọc làn da trong phép thuật của Tzeentch.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_magical_06	Khói đen cuồn cuộn bao phủ cơ thể, che giấu nó một phần trong cái ôm tối tăm của nó.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_magical_heavy_1	Sự Hỗn mang thuần túy tỏa ra từ cơ thể theo từng làn sóng, giải phóng năng lượng ma thuật mạnh mẽ.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_magical_heavy_2	Cơ thể bốc cháy với ngọn lửa dữ dội của Khorne, sương mù thịnh nộ màu đỏ bao trùm lấy làn da.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_magical_heavy_3	Năng lượng đen tối và quyến rũ của Slaanesh bao quanh cơ thể, nhịp đập trong bầu không khí quyến rũ.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_magical_heavy_4	Luồng chướng khí cay nồng của bụi bẩn và bệnh tật được giải phóng khỏi cơ thể; một đám mây ôn dịch của Nurgle lây nhiễm khu vực xung quanh.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_magical_heavy_5	Một luồng ánh sáng vũ trụ, cuộn xoáy bao quanh cơ thể, bao bọc làn da trong phép thuật của Tzeentch.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_magical_heavy_6	Khói đen cuồn cuộn bao phủ cơ thể, che giấu nó một phần trong cái ôm tối tăm của nó.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_magical_medium_1	Sự Hỗn mang thuần túy tỏa ra từ cơ thể theo từng làn sóng, giải phóng năng lượng ma thuật mạnh mẽ.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_magical_medium_2	Cơ thể bốc cháy với ngọn lửa dữ dội của Khorne, sương mù thịnh nộ màu đỏ bao trùm lấy làn da.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_magical_medium_3	Năng lượng đen tối và quyến rũ của Slaanesh bao quanh cơ thể, nhịp đập trong bầu không khí quyến rũ.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_magical_medium_4	Luồng chướng khí cay nồng của bụi bẩn và bệnh tật được giải phóng khỏi cơ thể; một đám mây ôn dịch của Nurgle lây nhiễm khu vực xung quanh.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_magical_medium_5	Một luồng ánh sáng vũ trụ, cuộn xoáy bao quanh cơ thể, bao bọc làn da trong phép thuật của Tzeentch.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_magical_medium_6	Khói đen cuồn cuộn bao phủ cơ thể, che giấu nó một phần trong cái ôm tối tăm của nó.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_robed_01	Rách nát, chiếc áo choàng màu xanh dày dặn có một số đôi mắt tò mò nhìn chằm chằm từ ngực.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_robed_02	Áo choàng không tì vết và uy nghi, tạo ra một bầu không khí trang trọng của uy tín.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_robed_03	Các trang từ nhiều cuốn sách thú vị tô điểm cho chiều dài của chiếc áo choàng, chứa đựng kiến thức đen tối và ẩn giấu.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_robed_04	Mặt dây chuyền và dây chuyền treo trên cổ, lấp lánh dưới ánh sáng với đủ loại màu sắc.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_robed_05	Lông chim tôn vinh Chúa tể của sự thay đổi trang trí cho chiếc áo choàng, xòe ra từ dưới vai.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_torso_robed_06	Những miếng đệm vai nhẹ gắn vào chiếc áo choàng, mang lại cả sự bảo vệ và sự bề trên kẻ cả.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_bloodletter_sword_01		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_bloodletter_sword_02		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_bloodletter_sword_03		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_bloodthirster_axe_01		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_bloodthirster_axe_02		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_bloodthirster_axe_03		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_bloodthirster_great_axe_01		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_bloodthirster_great_axe_02		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_bloodthirster_great_axe_03		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_chaos_knight_lance_01		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_chaos_knight_lance_02		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_chaos_knight_lance_03		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_chaos_knight_sword_01		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_chaos_knight_sword_02		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_chaos_knight_sword_03		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_chaos_shield_01		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_chaos_shield_02		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_chaos_shield_03		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_chaos_sorcerer_staff_01		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_chaos_sorcerer_staff_02		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_chaos_sorcerer_staff_03		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_chaos_sword_01		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_chaos_sword_02		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_chaos_sword_03		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_chaos_warrior_sword_01		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_chaos_warrior_sword_02		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_chaos_warrior_sword_03		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_chaos_warrior_sword_04		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_chaos_warrior_sword_05		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_chosen_halberd_01		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_chosen_halberd_02		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_chosen_halberd_03		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_cultist_club_01		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_cultist_club_02		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_doom_knight_lance_01		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_doom_knight_lance_02		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_doom_knight_lance_03		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_doom_knight_shield_01		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_doom_knight_shield_02		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_doom_knight_shield_03		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_dragon_ogre_hammer_01		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_dragon_ogre_hammer_02		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_dragon_ogre_hammer_03		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_dragon_ogre_hammer_04		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_dragon_ogre_shaggoth_axe_01		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_exalted_great_unclean_one_bell_01		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_exalted_keeper_of_secrets_shield_01		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_exalted_keeper_of_secrets_shield_02		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_exalted_keeper_of_secrets_shield_03		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_exalted_keeper_of_secrets_spear_01		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_exalted_lord_of_change_staff_01		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_exalted_lord_of_change_staff_02		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_great_unclean_one_sword_01		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_great_unclean_one_sword_02		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_great_unclean_one_sword_03		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_keeper_of_secrets_sword_01		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_keeper_of_secrets_sword_02		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_keeper_of_secrets_sword_03		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_pink_horror_dagger_01		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_pink_horror_dagger_02		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_pink_horror_dagger_03		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_skullcrusher_halberd_01		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_skullcrusher_halberd_02		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_skullcrusher_halberd_03		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_skullcrusher_shield_01		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_skullcrusher_shield_02		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_skullcrusher_shield_03		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_soulgrinder_sword_01		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_weapon_sword		false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_angelic_01	Mạnh mẽ nhưng mỏng manh, đôi cánh lớn và có lông vũ theo một đường cong lộng lẫy.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_angelic_02	Những chiếc lông vũ lớn quét ra từ dưới lớp áo giáp bảo vệ đôi cánh.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_angelic_03	Màu xám và rách nát, đôi cánh đã bắt đầu héo úa dưới sức nặng của thời gian.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_angelic_04	Vẻ đẹp của đôi cánh được nhấn mạnh bằng những viên đá quý vô giá và những sợi dây chuyền vàng sáng chói.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_angelic_05	Đôi cánh bị vấy bẩn bởi sự thối nát, âm ỉ ngọn lửa đen tối của Hỗn mang.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_angelic_06	Tỏa sáng với sức mạnh, đôi cánh dường như được ban phước với vẻ đẹp thiêng liêng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_base_01	Mặc dù nhiều Daemon Prince mang những đôi cánh khổng lồ trên lưng, nhưng không có sự đột biến nào như vậy biểu hiện ở đây.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_base_02	Một bộ cánh sẫm màu, như da nhô ra từ lưng, mở ra giữa những chiếc gai xương thành một dải da gồ ghề.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_base_03	Đôi cánh được giấu kín dưới lớp áo giáp gia cố, tạo ra một lớp bảo vệ bằng sắt bền bỉ giữa thanh kiếm và da thịt.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_base_04	Những chiếc nanh sắc nhọn, đẫm máu nhô ra ở mỗi khớp của đôi cánh, biến phần phụ này thành vũ khí chết người phục vụ cho Hỗn mang.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_base_05	Đôi cánh bị đen xì và giòn rụm, bị đốt cháy và đột biến bởi than hồng vĩnh cửu của Hỗn mang.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_base_06	Những vết thương chiến tranh để lại sẹo trên đôi cánh này, nơi lớp da căng đét đã bị xé toạc và sờn rách trong sự hỗn loạn của trận chiến.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_beast_01	To lớn và rộng bích, đôi cánh này phủ một bóng đen khổng lồ khi cất cánh, che khuất mặt trời và bỏ lại bóng tối phía sau.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_beast_02	Những tấm kim loại được gắn vào đôi cánh, một bức màn bằng đồng bao phủ những cơ bắp mạnh mẽ.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_beast_03	Những sợi dây xích sắt nặng nề quấn quanh đôi cánh, nơi những hộp sọ bị trói đung đưa một cách đe dọa – một thông điệp gửi đến tất cả những kẻ muốn chuốc lấy cơn thịnh nộ của Khorne.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_beast_04	Với những chiếc sừng dài và xoắn mọc ra từ các khớp nối, đôi cánh tạo ra một bóng hình hùng vĩ, ngay cả giữa những nỗi kinh hoàng của Cõi Chaos.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_beast_05	Sự cuồng nộ và cơn khát máu thổi bùng ngọn lửa của Khorne, thiêu rụi đôi cánh thành màu đen, chỉ còn lại vài tia tàn lửa bất diệt vẫn cháy sáng một cách ám ảnh.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_beast_06	Sự tàn sát và đẫm máu đã để lại dấu ấn qua những vết rách rỉ máu và rãnh khía trên đôi cánh.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_bird_01	Những đôi cánh lông vũ lớn mọc ra từ lưng, giống như của một loài chim săn mồi nhanh nhẹn và khát máu.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_bird_02	Đôi cánh được trang trí bằng ngọc ngà và dây xích, một biểu tượng của sự uy tín khi phục vụ Chúa tể của Sự thay đổi (Lord of Change).	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_bird_03	Ánh sáng rực rỡ vinh quang của những chiếc lông vũ được che chắn bên dưới những tấm áo giáp bảo vệ lớn.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_bird_04	Những chiếc gai và mũi nhọn làm từ xương phơi trần đứng sừng sững, rẽ đôi những chiếc lông vũ của đôi cánh.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_bird_05	Thời gian đã làm héo mòn đôi cánh này, bị hủy hoại bởi lớp da trần và những chiếc lông rụng thành từng mảng tơi tả.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_bird_06	Đôi cánh rực cháy với một ngọn lửa huyền bí, năng lượng Daemonic phun trào từ chúng trong những làn sóng ma thuật Tzeentchian.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_bird_7	Những đôi cánh héo mòn cũ kỹ này được bao phủ bởi xương lộ ra ngoài với những chiếc gai nhô ra phía ngoài.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_chaos_01	Đôi cánh giống rồng khổng lồ này được sinh ra để bay lượn, làm đen tối cả bầu trời khi giang rộng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_chaos_02	Được trang bị những tấm giáp lớn, những phần dễ bị tổn thương nhất của đôi cánh được bảo vệ.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_chaos_03	Đôi cánh bị xích lại ở các khớp nối, nơi những chiếc đầu lâu phong hóa được gắn chặt, đóng vai trò như những sứ giả của sự diệt vong.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_chaos_04	Những chiếc nanh lớn mọc ra từ các khớp của đôi cánh, xé toạc không khí khi bay.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_chaos_05	Đôi cánh bị thiêu rụi thành màu đen, bị đốt cháy thê thảm bởi những ngọn lửa địa ngục của Cõi Hỗn mang (Chaos Realms).	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_chaos_06	Đôi cánh mang đầy vết sẹo và rách nát, bị tàn phá bởi sự khắc nghiệt của vô số trận chiến.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_corpulent_01	Căn bệnh nguy hiểm rỉ ra từ đôi cánh này, lây nhiễm cho tất cả những kẻ xui xẻo rơi xuống dưới cái bóng của chúng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_corpulent_02	Một đợt dịch bệnh của những vết loét hôi thối trên đôi cánh bị xé toạc ra bởi những chiếc gai độc nhô lên từ bên dưới.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_corpulent_03	Dù được bọc thép kỹ lưỡng, không có áo giáp nào có thể che giấu sự mục nát đang ăn mòn đôi cánh này.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_corpulent_04	Những hộp sọ buộc trên đôi cánh này bị đàn ruồi bâu kín khi chúng đánh hơi theo mùi hôi thối đặc trưng của sự phân hủy.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_corpulent_05	Những nốt nhọt mủ và máu mụn rộp rộp trên đôi cánh, không ngừng rỉ ra căn bệnh chết người.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_corpulent_06	Bị thoái hóa bởi chính độc tính của mình, đôi cánh này bị rách nát và mục nát, yếu đi bởi dịch bệnh đang tàn phá da thịt của chúng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_magical_01	Những nguồn năng lượng thuần khiết và không pha loãng của Chaos gợn sóng lan tỏa ra với mỗi nhịp đập của đôi cánh hùng mạnh này.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_magical_02	Cơn thịnh nộ rực lửa của Huyết Thần bùng cháy từ đôi cánh này trong những ngọn lửa cao vút, liếm láp cả bầu trời.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_magical_03	Xinh đẹp và có đường nét tinh tế, đôi cánh cất cánh với một vẻ duyên dáng tỏa ra nguồn năng lượng đen tối và gợi cảm của Slaanesh.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_magical_04	Đôi cánh này mang theo những bệnh dịch của Nurgle, để lại những đám mây dịch bệnh lớn phía sau chúng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_magical_05	Năng lượng huyền bí chảy từ đôi cánh này, bao quanh chúng bằng một ma thuật mạnh mẽ và bí ẩn.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_magical_06	Một vệt khói vĩnh cửu theo sau đôi cánh này, dịch chuyển và vặn vẹo theo những khuôn mẫu không thể lặp lại.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_rotfly_01	Đôi cánh mỏng manh, thối rữa của một con Ruồi Thối (Rot Fly) mọc ra từ lưng, theo sau là căn bệnh hôi thám tồi tệ nhất của Nurgle.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_rotfly_02	Áo giáp trang trí cho đôi cánh, mặc dù đã bị suy yếu đi do sự thối rữa đầy mục nát của chúng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_rotfly_03	Các khớp của đôi cánh mọc ra những chiếc nanh đang phát triển, được bao phủ bởi sự nhơ nhuốc và lây nhiễm.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_rotfly_04	Một làn khói khí độc làm ô nhiễm không khí xung quanh đôi cánh, được giải phóng từ việc liên tục bơm các bào tử.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_rotfly_05	Đôi cánh tỏa ra một đám mây độc hại, làm ngột ngạt chính bầu không khí xung quanh chúng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_rotfly_06	Đôi cánh của Ruồi Thối (Rot Fly) bị tổn thương nghiêm trọng với những vết rách lớn làm hỏng cấu trúc của chúng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_sensuous_01	Lớp da nhẵn nhụi, nhợt nhạt của đôi cánh bị chia cắt bởi vô số vết sẹo, làm biến dạng lớp thịt mỏng manh, nổi gân giữa mỗi khớp.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_sensuous_02	Đôi cánh được bọc thép, che giấu phần thịt yếu ớt nhất trong vòng tay bảo vệ của nó.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_sensuous_03	Lớp da mỏng manh, xám ngoét của đôi cánh bị xé toạc, xé rách và tàn phá từ những thử thách khắc nghiệt và tàn nhẫn của chiến tranh.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_sensuous_04	Những chiếc móc kim loại rỉ sét ghim chặt lấy đôi cánh, giữa chúng là những sợi dây chuyền nặng nề được quấn quanh.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_sensuous_05	Nơi da thịt nhợt nhạt gặp xương, những chiếc nanh sắc nhọn mọc ra, tạo ra một mũi nhọn chết người ở mỗi khớp của đôi cánh.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_sensuous_06	Phép thuật gợn sóng và nhấp nhô qua lại xung quanh đôi cánh, phát sáng mờ ảo với những năng lượng huyền bí.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_slaughterbrute_01	Lớn và cơ bắp, đôi cánh vươn ra với sức mạnh và quyền lực tàn bạo.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_slaughterbrute_02	Đôi cánh được bọc áo giáp nhẹ, cung cấp sự bảo vệ khỏi những mũi tên và lưỡi kiếm được nhắm đến.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_slaughterbrute_03	Những chiếc đầu lâu sứt mẻ vì trận mạc được trói vào đôi cánh, treo trên những dây xích ở các khớp nối.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_slaughterbrute_04	Từ các khớp của đôi cánh, những chiếc gai xương lớn mọc thành một mũi nhọn hoắt sắc lẹm, đầy đe dọa.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_slaughterbrute_05	Khi năng lượng Daemonic của Khorne xung động qua lớp màng, mỗi nhịp đập của đôi cánh đều tỏa ra sự sa đọa của nó.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_slaughterbrute_06	Từng bị giáng một đòn tấn công hủy diệt, đôi cánh vẫn trong tình trạng rách nát và rách tơi tả.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_tentacles_01	Những xúc tu lớn mọc ra từ lưng, quằn quại một cách điên cuồng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_tentacles_02	Những chiếc gai dày, màu đen bao phủ bề mặt vốn dĩ nhẵn bóng của các xúc tu.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_tentacles_03	Các xúc tu được bao quanh bởi những chiếc vòng kim loại, sắc bén lấp lánh khi ánh sáng chiếu vào bề mặt của chúng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_tentacles_04	Một bộ sưu tập những con mắt kỳ cục nhìn chằm chằm ra từ các xúc tu, nhấp nháy một cách tò mò từ giữa những chiếc sừng quái dị.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_tentacles_05	Các xúc tu có phần đỉnh là những chiếc nanh tàn phá, dài và được mài sắc đến một điểm tà ác.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_tentacles_06	Các xúc tu ngập tràn năng lượng Daemonic, gợn sóng rõ rệt bên dưới lớp da.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_trophies_01	Sừng và răng bị xé ra từ những xác chết tươi rói của những kẻ chiến bại treo trên những sợi dây xích trên lưng, những chiến lợi phẩm của sự tàn sát và chiến thắng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_trophies_02	Từ hai cọc gắn trên lưng treo vô số những thanh kiếm của con người, tất cả đều được nhổ ra từ tay của những người đã chết.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_trophies_03	Hộp sọ người treo lủng lẳng để trưng bày, bị đâm xuyên một cách tàn bạo trên hai cái cọc gắn cố định ở vai.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_trophies_04	Một lồng ngực hoàn chỉnh và một loại xương sọ khủng khiếp, tất cả đều được trưng bày và đính kèm với những chuỗi xích trên lưng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_trophies_05	Rất nhiều trang sức và dây xích treo từ phía sau lưng trên hai chiếc cột, phần lớn vẫn đẫm máu từ những cuộc tàn sát để giành lấy chúng.	false
+armory_item_variant_ui_infos_description_wh3_main_dae_cha_daemon_prince_wings_trophies_06	Ngọn lửa siêu nhiên thiêu rụi lá cờ đáng ghét của Đế chế khi nó treo ở trên lưng, bốc cháy vĩnh viễn.	false
+armory_item_variant_ui_infos_description_wh3_pro10_mom_trial_dae_cha_daemon_prince_arm_l_0	Toàn bộ chi được bao quanh bởi năng lượng bí ẩn, thiêu đốt với sức nóng không thể chịu đựng nổi.	false
+armory_item_variant_ui_infos_description_wh3_pro10_mom_trial_dae_cha_daemon_prince_arm_r_0	Cánh tay này gào thét đòi một thanh kiếm để hoàn thiện nó, mang theo những ngọn lửa ma thuật của Tzeentch.	false
+armory_item_variant_ui_infos_description_wh3_pro10_mom_trial_dae_cha_daemon_prince_head_0	Một sức nóng rực lửa có thể nhìn thấy phía sau đôi mắt, cứ như thể ngọn lửa Tzeentchian màu xanh đang thiêu đốt chính hộp sọ.	false
+armory_item_variant_ui_infos_description_wh3_pro10_mom_trial_dae_cha_daemon_prince_legs_0	Những cơ bắp mạnh mẽ căng lên dưới da, ngứa ngáy muốn xông tới những kẻ thù của Kẻ Âm Mưu Vĩ Đại (Great Conspirator).	false
+armory_item_variant_ui_infos_description_wh3_pro10_mom_trial_dae_cha_daemon_prince_tail_0	Chuyển động và uốn khúc, chiếc đuôi này cắt ngang không khí với vẻ duyên dáng như rắn và một sức mạnh chết chóc.	false
+armory_item_variant_ui_infos_description_wh3_pro10_mom_trial_dae_cha_daemon_prince_torso_0	Từng thớ cơ bắp được thấm nhuần năng lượng huyền bí, chống lại những phép thuật hắc ám nhất.	false
+armory_item_variant_ui_infos_description_wh3_pro10_mom_trial_dae_cha_daemon_prince_weapon_0	Năng lượng tà thuật tà ác rỉ ra từ lưỡi kiếm, cho phép nó cắn xuyên qua áo giáp và làm suy yếu mọi sự kháng cự đối với bùa phép.	false
+armory_item_variant_ui_infos_description_wh3_pro10_mom_trial_dae_cha_daemon_prince_weapon_1	Lưỡi của thanh kiếm này có thể cắt xuyên qua bất cứ thứ gì, cho phép năng lượng hắc ám của Tzeen'neth thấm vào mọi vết chém.	false
+armory_item_variant_ui_infos_description_wh3_pro10_mom_trial_dae_cha_daemon_prince_weapon_2	Những tua cuốn bí ẩn làm tê liệt tỏa ra từ lưỡi kiếm tàn phá này, khiến các nạn nhân của nó bất lực trước Những ngọn gió Ma thuật (Winds of Magic).	false
+armory_item_variant_ui_infos_description_wh3_pro10_mom_trial_dae_cha_daemon_prince_wings_0	Các xúc tu có sự sống và có khả năng hút năng lượng bí ẩn từ chính không khí.	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_armoured_01	Bao tay vỡ vụn	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_armoured_02	Bao tay giáp nhẹ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_armoured_03	Bao tay giáp trung bình	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_armoured_04	Bao tay giáp nặng	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_armoured_05	Bao tay gai góc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_armoured_06	Bao tay rực lửa	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_base_01	Cánh tay cơ bắp	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_base_02	Cánh tay bị cháy sém	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_base_03	Cánh tay quỷ dữ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_base_04	Bao tay nặng	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_base_05	Bao tay nhẹ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_base_06	Gai tay	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_beast_01	Cánh tay quái thú	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_beast_02	Cánh tay quái thú bị xích	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_beast_03	Cánh tay quái thú có dây đai	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_beast_04	Vòng tay gai góc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_beast_05	Cánh tay chiến lợi phẩm	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_beast_06	Bàn tay bốc cháy	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_bird_01	Cánh tay chim	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_bird_02	Cánh tay được trang sức	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_bird_03	Vòng tay trang trí	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_bird_04	Vòng tay nặng	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_bird_05	Cánh tay gai góc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_bird_06	Cánh tay được trang trí	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_corpulent_01	Cánh tay phì nộn	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_corpulent_02	Cánh tay phì nộn gai góc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_corpulent_03	Bao tay quá khổ bị vỡ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_corpulent_04	Giáp nhẹ căng cứng	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_corpulent_05	Giáp trung bình quá khổ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_corpulent_06	Giáp nặng quá khổ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_flamer_01	Cánh tay cắn xé	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_flamer_02	Cánh tay cắn xé có trang sức	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_flamer_03	Vòng tay nhẹ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_flamer_04	Vòng tay nặng	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_flamer_05	Cánh tay cắn xé gai góc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_flamer_06	Cánh tay cắn xé có vòng	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_moutharm_01	Cánh tay răng cưa	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_moutharm_02	Lưỡi chùy	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_moutharm_03	Lưỡi ruồi thối	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_moutharm_04	Cánh tay quan sát	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_moutharm_05	Cánh tay xúc tu	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_moutharm_06	Cánh tay lưỡi móng vuốt	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_mutated_01	Cánh tay đột biến	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_mutated_02	Kiếm đột biến	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_mutated_03	Hộp sọ đột biến	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_mutated_04	Búa đột biến	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_mutated_05	Rìu đột biến	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_mutated_06	Sừng đột biến	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_pincer_01	Càng đột biến	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_pincer_02	Càng răng cưa	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_pincer_03	Càng răng nanh	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_pincer_04	Càng gai góc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_pincer_05	Càng trang trí	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_pincer_06	Càng quỷ dữ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_scythe_01	Cánh tay lưỡi hái	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_scythe_02	Lưỡi hái răng cưa	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_scythe_03	Lưỡi hái có răng nanh	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_scythe_04	Lưỡi hái gai góc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_scythe_05	Lưỡi hái điểm xuyết	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_arm_scythe_06	Lưỡi hái quỷ dữ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_2headed_01	Những cái đầu hợp nhất	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_2headed_02	Những cái đầu có sừng	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_2headed_03	Những cái đầu gai góc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_2headed_04	Những cái sừng hợp nhất	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_2headed_05	Mũ giáp hợp nhất	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_2headed_06	Những cái đầu mang sẹo chiến trận	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_adornedhelmet_01	Mũ giáp điểm xuyết	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_adornedhelmet_02	Mũ giáp có sừng được trang trí	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_adornedhelmet_03	Mũ giáp có tua rua	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_adornedhelmet_04	Mũ giáp có lông chim	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_adornedhelmet_05	Mũ giáp gắn lông vũ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_adornedhelmet_06	Mũ giáp toàn diện	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_adornedhelmet_7	Mũ giáp khiêm nhường	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_adornedhelmet_8	Mũ giáp giả dạng	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_base_01	Sừng quỷ dữ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_base_02	Sừng lởm chởm	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_base_03	Sừng vót nhọn	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_base_04	Sừng xung kích	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_base_05	Sừng xung kích bọc đồng	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_base_06	Sừng địa ngục	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_base_10	Sừng xoắn	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_base_11	Sừng buộc chuông	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_base_7	Cặp sừng kép	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_base_8	Sừng gãy	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_base_9	Đầu nhô ra	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_beast_01	Diện mạo quái thú	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_beast_02	Sừng xung kích quái thú	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_beast_03	Sừng quái thú lởm chởm	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_beast_04	Sừng chiến lợi phẩm	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_beast_05	Mũ giáp trang trí công phu	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_beast_06	Sừng Khornate Địa ngục	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_bird_01	Đặc điểm của loài chim	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_bird_02	Lông vũ hoang dã	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_bird_03	Mỏ sắc nhọn	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_bird_04	Mỏ bị vỡ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_bird_05	Mỏ bọc giáp	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_bird_06	Mặt nạ sừng	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_bird_7	Mỏ không có lông	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_bird_8	Mỏ gãy bị vặt lông	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_corpulent_01	Đầu phì nộn	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_corpulent_02	Sừng vỡ phì nộn	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_corpulent_03	Đầu gai góc phì nộn	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_corpulent_04	Sừng hợp nhất phì nộn	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_corpulent_05	Sừng buộc chuông phì nộn	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_corpulent_06	Sừng phân nhánh	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_dreads_01	Lọn tóc quỷ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_dreads_02	Sừng gợi cảm	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_dreads_03	Cằm khoằm	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_dreads_04	Lọn tóc hợp nhất	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_dreads_05	Phụ kiện đầu trang trí	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_dreads_06	Lọn tóc thần bí	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_fiend_01	Đầu quỷ dữ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_fiend_02	Đầu quỷ dữ bị hỏng	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_fiend_03	Đầu quỷ dữ có sừng	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_fiend_04	Đầu quỷ dữ bọc giáp	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_fiend_05	Đầu quỷ dữ chiến lợi phẩm	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_fiend_06	Lưỡi quỷ dữ khổng lồ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_helmeted_01	Mũ giáp đơn giản	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_helmeted_02	Mũ giáp sừng gãy	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_helmeted_03	Mũ giáp nứt nẻ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_helmeted_04	Mũ giáp chạm khắc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_helmeted_05	Mũ giáp chiến lợi phẩm	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_helmeted_06	Mũ giáp sa ngã	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_horror_01	Kẻ kinh hoàng một mắt	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_horror_02	Đầu kinh hoàng	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_horror_03	Kẻ kinh hoàng có sừng	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_horror_04	Kẻ kinh hoàng sừng thần bí	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_horror_05	Kẻ kinh hoàng xúc tu	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_horror_06	Kinh Hoàng Bọc Giáp	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_livingarmour_01	Mũ Giáp Sống	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_livingarmour_02	Mũ Giáp Sống Há Mõm	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_livingarmour_03	Mũ Giáp Sống Vỡ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_livingarmour_04	Mũ Giáp Đa Răng	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_livingarmour_05	Mũ Giáp Xúc Tu	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_livingarmour_06	Mũ Giáp Sống Có Sừng	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_moon_01	Đầu Lưỡi Liềm	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_moon_02	Lưỡi Liềm Xúc Tu	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_moon_03	Lưỡi Liềm Vỡ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_moon_04	Lưỡi Liềm Nanh Nhọn	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_moon_05	Lưỡi Liềm Đánh Dấu	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_moon_06	Lưỡi Liềm Trang Trí	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_skull_01	Đầu Lâu Ác Quỷ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_skull_02	Đầu Lâu Sẹo Chiến Trận	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_skull_03	Đầu Lâu Có Sừng	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_skull_04	Đầu Lâu Chiến Lợi Phẩm	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_skull_05	Đầu Lâu Trang Trí	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_skull_06	Đầu Lâu Bốc Lửa	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_unclean_01	Đầu Gớm Ghiếc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_unclean_02	Đầu Vỡ Sừng	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_unclean_03	Đầu Dịch Hạch	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_unclean_04	Sừng Phân Nhánh	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_unclean_05	Đầu Gớm Ghiếc Chiến Lợi Phẩm	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_head_unclean_06	Lưỡi Bẩn Thỉu	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_base_01	Chân Ác Quỷ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_base_02	Chân Chiến Lợi Phẩm	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_base_03	Chân Cháy Khét	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_base_04	Chân Gai Góc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_base_05	Giáp Chân Nặng	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_base_06	Giáp Chân Trung	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_beast_01	Chân Dã Thú	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_beast_02	Chân Ô Uế	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_beast_03	Chân Dã Thú Chiến Lợi Phẩm	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_beast_04	Chân Bị Xích	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_beast_05	Giáp Đùi Dã Thú	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_beast_06	Giáp Ống Chân Dã Thú	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_beast_7	Móng Guốc Chẻ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_beast_8	Giáp Ống Chân Móng Chẻ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_bird_01	Chân Avian	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_bird_02	Chân Avian Gai Góc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_bird_03	Chân Trang Trí	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_bird_04	Giáp Đùi Avian	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_bird_05	Giáp Ống Chân Avian	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_bird_06	Khố Thần Bí	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_bird_7	Giáp Ống Chân Nạm Ngọc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_bird_8	Chân Vuốt	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_corpulent_01	Chân Phì Nộn	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_corpulent_02	Gai Chân Dịch Bệnh	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_corpulent_03	Chân Dịch Hạch	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_corpulent_04	Giáp Ống Chân Mục Nát	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_corpulent_05	Giáp Ống Chân Nhẹ Bệnh Tật	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_corpulent_06	Giáp Đùi Bệnh Tật	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_corpulent_7	Giáp Đùi Gai Bệnh Tật	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_daemonette_01	Chân Daemonette	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_daemonette_02	Dây Đai Chân Daemonette	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_daemonette_03	Chân Daemonette Gai Góc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_daemonette_04	Chân Daemonette Chiến Lợi Phẩm	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_daemonette_05	Giáp Ống Chân Nhẹ Daemonette	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_daemonette_06	Giáp Ống Chân Daemonette	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_daemonette_7	Giáp Ống Chân Nhẹ Daemonette	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_legs_daemonette_8	Giáp Ống Chân Daemonette	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_base_01	Đuôi Ác Quỷ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_base_02	Đuôi Bịt Đồng	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_base_03	Đuôi Cháy Khét	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_base_04	Đuôi Có Gai	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_base_05	Đuôi Gai Góc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_base_06	Đuôi Bọc Giáp	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_beast_01	Đuôi Dã Thú	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_beast_02	Đuôi Dã Thú Bọc Giáp	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_beast_03	Đuôi Flesh Hound	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_beast_04	Đuôi Dã Thú Bị Xích	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_beast_05	Đuôi Dã Thú Bọc Chùy	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_beast_06	Đuôi Dã Thú Cháy Khét	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_corpulent_01	Đuôi Phì Nộn	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_corpulent_02	Giáp Đuôi Bị Bào Mòn	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_corpulent_03	Đuôi Phì Nộn Bọc Giáp	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_corpulent_04	Gai Đuôi Dịch Bệnh	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_corpulent_05	Mụn Nhọt Đuôi Dịch Hạch	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_corpulent_06	Đuôi Xích Sưng Tấy	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_fiend_01	Đuôi Fiendish	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_fiend_02	Đuôi Trang Trí	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_fiend_03	Đuôi Fiendish Bọc Giáp	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_fiend_04	Giáp Đuôi Gai Góc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_fiend_05	Đuôi Fiendish Bị Xích	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_fiend_06	Đuôi Dao Khấu	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_flamer_01	Đuôi Đớp	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_flamer_02	Đuôi Đớp Bọc Giáp	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_flamer_03	Đuôi Đớp Trang Trí	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_flamer_04	Đuôi Đa Răng	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_flamer_05	Đuôi Đa Mõm	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_flamer_06	Đuôi Óng Ánh	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_living_01	Đuôi Nhận Thức	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_living_02	Đuôi Nhận Thức Bọc Giáp	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_living_03	Đuôi Nhận Thức Bị Xích	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_living_04	Đuôi Nhận Thức Gai Góc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_living_05	Đuôi Từng Trải Kì Cựu	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_living_06	Đuôi Khát Máu	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_rotfly_01	Đuôi Rot Fly	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_rotfly_02	Đuôi Rot Fly Gai Góc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_rotfly_03	Đuôi Rot Fly Dịch Hạch	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_rotfly_04	Đuôi Rot Fly Chứa Độc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_rotfly_05	Đuôi Rot Fly Bọc Chùy	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_rotfly_06	Nhãn Cầu	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_screamer_01	Đuôi Screamer	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_screamer_02	Đuôi Screamer Trang Trí	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_screamer_03	Đuôi Screamer Gai Góc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_screamer_04	Đuôi Screamer Cảnh Giác	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_screamer_05	Đuôi Screamer Có Gai	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_screamer_06	Đuôi Screamer Đa Răng	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_steed_01	Đuôi Chiến Mã	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_steed_02	Đuôi Chiến Mã Trang Trí	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_steed_03	Đuôi Chiến Mã Bọc Giáp	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_steed_04	Đuôi Chiến Mã Gai Góc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_steed_05	Đuôi Chiến Mã Có Sừng	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_tail_steed_06	Đầu Đuôi Sừng	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_adornedarmour_01	Thân Hình Linh Hoạt	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_adornedarmour_02	Thân Hình Chạm Khắc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_adornedarmour_03	Thân Hình Trang Trí	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_adornedarmour_04	Giáp Tinh Khôi	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_adornedarmour_05	Giáp Đúc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_adornedarmour_06	Giáp Khêu Gợi	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_armoured_01	Giáp Ngực Vỡ Nát	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_armoured_02	Đai Thân Bọc Giáp	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_armoured_03	Giáp Khornate	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_armoured_04	Giáp Khornate Nặng	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_armoured_05	Giáp Khornate Gai Góc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_armoured_06	Chiến Lợi Phẩm Của Khorne	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_base_01	Dấu Ấn Hỗn Mang	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_base_02	Dấu Ấn Khorne	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_base_03	Dấu Ấn Nurgle	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_base_04	Dấu Ấn Slaanesh	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_base_05	Dấu Ấn Tzeentch	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_base_06	Giáp Da	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_base_07	Thân Mình Gai Góc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_base_08	Giáp Tấm	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_base_09	Giáp Trung	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_base_10	Giáp Nhẹ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_bird_01	Thân Hình Avian	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_bird_02	Ngực Nạm Ngọc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_bird_03	Giáp Nhẹ Avian	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_bird_04	Giáp Nặng Avian	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_bird_05	Giáp Tấm Avian	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_bird_06	Cổ Ngữ Avian	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_brasscollar_01	Vòng Cổ Gai Góc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_brasscollar_02	Đai Bụng	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_brasscollar_03	Vòng Cổ & Dây Đai	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_brasscollar_04	Vòng Cổ Chiến Lợi Phẩm	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_brasscollar_05	Thân Mình Đầy Gai	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_brasscollar_06	Giáp Nhẹ Dã Thú	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_corpulent_01	Thân Mình Phì Nộn	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_corpulent_02	Thân Mình Phì Nộn Gai Góc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_corpulent_03	Thân Mình Phì Nộn Có Sừng	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_corpulent_04	Thân Mình Phì Nộn Chiến Lợi Phẩm	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_corpulent_05	Thân Mình Phì Nộn Dịch Hạch	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_corpulent_06	Thân Mình Phì Nộn Gắn Chuông	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_fiend_01	Thân Hình Fiendish	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_fiend_02	Dây Đai Fiendish	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_fiend_03	Vòng Cổ Fiendish	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_fiend_04	Giáp Nhẹ Fiendish	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_fiend_05	Giáp Trung Fiendish	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_fiend_06	Giáp Nặng Fiendish	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_livingarmour_01	Giáp Forsaken Vỡ Nát	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_livingarmour_02	Giáp Forsaken Gai Góc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_livingarmour_03	Giáp Nhẹ Forsaken	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_livingarmour_04	Giáp Trung Forsaken	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_livingarmour_05	Giáp Nặng Forsaken	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_livingarmour_06	Giáp Forsaken Chiến Lợi Phẩm	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_magical_01	Thân Thể Hỗn Mang	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_magical_02	Thân Thể Rực Lửa	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_magical_03	Thân Thể Quyến Rũ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_magical_04	Thân Thể Bệnh Dịch	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_magical_05	Thân Thể Vũ Trụ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_magical_06	Thân Thể Che Phủ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_magical_heavy_1	Thân Thể Hỗn Mang Bọc Giáp	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_magical_heavy_2	Thân Thể Rực Lửa Bọc Giáp	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_magical_heavy_3	Thân Thể Quyến Rũ Bọc Giáp	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_magical_heavy_4	Thân Thể Bệnh Dịch Bọc Giáp	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_magical_heavy_5	Thân Thể Vũ Trụ Bọc Giáp	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_magical_heavy_6	Thân Thể Che Phủ Bọc Giáp	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_magical_medium_1	Thân Thể Hỗn Mang	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_magical_medium_2	Thân Thể Rực Lửa	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_magical_medium_3	Thân Thể Quyến Rũ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_magical_medium_4	Thân Thể Bệnh Dịch	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_magical_medium_5	Thân Thể Vũ Trụ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_magical_medium_6	Thân Thể Che Phủ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_robed_01	Áo Choàng Rách Nát	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_robed_02	Áo Choàng Vương Giả	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_robed_03	Áo Choàng Hầu Cận	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_robed_04	Áo Choàng Nạm Ngọc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_robed_05	Áo Choàng Lông Vũ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_torso_robed_06	Áo Choàng Bọc Giáp	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_bloodletter_sword_01	Đao Địa Ngục Kẻ Tàn Sát	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_bloodletter_sword_02	Đao Địa Ngục Kẻ Gặt Hái	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_bloodletter_sword_03	Đao Địa Ngục Kẻ Đồ Tể	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_bloodthirster_axe_01	Rìu Thịnh Nộ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_bloodthirster_axe_02	Rìu Cuồng Nộ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_bloodthirster_axe_03	Rìu Giận Dữ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_bloodthirster_great_axe_01	Đại Rìu Thịnh Nộ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_bloodthirster_great_axe_02	Đại Rìu Cuồng Nộ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_bloodthirster_great_axe_03	Đại Rìu Phẫn Nộ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_chaos_knight_lance_01	Thương Tử Thần	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_chaos_knight_lance_02	Thương Răng Cưa	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_chaos_knight_lance_03	Đại Thương	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_chaos_knight_sword_01	Kiếm Diệt Vong	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_chaos_knight_sword_02	Kiếm Hỗn Mang	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_chaos_knight_sword_03	Kiếm Thăng Hoa	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_chaos_shield_01	Khiên Diệt Vong	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_chaos_shield_02	Khiên Hỗn Mang	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_chaos_shield_03	Khiên Thăng Hoa	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_chaos_sorcerer_staff_01	Trượng Lừa Dối	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_chaos_sorcerer_staff_02	Trượng Xương	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_chaos_sorcerer_staff_03	Trượng Gặt Hái	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_chaos_sword_01	Quỷ Kiếm Ô Uế	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_chaos_sword_02	Quỷ Kiếm Đói Khát	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_chaos_sword_03	Quỷ Kiếm Răng Cưa	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_chaos_warrior_sword_01	Kiếm Diệt Vong	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_chaos_warrior_sword_02	Kiếm Hỗn Mang	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_chaos_warrior_sword_03	Kiếm Thăng Hoa	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_chaos_warrior_sword_04	Kiếm Răng Cưa	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_chaos_warrior_sword_05	Kiếm Ô Uế	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_chosen_halberd_01	Kích Răng Cưa	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_chosen_halberd_02	Kích Thăng Hoa	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_chosen_halberd_03	Kích Ô Uế	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_cultist_club_01	Chùy Rữa Nát	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_cultist_club_02	Chùy Bệnh Dịch	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_doom_knight_lance_01	Thương Đầu Lâu Ma Thuật	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_doom_knight_lance_02	Thương Răng Cưa Ma Thuật	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_doom_knight_lance_03	Đại Thương Ma Thuật	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_doom_knight_shield_01	Khiên Da Quỷ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_doom_knight_shield_02	Khiên Được Đánh Dấu	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_doom_knight_shield_03	Khiên Gia Cố	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_dragon_ogre_hammer_01	Chùy Sao Mai Khổng Lồ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_dragon_ogre_hammer_02	Chùy Khổng Lồ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_dragon_ogre_hammer_03	Búa Tạ Khổng Lồ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_dragon_ogre_hammer_04	Rìu Khổng Lồ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_dragon_ogre_shaggoth_axe_01	Đại Rìu Khổng Lồ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_exalted_great_unclean_one_bell_01	Chuông Thối Rữa	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_exalted_keeper_of_secrets_shield_01	Khiên Suy Đồi	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_exalted_keeper_of_secrets_shield_02	Khiên Trang Trí	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_exalted_keeper_of_secrets_shield_03	Khiên Mạ Vàng	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_exalted_keeper_of_secrets_spear_01	Giáo Đãi Tiệc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_exalted_lord_of_change_staff_01	Trượng Câu Đố	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_exalted_lord_of_change_staff_02	Trượng Người Theo Dõi	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_great_unclean_one_sword_01	Rựa Rữa Nát	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_great_unclean_one_sword_02	Kiếm Bệnh Dịch	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_great_unclean_one_sword_03	Kiếm Mật Độc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_keeper_of_secrets_sword_01	Kiếm Quyến Rũ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_keeper_of_secrets_sword_02	Kiếm Tội Lỗi	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_keeper_of_secrets_sword_03	Kiếm Tột Độ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_pink_horror_dagger_01	Dao Găm Bí Ẩn	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_pink_horror_dagger_02	Dao Găm Kỳ Dị	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_pink_horror_dagger_03	Dao Găm Thần Bí	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_skullcrusher_halberd_01	Kích Tàn Sát	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_skullcrusher_halberd_02	Kích Huyết	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_skullcrusher_halberd_03	Kích Huyết Dụ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_skullcrusher_shield_01	Khiên Tàn Sát	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_skullcrusher_shield_02	Khiên Huyết	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_skullcrusher_shield_03	Khiên Huyết Dụ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_soulgrinder_sword_01	Kiếm Được Rèn Dưới Địa Ngục	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_weapon_sword	Kiếm Mang Lại Cái Chết	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_angelic_01	Cánh Thiên Thần	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_angelic_02	Cánh Thiên Thần Bọc Giáp	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_angelic_03	Cánh Thiên Thần Lão Hóa	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_angelic_04	Cánh Thiên Thần Trang Điểm	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_angelic_05	Cánh Thiên Thần Sa Ngã	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_angelic_06	Cánh Thiên Thần Thánh Thiện	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_base_01	Không Cánh	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_base_02	Cánh Quỷ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_base_03	Cánh Bọc Giáp	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_base_04	Cánh Có Nanh	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_base_05	Cánh Đen Nhẻm	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_base_06	Cánh Dày Dạn Chiến Trận	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_beast_01	Cánh Thú	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_beast_02	Cánh Thú Bọc Giáp	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_beast_03	Cánh Thú Bị Xích	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_beast_04	Cánh Có Sừng	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_beast_05	Cánh Bị Thiêu Rụi	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_beast_06	Cánh Thú Tàn Tạ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_bird_01	Cánh Có Lông Vũ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_bird_02	Cánh Đính Đá Quý	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_bird_03	Cánh Chim Bọc Giáp	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_bird_04	Cánh Chim Có Gai	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_bird_05	Cánh Lão Hóa	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_bird_06	Cánh Thần Bí	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_bird_7	Cánh Lão Hóa Có Gai	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_chaos_01	Cánh Rồng	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_chaos_02	Cánh Rồng Bọc Giáp	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_chaos_03	Cánh Rồng Bị Xích	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_chaos_04	Cánh Rồng Có Nanh	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_chaos_05	Cánh Rồng Bốc Cháy	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_chaos_06	Cánh Rồng Chằng Chịt Sẹo	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_corpulent_01	Cánh Dịch Bệnh	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_corpulent_02	Gai Cánh Độc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_corpulent_03	Cánh Dịch Bệnh Bọc Giáp	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_corpulent_04	Cánh Dịch Bệnh Bị Xích	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_corpulent_05	Cánh Dịch Hạch	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_corpulent_06	Cánh Bị Bào Mòn	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_magical_01	Cánh Hỗn Mang	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_magical_02	Cánh Khorne	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_magical_03	Cánh Slaanesh	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_magical_04	Cánh Nurgle	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_magical_05	Cánh Tzeentch	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_magical_06	Cánh Bị Che Khuất	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_rotfly_01	Cánh Ruồi Thối Rữa	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_rotfly_02	Cánh Ruồi Thối Rữa Bọc Giáp	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_rotfly_03	Cánh Ruồi Thối Rữa Có Nanh	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_rotfly_04	Cánh Ruồi Thối Rữa Có Độc	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_rotfly_05	Cánh Ruồi Thối Rữa Độc Hại	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_rotfly_06	Cánh Ruồi Thối Rữa Bị Rách	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_sensuous_01	Cánh Tro Tàn	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_sensuous_02	Cánh Tro Tàn Bọc Giáp	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_sensuous_03	Cánh Tàn Tạ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_sensuous_04	Cánh Bị Xích	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_sensuous_05	Cánh Tro Tàn Có Nanh	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_sensuous_06	Cánh Đập Xung	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_slaughterbrute_01	Cánh Slaughterbrute	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_slaughterbrute_02	Cánh Slaughterbrute Bọc Giáp	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_slaughterbrute_03	Cánh Slaughterbrute Bị Xích	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_slaughterbrute_04	Cánh Slaughterbrute Có Nanh	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_slaughterbrute_05	Cánh Slaughterbrute Quỷ Dữ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_slaughterbrute_06	Cánh Slaughterbrute Chằng Chịt Sẹo	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_tentacles_01	Xúc Tu	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_tentacles_02	Xúc Tu Có Gai	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_tentacles_03	Xúc Tu Trang Điểm	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_tentacles_04	Xúc Tu Cảnh Giác	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_tentacles_05	Xúc Tu Có Nanh	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_tentacles_06	Xúc Tu Quỷ Dữ	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_trophies_01	Trưng Bày Chiến Lợi Phẩm	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_trophies_02	Chiến Lợi Phẩm Vũ Khí	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_trophies_03	Chiến Lợi Phẩm Đầu Lâu	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_trophies_04	Chiến Lợi Phẩm Khung Xương Sườn	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_trophies_05	Chiến Lợi Phẩm Đính Đá Quý	false
+armory_item_variant_ui_infos_localised_name_wh3_main_dae_cha_daemon_prince_wings_trophies_06	Chiến Lợi Phẩm Cờ Rực Lửa	false
+armory_item_variant_ui_infos_localised_name_wh3_pro10_mom_trial_dae_cha_daemon_prince_arm_l_0	Cánh Tay Ngọn Lửa Bí Ẩn	false
+armory_item_variant_ui_infos_localised_name_wh3_pro10_mom_trial_dae_cha_daemon_prince_arm_r_0	Cánh Tay Kiếm Lửa	false
+armory_item_variant_ui_infos_localised_name_wh3_pro10_mom_trial_dae_cha_daemon_prince_head_0	Vương Miện Lửa	false
+armory_item_variant_ui_infos_localised_name_wh3_pro10_mom_trial_dae_cha_daemon_prince_legs_0	Đôi Chân Tấn Công	false
+armory_item_variant_ui_infos_localised_name_wh3_pro10_mom_trial_dae_cha_daemon_prince_tail_0	Đuôi Rắn	false
+armory_item_variant_ui_infos_localised_name_wh3_pro10_mom_trial_dae_cha_daemon_prince_torso_0	Cơ Thể Pháp Sư	false
+armory_item_variant_ui_infos_localised_name_wh3_pro10_mom_trial_dae_cha_daemon_prince_weapon_0	Chiến Kiếm Huyền Bí	false
+armory_item_variant_ui_infos_localised_name_wh3_pro10_mom_trial_dae_cha_daemon_prince_weapon_1	Chiến Kiếm Huyền Bí Được Mài Giũa	false
+armory_item_variant_ui_infos_localised_name_wh3_pro10_mom_trial_dae_cha_daemon_prince_weapon_2	Chiến Kiếm Huyền Bí Bậc Thầy	false
+armory_item_variant_ui_infos_localised_name_wh3_pro10_mom_trial_dae_cha_daemon_prince_wings_0	Xúc Tu Của Chúa Tể Gió	false

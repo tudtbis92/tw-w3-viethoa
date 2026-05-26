@@ -1,0 +1,18 @@
+key	text	tooltip
+#Loc;1;text/db/ancillary_uniqueness_groupings__.loc		
+ancillary_uniqueness_groupings_description_wh2_dlc17_anc_group_rune	Được chế tạo bởi các Runesmith và Runelord của phe Dawi.	false
+ancillary_uniqueness_groupings_description_wh_main_anc_group_common	Yếu và có thể bỏ đi, có thể giúp ích trong lúc khó khăn. Tốn ít chi phí và hồi chiêu nhanh.	false
+ancillary_uniqueness_groupings_description_wh_main_anc_group_crafted	Được chế tạo bởi các thợ rèn của Vaul và được truyền phép bởi các pháp sư quyền năng.	false
+ancillary_uniqueness_groupings_description_wh_main_anc_group_rare	Hiệu ứng mạnh và kéo dài. Tốn nhiều chi phí và hồi chiêu lâu.	false
+ancillary_uniqueness_groupings_description_wh_main_anc_group_scrap	Kết quả của một nỗ lực dung hợp thất bại.	false
+ancillary_uniqueness_groupings_description_wh_main_anc_group_scrap_upgraded	Có thể được kết hợp thành một thứ gì đó độc đáo.	false
+ancillary_uniqueness_groupings_description_wh_main_anc_group_uncommon	Hữu ích trong đúng hoàn cảnh. Chi phí và thời gian hồi chiêu cân bằng.	false
+ancillary_uniqueness_groupings_description_wh_main_anc_group_unique	Độc nhất vô nhị! Hiệu ứng mạnh và kéo dài. Tốn nhiều chi phí và hồi chiêu lâu.	false
+ancillary_uniqueness_groupings_onscreen_name_wh2_dlc17_anc_group_rune	[[col:ancillary_crafted]]Cổ Ngữ[[/col]]	false
+ancillary_uniqueness_groupings_onscreen_name_wh_main_anc_group_common	Thường	false
+ancillary_uniqueness_groupings_onscreen_name_wh_main_anc_group_crafted	[[col:ancillary_crafted]]Chế tạo[[/col]]	false
+ancillary_uniqueness_groupings_onscreen_name_wh_main_anc_group_rare	[[col:ancillary_rare]]Hiếm[[/col]]	false
+ancillary_uniqueness_groupings_onscreen_name_wh_main_anc_group_scrap	[[col:ancillary_crafted]]Đồ bỏ đi[[/col]]	false
+ancillary_uniqueness_groupings_onscreen_name_wh_main_anc_group_scrap_upgraded	[[col:ancillary_crafted]]{{tr:uied_component_texts_localised_string_StateText_5b8a2f0c}}[[/col]]	false
+ancillary_uniqueness_groupings_onscreen_name_wh_main_anc_group_uncommon	[[col:ancillary_uncommon]]Ít gặp[[/col]]	false
+ancillary_uniqueness_groupings_onscreen_name_wh_main_anc_group_unique	[[col:ancillary_unique]]Độc nhất[[/col]]	false
