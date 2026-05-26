@@ -1,0 +1,706 @@
+key	text	tooltip
+#Loc;1;text/db/campaign_payload_ui_details__.loc		
+campaign_payload_ui_details_description_add_mercenary_to_faction_pool	%1% (x%2%)	false
+campaign_payload_ui_details_description_add_mercenary_to_province_pool	{{tr:add_mercenary_to_faction_pool}} %1% (x%2%)	false
+campaign_payload_ui_details_description_add_province_development_point		false
+campaign_payload_ui_details_description_add_unit	Thêm đơn vị: %1% (x%2%)	false
+campaign_payload_ui_details_description_ambition_change		false
+campaign_payload_ui_details_description_assign_character_to_post	Bổ nhiệm chức vụ: %1%, %2%	false
+campaign_payload_ui_details_description_character_experience_change	Kinh nghiệm thưởng: %1% cho %2%	false
+campaign_payload_ui_details_description_damage_buildings	Công trình bị hư hại	false
+campaign_payload_ui_details_description_damage_buildings_home_region	Công trình bị hư hại	false
+campaign_payload_ui_details_description_damage_character	Nhân vật bị thương	false
+campaign_payload_ui_details_description_demolish_building_chain	Công trình bị phá hủy	false
+campaign_payload_ui_details_description_diplomatic_attitude_change	Quan hệ ngoại giao: %+1% với %2%	false
+campaign_payload_ui_details_description_dummy_ToL_points_bonus	Khu định cư này sẽ tạo ra thêm Điểm Chiến Thắng trong một khoảng thời gian	false
+campaign_payload_ui_details_description_dummy_ToL_points_bonus_explainer	Phần thưởng này sẽ bị mất nếu chủ sở hữu của khu định cư thay đổi	false
+campaign_payload_ui_details_description_dummy_aislinn_gift_war	"[[col:red]]{{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").FirstTargetFactionNameWithIcon}} tuyên chiến với {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").SecondTargetFactionNameWithIcon}}[[/col]]"	false
+campaign_payload_ui_details_description_dummy_all_character_increase_rank	Tất cả [[img:icon_general]][[/img]]Lãnh chúa và [[img:icon_hero]][[/img]]Anh hùng tăng 1 cấp	false
+campaign_payload_ui_details_description_dummy_alliance_great_orthodoxy	Thành lập liên minh quân sự với Great Orthodoxy	false
+campaign_payload_ui_details_description_dummy_alliance_ice_court	Thành lập liên minh quân sự với Ice Court	false
+campaign_payload_ui_details_description_dummy_ariel_spawns	Đã chiêu mộ Anh hùng Huyền thoại: Ariel	false
+campaign_payload_ui_details_description_dummy_asur_domination_dilemma_final_reward	[[col:white]]Lựa chọn này sẽ không còn xuất hiện trong các tình huống khó khăn trong tương lai sau khi được chọn[[/col]]	false
+campaign_payload_ui_details_description_dummy_beorg_mission_stage_1	Những Người Gấu gia nhập bộ lạc của chúng ta, nhưng kẻ thù của chúng ta sẽ sớm có lý do lớn hơn để sợ hãi chúng ta...	false
+campaign_payload_ui_details_description_dummy_blank		false
+campaign_payload_ui_details_description_dummy_cabal_plan_1	Sau bao nhiêu thời gian, kế hoạch của Cabal cuối cùng cũng đã hoàn thành...	false
+campaign_payload_ui_details_description_dummy_cabal_plan_2	...Các phe phái của Tzeentch đã nắm quyền kiểm soát toàn bộ thế giới!	false
+campaign_payload_ui_details_description_dummy_cabal_power_grows_1	[[col:yellow]]Quyền năng của Cabal đã tăng lên vĩnh viễn...[[/col]]	false
+campaign_payload_ui_details_description_dummy_cabal_power_grows_2	Cabal đã rời khỏi vùng đất của bạn	false
+campaign_payload_ui_details_description_dummy_chaos_portal_corruption_spread	Mỗi tỉnh trên thế giới nhận +10 ảnh hưởng của Chaos Undivided	false
+campaign_payload_ui_details_description_dummy_confederate_aquitaine	Thành lập liên bang với Aquitaine	false
+campaign_payload_ui_details_description_dummy_confederate_artois	Thành lập liên bang với Artois	false
+campaign_payload_ui_details_description_dummy_confederate_averland	Thành lập liên bang với Averland	false
+campaign_payload_ui_details_description_dummy_confederate_bastonne	Thành lập liên bang với Bastonne	false
+campaign_payload_ui_details_description_dummy_confederate_bordeleaux	Thành lập liên bang với Bordeleaux Errant	false
+campaign_payload_ui_details_description_dummy_confederate_bretonnia	Thành lập liên bang với Bretonnia	false
+campaign_payload_ui_details_description_dummy_confederate_carcassonne	Thành lập liên bang với Carcassonne	false
+campaign_payload_ui_details_description_dummy_confederate_faction_argwylon	Bạn sẽ có cơ hội thành lập liên bang với phe của Argwylon	false
+campaign_payload_ui_details_description_dummy_confederate_faction_bowmen	Bạn sẽ có cơ hội thành lập liên bang với the Bowmen of Oreon	false
+campaign_payload_ui_details_description_dummy_confederate_faction_drycha	Bạn sẽ có cơ hội thành lập liên bang với Drycha's faction	false
+campaign_payload_ui_details_description_dummy_confederate_faction_karak_hirn	Bạn sẽ có cơ hội thành lập liên bang với Karak Hirn	false
+campaign_payload_ui_details_description_dummy_confederate_faction_karond_kar	Bạn sẽ có cơ hội thành lập liên bang với Karond Kar	false
+campaign_payload_ui_details_description_dummy_confederate_faction_laurelorn	Bạn sẽ có cơ hội thành lập liên bang với phe của Laurelorn Forest	false
+campaign_payload_ui_details_description_dummy_confederate_faction_shanlin	Bạn sẽ có cơ hội thành lập liên bang với phe của Spirits of Shanlin	false
+campaign_payload_ui_details_description_dummy_confederate_faction_sisters	Bạn sẽ có cơ hội thành lập liên bang với the Sisters of Twilight	false
+campaign_payload_ui_details_description_dummy_confederate_faction_talsyn	Bạn sẽ có cơ hội thành lập liên bang với phe của Talsyn	false
+campaign_payload_ui_details_description_dummy_confederate_faction_torgovann	Bạn sẽ có cơ hội thành lập liên bang với phe của Torgovann	false
+campaign_payload_ui_details_description_dummy_confederate_faction_wydrioth	Bạn sẽ có cơ hội thành lập liên bang với phe của Wydrioth	false
+campaign_payload_ui_details_description_dummy_confederate_great_orthodoxy	Thành lập liên bang với the Great Orthodoxy	false
+campaign_payload_ui_details_description_dummy_confederate_greenskin_boss_defeated	Thành lập liên bang với this Warboss' faction	false
+campaign_payload_ui_details_description_dummy_confederate_hochland	Thành lập liên bang với Hochland	false
+campaign_payload_ui_details_description_dummy_confederate_ice_court	Thành lập liên bang với the Ice Court	false
+campaign_payload_ui_details_description_dummy_confederate_knights_of_origo	Thành lập liên bang với {{tr:factions_screen_name_wh2_main_brt_knights_of_origo}}	false
+campaign_payload_ui_details_description_dummy_confederate_knights_of_the_flame	Thành lập liên bang với {{tr:factions_screen_name_wh2_main_brt_knights_of_the_flame}}	false
+campaign_payload_ui_details_description_dummy_confederate_lyonesse	Thành lập liên bang với Lyonesse	false
+campaign_payload_ui_details_description_dummy_confederate_middenland	Thành lập liên bang với Middenland	false
+campaign_payload_ui_details_description_dummy_confederate_nordland	Thành lập liên bang với Nordland	false
+campaign_payload_ui_details_description_dummy_confederate_norsca_chieftan_defeated	Thành lập liên bang với the chieftain's tribe	false
+campaign_payload_ui_details_description_dummy_confederate_ogr_boss_defeated	Thành lập Liên bang với this Tyrant's faction	false
+campaign_payload_ui_details_description_dummy_confederate_option_wh2_main_dwf_spine_of_sotek_dwarfs	Bạn sẽ nhận được cơ hội thành lập liên bang với Spine of Sotek Dwarfs	false
+campaign_payload_ui_details_description_dummy_confederate_option_wh2_main_hef_caledor	Bạn sẽ nhận được cơ hội thành lập liên bang với Caledor	false
+campaign_payload_ui_details_description_dummy_confederate_option_wh2_main_hef_saphery	Bạn sẽ nhận được cơ hội thành lập liên bang với Saphery and teleport to Ulthuan	false
+campaign_payload_ui_details_description_dummy_confederate_option_wh_main_dwf_karak_azul	Bạn sẽ nhận được cơ hội thành lập liên bang với Karak Azul	false
+campaign_payload_ui_details_description_dummy_confederate_ostermark	Thành lập liên bang với Ostermark	false
+campaign_payload_ui_details_description_dummy_confederate_ostland	Thành lập liên bang với Ostland	false
+campaign_payload_ui_details_description_dummy_confederate_parravon	Thành lập liên bang với Parravon	false
+campaign_payload_ui_details_description_dummy_confederate_reikland	Thành lập liên bang với Reikland	false
+campaign_payload_ui_details_description_dummy_confederate_stirland	Thành lập liên bang với Stirland	false
+campaign_payload_ui_details_description_dummy_confederate_talabecland	Thành lập liên bang với Talabecland	false
+campaign_payload_ui_details_description_dummy_confederate_wh2_dlc12_grn_leaf_cutterz_tribe	Thành lập liên bang với the Leaf Cutterz tribe	false
+campaign_payload_ui_details_description_dummy_confederate_wh2_dlc14_grn_red_cloud	Thành lập liên bang với the Red Cloud tribe	false
+campaign_payload_ui_details_description_dummy_confederate_wh2_dlc15_grn_bonerattlaz	Thành lập liên bang với the Bonerattlaz tribe	false
+campaign_payload_ui_details_description_dummy_confederate_wh2_dlc15_grn_broken_axe	Thành lập liên bang với the Broken Axe tribe	false
+campaign_payload_ui_details_description_dummy_confederate_wh2_dlc15_grn_skull_crag	Thành lập liên bang với the Skull Crag tribe	false
+campaign_payload_ui_details_description_dummy_confederate_wh2_main_dwf_spine_of_sotek_dwarfs	Thành lập liên bang với Spine of Sotek Dwarfs	false
+campaign_payload_ui_details_description_dummy_confederate_wh2_main_grn_arachnos	Thành lập liên bang với the Arachnos tribe	false
+campaign_payload_ui_details_description_dummy_confederate_wh2_main_grn_blue_vipers	Thành lập liên bang với the Blue Vipers tribe	false
+campaign_payload_ui_details_description_dummy_confederate_wh2_main_hef_caledor	Thành lập liên bang với Caledor	false
+campaign_payload_ui_details_description_dummy_confederate_wh2_main_hef_saphery	Thành lập liên bang với Saphery	false
+campaign_payload_ui_details_description_dummy_confederate_wh2_main_nor_aghol	Thành lập liên bang với the Aghol tribe	false
+campaign_payload_ui_details_description_dummy_confederate_wh2_main_nor_mung	Thành lập liên bang với the Mung tribe	false
+campaign_payload_ui_details_description_dummy_confederate_wh2_main_nor_skeggi	Thành lập liên bang với the Skeggi tribe	false
+campaign_payload_ui_details_description_dummy_confederate_wh_dlc08_nor_goromadny_tribe	Thành lập liên bang với the Goromadny Tribe	false
+campaign_payload_ui_details_description_dummy_confederate_wh_dlc08_nor_helspire_tribe	Thành lập liên bang với the Helspire Tribe	false
+campaign_payload_ui_details_description_dummy_confederate_wh_dlc08_nor_naglfarlings	Thành lập liên bang với the Naglfarlings tribe	false
+campaign_payload_ui_details_description_dummy_confederate_wh_dlc08_nor_norsca	Thành lập liên bang với Norsca	false
+campaign_payload_ui_details_description_dummy_confederate_wh_dlc08_nor_vanaheimlings	Thành lập liên bang với the Vanaheimlings tribe	false
+campaign_payload_ui_details_description_dummy_confederate_wh_dlc08_nor_wintertooth	Thành lập liên bang với Wintertooth	false
+campaign_payload_ui_details_description_dummy_confederate_wh_main_dwf_karak_azul	Thành lập liên bang với Karak Azul	false
+campaign_payload_ui_details_description_dummy_confederate_wissenland	Thành lập liên bang với Wissenland	false
+campaign_payload_ui_details_description_dummy_convoy_ambush_first	[[col:yellow]]Đánh trận và tiếp tục tiến lên[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_ambush_second	[[col:yellow]]Tránh trận chiến và làm tăng thời gian hành trình[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_cathay_caravan_first	[[col:yellow]]Đánh trận và nhận được hàng hóa khi chiến thắng[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_cathay_caravan_second	[[col:yellow]]Tránh trận chiến và tiếp tục di chuyển[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_dwarfs_first	[[col:yellow]]Đánh trận và nhận được hàng hóa khi chiến thắng[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_dwarfs_second	[[col:yellow]]Đánh trận và nhận được hàng hóa khi chiến thắng[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_far_from_home_first	[[col:yellow]]Đánh trận và nhận được tiền[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_far_from_home_second	[[col:yellow]]Tránh trận chiến và tiếp tục di chuyển[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_guide_first	[[col:yellow]]Tiếp tục hành trình[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_guide_second	[[col:yellow]]Dùng tiền để giảm thời gian hành trình[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_hobgoblin_first	[[col:yellow]]Nhận thêm đơn vị cho đội quân này[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_hobgoblin_second	[[col:yellow]]Nhận thêm lực lượng bổ sung cho tất cả đơn vị trong đội quân này[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_hungry_daemons_first	[[col:yellow]]Chiến đấu trận này[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_hungry_daemons_second	[[col:yellow]]Hy sinh một đơn vị để tránh trận chiến[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_localised_elfs_first	[[col:yellow]]Đánh trận và nhận Hàng Hóa[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_localised_elfs_second	[[col:yellow]]Tránh trận chiến và tiếp tục di chuyển[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_offence_defence_first	[[col:yellow]]Nhận phần thưởng Tấn công Cận chiến và Sức mạnh Vũ khí cho đội quân này[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_offence_defence_second	[[col:yellow]]Nhận phần thưởng Phòng thủ Cận chiến và Áo giáp cho đội quân này[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_ogres_first	[[col:yellow]]Dùng tiền để nhận thêm đơn vị[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_ogres_second	[[col:yellow]]Chỉ cần tiếp tục hành trình[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_portal_1_first	[[col:yellow]]Nhận thêm hàng hóa và tăng thời gian hành trình[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_portal_1_second	[[col:yellow]]Tiếp tục di chuyển với tốc độ hiện tại[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_portal_2_first	[[col:yellow]]Đánh trận và giữ hàng hóa[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_portal_2_second	[[col:yellow]]Tránh trận chiến và mất hàng hóa[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_portal_3_first	[[col:yellow]]Nhận thêm đơn vị cho đội quân này[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_portal_3_second	[[col:yellow]]Nhận thêm đơn vị cho đội quân này[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_power_overwhelming_first	[[col:yellow]]Mất đơn vị và nhận phần thưởng cho quân đội[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_power_overwhelming_second	[[col:yellow]]Tiếp tục di chuyển như bình thường[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_quick_way_down_first	[[col:yellow]]Mất hàng hóa và giảm thời gian hành trình[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_quick_way_down_second	[[col:yellow]]Tiếp tục di chuyển như bình thường[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_rats_first	[[col:yellow]]Đánh trận và giảm thời gian hành trình[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_rats_second	[[col:yellow]]Tránh trận chiến và tiếp tục di chuyển[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_redeadify_first	[[col:yellow]]Đánh trận[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_redeadify_second	[[col:yellow]]Hy sinh một đơn vị để tránh trận chiến[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_trading_dark_elfs_first	[[col:yellow]]Dùng hàng hóa và nhận một đơn vị[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_trading_dark_elfs_second	[[col:yellow]]Tiếp tục di chuyển như bình thường[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_training_camp_first	[[col:yellow]]Nhận kinh nghiệm cho đơn vị với cái giá là mất lượt di chuyển này[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_training_camp_second	[[col:yellow]]Tiếp tục di chuyển như bình thường[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_way_of_lava_first	[[col:yellow]]Tiếp tục di chuyển như bình thường[[/col]]	false
+campaign_payload_ui_details_description_dummy_convoy_way_of_lava_second	[[col:yellow]]Chịu sát thương tiêu hao và giảm thời gian hành trình[[/col]]	false
+campaign_payload_ui_details_description_dummy_crimson_plague_faction	Covenant of the Crimson Plague đã gieo rắc một dịch bệnh lên phe của bạn	false
+campaign_payload_ui_details_description_dummy_crimson_plague_region	Covenant of the Crimson Plague đã gieo rắc một dịch bệnh lên vùng lãnh thổ của bạn	false
+campaign_payload_ui_details_description_dummy_crimson_plague_world	Covenant of the Crimson Plague đã gieo rắc một dịch bệnh lên thế giới	false
+campaign_payload_ui_details_description_dummy_cst_dilemma_avoid_diplomatic_penalty	Tránh các hình phạt ngoại giao	false
+campaign_payload_ui_details_description_dummy_dechala_dilemma	Bây giờ phải làm gì với nó đây...	false
+campaign_payload_ui_details_description_dummy_diplomatic_attitude_change	Quan hệ ngoại giao: %+3% giữa %1% và %2%	false
+campaign_payload_ui_details_description_dummy_dlc10_blood_voyage_next_turn	Blood Voyage sẽ xuất hiện vào lượt tiếp theo	false
+campaign_payload_ui_details_description_dummy_dlc10_death_night_cost_increase	Yêu cầu nô lệ cho Death Night: +100	false
+campaign_payload_ui_details_description_dummy_do_nothing	Không làm gì cả	false
+campaign_payload_ui_details_description_dummy_dwarf_builders	Dwarf Construction Company sẽ rời khỏi vùng lãnh thổ của bạn vĩnh viễn...	false
+campaign_payload_ui_details_description_dummy_elector_civil_war	"[[col:yellow]]{{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").FirstTargetFactionNameWithIcon}} tuyên chiến với {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").SecondTargetFactionNameWithIcon}}[[/col]]"	false
+campaign_payload_ui_details_description_dummy_elector_confederation	"[[col:green]]Thành lập liên bang với {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").FirstTargetFactionNameWithIcon}}[[/col]]"	false
+campaign_payload_ui_details_description_dummy_elector_confederation_offer	[[col:yellow]]Việc thành lập liên bang sẽ được đề nghị lại sau 20 lượt[[/col]]	false
+campaign_payload_ui_details_description_dummy_elector_fealty_gain_all	[[col:green]]Lòng Trung Thành của tất cả các phe Elector Count: +1[[/col]]	false
+campaign_payload_ui_details_description_dummy_elector_fealty_loss_all	[[col:red]]Lòng Trung Thành của tất cả các phe Elector Count: -1[[/col]]	false
+campaign_payload_ui_details_description_dummy_elector_invasion_beastmen	"[[col:yellow]]Bạn tham gia phòng thủ {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").RegionTargetName}} trước {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").SecondTargetFactionNameWithIcon}}[[/col]]"	false
+campaign_payload_ui_details_description_dummy_elector_invasion_beastmen_ai	"[[col:yellow]]{{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").FirstTargetFactionName}} một mình phòng thủ trước {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").SecondTargetFactionNameWithIcon}}[[/col]]"	false
+campaign_payload_ui_details_description_dummy_elector_invasion_greenskins	"[[col:yellow]]Bạn tham gia phòng thủ {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").RegionTargetName}} trước {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").SecondTargetFactionNameWithIcon}}[[/col]]"	false
+campaign_payload_ui_details_description_dummy_elector_invasion_greenskins_ai	"[[col:yellow]]{{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").FirstTargetFactionName}} một mình phòng thủ trước {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").SecondTargetFactionNameWithIcon}}[[/col]]"	false
+campaign_payload_ui_details_description_dummy_elector_invasion_norsca	"[[col:yellow]]Bạn tham gia phòng thủ {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").RegionTargetName}} trước {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").SecondTargetFactionNameWithIcon}}[[/col]]"	false
+campaign_payload_ui_details_description_dummy_elector_invasion_norsca_ai	"[[col:yellow]]{{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").FirstTargetFactionName}} một mình phòng thủ trước {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").SecondTargetFactionNameWithIcon}}[[/col]]"	false
+campaign_payload_ui_details_description_dummy_elector_invasion_skaven	"[[col:yellow]]Bạn tham gia phòng thủ {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").RegionTargetName}} trước {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").SecondTargetFactionNameWithIcon}}[[/col]]"	false
+campaign_payload_ui_details_description_dummy_elector_invasion_skaven_ai	"[[col:yellow]]{{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").FirstTargetFactionName}} một mình phòng thủ trước {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").SecondTargetFactionNameWithIcon}}[[/col]]"	false
+campaign_payload_ui_details_description_dummy_elector_loyalty_decrease_1	"[[col:red]]Lòng Trung Thành của {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").FirstTargetFactionNameWithIcon}}: -1 (Hiện tại: {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").FirstTargetFactionPooledResource(""emp_loyalty"")}})[[/col]]"	false
+campaign_payload_ui_details_description_dummy_elector_loyalty_decrease_2	"[[col:red]]Lòng Trung Thành của {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").SecondTargetFactionNameWithIcon}}: -1 (Hiện tại: {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").SecondTargetFactionPooledResource(""emp_loyalty"")}})[[/col]]"	false
+campaign_payload_ui_details_description_dummy_elector_loyalty_increase_1	"[[col:green]]Lòng Trung Thành của {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").FirstTargetFactionNameWithIcon}}: +1 (Hiện tại: {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").FirstTargetFactionPooledResource(""emp_loyalty"")}})[[/col]]"	false
+campaign_payload_ui_details_description_dummy_elector_loyalty_increase_2	"[[col:green]]Lòng Trung Thành của {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").SecondTargetFactionNameWithIcon}}: +1 (Hiện tại: {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").SecondTargetFactionPooledResource(""emp_loyalty"")}})[[/col]]"	false
+campaign_payload_ui_details_description_dummy_elector_loyalty_large_decrease_1	"[[col:red]]Lòng Trung Thành của {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").FirstTargetFactionNameWithIcon}}: -2 (Hiện tại: {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").FirstTargetFactionPooledResource(""emp_loyalty"")}})[[/col]]"	false
+campaign_payload_ui_details_description_dummy_elector_loyalty_large_decrease_2	"[[col:red]]Lòng Trung Thành của {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").SecondTargetFactionNameWithIcon}}: -2 (Hiện tại: {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").SecondTargetFactionPooledResource(""emp_loyalty"")}})[[/col]]"	false
+campaign_payload_ui_details_description_dummy_elector_loyalty_large_increase_1	"[[col:green]]Lòng Trung Thành của {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").FirstTargetFactionNameWithIcon}}: +2 (Hiện tại: {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").FirstTargetFactionPooledResource(""emp_loyalty"")}})[[/col]]"	false
+campaign_payload_ui_details_description_dummy_elector_loyalty_large_increase_2	"[[col:green]]Lòng Trung Thành của {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").SecondTargetFactionNameWithIcon}}: +2 (Hiện tại: {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").SecondTargetFactionPooledResource(""emp_loyalty"")}})[[/col]]"	false
+campaign_payload_ui_details_description_dummy_elector_player_civil_war	[[col:red]]Tất cả Elector Count đều tuyên chiến với bạn![[/col]]	false
+campaign_payload_ui_details_description_dummy_elector_region_return	"{{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").RegionTargetName}} sẽ được trả lại cho {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").FirstTargetFactionNameWithIcon}}"	false
+campaign_payload_ui_details_description_dummy_elector_region_taken	"{{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").SecondTargetFactionNameWithIcon}} sẽ giữ quyền kiểm soát {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").RegionTargetName}}"	false
+campaign_payload_ui_details_description_dummy_elector_scout_region	"[[col:yellow]]Bạn nhận được tầm nhìn trên vùng lãnh thổ {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").RegionTargetName}}[[/col]]"	false
+campaign_payload_ui_details_description_dummy_elector_stop_civil_war	[[col:green]]Nội Chiến giữa hai Elector đã được ngăn chặn[[/col]]	false
+campaign_payload_ui_details_description_dummy_elector_stop_succession	"[[col:green]]Cuộc Ly Khai của {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").FirstTargetFactionNameWithIcon}} đã được ngăn chặn[[/col]]"	false
+campaign_payload_ui_details_description_dummy_elector_war_declared_1	"[[col:red]]Tuyên Chiến với {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").FirstTargetFactionNameWithIcon}}[[/col]]"	false
+campaign_payload_ui_details_description_dummy_elector_war_declared_2	"[[col:red]]Tuyên Chiến với {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").SecondTargetFactionNameWithIcon}}[[/col]]"	false
+campaign_payload_ui_details_description_dummy_end_campaign	[[col:red]]Chiến dịch thất bại ngay lập tức[[/col]]	false
+campaign_payload_ui_details_description_dummy_endgame_vermintide_ubersreik	Một đạo quân tinh nhuệ gồm các anh hùng Empire, Dwarf và Wood Elf sẽ gia nhập với bạn.	false
+campaign_payload_ui_details_description_dummy_enemy_leader_killed	Thủ lĩnh phe địch bị tiêu diệt... [[col:red]]vĩnh viễn[[/col]]	false
+campaign_payload_ui_details_description_dummy_enemy_leader_wounded_longer	Thủ lĩnh phe địch sẽ bị thương lâu hơn.	false
+campaign_payload_ui_details_description_dummy_exalted_hero_capacity	Sức chứa Anh hùng: +1 cho Exalted Hero	false
+campaign_payload_ui_details_description_dummy_fight_monster	Bạn sẽ tiến vào chiến trường ngay lập tức, và chạm trán với con quái vật cùng lũ tay sai của nó.	false
+campaign_payload_ui_details_description_dummy_flesh_lab_batch_available_1	Mở Growth Vat thường xuyên hơn sẽ tối đa hóa việc sản xuất Mutagen	false
+campaign_payload_ui_details_description_dummy_flesh_lab_batch_available_2	Chờ đợi những con quái vật mạnh hơn sẽ khiến việc sản xuất Mutagen kém hiệu quả hơn	false
+campaign_payload_ui_details_description_dummy_gelt_intro_dilemmas_1	Temple of Elemental Winds lập tức được nâng cấp lên Bậc 2	false
+campaign_payload_ui_details_description_dummy_gelt_intro_dilemmas_2	"[[col:green]]Liên Minh Phòng Thủ với {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").FirstTargetFactionNameWithIcon}}[[/col]]"	false
+campaign_payload_ui_details_description_dummy_gelt_intro_dilemmas_3	"[[col:red]]Tất cả vùng lãnh thổ Cathay được trao trả lại cho {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").FirstTargetFactionNameWithIcon}}[[/col]]"	false
+campaign_payload_ui_details_description_dummy_gelt_intro_dilemmas_4	Dịch chuyển tất cả lực lượng và Anh hùng về Empire với đầy đủ máu	false
+campaign_payload_ui_details_description_dummy_gelt_intro_dilemmas_5	"[[col:red]]Tuyên chiến với {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").FirstTargetFactionNameWithIcon}}[[/col]]"	false
+campaign_payload_ui_details_description_dummy_gelt_intro_dilemmas_6	[[col:red]]Zhao Ming sẽ nhớ điều này...[[/col]]	false
+campaign_payload_ui_details_description_dummy_gelt_intro_dilemmas_7	Balthasar Gelt vẫn ở lại Cathay	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_alpha_amma	Mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_alpha_amma_2}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_arrer_catcha	Mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_arrer_catcha_1}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_block_an_smash	Mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_block_an_smash_1}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_broodmothers	Mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_broodmothers_3}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_cheerleadaz	Mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_cheerleadaz_3}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_cut_da_chains	Mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_cut_da_chains_3}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_da_black_bastion	Mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_da_black_bastion_2}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_da_greatest_warlord	Mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_da_greatest_warlord_2}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_drag_da_wagonz	Mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_drag_da_wagonz_2}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_drink_an_drive	Mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_drink_an_drive_2}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_earthquake	Mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_earthquake_2}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_eat_da_runts	Mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_eat_da_runts_2}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_eavy_metal_marchin	Mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_eavy_metal_marchin_3}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_erd_mentality	Mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_erd_mentality_1}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_fly_at_da_smoke	Mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_fly_at_da_smoke_3}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_fungus_farms	Mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_fungus_farms_2}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_get_dem_from_below	Mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_get_dem_from_below_2}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_goin_commando	Mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_goin_commando_2}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_keep_bossin	Mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_keep_bossin_2}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_keep_em_ungry	Đã mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_keep_em_ungry_3}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_lead_da_charge	Đã mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_lead_da_charge_2}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_little_wont_urt	Đã mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_little_wont_urt_1}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_load_yerself	Đã mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_load_yerself_3}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_master_planner	Đã mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_master_planner_3}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_netted_targets	Đã mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_netted_targets_1}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_power_of_da_waaagh	Đã mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_power_of_da_waaagh_1}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_raidin_parties	Đã mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_raidin_parties_1}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_regimental	Đã mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_regimental_1}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_shoot_da_runts	Đã mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_shoot_da_runts_1}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_shot_in_da_dark	Đã mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_shot_in_da_dark_2}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_splode_da_big_one	Đã mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_splode_da_big_one_3}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_stick_em_like_pigs	Đã mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_stick_em_like_pigs_2}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_stinkee_arrers	Đã mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_stinkee_arrers_3}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_stompin_ground	Đã mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_stompin_ground_2}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_suprise_savagery	Đã mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_suprise_savagery_2}}	false
+campaign_payload_ui_details_description_dummy_grn_da_plan_webweavin	Đã mở khóa chiến thuật: {{tr:initiatives_localised_name_wh3_dlc26_force_initiative_grn_da_plan_webweavin_1}}	false
+campaign_payload_ui_details_description_dummy_grudge_cycle_delay	[[col:yellow]]Hoãn Age of Reckoning tiếp theo của bạn trong 15 hiệp[[/col]]	false
+campaign_payload_ui_details_description_dummy_grudge_cycle_higher_requirement	[[col:red]]Bạn sẽ cần thu thập thêm 20% Settled Grudge trong Age of Reckoning tiếp theo[[/col]]	false
+campaign_payload_ui_details_description_dummy_grudge_cycle_new_age	[[col:yellow]]Một Age of Reckoning mới bắt đầu ngay lập tức![[/col]]	false
+campaign_payload_ui_details_description_dummy_grudge_cycle_not_launched_1	[[col:yellow]]Không có đủ Grudge để bắt đầu một Age of Reckoning mới.[[/col]]	false
+campaign_payload_ui_details_description_dummy_grudge_cycle_not_launched_2	[[col:yellow]]Một Age of Reckoning mới sẽ bắt đầu sau 15 hiệp nếu có đủ Grudge.[[/col]]	false
+campaign_payload_ui_details_description_dummy_instant_research_points	Nhận ngay 1000 Điểm Nghiên Cứu thặng dư	false
+campaign_payload_ui_details_description_dummy_lzd_oxyotl_the_golden_blowpipe_of_ptoohee_fight_battle	Trận Chiến Nhiệm Vụ sẽ diễn ra ngay bây giờ nhưng lực lượng địch sẽ có viện quân	false
+campaign_payload_ui_details_description_dummy_lzd_oxyotl_the_golden_blowpipe_of_ptoohee_next_stage	Trận Chiến Nhiệm Vụ sẽ diễn ra sau và lực lượng địch sẽ chiến đấu không có viện quân	false
+campaign_payload_ui_details_description_dummy_marker_will_persist	Bạn sẽ có thể quay lại điểm đánh dấu này sau	false
+campaign_payload_ui_details_description_dummy_mission_1_aekold_helbrass	Kỵ Sĩ tiến gần hơn đến sự thật...	false
+campaign_payload_ui_details_description_dummy_mission_1_blue_scribes	Dấu vết từ những cuộn giấy da trở nên rõ ràng...	false
+campaign_payload_ui_details_description_dummy_mission_1_caradryan	Với đức tin được củng cố, chúng ta hành quân chống lại kẻ thù dưới ánh nhìn của Asuryan...	false
+campaign_payload_ui_details_description_dummy_mission_1_golden_knight	Golden Knight đã chú ý...	false
+campaign_payload_ui_details_description_dummy_mission_1_karanak	Hound of Vengeance đáp lại tiếng gọi của Chủ Nhân...	false
+campaign_payload_ui_details_description_dummy_mission_1_saytang	Con mắt của Watcher đang dõi theo bạn...	false
+campaign_payload_ui_details_description_dummy_mission_1_ulrika	Sự cảnh giác cao độ đã mang đến cho bạn một cơ hội hấp dẫn...	false
+campaign_payload_ui_details_description_dummy_mission_2_aekold_helbrass	Kỵ Sĩ tiến gần hơn đến sự thật...	false
+campaign_payload_ui_details_description_dummy_mission_2_blue_scribes	The Blue Scribes đang tìm nơi cất giữ những cuộn giấy da của chúng.	false
+campaign_payload_ui_details_description_dummy_mission_2_caradryan	Những tia sáng ấm áp xuyên thủng bầu trời. Hand of Asuryan bừng tỉnh từ một cuộc thiền định tĩnh lặng...	false
+campaign_payload_ui_details_description_dummy_mission_2_golden_knight	Golden Knight sẽ đến điểm hẹn…	false
+campaign_payload_ui_details_description_dummy_mission_2_saytang	Watcher sẽ xuất hiện...	false
+campaign_payload_ui_details_description_dummy_mission_2_ulrika	Bạn sẽ có cơ hội chiêu mộ Ulrika Magdova	false
+campaign_payload_ui_details_description_dummy_mission_3_aekold_helbrass	Tảng cự thạch ban phát những tiết lộ của nó, tuy nhiên vẫn còn một lựa chọn cần phải đưa ra...	false
+campaign_payload_ui_details_description_dummy_mission_3_blue_scribes	Một thư viện vĩ đại được xây dựng và một sự lựa chọn phải được đưa ra...	false
+campaign_payload_ui_details_description_dummy_mission_3_caradryan	Mở khóa Hero: Caradryan	false
+campaign_payload_ui_details_description_dummy_monst_arcanum_monster_found	Vị trí của quái thú sẽ được tiết lộ.	false
+campaign_payload_ui_details_description_dummy_monster_pen_modifiers	Thương vong địch cao và cấp độ của Rakarth tăng tỷ lệ bắt giữ Quái Thú	false
+campaign_payload_ui_details_description_dummy_monster_pens	Các đơn vị bị bắt có thể được chiêu mộ ngay lập tức từ Monster Pens	false
+campaign_payload_ui_details_description_dummy_monstrous_arcanum_conformation	Ngừng Đi Săn	false
+campaign_payload_ui_details_description_dummy_mortal_worlds_torment_decrease	Đặc điểm Mortal World's Torment bị thay đổi	false
+campaign_payload_ui_details_description_dummy_mortal_worlds_torment_increase	Đặc điểm Mortal World's Torment bị thay đổi	false
+campaign_payload_ui_details_description_dummy_mother_ostankya_hex_1	"Mother Ostankya sẽ học Lời Nguyền ""Coven's Cursemark"""	false
+campaign_payload_ui_details_description_dummy_mother_ostankya_hex_2	"Mother Ostankya sẽ học Lời Nguyền ""Jinxed Land"""	false
+campaign_payload_ui_details_description_dummy_mother_ostankya_hex_3	"Mother Ostankya sẽ học Lời Nguyền ""Recreant Spirit"""	false
+campaign_payload_ui_details_description_dummy_mother_ostankya_hex_4	"Mother Ostankya sẽ học Lời Nguyền ""Bewitching Lure"""	false
+campaign_payload_ui_details_description_dummy_mother_ostankya_hex_5	"Mother Ostankya sẽ học Lời Nguyền ""Purification Chant"""	false
+campaign_payload_ui_details_description_dummy_mother_ostankya_hex_6	"Mother Ostankya sẽ học Lời Nguyền ""Malediction of Ruin"""	false
+campaign_payload_ui_details_description_dummy_move_capital_eight_peaks	Thủ Đô của bạn sẽ trở thành Karak Eight Peaks	false
+campaign_payload_ui_details_description_dummy_nemesis_crown_seal	[[col:yellow]]Phong ấn Nemesis Crown. Tuy nhiên, nó có thể xuất hiện lại...[[/col]]	false
+campaign_payload_ui_details_description_dummy_nemesis_crown_take	[[col:yellow]]Giữ Nemesis Crown và sử dụng sức mạnh của nó.[[/col]]	false
+campaign_payload_ui_details_description_dummy_new_grudge_cycle	[[col:green]]Một chu kỳ Age of Reckoning mới bắt đầu[[/col]]	false
+campaign_payload_ui_details_description_dummy_no_more_chaos_portal_events	[[col:yellow]][Các popup Sự kiện liên quan đến Cổng Hỗn Mang sẽ ngừng xuất hiện]\\n(Cổng sẽ tiếp tục san bằng các khu vực)[[/col]]	false
+campaign_payload_ui_details_description_dummy_nor_accept_champion_generic	[[col:red]]Việc chiêu mộ champion này sẽ chọc giận các vị thần khác, khiến bạn không thể chiêu mộ champion của họ và dẫn tới sự trả thù từ những tín đồ của các vị thần đó.[[/col]]	false
+campaign_payload_ui_details_description_dummy_nor_accept_crow_champion	Burplesmirk Spewspit sẽ có thể được chiêu mộ.	false
+campaign_payload_ui_details_description_dummy_nor_accept_eagle_champion	Azrik the Maze Keeper sẽ có thể được chiêu mộ.	false
+campaign_payload_ui_details_description_dummy_nor_accept_hound_champion	Legendary Hero Được Chiêu Mộ: Killgore Slaymaim	false
+campaign_payload_ui_details_description_dummy_nor_accept_serpent_champion	Legendary Hero Được Chiêu Mộ: Kihar the Tormentor	false
+campaign_payload_ui_details_description_dummy_nor_reject_champion	Trong tương lai, bạn sẽ tự do chiêu mộ Champion của Vị Thần khác	false
+campaign_payload_ui_details_description_dummy_nor_reject_champion_1	Từ chối Champion của cả bốn vị thần sẽ ban một phần thưởng vô cùng mạnh mẽ cho Hero của bạn, nhưng sẽ có một thử thách phải vượt qua...	false
+campaign_payload_ui_details_description_dummy_norsca_defeated_woc_leader_alliance	Thành lập Liên Minh Quân Sự với phe của thủ lĩnh này	false
+campaign_payload_ui_details_description_dummy_ocean_of_opportunities_first	Lựa chọn này tạo ra một nhiệm vụ có Phần Thưởng Trung Bình	false
+campaign_payload_ui_details_description_dummy_ocean_of_opportunities_fourth	Lựa chọn này tạo ra một nhiệm vụ có Phần Thưởng Thấp	false
+campaign_payload_ui_details_description_dummy_ocean_of_opportunities_second	Lựa chọn này tạo ra một nhiệm vụ có Phần Thưởng Cao	false
+campaign_payload_ui_details_description_dummy_ocean_of_opportunities_third	Lựa chọn này tạo ra một nhiệm vụ có Phần Thưởng Cao	false
+campaign_payload_ui_details_description_dummy_ogr_contract_continue_war	Tiếp tục chiến tranh với kẻ thù của Khách Hàng	false
+campaign_payload_ui_details_description_dummy_ogr_contract_peace	Giảng hòa với kẻ thù của Khách Hàng	false
+campaign_payload_ui_details_description_dummy_pan_camera_to_razed_region	[[col:yellow]][Di chuyển camera đến khu vực bị tàn phá][[/col]]	false
+campaign_payload_ui_details_description_dummy_pawnbroker_half_price	Vật phẩm này đang giảm giá 50%!	false
+campaign_payload_ui_details_description_dummy_peg_leg_keep	Bạn giữ vật phẩm Peg Leg	false
+campaign_payload_ui_details_description_dummy_peg_leg_sell	Bạn bị mất vật phẩm Peg Leg	false
+campaign_payload_ui_details_description_dummy_province_development_point	Chư hầu nhận được thặng dư dân số tỉnh	false
+campaign_payload_ui_details_description_dummy_purple_hand_cult_spreads	[[col:white]]Purple Hand thiết lập một căn cứ mới[[/col]]	false
+campaign_payload_ui_details_description_dummy_purple_hand_cult_spreads_promise	Hội Cuồng Tín đảm bảo với bạn rằng họ sẽ không định cư trên vùng đất của bạn nữa	false
+campaign_payload_ui_details_description_dummy_rakarth_battles_harpies	Nhận được khi thảm sát tù binh sau khi thắng một trận chiến trên đất liền hoặc trên biển	false
+campaign_payload_ui_details_description_dummy_rakarth_battles_sea	Nhận được khi thảm sát tù binh sau một trận chiến trên biển	false
+campaign_payload_ui_details_description_dummy_rakarth_battles_underway	Nhận được khi thảm sát tù binh sau khi thắng một trận chiến trong Underway	false
+campaign_payload_ui_details_description_dummy_rakarth_raid_cold_ones	Nhận được bằng cách đột kích trong khí hậu Jungle hoặc Savannah	false
+campaign_payload_ui_details_description_dummy_rakarth_raid_desert	Nhận được bằng cách đột kích trong khí hậu Desert	false
+campaign_payload_ui_details_description_dummy_rakarth_raid_frozen	Nhận được bằng cách đột kích trong khí hậu Frozen	false
+campaign_payload_ui_details_description_dummy_rakarth_raid_jungle	Nhận được bằng cách đột kích trong khí hậu Jungle	false
+campaign_payload_ui_details_description_dummy_rakarth_raid_magical_forest	Nhận được bằng cách đột kích trong khí hậu Magical Forest	false
+campaign_payload_ui_details_description_dummy_rakarth_raid_manticore	Nhận được bằng cách đột kích trong Chaotic Wasteland hoặc khu vực bị Chaos tha hóa	false
+campaign_payload_ui_details_description_dummy_rakarth_raid_mountain	Nhận được bằng cách đột kích trong khí hậu Mountain	false
+campaign_payload_ui_details_description_dummy_rakarth_raid_temperate	Nhận được bằng cách đột kích trong khí hậu Temperate	false
+campaign_payload_ui_details_description_dummy_rakarth_raid_temperate_island	Nhận được bằng cách đột kích trong khí hậu Temperate Island	false
+campaign_payload_ui_details_description_dummy_rakarth_raid_wasteland	Nhận được bằng cách đột kích trong khí hậu Wasteland	false
+campaign_payload_ui_details_description_dummy_rakarth_settlement_chaos	Nhận được bằng cách chiếm đóng một khu định cư của Warriors of Chaos	false
+campaign_payload_ui_details_description_dummy_rakarth_settlement_dark_elves	Nhận được bằng cách chiếm đóng một khu định cư của Dark Elf	false
+campaign_payload_ui_details_description_dummy_rakarth_settlement_dragon	Nhận được bằng cách chiếm đóng một khu định cư của High Elf hoặc Dark Elf	false
+campaign_payload_ui_details_description_dummy_rakarth_settlement_greenskins	Nhận được bằng cách chiếm đóng một khu định cư của Greenskin	false
+campaign_payload_ui_details_description_dummy_rakarth_settlement_kislev	Nhận được bằng cách chiếm đóng một khu định cư của Kislev	false
+campaign_payload_ui_details_description_dummy_rakarth_settlement_lizardmen	Nhận được bằng cách chiếm đóng một khu định cư của Lizardmen	false
+campaign_payload_ui_details_description_dummy_rakarth_settlement_norsca	Nhận được bằng cách chiếm đóng một khu định cư của Norsca	false
+campaign_payload_ui_details_description_dummy_rakarth_settlement_ogres	Nhận được bằng cách chiếm đóng một khu định cư của Ogre	false
+campaign_payload_ui_details_description_dummy_rakarth_settlement_wood_elves	Nhận được bằng cách chiếm đóng một khu định cư của Wood Elf	false
+campaign_payload_ui_details_description_dummy_region_returned_to_high_elves	Gaean Vale sẽ được trả lại cho một phe High Elf	false
+campaign_payload_ui_details_description_dummy_remove_dwarf_minor_cult	"Loại bỏ Dwarf Mining Company khỏi {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").RegionTargetName}}"	false
+campaign_payload_ui_details_description_dummy_repair_dwarf_minor_cult	"Sửa chữa thiệt hại tại {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").RegionTargetName}}"	false
+campaign_payload_ui_details_description_dummy_replenish_all_armies	Ngay lập tức bổ sung tất cả các đơn vị (toàn phe)	false
+campaign_payload_ui_details_description_dummy_replenish_all_characters_ap	Tất cả [[img:icon_general]][[/img]]Lord và [[img:icon_hero]][[/img]]Hero được phục hồi điểm hành động ngay lập tức	false
+campaign_payload_ui_details_description_dummy_reveal_fow_in_razed_region	Toàn bộ Fog of War được tiết lộ trong khu vực bị càn quét trong lượt này	false
+campaign_payload_ui_details_description_dummy_sayl_final_battle_trait_reward	Sayl the Faithless sẽ đạt được một đặc điểm độc đáo.	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_attention_1_nur_option_2_chance	[[col:red]]Có 25% cơ hội xuất hiện một đội quân Norscan tôn thờ [[img:icon_nor_crow]][[/img]]Crow, nhằm truy tìm Sayl.[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_attention_1a_kho_option_3_chance	[[col:red]]{{tr:campaign_payload_ui_details_description_dummy_sayl_manipulation_khorne_army_t1}}\\n50% cơ hội đạo quân đó sẽ có thêm các đơn vị Quái vật.[[/col]]\\n50% cơ hội đạo quân đó sẽ bị suy yếu.	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_attention_1a_nur_option_3_chance	50% cơ hội nhận hiệu ứng tích cực Tăng trưởng & Bổ sung quân toàn phe phái.\\n[[col:red]]50% cơ hội chịu hiệu ứng tiêu cực Tăng trưởng & Tiêu hao toàn phe phái.[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_attention_1a_sla_option_2_chance	[[col:red]]Có 25% cơ hội xuất hiện một đội quân Norscan tôn thờ [[img:icon_nor_serpent]][[/img]]Serpent, nhằm truy tìm Sayl.[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_attention_1a_sla_option_3_chance	25% cơ hội nhận được Ngân khố & Chiến lợi phẩm\\n[[col:red]]75% cơ hội một đạo quân Norsca mạnh hơn sẽ xuất hiện để tìm Sayl.[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_attention_1a_tze_option_2_chance	[[col:red]]Có 50% cơ hội xuất hiện một đội quân Norscan [[/col]][[col:yellow]]mạnh hơn[[/col]][[col:red]], nhằm truy tìm Sayl.[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_attention_1a_tze_option_3_chance	[[col:red]]25% cơ hội Thủ lĩnh phe phái bị thương.[[/col]]\\n[[col:yellow]]75% cơ hội sức mạnh Ma thuật Winds of Magic của thủ lĩnh phe phái được tăng cường, cùng với sự thối nát của Tzeentch.[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_attention_1b_kho_option_3_chance	25% cơ hội nhận được Thủ lĩnh Norsca vào nhóm chiêu mộ\\n[[col:red]]75% cơ hội một đạo quân Norsca mạnh hơn sẽ xuất hiện để tìm Sayl.[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_attention_1b_nur_option_3_chance	[[col:red]]Tất cả đạo quân của phe phái chịu 10% sát thương[[/col]]\\n[[col:yellow]]10% cơ hội các đơn vị sẽ biến thành Chaos Spawn of Nurgle[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_attention_1b_sla_option_3_chance	50% cơ hội không có đạo quân nào xuất hiện và quân nhu được thu hồi từ kẻ thù\\n[[col:red]]50% cơ hội một đạo quân Norsca mạnh hơn sẽ xuất hiện để tìm Sayl.[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_attention_1b_tze_option_3_chance	25% cơ hội nhận được Pháp Sư Shaman\\n[[col:red]75% cơ hội một đạo quân Norsca mạnh hơn sẽ xuất hiện để tìm Sayl.[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_attention_2a_kho_option_2	[[col:red]]Một đội quân champion của Khorne bị suy yếu sẽ xuất hiện, nhằm truy tìm Sayl.[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_attention_2a_kho_option_3	[[col:red]]Tất cả đội đồn trú của phe chịu 30% sát thương[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_attention_2a_nur_option2	[[col:red]]Một đặc vụ ngẫu nhiên trong phe bị giết[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_attention_2a_nur_option3_chance	[[col:red]]Có 50% cơ hội Bệnh Dịch sẽ bùng phát trên toàn phe của bạn[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_attention_2a_tze_option3_chance	[[col:red]]25% cơ hội thủ lĩnh phe phái bị thương.\\n75% cơ hội dự trữ Ma thuật Winds of Magic của thủ lĩnh phe phái bị cạn kiệt về 0[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_attention_2b_kho_option_2_chance	25% cơ hội không có đạo quân nào xuất hiện\\n[[col:red]]75% cơ hội một đạo quân Norsca mạnh hơn sẽ xuất hiện để tìm Sayl.[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_attention_2b_kho_option_3	[[col:yellow]]Đội quân tấn công và đội quân đồng minh chịu một lượng sát thương ngẫu nhiên[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_attention_2b_nur_option3_chance	[[col:red]]{{tr:campaign_payload_ui_details_description_dummy_sayl_manipulation_nurgle_army_t2}}\\n50% cơ hội đạo quân đó sẽ có các đơn vị bị thay thế bằng Chaos Spawn of Nurgle[[/col]]\\n50% cơ hội đạo quân đó sẽ bị suy yếu	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_attention_3_kho_option2	[[col:red]]Chịu lượng thiệt hại ngẫu nhiên lên các công trình của phe trong mọi vùng đất[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_attention_3_tze_option2_chance	[[col:red]]Tất cả đạo quân chịu 40% sát thương[[/col]]\\n[[col:yellow]]20% cơ hội các đơn vị sẽ biến thành Chaos Spawn of Tzeentch[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_khorne_army_t1	[[col:red]]Một đội quân Norscan tôn thờ [[img:icon_nor_hound]][[/img]]Hound sẽ xuất hiện, nhằm truy tìm Sayl.[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_khorne_army_t2	[[col:red]]Một đội quân champion của Khorne sẽ xuất hiện, nhằm truy tìm Sayl.[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_khorne_army_t3	[[col:red]]Một đội quân daemon và champion của Khorne sẽ xuất hiện, nhằm truy tìm Sayl.[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_marauders_die	Các đơn vị Marauder trong tất cả quân đội bị giải tán	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_monsters_die	Các đơn vị Quái Thú trong tất cả quân đội bị tiêu diệt	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_nurgle_army_t1	[[col:red]]Một đội quân Norscan tôn thờ [[img:icon_nor_crow]][[/img]]Crow sẽ xuất hiện, nhằm truy tìm Sayl.[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_nurgle_army_t2	[[col:red]]Một đội quân champion của Nurgle sẽ xuất hiện, nhằm truy tìm Sayl.[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_nurgle_army_t3	[[col:red]]Một đội quân daemon và champion của Nurgle sẽ xuất hiện, nhằm truy tìm Sayl.[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_raze_region	Khu vực bị càn quét	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_ritual_locked_temp	Bị khóa cho tới chu kỳ tiếp theo sau khi thu hút quá nhiều Sự Chú Ý [[img:icon_nor_god_attention]][[/img]] từ các tín đồ của Chaos God.	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_ritual_unlock_t2	[[col:green]]Mở Khóa Manipulations Bậc 2.[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_ritual_unlock_t3	[[col:green]]Mở Khóa Manipulations Bậc 3.[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_ritual_unlock_t4	[[col:green]]Mở Khóa Manipulations Bậc 4.[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_slaanesh_army_t1	[[col:red]]Một đội quân Norscan tôn thờ [[img:icon_nor_serpent]][[/img]]Serpent sẽ xuất hiện, nhằm truy tìm Sayl.[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_slaanesh_army_t2	[[col:red]]Một đội quân champion của Slaanesh sẽ xuất hiện, nhằm truy tìm Sayl.[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_slaanesh_army_t3	[[col:red]]Một đội quân daemon và champion của Slaanesh sẽ xuất hiện, nhằm truy tìm Sayl.[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_tzeentch_army_t1	[[col:red]]Một đội quân Norscan tôn thờ [[img:icon_nor_eagle]][[/img]]Eagle sẽ xuất hiện, nhằm truy tìm Sayl.[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_tzeentch_army_t2	[[col:red]]Một đội quân champion của Tzeentch sẽ xuất hiện, nhằm truy tìm Sayl.[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_manipulation_tzeentch_army_t3	[[col:red]]Một đội quân daemon và champion của Tzeentch sẽ xuất hiện, nhằm truy tìm Sayl.[[/col]]	false
+campaign_payload_ui_details_description_dummy_sayl_narrative_intro_reward	[[col:yellow]]Bắt đầu tích lũy sức mạnh tà thuật để thực hiện Dark Ritual[[/col]]	false
+campaign_payload_ui_details_description_dummy_sell_settlement_minor_cult	"Bán khu định cư của {{CcoCampaignPayloadInfoEntry:StoredContextFromParent(""CcoCampaignEventDilemma"").RegionTargetName}}"	false
+campaign_payload_ui_details_description_dummy_sisters_forge_active_1	Nút bấm Forge of Daith hiện đã có thể sử dụng!	false
+campaign_payload_ui_details_description_dummy_sisters_forge_active_2	The Forge of Daith chỉ có thể truy cập được mỗi 2 lượt một lần	false
+campaign_payload_ui_details_description_dummy_sisters_forge_event_1	Lord Daith đã ban tặng cho bạn bốn món trang bị	false
+campaign_payload_ui_details_description_dummy_sisters_forge_event_2	Lord Daith ban tặng trang bị mới mỗi 10 lượt	false
+campaign_payload_ui_details_description_dummy_sisters_forge_event_3	Lord Daith sẽ đề nghị cải tiến các món quà của mình sau khi Sisters giành chiến thắng trong các trận chiến	false
+campaign_payload_ui_details_description_dummy_sorcerer_capacity	Giới hạn Hero: +1 cho Chaos Sorcerer	false
+campaign_payload_ui_details_description_dummy_spawn_aekold_helbrass	Mở khóa Hero: Aekold Helbrass	false
+campaign_payload_ui_details_description_dummy_spawn_beorg	Mở khóa Hero: Beorg Bearstruck	false
+campaign_payload_ui_details_description_dummy_spawn_blue_scribes	Mở khóa Hero: The Blue Scribes	false
+campaign_payload_ui_details_description_dummy_spawn_bragg_the_gutsman_1	[PH] Bragg is interested	false
+campaign_payload_ui_details_description_dummy_spawn_bragg_the_gutsman_2	Mở khóa Hero: {{tr:land_units_onscreen_name_wh3_dlc26_ogr_cha_bragg_the_gutsman}}	false
+campaign_payload_ui_details_description_dummy_spawn_epidemius	Mở khóa Hero: Epidemius	false
+campaign_payload_ui_details_description_dummy_spawn_garagrim_ironfist	Mở khóa Hero: Garagrim Ironfist	false
+campaign_payload_ui_details_description_dummy_spawn_golden_knight	Mở khóa Hero: The Golden Knight	false
+campaign_payload_ui_details_description_dummy_spawn_gorduz_backstabber	Mở khóa Hero: Gorduz Backstabber	false
+campaign_payload_ui_details_description_dummy_spawn_gotrek_felix	Mở khóa Hero: Gotrek & Felix	false
+campaign_payload_ui_details_description_dummy_spawn_harald_hammerstorm	Mở khóa Hero: Harald Hammerstorm	false
+campaign_payload_ui_details_description_dummy_spawn_karanak	Mở khóa Hero: Karanak, the Hound of Vengeance	false
+campaign_payload_ui_details_description_dummy_spawn_lord_kroak	Mở khóa Hero: Lord Kroak	false
+campaign_payload_ui_details_description_dummy_spawn_saytang	Mở khóa Hero: Saytang the Watcher	false
+campaign_payload_ui_details_description_dummy_spawn_scyla_anfingrimm_1	Việc cướp bóc vùng đất có thể hé lộ nhiều thứ hơn...	false
+campaign_payload_ui_details_description_dummy_spawn_scyla_anfingrimm_2	Champion của Khorne này vẫn tàn bạo như xưa, dù có thể hắn không còn là con người nữa...	false
+campaign_payload_ui_details_description_dummy_spawn_scyla_anfingrimm_3	Mở khóa Hero: {{tr:land_units_onscreen_name_wh3_dlc26_kho_cha_scyla_anfingrimm}}	false
+campaign_payload_ui_details_description_dummy_spawn_skarr_bloodwrath_1	Giữa những chiến binh người phàm đáng sợ nhất của Khorne, có một champion xuất chúng...	false
+campaign_payload_ui_details_description_dummy_spawn_skarr_bloodwrath_2	Những cơn gió rít gào qua những chiến trường đẫm máu, mang theo cái tên của Skarr...	false
+campaign_payload_ui_details_description_dummy_spawn_skarr_bloodwrath_3	Mở khóa Hero: {{tr:land_units_onscreen_name_wh3_dlc26_kho_cha_skarr_bloodwrath}}	false
+campaign_payload_ui_details_description_dummy_spawn_snagla_grobspit	Mở khóa Hero: {{tr:land_units_onscreen_name_wh3_dlc26_grn_cha_snagla_grobspit}}	false
+campaign_payload_ui_details_description_dummy_spawn_styrkaar	Mở khóa Hero: Styrkaar the Sortsvinaer	false
+campaign_payload_ui_details_description_dummy_spawn_taoyan	Mở khóa Hero: Taoyan the Merciless	false
+campaign_payload_ui_details_description_dummy_spawn_theodore	Mở khóa Hero: Theodore Bruckner	false
+campaign_payload_ui_details_description_dummy_spawn_ulrika_magdova	Mở khóa Hero: Ulrika Magdova	false
+campaign_payload_ui_details_description_dummy_styrkaar_mission_stage_1	Hoàn thành nhiệm vụ này để tiếp tục chuỗi nhiệm vụ của Styrkaar...	false
+campaign_payload_ui_details_description_dummy_sword_will_be_lost	Hoàn trả Sword of Khaine	false
+campaign_payload_ui_details_description_dummy_sword_will_be_picked	Giữ lại Sword of Khaine	false
+campaign_payload_ui_details_description_dummy_sword_will_be_strong	Sword of Khaine sẽ phát triển sức mạnh	false
+campaign_payload_ui_details_description_dummy_take_no_action	Bạn sẽ không có bất kì hành động nào	false
+campaign_payload_ui_details_description_dummy_tamurkhan_deference_final_reward	[[col:yellow]]Đạt được cấp độ Lòng Trung Thành [[i]]Devoted[[/i]] với vị Thủ Lĩnh này[[/col]]	false
+campaign_payload_ui_details_description_dummy_taoyan_mission_stage_1	Iron Dragon phái thêm một người khác tới...	false
+campaign_payload_ui_details_description_dummy_teclis_teleport_white_tower	Teclis sẽ được dịch chuyển tới gần White Tower of Hoeth	false
+campaign_payload_ui_details_description_dummy_theodore_mission_stage_1	Việc đầu tư vào kỵ binh sẽ thu hút sự chú ý của Bruckner	false
+campaign_payload_ui_details_description_dummy_unlock_hellforge_effect_bull_centaur_renders	Mở khóa hiệu ứng đơn vị Hell-Forge cho: Bull Centaur Renders	false
+campaign_payload_ui_details_description_dummy_unlock_hellforge_effect_bull_centaurs_taurus	Mở khóa hiệu ứng phân loại Hell-Forge: Bull Centaurs và Taur'ruk	false
+campaign_payload_ui_details_description_dummy_unlock_hellforge_effect_chaos_dwarf_warriors	Mở khóa hiệu ứng đơn vị Hell-Forge cho: Chaos Dwarf Warriors và Chaos Dwarf Warriors (Great Weapons)	false
+campaign_payload_ui_details_description_dummy_unlock_hellforge_effect_deathshrieker_dreadquake	Mở khóa hiệu ứng đơn vị Hell-Forge cho: Deathshriekers và Dreadquake Mortars	false
+campaign_payload_ui_details_description_dummy_unlock_hellforge_effect_hellcannon_magma_cannon	Mở khóa hiệu ứng đơn vị Hell-Forge cho: Hellcannons và Magma Cannons	false
+campaign_payload_ui_details_description_dummy_unlock_hellforge_effect_hobgoblins	Mở khóa hiệu ứng phân loại Hell-Forge: Hobgoblins	false
+campaign_payload_ui_details_description_dummy_unlock_hellforge_effect_infernal_guard	Mở khóa hiệu ứng đơn vị Hell-Forge cho: Infernal Guard	false
+campaign_payload_ui_details_description_dummy_unlock_hellforge_effect_infernal_guard_greatweapons	Mở khóa hiệu ứng đơn vị Hell-Forge cho: Infernal Guard (Great Weapons)	false
+campaign_payload_ui_details_description_dummy_unlock_hellforge_effect_infernal_ironsworn	Mở khóa hiệu ứng đơn vị Hell-Forge cho: Infernal Ironsworn	false
+campaign_payload_ui_details_description_dummy_unlock_hellforge_effect_melee_infantry	Mở khóa hiệu ứng phân mục Hell-Forge: Bộ Binh Cận Chiến	false
+campaign_payload_ui_details_description_dummy_unlock_hellforge_effect_missile_infantry	Mở khóa hiệu ứng phân mục Hell-Forge: Bộ Binh Tầm Xa	false
+campaign_payload_ui_details_description_dummy_vortex_final_battle_experience	Điểm kinh nghiệm thưởng: 8000 cho mọi nhân vật	false
+campaign_payload_ui_details_description_dummy_vortex_final_battle_unit_rank	Cấp bậc đơn vị: 9 cho mọi đơn vị trong trận chiến	false
+campaign_payload_ui_details_description_dummy_war_great_orthodoxy	Tuyên chiến với Great Orthodoxy	false
+campaign_payload_ui_details_description_dummy_war_ice_court	Tuyên chiến với Ice Court	false
+campaign_payload_ui_details_description_dummy_wef_encounter_confed_oreon	Liên minh được thành lập với Bowmen of Oreon	false
+campaign_payload_ui_details_description_dummy_wef_encounter_easy_battle	Bạn sẽ đối mặt với một kẻ địch [[col:green]]yếu hơn[[/col]] trong trận chiến	false
+campaign_payload_ui_details_description_dummy_wef_encounter_greenskins	Các khu vực Dark Elf sẽ phải chịu những hình phạt ngắt quãng	false
+campaign_payload_ui_details_description_dummy_wef_encounter_hard_battle	Bạn sẽ đối mặt với một kẻ địch [[col:red]]mạnh hơn[[/col]] trong trận chiến	false
+campaign_payload_ui_details_description_dummy_wef_encounter_very_hard_battle	Bạn sẽ đối mặt với một kẻ địch [[col:red]]rất khó nhằn[[/col]] trong trận chiến	false
+campaign_payload_ui_details_description_dummy_wef_encounter_war_with_oreon	Bạn sẽ gây chiến với Bowmen of Oreon!	false
+campaign_payload_ui_details_description_dummy_wh2_dlc11_neo_counter_fight	Bạn sẽ đối mặt với một kẻ địch trong trận chiến	false
+campaign_payload_ui_details_description_dummy_wh2_dlc11_neo_counter_fight_chance	Bạn có thể phải đánh bại một kẻ địch trong trận chiến	false
+campaign_payload_ui_details_description_dummy_wh2_dlc11_neo_counter_treasure	Có thể nhận được một kho báu khổng lồ	false
+campaign_payload_ui_details_description_dummy_wh2_dlc11_neo_counter_treasure_minor	Chỉ nhận được một kho báu ít ỏi	false
+campaign_payload_ui_details_description_dummy_wh2_dlc13_hunter_dilemma	[[col:white]]Một tình huống khó xử mang lại phần thưởng![[/col]]	false
+campaign_payload_ui_details_description_dummy_wh2_dlc13_hunter_join	[[col:white]]Một Hero độc nhất gia nhập phe bạn![[/col]]	false
+campaign_payload_ui_details_description_dummy_wh2_dlc13_wulfhart_supply_delay	[HIDDEN] trì hoãn đợt tiếp tế hoàng gia tiếp theo của bạn	false
+campaign_payload_ui_details_description_dummy_wh2_dlc13_wulfhart_supply_enhance	[HIDDEN] nhận thêm các đơn vị trong đợt tiếp tế hoàng gia tiếp theo	false
+campaign_payload_ui_details_description_dummy_wh2_dlc13_wulfhart_supply_instant	[HIDDEN] nhận ngay đợt tiếp tế hoàng gia tiếp theo của bạn	false
+campaign_payload_ui_details_description_dummy_wh2_dlc13_wulfhart_wanted_level_increase	[HIDDEN] mức độ truy nã sẽ tăng thêm 1	false
+campaign_payload_ui_details_description_dummy_wh2_dlc14_malus_start_dilemma_keep_hag_graef	Giữ Hag Graef (duy trì chỗ đứng ở Naggaroth)	false
+campaign_payload_ui_details_description_dummy_wh2_dlc14_malus_start_dilemma_lose_hag_graef	Từ bỏ Hag Graef (tập trung vào cuộc viễn chinh)	false
+campaign_payload_ui_details_description_dummy_wh2_dlc14_obsinite_gyrocopter_unlock	Đội Quân Hoàng Gia (1) Obsinite Gyrocopter	false
+campaign_payload_ui_details_description_dummy_wh2_dlc15_dragon_encounter_bargain	Con Rồng này sẽ chỉ cho bạn nghệ thuật thao túng!	false
+campaign_payload_ui_details_description_dummy_wh2_dlc15_dragon_encounter_challenge	Bạn sẽ chiến đấu với con Rồng này trong trận chiến!	false
+campaign_payload_ui_details_description_dummy_wh2_dlc15_dragon_encounter_challenge_special	Chiến đấu với con Rồng này trong Hang ổ của nó! Lựa chọn này kích hoạt một \\n trận chiến nhiệm vụ với phần thưởng lớn hơn	false
+campaign_payload_ui_details_description_dummy_wh2_dlc15_dragon_encounter_consult	Kiến thức của con Rồng cải thiện quân đội của bạn	false
+campaign_payload_ui_details_description_dummy_wh2_dlc15_dragon_encounter_leave	Tạm thời bạn sẽ để con Rồng này yên	false
+campaign_payload_ui_details_description_dummy_wh2_dlc15_grn_waaagh_success_unit	{{tr:effects_description_wh2_dlc15_grn_waaagh_success_unit_dummy}}	false
+campaign_payload_ui_details_description_dummy_wh2_dlc15_grom_experience	Điểm kinh nghiệm thưởng: 1500 cho Grom	false
+campaign_payload_ui_details_description_dummy_wh2_dlc15_grom_random_food	Một nguyên liệu ngẫu nhiên sẽ được mở khóa	false
+campaign_payload_ui_details_description_dummy_wh2_dlc15_imrik_dragon_recruitment_black	Rồng Đặc Biệt (1) Shackolot the Calamity	false
+campaign_payload_ui_details_description_dummy_wh2_dlc15_imrik_dragon_recruitment_forest	Rồng Đặc Biệt (1) Bruwor, Protector of Life	false
+campaign_payload_ui_details_description_dummy_wh2_dlc15_imrik_dragon_recruitment_moon	Rồng Đặc Biệt (1) Lamoureux the Frozen Breath	false
+campaign_payload_ui_details_description_dummy_wh2_dlc15_imrik_dragon_recruitment_star	Rồng Đặc Biệt (1) Ymwrath the Eternal	false
+campaign_payload_ui_details_description_dummy_wh2_dlc15_imrik_dragon_recruitment_sun	Rồng Đặc Biệt (1) Gordinar, Champion of the Flame	false
+campaign_payload_ui_details_description_dummy_wh2_dlc16_drycha_potion_sacre_reward	Drycha và những người đi theo cô ấy sẽ nhận được khả năng kháng phép thuật	false
+campaign_payload_ui_details_description_dummy_wh2_dlc16_drycha_unlock_coeddil_reward	Coeddil sẽ gia nhập lực lượng của bạn	false
+campaign_payload_ui_details_description_dummy_wh2_dlc16_sisters_forge_craft_armour	Bạn sẽ nhận được một bộ áo giáp mạnh mẽ	false
+campaign_payload_ui_details_description_dummy_wh2_dlc16_sisters_forge_craft_enchanted_item	Bạn sẽ nhận được một vật phẩm được cường hóa mạnh mẽ	false
+campaign_payload_ui_details_description_dummy_wh2_dlc16_sisters_forge_craft_no_more_available	Daith không thể chế tạo thiết bị loại này để tặng bạn nữa	false
+campaign_payload_ui_details_description_dummy_wh2_dlc16_sisters_forge_craft_talisman	Bạn sẽ nhận được một lá bùa mạnh mẽ	false
+campaign_payload_ui_details_description_dummy_wh2_dlc16_sisters_forge_craft_weapon	Bạn sẽ nhận được một vũ khí mạnh mẽ	false
+campaign_payload_ui_details_description_dummy_wh2_dlc16_sisters_forge_leave_without_action	Naestra bày tỏ sự kính trọng và rời đi	false
+campaign_payload_ui_details_description_dummy_wh2_dlc16_sisters_forge_leave_without_action_2	Daith rất hài lòng: giảm 2 lượt cho đến lần nhận quà tiếp theo từ Forge of Daith	false
+campaign_payload_ui_details_description_dummy_wh2_dlc16_sisters_forge_lose_reforge_warning	Thiết bị hiện đang được rèn lại – thời lượng sức mạnh còn lại sẽ bị mất	false
+campaign_payload_ui_details_description_dummy_wh2_dlc16_sisters_forge_reforge_duration_warning	Sức mạnh được gia tăng của thiết bị kéo dài 5 lượt	false
+campaign_payload_ui_details_description_dummy_wh2_dlc16_sisters_forge_reforge_duration_warning_skill_owned	Sức mạnh được gia tăng của thiết bị kéo dài 7 lượt	false
+campaign_payload_ui_details_description_dummy_wh2_dlc16_sisters_forge_reforge_level_warning	Sẽ trở lại sức mạnh hiện tại sau khoảng thời gian rèn lại	false
+campaign_payload_ui_details_description_dummy_wh2_dlc16_sisters_forge_restart_reforge_timer	Thiết bị hiện đang được rèn lại – thời lượng sức mạnh được đặt lại ở mức tối đa	false
+campaign_payload_ui_details_description_dummy_wh2_dlc16_throt_unlock_ghoritch_reward	Ghoritch sẽ gia nhập lực lượng của bạn	false
+campaign_payload_ui_details_description_dummy_wh2_main_campaign_encounter	Quân đội của bạn sẽ thể hiện tốt hơn trong chiến dịch	false
+campaign_payload_ui_details_description_dummy_wh2_main_combat_encounter	Quân đội của bạn sẽ thể hiện tốt hơn trong trận chiến	false
+campaign_payload_ui_details_description_dummy_wh2_main_grn_gorks_waaagh	Bạn cống hiến cuộc Waaagh! này cho Gork	false
+campaign_payload_ui_details_description_dummy_wh2_main_grn_morks_waaagh	Bạn cống hiến cuộc Waaagh! này cho Mork	false
+campaign_payload_ui_details_description_dummy_wh2_main_incident_intercontinental_diplomacy	Tất cả các chủ sở hữu cảng chính đã được biết đến nhau qua ngoại giao	false
+campaign_payload_ui_details_description_dummy_wh2_pro08_recruit	Chiêu mộ Gotrek và Felix	false
+campaign_payload_ui_details_description_dummy_wh2_twa03_rakarth_beast_mastery_reward	Một số quái thú Lustrian sẽ được thêm vào Monster Pens	false
+campaign_payload_ui_details_description_dummy_wh2_twa03_rakarth_black_ark_reward	Một Black Ark sẽ có sẵn để chiêu mộ từ bất kỳ khu định cư có cảng nào	false
+campaign_payload_ui_details_description_dummy_wh3_cp1_cth_aosy_missions_army_capacity	Sức chứa quân đội: +1	false
+campaign_payload_ui_details_description_dummy_wh3_cp1_cth_iron_favour_all	Khi Mục tiêu này hoạt động:\\nCác quân đội và khu định cư mục tiêu cung cấp [[col:yellow]]+45 [[img:icon_iron_favour]]Iron Favour[[/img]][[/col]] khi bị đánh bại	false
+campaign_payload_ui_details_description_dummy_wh3_cp1_cth_iron_favour_armies	Khi Mục tiêu này hoạt động:\\nCác quân đội mục tiêu cung cấp [[col:yellow]]+30 [[img:icon_iron_favour]]Iron Favour[[/img]][[/col]] khi bị đánh bại	false
+campaign_payload_ui_details_description_dummy_wh3_cp1_cth_iron_favour_settlements	Khi Mục tiêu này hoạt động:\\nCác khu định cư mục tiêu cung cấp [[col:yellow]]+30 [[img:icon_iron_favour]]Iron Favour[[/img]][[/col]] khi bị đánh bại	false
+campaign_payload_ui_details_description_dummy_wh3_dlc20_dilemma_daemon_prince_ascension_ascend	Nhân vật được thay thế bằng một Daemon Prince	false
+campaign_payload_ui_details_description_dummy_wh3_dlc20_dilemma_daemon_prince_ascension_do_nothing	Tiếp tục là một Mortal vĩnh viễn	false
+campaign_payload_ui_details_description_dummy_wh3_dlc20_incident_daemon_prince_ascension	Một số kinh nghiệm đã được chuyển cho Daemon Prince	false
+campaign_payload_ui_details_description_dummy_wh3_dlc21_dilemma_nakai_pestilens_short_victory	Một đội quân lang thang dưới sự kiểm soát của bạn sẽ xuất hiện từ các khu rừng của Lustria để hỗ trợ Lizardmen.	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_dilemma_yuan_bo_start_keep_shang_wu	Giữ Shang-Wu (duy trì chỗ đứng ở Cathay)	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_dilemma_yuan_bo_start_lose_shang-wu	Từ bỏ Shang-Wu (tập trung vào cuộc viễn chinh)	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_long_campaign_victory	Chiến Thắng Chiến Dịch Dài!	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_aekold_form	Nhận hình dạng của Aekold Helbrass, nếu bạn chưa có	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_badlands_grand_scripted	Một nghi lễ độc đáo sẽ được thực hiện tại địa điểm của Black Pyramid	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_blue_scribes_form	Nhận hình dạng của Blue Scribes, nếu bạn chưa có	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_bretonnia_athel_loren_beastmen_rebels	Các thủ đô của phe Wood Elf sẽ bị tấn công bởi phiến quân Beastmen thù địch	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_bretonnia_grand_scripted	The Red Duke sẽ bao vây toàn bộ Bretonnia bằng quân đoàn Undead của mình	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_chaos_wastes_grand_scripted	Tzeentch sẽ giải phóng các làn sóng phiến quân Daemonic chống lại các đối thủ của hắn trong The Great Game	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_darklands_grand_scripted	Greenskin Labourers sẽ nổi dậy chống lại những kẻ giám sát chúng	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_ghoritch_form	Nhận hình dạng của Ghoritch, nếu bạn chưa có	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_gorduz_form	Nhận hình dạng của Gorduz Backstabber, nếu bạn chưa có	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_grand_cathay_grand_scripted	The Kurgan Warband sẽ chọc thủng The Great Bastion, cho phép phiến quân Tzeentchian tràn vào chiến trường	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_grand_cathay_theatre_corruption_payload	Sự thối nát của Tzeentch sẽ lây lan khắp Grand Cathay	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_grand_scheme_badlands_cathay	Black Pyramid sẽ xuất hiện tại Nongchang cùng với đám Undead thù địch	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_grand_scheme_badlands_lustria	Black Pyramid sẽ xuất hiện tại Xlanhuapec cùng với đám Undead thù địch	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_grand_scheme_badlands_norsca	Black Pyramid sẽ xuất hiện tại Doomkeep cùng với đám Undead thù địch	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_grand_scheme_badlands_the_empire	Black Pyramid sẽ xuất hiện tại Castle Templehof cùng với đám Undead thù địch	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_grand_scheme_cathay_ivory_road	Triệu hồi một Trickster Cultist tại Pigbarter\\n(chiến trường Dark Lands & Mountains of Mourn)	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_grand_scheme_cathay_kurgan_warband	Triệu hồi hai Trickster Cultists tại Fortress of Eyes\\n(chiến trường Chaos Wastes)	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_grand_scheme_cathay_sea_lanes	Triệu hồi hai Trickster Cultists tại Great Turtle Isle\\n(chiến trường Lustria)	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_grand_scheme_chaos_wastes_both	Nhận được quân đội ở cả Novchozy và Terracotta Graveyard\\n(tạm thời không có phí duy trì)	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_grand_scheme_chaos_wastes_cathay	Nhận được một đội quân tại Terracotta Graveyard\\n(không có phí duy trì)	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_grand_scheme_chaos_wastes_kislev	Nhận được một đội quân tại Novchozy\\n(không có phí duy trì)	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_grand_scheme_naggaroth_bretonnia	Nhận được một đội quân Bloated Corpses tại Bitter Bay\\n(không có phí duy trì)	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_grand_scheme_naggaroth_cathay	Nhận được một đội quân Bloated Corpses tại Sartosa\\n(không có phí duy trì)	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_grand_scheme_naggaroth_darklands	Nhận được một đội quân Bloated Corpses tại Fu-Chow\\n(không có phí duy trì)	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_grand_scheme_naggaroth_ulthuan	Nhận được một đội quân Bloated Corpses tại Shrine of Khaine\\n(không có phí duy trì)	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_grand_scheme_norsca_cathay	Quân đội Norscan sẽ tấn công Grand Cathay	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_grand_scheme_norsca_ulthuan	Quân đội Norscan sẽ tấn công Ulthuan	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_grand_scheme_the_empire_both	Triệu hồi một Trickster Cultist ở cả Kislev và Dark Lands	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_grand_scheme_the_empire_darklands	Triệu hồi ba Trickster Cultist ở Dark Lands	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_grand_scheme_the_empire_norsca	Triệu hồi ba Trickster Cultist ở Kislev	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_green_knight_form	Nhận hình dạng của Green Knight, nếu bạn chưa có	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_hidden_cultist_payload	Trickster Cultist được liên lạc: +1\\n(được triệu hồi thông qua bảng công nghệ)	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_kislev_all_forms_payload	Nhận hình dạng của Tzarina Katarin, Kostaltyn và Mother Ostankya, nếu bạn chưa có	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_lord_kroak_form	Nhận hình dạng của Lord Kroak, nếu bạn chưa có	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_lustria_grand_scripted	Clan Pestilens sẽ giải phóng một đại dịch lớn lên Lizardmen của Lustria	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_naggaroth_all_forms_payload	Nhận hình dạng của Malekith, Morathi và Crone Hellebron, nếu bạn chưa có	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_naggaroth_scripted	Một cuộc nổi loạn lớn của Bloated Corpses sẽ tấn công tất cả các cảng của Naggaroth	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_naggaroth_witchwood_greenskins_payload	Phiến quân Greenskin sẽ phá hoại Witchwood, và xuất hiện ở tất cả các khu vực lân cận	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_norsca_grand_scripted_ie	Norscan sẽ lập một warband để xâm lược Ulthuan hoặc Grand Cathay tùy theo sự lựa chọn của bạn	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_norsca_grand_scripted_roc	Norscan sẽ lập một warband để xâm lược Grand Cathay	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_open_rift_payload	Mở một Trickster Rift ở Sylvania	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_quest_battle_complete	The Grand Scheme sẽ được ban hành	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_reveal_shroud_payload	Màn sương mù sẽ được nâng lên trong chiến trường, tiết lộ tất cả địa hình và khu định cư	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_rift_gem_payload	Trickster Rifts hiện có: +1\\n(kích hoạt vĩnh viễn thông qua bảng công nghệ)	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_the_empire_grand_scripted	Các Elector Counts của The Empire sẽ rơi vào nội chiến	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_ulthuan_inner_ring_chaos_rebels	Phiến quân Chaos sẽ tấn công tất cả các khu định cư trong vòng tròn trong cùng của Ulthuan	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_ulthuan_scripted	Cult of Pleasure sẽ được giải phóng trên khắp Ulthuan	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_ulthuan_sword_of_khaine	Bạn sẽ được đề nghị thanh Sword of Khaine, nếu bạn không bị thương và chưa sở hữu nó	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_ultimate_battle_bretonnia	Bretonnia sẽ không thể tiếp viện cho kẻ địch của bạn trong the Ultimate Scheme	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_ultimate_battle_cathay	Grand Cathay sẽ không thể tiếp viện cho kẻ địch của bạn trong the Ultimate Scheme	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_ultimate_battle_chaos	Các đồng minh Tzeentchian sẽ hỗ trợ bạn trong the Ultimate Scheme	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_ultimate_battle_empire	The Empire sẽ không thể tiếp viện cho kẻ địch của bạn trong the Ultimate Scheme	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_ultimate_battle_greenskins	Các đồng minh Greenskin sẽ hỗ trợ bạn trong the Ultimate Scheme	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_ultimate_battle_high_elves	High Elves sẽ không thể tiếp viện cho kẻ địch của bạn trong the Ultimate Scheme	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_ultimate_battle_norsca	Các đồng minh Norscan sẽ hỗ trợ bạn trong the Ultimate Scheme	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_ultimate_battle_skaven	Các đồng minh Skaven sẽ hỗ trợ bạn trong the Ultimate Scheme	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_ultimate_battle_tomb_kings	Các đồng minh Tomb King sẽ hỗ trợ bạn trong the Ultimate Scheme	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_ultimate_battle_vampire_coast	Các đồng minh Vampire Coast sẽ hỗ trợ bạn trong the Ultimate Scheme	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_unlock_ror_feral_carnosaur	Mở khóa Trung đoàn Danh tiếng: Feral Carnosaur	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_unlock_ror_frost_wyrm	Mở khóa Trung đoàn Danh tiếng: The Cold-Voider (Chaos Frost Dragon)	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_unlock_ror_steam_tank	Mở khóa Trung đoàn Danh tiếng: Steam Tank	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mission_schemes_wulfrik_throgg_form	Nhận hình dạng của Wulfrik the Wanderer và Throgg, nếu bạn chưa có	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mother_ostankya_wh2_dlc11_cst_vampire_coast	Tất cả các phe Vampire Coast sẽ bị suy yếu nghiêm trọng	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mother_ostankya_wh2_main_skv_skaven	Tất cả các phe Skaven sẽ bị suy yếu nghiêm trọng	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mother_ostankya_wh3_dlc23_chd_chaos_dwarfs	Tất cả các phe Chaos Dwarf sẽ bị suy yếu nghiêm trọng	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mother_ostankya_wh3_main_kho_khorne	Tất cả các phe Khornate sẽ bị suy yếu nghiêm trọng	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mother_ostankya_wh3_main_nur_nurgle	Tất cả các phe Nurglish sẽ bị suy yếu nghiêm trọng	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mother_ostankya_wh3_main_sla_slaanesh	Tất cả các phe Slaaneshi sẽ bị suy yếu nghiêm trọng	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mother_ostankya_wh3_main_tze_tzeentch	Tất cả các phe Tzeentchian sẽ bị suy yếu nghiêm trọng	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mother_ostankya_wh_dlc03_bst_beastmen	Tất cả các phe Beastmen sẽ bị suy yếu nghiêm trọng	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mother_ostankya_wh_dlc08_nor_norsca	Tất cả các phe Norscan sẽ bị suy yếu nghiêm trọng	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mother_ostankya_wh_main_chs_chaos	Tất cả các phe Warriors of Chaos sẽ bị suy yếu nghiêm trọng	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_mother_ostankya_wh_main_vmp_vampire_counts	Tất cả các phe Vampire Counts sẽ bị suy yếu nghiêm trọng	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_ostankya_start_dilemma_leave	Trở Lại Kislev (Từ bỏ mọi Khu định cư)	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_ostankya_start_dilemma_stay	Ở Lại Đây (Giữ mọi Khu định cư)	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_ostankya_start_dilemma_trinkets	Ngay lập tức mở khóa Witch's Hut với hai Trinkets ngẫu nhiên	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_ostankya_start_dilemma_unlock	Tất cả các chuỗi công trình Kislev sẽ được mở khóa	false
+campaign_payload_ui_details_description_dummy_wh3_dlc24_the_changeling_free_form	Tzeentch sẽ ban cho một hình dạng ngẫu nhiên để Changeling đảm nhận	false
+campaign_payload_ui_details_description_dummy_wh3_dlc25_elspeth_narrative	Tiếp tục Chuỗi Cốt Truyện của Elspeth...	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_aislinn_capital_outpost_reward	Thiết lập một Tiền đồn Sea Patrol tại thủ đô của phe này	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_aislinn_final_battle_marker	Vị trí cuộc xâm lược đã được tìm thấy!	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_aislinn_final_battle_reveal	Nhận thêm thông tin về cuộc xâm lược của Dark Elf	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_aislinn_final_battle_trigger	Tin tức về cuộc xâm lược sẽ đến với chúng ta trong 3 lượt...	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_aislinn_final_reward	[[col:white]]Chỉ có thời gian mới trả lời được điều gì sẽ đạt được từ chiến thắng...[[/col]]	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_aislinn_lord_support_alarielle	Alarielle sẽ hỗ trợ chúng ta trong trận chiến cuối cùng	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_aislinn_lord_support_alith_anar	Alith Anar sẽ hỗ trợ chúng ta trong trận chiến cuối cùng	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_aislinn_lord_support_eltharion	Eltharion sẽ hỗ trợ chúng ta trong trận chiến cuối cùng	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_aislinn_lord_support_imrik	Imrik sẽ hỗ trợ chúng ta trong trận chiến cuối cùng	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_aislinn_lord_support_teclis	Teclis sẽ hỗ trợ chúng ta trong trận chiến cuối cùng	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_aislinn_lord_support_tyrion	Tyrion sẽ hỗ trợ chúng ta trong trận chiến cuối cùng	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_aislinn_sea_lane_enabled	Aislinn giờ đã có quyền truy cập vào các Sea Lanes độc đáo nằm ở Eastern Isles	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_aislinn_sea_lane_mission_cathay	[[col:white]]Tạo một nhiệm vụ tập trung vào Cathay[[/col]]	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_aislinn_sea_lane_mission_cathay_fow	Xóa bỏ toàn bộ sương mù ở Jade Sea	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_aislinn_sea_lane_mission_lustria	[[col:white]]Tạo một nhiệm vụ tập trung vào Lustria[[/col]]	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_aislinn_sea_lane_mission_lustria_fow	Xóa bỏ toàn bộ sương mù ở vùng biển Vampire Coast	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_aislinn_sea_lane_mission_southlands	[[col:white]]Tạo một nhiệm vụ tập trung vào Southlands[[/col]]	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_aislinn_sea_lane_mission_southlands_fow	Xóa bỏ toàn bộ sương mù ở vùng biển Churning Gulf	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_aislinn_sea_lane_mission_ulthuan	[[col:white]]Tạo một nhiệm vụ tập trung vào Ulthuan[[/col]]	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_aislinn_sea_lane_mission_ulthuan_fow	Xóa bỏ toàn bộ sương mù ở vùng biển Shifting Isles	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_aislinn_sea_lane_reward	Mở khóa Sea Lanes độc nhất của Aislinn	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_blessed_dread_sea_lanes_unlocked	Bạn sẽ có quyền truy cập vào các Sea Lanes độc đáo của High Elf Sea Patrol nằm ở Eastern Isles	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_dilemma_wulfrik_start_keep_troll_fjord	Giữ Troll Fjord (duy trì chỗ đứng ở Norsca)	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_dilemma_wulfrik_start_lose_troll_fjord	Từ bỏ Troll Fjord (tập trung đột kích các vùng đất mới)	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_hef_keep_patronage	Giữ vị trí Patronage của bạn	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_hef_lose_patronage	Đánh mất vị trí Patronage của bạn	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_monstrous_arcanum_continue_hunt	Tiếp tục tìm kiếm trong 5 lượt nữa	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_nor_allegiance_ultimate_refusal_mission	Bạn đã đánh bại mọi nhà vô địch được cử đến để chống lại bạn và sẽ không còn phải lo lắng về những mối đe dọa như vậy nữa.	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_nor_sayl_champion_crow	{{tr:campaign_payload_ui_details_description_dummy_nor_accept_crow_champion}}	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_nor_sayl_champion_eagle	{{tr:campaign_payload_ui_details_description_dummy_nor_accept_eagle_champion}}	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_nor_sayl_champion_hound	{{tr:campaign_payload_ui_details_description_dummy_nor_accept_hound_champion}}	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_nor_sayl_champion_serpent	{{tr:campaign_payload_ui_details_description_dummy_nor_accept_serpent_champion}}	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_nor_sayl_narrative_hef_dilemma	{{tr:effects_description_wh3_dlc27_effect_nor_sayl_narrative_dilemma_hef_dummy}}	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_nor_sayl_narrative_lzd_dilemma	{{tr:effects_description_wh3_dlc27_effect_nor_sayl_narrative_dilemma_lzd_dummy}}	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_nor_wulfrik_start_dilemma_bordeleaux	Mang lại tầm nhìn cho khu vực Bordeleaux	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_nor_wulfrik_start_dilemma_gulf_kislev	Mang lại tầm nhìn cho các khu vực Castle Alexandronov và Erengrad	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_nor_wulfrik_start_dilemma_karond_kar	Mang lại tầm nhìn cho các khu vực Karond Kar và Nagrar	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_nor_wulfrik_start_dilemma_marienburg	Mang lại tầm nhìn cho khu vực Marienburg	false
+campaign_payload_ui_details_description_dummy_wh3_dlc27_wintertooth_trollkind_dilemma	Một sự lựa chọn của các đơn vị Troll sẽ gia nhập quân đội của bạn - hãy đảm bảo bạn có chỗ trống!	false
+campaign_payload_ui_details_description_dummy_wh3_main_ai_four_souls_forge_of_souls	Tất cả linh hồn bị kẻ địch thu thập đều bị mất!	false
+campaign_payload_ui_details_description_dummy_wh3_main_bundle_belakor_banished	Be'lakor sẽ gia nhập phe của bạn	false
+campaign_payload_ui_details_description_dummy_wh3_main_dilemma_boris_unlock_first	Khu định cư Kislev được tặng cho Ursun Revivalists	false
+campaign_payload_ui_details_description_dummy_wh3_main_dilemma_boris_unlock_fourth	Boris Ursus có sẵn để chiêu mộ	false
+campaign_payload_ui_details_description_dummy_wh3_main_dilemma_boris_unlock_second	Khu định cư Erengrad được tặng cho Ursun Revivalists	false
+campaign_payload_ui_details_description_dummy_wh3_main_dilemma_boris_unlock_third	Khu định cư Praag được tặng cho Ursun Revivalists	false
+campaign_payload_ui_details_description_dummy_wh3_main_dilemma_cth_caravan_1A_first	[[col:yellow]]The Caravan vẫn duy trì tuyến đường hiện tại[[/col]]	false
+campaign_payload_ui_details_description_dummy_wh3_main_dilemma_cth_caravan_1A_second	[[col:yellow]]The Caravan di chuyển thêm một điểm lộ trình[[/col]]	false
+campaign_payload_ui_details_description_dummy_wh3_main_dilemma_cth_caravan_battle_1B_second	[[col:yellow]]The Caravan sẽ không tiếp tục trong lượt này[[/col]]	false
+campaign_payload_ui_details_description_dummy_wh3_main_dilemma_exalted_greater_daemon_ask_again	Bạn sẽ được hỏi lại trong 10 lượt tới	false
+campaign_payload_ui_details_description_dummy_wh3_main_dilemma_exalted_greater_daemon_do_nothing	Tiếp tục làm một Herald vĩnh viễn	false
+campaign_payload_ui_details_description_dummy_wh3_main_dilemma_exalted_greater_daemon_khorne	Nhân vật được thay thế bằng một Exalted Bloodthirster	false
+campaign_payload_ui_details_description_dummy_wh3_main_dilemma_exalted_greater_daemon_nurgle	Nhân vật được thay thế bằng một Exalted Great Unclean One	false
+campaign_payload_ui_details_description_dummy_wh3_main_dilemma_exalted_greater_daemon_slaanesh	Nhân vật được thay thế bằng một Exalted Keeper of Secrets	false
+campaign_payload_ui_details_description_dummy_wh3_main_dilemma_exalted_greater_daemon_tzeentch	Nhân vật được thay thế bằng một Exalted Lord of Change	false
+campaign_payload_ui_details_description_dummy_wh3_main_dilemma_forge_of_souls_entered	Thủ lĩnh faction của bạn sẽ ngay lập tức được dịch chuyển đến khe nứt Forge of Souls	false
+campaign_payload_ui_details_description_dummy_wh3_main_eltharion_start_dilemma_keep_yvresse	Giữ Yvresse (Duy trì quyền kiểm soát của bạn tại Ulthuan)	false
+campaign_payload_ui_details_description_dummy_wh3_main_eltharion_start_dilemma_lose_yvresse	Từ bỏ Yvresse (Tập trung vào Badlands)	false
+campaign_payload_ui_details_description_dummy_wh3_main_incident_cth_bastion_threat_decreases_kill	Mối đe dọa Great Bastion: -20%	false
+campaign_payload_ui_details_description_dummy_wh3_main_incident_dae_feature_khorne	"Mở khóa tính năng ""Bloodletting"" cho tất cả quân đội của bạn"	false
+campaign_payload_ui_details_description_dummy_wh3_main_incident_dae_feature_nurgle	"Mở khóa tính năng ""Switchable Plagues"" cho tất cả quân đội của bạn"	false
+campaign_payload_ui_details_description_dummy_wh3_main_incident_dae_feature_slaanesh	"Mở khóa tính năng ""Seduce Units"" cho tất cả quân đội của bạn"	false
+campaign_payload_ui_details_description_dummy_wh3_main_incident_dae_feature_tzeentch	Mở khóa thế đứng Teleport cho tất cả quân đội của bạn	false
+campaign_payload_ui_details_description_dummy_wh3_main_incident_exalted_greater_daemon	Một số kinh nghiệm đã được chuyển cho Exalted Greater Daemon	false
+campaign_payload_ui_details_description_dummy_wh3_main_incident_ogr_contracts_available	Các hợp đồng mới đã có sẵn để lựa chọn	false
+campaign_payload_ui_details_description_dummy_wh3_main_khorne_realm_requirement	Một cơ hội để chiến đấu tại Brass Citadel	false
+campaign_payload_ui_details_description_dummy_wh3_main_leave_slaanesh_realm	Quân đội của bạn sẽ rời khỏi Realm of Chaos, không thể quay lại trong tương lai gần	false
+campaign_payload_ui_details_description_dummy_wh3_main_nurgle_realm_requirement	Một cơ hội để chiến đấu tại Mansion of the Plaguelord	false
+campaign_payload_ui_details_description_dummy_wh3_main_qb_ksl_katarin_boris_unlock	Boris Ursus sẽ trở lại	false
+campaign_payload_ui_details_description_dummy_wh3_main_realm_slaanesh_fifth_10	Tất cả [[img:icon_general]][[/img]]Lord và [[img:icon_hero]][[/img]]Hero tăng 10 cấp	false
+campaign_payload_ui_details_description_dummy_wh3_main_realm_slaanesh_fifth_15	Tất cả [[img:icon_general]][[/img]]Lord và [[img:icon_hero]][[/img]]Hero tăng 15 cấp	false
+campaign_payload_ui_details_description_dummy_wh3_main_realm_slaanesh_fifth_5	Tất cả [[img:icon_general]][[/img]]Lord và [[img:icon_hero]][[/img]]Hero tăng 5 cấp	false
+campaign_payload_ui_details_description_dummy_wh3_main_realm_slaanesh_fourth_4	Cấp độ đơn vị: 4 cho tất cả đơn vị trong quân đội này	false
+campaign_payload_ui_details_description_dummy_wh3_main_realm_slaanesh_fourth_9	Cấp độ đơn vị: 9 cho tất cả đơn vị trong quân đội này	false
+campaign_payload_ui_details_description_dummy_wh3_main_story_panel_ascension	[[col:red]]Bạn sẽ thua chiến dịch nếu không đánh bại hắn tại Forge of Souls![[/col]]	false
+campaign_payload_ui_details_description_dummy_wh3_main_story_panel_ascension_close	[[col:red]]Be'lakor sẽ trở thành một Vị Thần sau 20 lượt[[/col]]	false
+campaign_payload_ui_details_description_dummy_wh3_main_story_panel_ascension_coming	[[col:red]]Be'lakor sẽ trở thành một Vị Thần sau 30 lượt[[/col]]	false
+campaign_payload_ui_details_description_dummy_wh3_main_story_panel_ascension_imminent	[[col:red]]Be'lakor sẽ trở thành một Vị Thần sau 10 lượt[[/col]]	false
+campaign_payload_ui_details_description_dummy_wh3_main_survival_forge_of_souls	Chiến Thắng Chiến Dịch!	false
+campaign_payload_ui_details_description_dummy_wh3_main_survival_khorne_1	Linh hồn của Hoàng tử Ác quỷ\\n(1 trên 4 linh hồn cần thiết để khám phá con đường đến Forge of Souls)	false
+campaign_payload_ui_details_description_dummy_wh3_main_survival_khorne_2	Linh hồn của Hoàng tử Ác quỷ\\n(2 trên 4 linh hồn cần thiết để khám phá con đường đến Forge of Souls)	false
+campaign_payload_ui_details_description_dummy_wh3_main_survival_khorne_3	Linh hồn của Hoàng tử Ác quỷ\\n(3 trên 4 linh hồn cần thiết để khám phá con đường đến Forge of Souls)	false
+campaign_payload_ui_details_description_dummy_wh3_main_survival_khorne_4	Linh hồn của Hoàng tử Ác quỷ\\n(4 trên 4 linh hồn cần thiết để khám phá con đường đến Forge of Souls)	false
+campaign_payload_ui_details_description_dummy_wh3_main_survival_nurgle_1	Linh hồn của Hoàng tử Ác quỷ\\n(1 trên 4 linh hồn cần thiết để khám phá con đường đến Forge of Souls)	false
+campaign_payload_ui_details_description_dummy_wh3_main_survival_nurgle_2	Linh hồn của Hoàng tử Ác quỷ\\n(2 trên 4 linh hồn cần thiết để khám phá con đường đến Forge of Souls)	false
+campaign_payload_ui_details_description_dummy_wh3_main_survival_nurgle_3	Linh hồn của Hoàng tử Ác quỷ\\n(3 trên 4 linh hồn cần thiết để khám phá con đường đến Forge of Souls)	false
+campaign_payload_ui_details_description_dummy_wh3_main_survival_nurgle_4	Linh hồn của Hoàng tử Ác quỷ\\n(4 trên 4 linh hồn cần thiết để khám phá con đường đến Forge of Souls)	false
+campaign_payload_ui_details_description_dummy_wh3_main_survival_slaanesh_1	Linh hồn của Hoàng tử Ác quỷ\\n(1 trên 4 linh hồn cần thiết để khám phá con đường đến Forge of Souls)	false
+campaign_payload_ui_details_description_dummy_wh3_main_survival_slaanesh_2	Linh hồn của Hoàng tử Ác quỷ\\n(2 trên 4 linh hồn cần thiết để khám phá con đường đến Forge of Souls)	false
+campaign_payload_ui_details_description_dummy_wh3_main_survival_slaanesh_3	Linh hồn của Hoàng tử Ác quỷ\\n(3 trên 4 linh hồn cần thiết để khám phá con đường đến Forge of Souls)	false
+campaign_payload_ui_details_description_dummy_wh3_main_survival_slaanesh_4	Linh hồn của Hoàng tử Ác quỷ\\n(4 trên 4 linh hồn cần thiết để khám phá con đường đến Forge of Souls)	false
+campaign_payload_ui_details_description_dummy_wh3_main_survival_tzeentch_1	Linh hồn của Hoàng tử Ác quỷ\\n(1 trên 4 linh hồn cần thiết để khám phá con đường đến Forge of Souls)	false
+campaign_payload_ui_details_description_dummy_wh3_main_survival_tzeentch_2	Linh hồn của Hoàng tử Ác quỷ\\n(2 trên 4 linh hồn cần thiết để khám phá con đường đến Forge of Souls)	false
+campaign_payload_ui_details_description_dummy_wh3_main_survival_tzeentch_3	Linh hồn của Hoàng tử Ác quỷ\\n(3 trên 4 linh hồn cần thiết để khám phá con đường đến Forge of Souls)	false
+campaign_payload_ui_details_description_dummy_wh3_main_survival_tzeentch_4	Linh hồn của Hoàng tử Ác quỷ\\n(4 trên 4 linh hồn cần thiết để khám phá con đường đến Forge of Souls)	false
+campaign_payload_ui_details_description_dummy_wh3_main_tzeentch_realm_powerful_reward	Một ân huệ từ Chaos God of Magic là của bạn để nhận lấy	false
+campaign_payload_ui_details_description_dummy_wh3_main_tzeentch_realm_replenishment_dilemma_payload	Phục hồi hoàn toàn quân đội	false
+campaign_payload_ui_details_description_dummy_wh3_main_tzeentch_realm_reveal_icon_pair	Hé lộ các ấn ký để ghép đôi teleport	false
+campaign_payload_ui_details_description_dummy_wh3_main_units_replenished	Tất cả các đơn vị bị thương sẽ được phục hồi hoàn toàn	false
+campaign_payload_ui_details_description_dummy_wh3_mission_fail	[[col:red]]Bạn sẽ thua chiến dịch nếu không hoàn thành nhiệm vụ này kịp lúc.[[/col]]	false
+campaign_payload_ui_details_description_dummy_wh3_prologue_changer_of_the_ways_1	Mở khóa Snow Leopard	false
+campaign_payload_ui_details_description_dummy_wh3_prologue_changer_of_the_ways_2	Mở khóa Bear War Sleds	false
+campaign_payload_ui_details_description_dummy_wh3_prologue_ice_maiden_actions	Mở khóa Ice Guard (Swords)	false
+campaign_payload_ui_details_description_dummy_wh3_prologue_mission	[[img:icon_campaign_objectives]][[/img]]	false
+campaign_payload_ui_details_description_dummy_wh3_prologue_mission_building_level	Mở khóa Gryphon Legion	false
+campaign_payload_ui_details_description_dummy_wh3_prologue_mission_capture_regions_mansion_of_eyes	Mở khóa Ice Guard (Glaives)	false
+campaign_payload_ui_details_description_dummy_wh3_prologue_mission_make_alliance	Mở khóa Heavy Bear War Sleds	false
+campaign_payload_ui_details_description_dummy_wh3_prologue_mission_retribution	Hoàn thành Prologue	false
+campaign_payload_ui_details_description_dummy_wh3_prologue_mission_reveal	Mở khóa Elemental Bear	false
+campaign_payload_ui_details_description_dummy_wh3_prologue_mission_riddles	Mở khóa Patriarch	false
+campaign_payload_ui_details_description_dummy_wh3_prologue_trait	Yuri sẽ nhận hoặc củng cố một trait	false
+campaign_payload_ui_details_description_dummy_wh3_prologue_trait_2	Yuri sẽ nhận hoặc củng cố một trait khác	false
+campaign_payload_ui_details_description_dummy_wh3_prologue_tribute_1	Nhận được trang bị mạnh mẽ	false
+campaign_payload_ui_details_description_dummy_wh3_prologue_tribute_2	Nhận được trang bị trung bình và tiền thưởng ngoại giao với các bộ lạc	false
+campaign_payload_ui_details_description_dummy_wh_dlc03_moon_chance	[[col:green]]Cơ hội cao nhận được kết quả thuận lợi[[/col]]	false
+campaign_payload_ui_details_description_dummy_wh_dlc03_moon_chance_none	[[col:red]]Kết quả ít thuận lợi hơn[[/col]]	false
+campaign_payload_ui_details_description_dummy_wh_dlc04_vmp_vlad_von_carstein_the_carstein_ring_stage_2_3	Tổ chức một vũ hội hóa trang. {{tr:treasury}}: -5000	false
+campaign_payload_ui_details_description_dummy_wh_main_dwf_thorgrim_grudgebearer_axe_of_grimnir_stage_1	Đầu tư vào các công xưởng của Guild. {{tr:treasury}}: -5000	false
+campaign_payload_ui_details_description_dummy_wh_main_dwf_thorgrim_grudgebearer_dragon_crown_of_karaz_stage_2.3	Cung cấp cho những kẻ chạy trốn. {{tr:treasury}}: -2500	false
+campaign_payload_ui_details_description_dummy_wh_main_emp_karl_franz_ghal_maraz_stage_2	Tài trợ cho các điều chỉnh hỗn thiên nghi. {{tr:treasury}}: -5000	false
+campaign_payload_ui_details_description_dummy_wh_main_vmp_mannfred_von_carstein_sword_of_unholy_power_stage_2	Trả tiền cho Necromancer để lấy cuốn sách. {{tr:treasury}}: -5000	false
+campaign_payload_ui_details_description_dummy_witchwood_heal	Đảm bảo an toàn cho khu vực này sẽ giúp chữa lành Witchwood	false
+campaign_payload_ui_details_description_faction_pooled_resource_transaction	%1%: %+2%	false
+campaign_payload_ui_details_description_faction_slaves_change	{{tr:slaves}}: %+1%	false
+campaign_payload_ui_details_description_favour_points_change	Allegiance: %+1% với %2%	false
+campaign_payload_ui_details_description_gain_ancillary		false
+campaign_payload_ui_details_description_gain_crafted_item		false
+campaign_payload_ui_details_description_gain_trait	%1% nhận được trait: %2%	false
+campaign_payload_ui_details_description_give_region		false
+campaign_payload_ui_details_description_gravitas_change		false
+campaign_payload_ui_details_description_honour_change_negative		false
+campaign_payload_ui_details_description_honour_change_positive		false
+campaign_payload_ui_details_description_influence_change	Ảnh hưởng: %+1%	false
+campaign_payload_ui_details_description_issue_mission		false
+campaign_payload_ui_details_description_kill_character		false
+campaign_payload_ui_details_description_lose_ancillary		false
+campaign_payload_ui_details_description_lose_trait	%1% mất trait: %2%	false
+campaign_payload_ui_details_description_loyalty_change	Loyalty: %+1%	false
+campaign_payload_ui_details_description_malakai_dilemmas_continue	[[col:yellow]]Dilemma tiếp tục...[[/col]]	false
+campaign_payload_ui_details_description_malakai_dilemmas_end	[[col:yellow]]Dilemma Kết Thúc[[/col]]	false
+campaign_payload_ui_details_description_marriage_random		false
+campaign_payload_ui_details_description_military_force_pooled_resource_transaction	%2%: %+3% cho %1%	false
+campaign_payload_ui_details_description_party_power_change		false
+campaign_payload_ui_details_description_province_slaves_change	{{tr:slaves}} tại %2%: %+1%	false
+campaign_payload_ui_details_description_rebellion	Nổi loạn	false
+campaign_payload_ui_details_description_remove_event_restricted_unit	%1%	false
+campaign_payload_ui_details_description_remove_unit	Tiêu diệt đơn vị: %1%	false
+campaign_payload_ui_details_description_spawn_agent	Hero được chiêu mộ: %1%	false
+campaign_payload_ui_details_description_spawn_agent_home_region	Hero được chiêu mộ tại %2%: %1%	false
+campaign_payload_ui_details_description_spawn_agent_home_region_unknown		false
+campaign_payload_ui_details_description_spawn_unit	%1%	false
+campaign_payload_ui_details_description_spawn_unit_home_region	%1%	false
+campaign_payload_ui_details_description_treasury_change	{{tr:treasury}}: %+1%	false
+campaign_payload_ui_details_description_wound_character	Nhân vật bị thương: %1%	false

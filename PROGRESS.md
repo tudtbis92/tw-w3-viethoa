@@ -1,8 +1,8 @@
 # Tiến độ Việt hoá Total War: Warhammer III
 
 ## Tiến độ tổng quan (Overall Progress)
-- **Tiến độ theo File**: 58 / 235 files hoàn thành (~24.68%)
-- **Tiến độ theo Key**: 49,073 / 241,728 keys hoàn thành (~20.30%)
+- **Tiến độ theo File**: 59 / 235 files hoàn thành (~25.11%)
+- **Tiến độ theo Key**: 49,777 / 241,728 keys hoàn thành (~20.59%)
 
 
 | File Table | Tổng số Key | Đã dịch | Trạng thái | % Hoàn thành | Ghi chú |
@@ -65,9 +65,10 @@
 | campaign_map_tooltip_texts__.loc.tsv | 91 | 91 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (91/91). |
 | campaign_map_winds_of_magic_areas__.loc.tsv | 299 | 299 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (299/299). |
 | campaign_map_winds_of_magic_strengths__.loc.tsv | 6 | 6 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (6/6). |
-| ... (213 tables khác) | - | 0 | Not Started | 0% | Sẽ cập nhật khi bắt đầu dịch |
+| campaign_payload_ui_details__.loc.tsv | 704 | 704 | Done | 100% | Đã chia 4 chunk và dịch song song. Kiểm tra số lượng key khớp (704/704). |
+| ... (212 tables khác) | - | 0 | Not Started | 0% | Sẽ cập nhật khi bắt đầu dịch |
 ---
-*Cập nhật lần cuối: 2026-05-26 (21:11 ICT)*
+*Cập nhật lần cuối: 2026-05-26 (21:17 ICT)*
 *Quy tắc an toàn: Cập nhật ngay sau mỗi table hoặc mỗi 100 dòng dịch.*
 *Xem các quy tắc dịch đặc biệt tại: GEMINI.md (Section 4)*
 
