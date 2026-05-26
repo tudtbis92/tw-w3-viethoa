@@ -1,0 +1,373 @@
+key	text	tooltip
+#Loc;1;text/db/building_effect_context_expressions__.loc		
+building_effect_context_expressions_display_text_AislinnBuiltInColony	Khi được xây dựng trong một Thuộc Địa:	false
+building_effect_context_expressions_display_text_AislinnBuiltInOutpost	Khi được xây dựng trong một Tiền Đồn Tuần Tra Biển:	false
+building_effect_context_expressions_display_text_AislinnColonyInProvince	Khi có một Thuộc Địa Elven ở tỉnh này:	false
+building_effect_context_expressions_display_text_AislinnConfederated	Khi [[img:aislinn_flag]][[/img]]Tuần Tra Biển High Elf đã được hợp nhất:	false
+building_effect_context_expressions_display_text_AllegianceCrowMax	Cấp Tối Đa ({{tr:effect_bundles_localised_title_wh_dlc08_bundle_god_nurgle}})	false
+building_effect_context_expressions_display_text_AllegianceEagleMax	Cấp Tối Đa ({{tr:effect_bundles_localised_title_wh_dlc08_bundle_god_tzeentch}})	false
+building_effect_context_expressions_display_text_AllegianceHoundMax	Cấp Tối Đa ({{tr:effect_bundles_localised_title_wh_dlc08_bundle_god_khorne}})	false
+building_effect_context_expressions_display_text_AllegianceSerpentMax	Cấp Tối Đa ({{tr:effect_bundles_localised_title_wh_dlc08_bundle_god_slaanesh}})	false
+building_effect_context_expressions_display_text_AnyProvinceRegionRazed	Khi có bất kỳ vùng nào trong tỉnh này hiện đang bị phá hủy:	false
+building_effect_context_expressions_display_text_CHDRawMaterialsGreaterThan125	Khi tổng số [[img:icon_raw_materials]][[/img]]Nguyên Vật Liệu (Raw Materials) cao hơn 125 lúc bắt đầu lượt:	false
+building_effect_context_expressions_display_text_CHDRawMaterialsGreaterThan150	Khi tổng số [[img:icon_raw_materials]][[/img]]Nguyên Vật Liệu (Raw Materials) cao hơn 150 lúc bắt đầu lượt:	false
+building_effect_context_expressions_display_text_CHDRawMaterialsGreaterThan250	Khi tổng số [[img:icon_raw_materials]][[/img]]Nguyên Vật Liệu (Raw Materials) cao hơn 250 lúc bắt đầu lượt:	false
+building_effect_context_expressions_display_text_CHDRawMaterialsGreaterThan50	Khi tổng số [[img:icon_raw_materials]][[/img]]Nguyên Vật Liệu (Raw Materials) cao hơn 50 lúc bắt đầu lượt:	false
+building_effect_context_expressions_display_text_CHDRawMaterialsGreaterThan75	Khi tổng số [[img:icon_raw_materials]][[/img]]Nguyên Vật Liệu (Raw Materials) cao hơn 75 lúc bắt đầu lượt:	false
+building_effect_context_expressions_display_text_ChaosUndCorruption100	Khi sự tha hóa [[img:icon_corruption_chs]][[/img]]Chaos Undivided là 100 trở lên:	false
+building_effect_context_expressions_display_text_ChaosUndCorruption50	Khi sự tha hóa [[img:icon_corruption_chs]][[/img]]Chaos Undivided là 50 trở lên:	false
+building_effect_context_expressions_display_text_ChaosUndCorruption75	Khi sự tha hóa [[img:icon_corruption_chs]][[/img]]Chaos Undivided là 75 trở lên:	false
+building_effect_context_expressions_display_text_DEFSlavesGreaterThan100	Khi tổng số [[img:icon_slaves]][[/img]]nô lệ cao hơn 100 lúc bắt đầu lượt:	false
+building_effect_context_expressions_display_text_DEFSlavesGreaterThan1000	Khi tổng số [[img:icon_slaves]][[/img]]nô lệ cao hơn 1000 lúc bắt đầu lượt:	false
+building_effect_context_expressions_display_text_DEFSlavesGreaterThan150	Khi tổng số [[img:icon_slaves]][[/img]]nô lệ cao hơn 150 lúc bắt đầu lượt:	false
+building_effect_context_expressions_display_text_DEFSlavesGreaterThan200	Khi tổng số [[img:icon_slaves]][[/img]]nô lệ cao hơn 200 lúc bắt đầu lượt:	false
+building_effect_context_expressions_display_text_DevPointGreatThan5	Với 5 [[img:icon_pop_surplus]][[/img]]dân số dư thừa:	false
+building_effect_context_expressions_display_text_DwarfHidden		false
+building_effect_context_expressions_display_text_DwfLowRegionCount	Khi chủ sở hữu có từ 5 khu định cư trở xuống:	false
+building_effect_context_expressions_display_text_EveryProvinceRegionRazed	Khi tất cả các vùng trong tỉnh này (ngoại trừ vùng này) hiện đang bị phá hủy:	false
+building_effect_context_expressions_display_text_FactionHasTrade		false
+building_effect_context_expressions_display_text_FactionIsSeducible	Khi chủ sở hữu dễ bị ảnh hưởng bởi Slaanesh:	false
+building_effect_context_expressions_display_text_FavouredCorruptionKhorne		false
+building_effect_context_expressions_display_text_FavouredCorruptionNone		false
+building_effect_context_expressions_display_text_FavouredCorruptionNurgle		false
+building_effect_context_expressions_display_text_FavouredCorruptionSkaven		false
+building_effect_context_expressions_display_text_FavouredCorruptionSlaanesh		false
+building_effect_context_expressions_display_text_FavouredCorruptionTzeentch		false
+building_effect_context_expressions_display_text_FavouredCorruptionUndivided		false
+building_effect_context_expressions_display_text_FavouredCorruptionVampiric		false
+building_effect_context_expressions_display_text_GDPGreaterThan300	Khi [[img:icon_income]][[/img]]thu nhập là 300 trở lên:	false
+building_effect_context_expressions_display_text_GrowthGreaterThan200	Khi [[img:icon_growth]][[/img]]sự phát triển (growth) lớn hơn 200:	false
+building_effect_context_expressions_display_text_GrowthGreaterThan200DPare5	When [[img:icon_growth]][[/img]]growth per turn is more than 200 or with 5 [[img:icon_pop_surplus]][[/img]]population surplus:	false
+building_effect_context_expressions_display_text_GrowthPerTurnGreaterThan200	Khi [[img:icon_growth]][[/img]]sự phát triển mỗi lượt lớn hơn 200:	false
+building_effect_context_expressions_display_text_HasAzazelUpgradeTech		false
+building_effect_context_expressions_display_text_HasCHDChaosCorruptionTech	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"Pandemic Preparations":	false
+building_effect_context_expressions_display_text_HasCHDHashutInfluenceTech	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"Hashut Reverence":	false
+building_effect_context_expressions_display_text_HasCHDLogisticsTech	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"Industrial Security":	false
+building_effect_context_expressions_display_text_HasCHDResourceArmamentsTech	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"Stockpiling":	false
+building_effect_context_expressions_display_text_HasCHDResourceIncomeTech	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"Resource Extractors":	false
+building_effect_context_expressions_display_text_HasCHDResourceRawMaterialsTech	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"Wagon Engineering":	false
+building_effect_context_expressions_display_text_HasCHDScavengerIncomeTech	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"Extended Shifts":	false
+building_effect_context_expressions_display_text_HasCHDTowerInfluenceTech	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"Conclave Dominance":	false
+building_effect_context_expressions_display_text_HasClayScryingTech	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"Clay-Scrying":	false
+building_effect_context_expressions_display_text_HasDechalaPalaceRitual1	Sau khi mua {{tr:rituals_display_name_wh3_dlc27_dechala_ritual_palace_1}} từ bảng Cống Phẩm Của Kẻ Hành Tra Tấn	false
+building_effect_context_expressions_display_text_HasDechalaPalaceRitual2	Sau khi mua {{tr:rituals_display_name_wh3_dlc27_dechala_ritual_palace_2}} từ bảng Cống Phẩm Của Kẻ Hành Tra Tấn	false
+building_effect_context_expressions_display_text_HasDechalaPalaceRitual3	Sau khi mua {{tr:rituals_display_name_wh3_dlc27_dechala_ritual_palace_3}} từ bảng Cống Phẩm Của Kẻ Hành Tra Tấn	false
+building_effect_context_expressions_display_text_HasDechalaPalaceRitual4	Sau khi mua {{tr:rituals_display_name_wh3_dlc27_dechala_ritual_palace_4}} từ bảng Cống Phẩm Của Kẻ Hành Tra Tấn	false
+building_effect_context_expressions_display_text_HasDechalaPalaceRitual5	Sau khi mua {{tr:rituals_display_name_wh3_dlc27_dechala_ritual_palace_5}} từ bảng Cống Phẩm Của Kẻ Hành Tra Tấn	false
+building_effect_context_expressions_display_text_HasDechalaPalaceRitual6	Sau khi mua {{tr:rituals_display_name_wh3_dlc27_dechala_ritual_palace_6}} từ bảng Cống Phẩm Của Kẻ Hành Tra Tấn	false
+building_effect_context_expressions_display_text_HasDwfConstructionGuildTech	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"Construction Guilds":	false
+building_effect_context_expressions_display_text_HasDwfToolmakerGuildTech	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"Toolmakers' Guild":	false
+building_effect_context_expressions_display_text_HasDwfTreasuriesTech	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"Dwarf Treasuries":	false
+building_effect_context_expressions_display_text_HasDwfWarriorGuildTech	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"Warrior’s Guild":	false
+building_effect_context_expressions_display_text_HasFestusUpgradeTech		false
+building_effect_context_expressions_display_text_HasFinalOgreCampTech	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"{{tr:technologies_onscreen_name_wh3_main_tech_ogr_0_2_0}}":	false
+building_effect_context_expressions_display_text_HasFirstDynastyTech	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"Proclamation of the First Dynasty":	false
+building_effect_context_expressions_display_text_HasHEFDragonshipRecruitTech	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"Years at Sea":	false
+building_effect_context_expressions_display_text_HasKSLPortSuppliesTech	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"Improved Harbour Defences":	false
+building_effect_context_expressions_display_text_HasKhoCorruptionTech		false
+building_effect_context_expressions_display_text_HasLegendaryGrudgeSkavenComplete		false
+building_effect_context_expressions_display_text_HasLzdElderTech	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"Elder Wisdom":	false
+building_effect_context_expressions_display_text_HasLzdGPTech	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"Determining the Great Plan":	false
+building_effect_context_expressions_display_text_HasMarkedHeroesTech		false
+building_effect_context_expressions_display_text_HasMoonWoodTech	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"Moon Wood":	false
+building_effect_context_expressions_display_text_HasNORSayl01Tech	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"{{tr:technologies_onscreen_name_wh3_dlc27_tech_nor_ship_faction_sayl_betrayal}}":	false
+building_effect_context_expressions_display_text_HasNanGauForgesTech	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"Nan-Gau Forges" và Âm Dương (Harmony) là (Yin):	false
+building_effect_context_expressions_display_text_HasNotToZFactoryConclaveSeat		false
+building_effect_context_expressions_display_text_HasNotUpgradedMegaMortar		false
+building_effect_context_expressions_display_text_HasNurCorruptionTech		false
+building_effect_context_expressions_display_text_HasNurGarrisonAbilityTech	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"Gates of Rot":	false
+building_effect_context_expressions_display_text_HasOgreTechButchersApron	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"{{tr:technologies_onscreen_name_wh3_main_tech_ogr_2_10_0}}":	false
+building_effect_context_expressions_display_text_HasOgreTechSkyTitanDefences	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"{{tr:technologies_onscreen_name_wh3_main_tech_ogr_2_7_1}}":	false
+building_effect_context_expressions_display_text_HasPatron2Tech	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"Patronage of the Second Dynasty":	false
+building_effect_context_expressions_display_text_HasPatron4Tech	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"Patronage of the Fourth Dynasty":	false
+building_effect_context_expressions_display_text_HasPatron5Tech	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"Patronage of the Fifth Dynasty":	false
+building_effect_context_expressions_display_text_HasPatron6Tech	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"Patronage of the Sixth Dynasty":	false
+building_effect_context_expressions_display_text_HasSlaCorruptionTech		false
+building_effect_context_expressions_display_text_HasSlaCultTech	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"{{tr:technologies_onscreen_name_wh3_dlc27_tech_sla_delicious_agony}}":	false
+building_effect_context_expressions_display_text_HasToZFactoryConclaveSeat		false
+building_effect_context_expressions_display_text_HasTzeCorruptionTech		false
+building_effect_context_expressions_display_text_HasUndCorruptionTech		false
+building_effect_context_expressions_display_text_HasUpgradedMegaMortar		false
+building_effect_context_expressions_display_text_HasValkiaUpgradeTech		false
+building_effect_context_expressions_display_text_HasVilitchUpgradeTech		false
+building_effect_context_expressions_display_text_HasWoCGenBuildingTech	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"Erection of Ruinous Monuments":	false
+building_effect_context_expressions_display_text_HasYangKilnTech	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"Yang Kiln" và Âm Dương (Harmony) là (Yang):	false
+building_effect_context_expressions_display_text_HostGDPGreaterThan1000	Khi [[img:icon_income]][[/img]]thu nhập của khu định cư là 1000 trở lên:	false
+building_effect_context_expressions_display_text_HostGDPGreaterThan1500	Khi [[img:icon_income]][[/img]]thu nhập của khu định cư là 1500 trở lên:	false
+building_effect_context_expressions_display_text_HostGDPGreaterThan2000	Khi [[img:icon_income]][[/img]]thu nhập của khu định cư là 2000 trở lên:	false
+building_effect_context_expressions_display_text_HostGDPGreaterThan500	Khi [[img:icon_income]][[/img]]thu nhập của khu định cư là 500 trở lên:	false
+building_effect_context_expressions_display_text_HostGDPGreaterThan5000	Khi [[img:icon_income]][[/img]]thu nhập của khu định cư là 5000 trở lên:	false
+building_effect_context_expressions_display_text_IsAgentPresentOwn	Khi có mặt [[img:icon_hero]][[/img]]Anh Hùng phe mình:	false
+building_effect_context_expressions_display_text_IsAtamanPresent	Khi một Ataman được bố trí trong tỉnh này:	false
+building_effect_context_expressions_display_text_IsBretonnia		false
+building_effect_context_expressions_display_text_IsChampionsFaction		false
+building_effect_context_expressions_display_text_IsChaosCampaign		false
+building_effect_context_expressions_display_text_IsChaosCampaignAndKugath		false
+building_effect_context_expressions_display_text_IsChaosWastesTechResearched	Khi nghiên cứu công nghệ [[img:icon_tech]][[/img]]"Thành Lũy Chống Lại Chaos", có thêm nhân công và vật liệu được cung cấp để bù đắp các hình phạt xây dựng ở khí hậu Chaotic Wasteland:	false
+building_effect_context_expressions_display_text_IsDragonshipPresent	Khi có một Long Thuyền (Dragonship) trong tỉnh:	false
+building_effect_context_expressions_display_text_IsElspethPresent	Khi có mặt [[img:icon_general]][[/img]]{{tr:land_units_onscreen_name_wh3_dlc25_emp_cha_elspeth_von_draken}}:	false
+building_effect_context_expressions_display_text_IsElvenColony	Nếu tỉnh này là địa điểm của một thuộc địa High Elf cổ đại:	false
+building_effect_context_expressions_display_text_IsFactionAislinn	[PH]	false
+building_effect_context_expressions_display_text_IsFactionAstragoth		false
+building_effect_context_expressions_display_text_IsFactionAzazel		false
+building_effect_context_expressions_display_text_IsFactionAzazelOrSigvald		false
+building_effect_context_expressions_display_text_IsFactionClanMoulder		false
+building_effect_context_expressions_display_text_IsFactionDrazhoath		false
+building_effect_context_expressions_display_text_IsFactionDrycha		false
+building_effect_context_expressions_display_text_IsFactionEataine	[PH]	false
+building_effect_context_expressions_display_text_IsFactionFestus		false
+building_effect_context_expressions_display_text_IsFactionGelt		false
+building_effect_context_expressions_display_text_IsFactionGreasus		false
+building_effect_context_expressions_display_text_IsFactionJadeDragon		false
+building_effect_context_expressions_display_text_IsFactionMalus		false
+building_effect_context_expressions_display_text_IsFactionMasque	[PH]	false
+building_effect_context_expressions_display_text_IsFactionMorathi		false
+building_effect_context_expressions_display_text_IsFactionMotherOstankya		false
+building_effect_context_expressions_display_text_IsFactionNotAislinn	[PH]	false
+building_effect_context_expressions_display_text_IsFactionNotDrycha		false
+building_effect_context_expressions_display_text_IsFactionNotMorathi		false
+building_effect_context_expressions_display_text_IsFactionNotRitual		false
+building_effect_context_expressions_display_text_IsFactionRogueChaos		false
+building_effect_context_expressions_display_text_IsFactionRogueKhorne		false
+building_effect_context_expressions_display_text_IsFactionRogueNurgle		false
+building_effect_context_expressions_display_text_IsFactionRogueSkaven		false
+building_effect_context_expressions_display_text_IsFactionRogueSlaanesh		false
+building_effect_context_expressions_display_text_IsFactionRogueTzeentch		false
+building_effect_context_expressions_display_text_IsFactionRogueVampiric		false
+building_effect_context_expressions_display_text_IsFactionSotek		false
+building_effect_context_expressions_display_text_IsFactionTamurkhan		false
+building_effect_context_expressions_display_text_IsFactionTeclis	[PH]	false
+building_effect_context_expressions_display_text_IsFactionValkia		false
+building_effect_context_expressions_display_text_IsFactionVilitch		false
+building_effect_context_expressions_display_text_IsFactionWissenland		false
+building_effect_context_expressions_display_text_IsFactionWurrzag		false
+building_effect_context_expressions_display_text_IsFactionYvresse		false
+building_effect_context_expressions_display_text_IsFactionZhatan		false
+building_effect_context_expressions_display_text_IsGeneralPresentEnemy	Khi có mặt [[img:icon_general]][[/img]]Lãnh Chúa địch:	false
+building_effect_context_expressions_display_text_IsGeneralPresentInProvince	Khi có bất kỳ [[img:icon_general]][[/img]]Lãnh Chúa nào:	false
+building_effect_context_expressions_display_text_IsGeneralPresentOwn	Khi có mặt [[img:icon_general]][[/img]]Lãnh Chúa phe mình:	false
+building_effect_context_expressions_display_text_IsImmortalEmpires		false
+building_effect_context_expressions_display_text_IsJadeDragonCommercialDistrict		false
+building_effect_context_expressions_display_text_IsJadeDragonFortressCity		false
+building_effect_context_expressions_display_text_IsKarlFranz		false
+building_effect_context_expressions_display_text_IsKhalida		false
+building_effect_context_expressions_display_text_IsKholek		false
+building_effect_context_expressions_display_text_IsKroqGar		false
+building_effect_context_expressions_display_text_IsMasterEngineerNotPresent	Khi không có mặt [[img:icon_hero]][[/img]]Bậc Thầy Kỹ Sư phe mình:	false
+building_effect_context_expressions_display_text_IsMasterEngineerPresent	Khi có mặt [[img:icon_hero]][[/img]]Bậc Thầy Kỹ Sư phe mình:	false
+building_effect_context_expressions_display_text_IsNOTUniqueRegionOrFort		false
+building_effect_context_expressions_display_text_IsNOTUniqueRegionOrFortForEmpire		false
+building_effect_context_expressions_display_text_IsNotChampionsFaction		false
+building_effect_context_expressions_display_text_IsNotChampionsOrSigvaldFaction		false
+building_effect_context_expressions_display_text_IsNotChaosDwarfs		false
+building_effect_context_expressions_display_text_IsNotFactionFestus		false
+building_effect_context_expressions_display_text_IsNotKroqGar		false
+building_effect_context_expressions_display_text_IsOwnerNorsca	[PH]	false
+building_effect_context_expressions_display_text_IsOwnershipProductGotrekFelixUnlocked		false
+building_effect_context_expressions_display_text_IsOwnershipProductTidesOfTormentNorscaUnlocked	[PH]	false
+building_effect_context_expressions_display_text_IsOwnershipProductTidesOfTormentSlaaneshUnlocked	[PH]	false
+building_effect_context_expressions_display_text_IsOxyotl	[PH]	false
+building_effect_context_expressions_display_text_IsRegionBeastmen		false
+building_effect_context_expressions_display_text_IsRegionChaosDwarfs		false
+building_effect_context_expressions_display_text_IsRegionKarakEightPeaks	Khi được xây dựng ở Karak Eight Peaks:	false
+building_effect_context_expressions_display_text_IsRegionNorChdChs	[PH]	false
+building_effect_context_expressions_display_text_IsRegionNorsca	Ở vùng do Norsca sở hữu:	false
+building_effect_context_expressions_display_text_IsRegionNotAbandoned		false
+building_effect_context_expressions_display_text_IsRegionNotPort	Khi không được xây dựng ở khu định cư Ven Biển:	false
+building_effect_context_expressions_display_text_IsRegionNotTombKing		false
+building_effect_context_expressions_display_text_IsRegionNotVampireCoast		false
+building_effect_context_expressions_display_text_IsRegionPort	Khi được xây dựng ở khu định cư Ven Biển:	false
+building_effect_context_expressions_display_text_IsRegionProvinceCapital	Khi được xây dựng ở Thủ Phủ Tỉnh:	false
+building_effect_context_expressions_display_text_IsRegionSkavenblight	Khi được xây dựng ở Skavenblight:	false
+building_effect_context_expressions_display_text_IsRegionTombKing		false
+building_effect_context_expressions_display_text_IsRegionVampireCoast		false
+building_effect_context_expressions_display_text_IsRegionVampireCounts		false
+building_effect_context_expressions_display_text_IsRegionZharrNaggrund	Khi được xây dựng ở Zharr-Naggrund:	false
+building_effect_context_expressions_display_text_IsSPChaosCampaign		false
+building_effect_context_expressions_display_text_KSLHasDevotion		false
+building_effect_context_expressions_display_text_KSLHasSupporters		false
+building_effect_context_expressions_display_text_KhorneCorruption100	Khi sự tha hóa [[img:icon_corruption_kho]][[/img]]Khorne là 100 trở lên:	false
+building_effect_context_expressions_display_text_KhorneCorruption50	Khi sự tha hóa [[img:icon_corruption_kho]][[/img]]Khorne là 50 trở lên:	false
+building_effect_context_expressions_display_text_KhorneCorruption75	Khi sự tha hóa [[img:icon_corruption_kho]][[/img]]Khorne là 75 trở lên:	false
+building_effect_context_expressions_display_text_KhorneCorruptionLessThan50	Khi sự tha hóa [[img:icon_corruption_kho]][[/img]]Khorne dưới 50:	false
+building_effect_context_expressions_display_text_KislevHasOrthodoxyGrowthBoon	Khi {{tr:rituals_display_name_wh3_main_ksl_support_orthodoxy_magic_1_2}} từ bảng Court & Orthodoxy đang hoạt động:	false
+building_effect_context_expressions_display_text_KislevHasSettlementAdjacencyBoon	Khi {{tr:rituals_display_name_wh3_main_ksl_support_orthodoxy_settlement_2_2}} từ bảng Court & Orthodoxy đang hoạt động:	false
+building_effect_context_expressions_display_text_KislevHasSettlementResearchBoon	Khi {{tr:rituals_display_name_wh3_main_ksl_support_ice_court_settlement_1_2}} từ bảng Court & Orthodoxy đang hoạt động:	false
+building_effect_context_expressions_display_text_MaxAllegianceAllChampionsRejected	Sau khi đạt mức Độ Trung Thành tối đa với tất cả các Thần và từ chối từng nhà vô địch của họ	false
+building_effect_context_expressions_display_text_MinorCultCabalPower1_1	\\nIf a character ends turn in this region with 20 or more Legendary Lord defeat traits:	false
+building_effect_context_expressions_display_text_MinorCultCabalPower1_2	\\nIf your faction has at least [[img:icon_money]][[/img]]200,000 {{tr:treasury}} when ending turn:	false
+building_effect_context_expressions_display_text_MinorCultCabalPower1_3	\\nIf a character ends turn in this region with 20 or more Legendary Lord defeat traits:	false
+building_effect_context_expressions_display_text_MinorCultCabalPower1_4	\\nIf your faction has at least [[img:icon_money]][[/img]]300,000 {{tr:treasury}} when ending turn:	false
+building_effect_context_expressions_display_text_MinorCultCabalPower1_5	\\nIf a character ends turn in this region with 20 or more Legendary Lord defeat traits:	false
+building_effect_context_expressions_display_text_MinorCultCabalPower1_6	\\nIf your faction has at least [[img:icon_money]][[/img]]500,000 {{tr:treasury}} when ending turn:	false
+building_effect_context_expressions_display_text_MinorCultCabalPower1_7	\\nIf a character ends turn in this region with 20 or more Legendary Lord defeat traits:	false
+building_effect_context_expressions_display_text_MinorCultCabalPower1_8	\\nIf your faction has at least [[img:icon_money]][[/img]]1,000,000 {{tr:treasury}} when ending turn:	false
+building_effect_context_expressions_display_text_MinorCultCabalPower1_9	\\nIf your factions owns 200 or more regions:	false
+building_effect_context_expressions_display_text_MinorCultCabalPower2	\\nIf the Cabal's power level is 30% or more:	false
+building_effect_context_expressions_display_text_MinorCultCabalPower2_On	\\nIf the Cabal's power level is 30% or more:	false
+building_effect_context_expressions_display_text_MinorCultCabalPower3	Nếu mức sức mạnh của Giáo Phái (Cabal) là 50% trở lên:	false
+building_effect_context_expressions_display_text_MinorCultCabalPower3_On	Nếu mức sức mạnh của Giáo Phái (Cabal) là 50% trở lên:	false
+building_effect_context_expressions_display_text_MinorCultCabalPower4	Nếu mức sức mạnh của Giáo Phái (Cabal) là 70% trở lên:	false
+building_effect_context_expressions_display_text_MinorCultCabalPower4_On	Nếu mức sức mạnh của Giáo Phái (Cabal) là 70% trở lên:	false
+building_effect_context_expressions_display_text_MinorCultCabalPower5	Nếu mức sức mạnh của Giáo Phái (Cabal) là 90% trở lên:	false
+building_effect_context_expressions_display_text_MinorCultCabalPower5_On	Nếu mức sức mạnh của Giáo Phái (Cabal) là 90% trở lên:	false
+building_effect_context_expressions_display_text_MountainClimate	Khi được xây dựng ở Khí Hậu Núi [[img:climate_mountain]][[/img]]:	false
+building_effect_context_expressions_display_text_MountainClimatePresent	Khi hiện diện ở Khí Hậu Núi [[img:climate_mountain]][[/img]]:	false
+building_effect_context_expressions_display_text_NORCrowTier1	Khi ở Bậc 1 Crow:	false
+building_effect_context_expressions_display_text_NORCrowTier2	Khi ở Bậc 2 Crow:	false
+building_effect_context_expressions_display_text_NORCrowTier3	Khi ở Bậc 3 Crow:	false
+building_effect_context_expressions_display_text_NORCrowTier4	Khi ở Bậc 4 Crow:	false
+building_effect_context_expressions_display_text_NOREagleTier1	Khi ở Bậc 1 Eagle:	false
+building_effect_context_expressions_display_text_NOREagleTier2	Khi ở Bậc 2 Eagle:	false
+building_effect_context_expressions_display_text_NOREagleTier3	Khi ở Bậc 3 Eagle:	false
+building_effect_context_expressions_display_text_NOREagleTier4	Khi ở Bậc 4 Eagle:	false
+building_effect_context_expressions_display_text_NORHoundTier1	Khi ở Bậc 1 Hound:	false
+building_effect_context_expressions_display_text_NORHoundTier2	Khi ở Bậc 2 Hound:	false
+building_effect_context_expressions_display_text_NORHoundTier3	Khi ở Bậc 3 Hound:	false
+building_effect_context_expressions_display_text_NORHoundTier4	Khi ở Bậc 4 Hound:	false
+building_effect_context_expressions_display_text_NORSaylTier1	Khi ở Bậc 1 Arcane Power:	false
+building_effect_context_expressions_display_text_NORSaylTier2	Khi ở Bậc 2 Arcane Power:	false
+building_effect_context_expressions_display_text_NORSaylTier3	Khi ở Bậc 3 Arcane Power:	false
+building_effect_context_expressions_display_text_NORSaylTier4	Khi ở Bậc 4 Arcane Power:	false
+building_effect_context_expressions_display_text_NORSaylTier5	Khi ở Bậc 5 Arcane Power:	false
+building_effect_context_expressions_display_text_NORSerpentTier1	Khi ở Bậc 1 Serpent:	false
+building_effect_context_expressions_display_text_NORSerpentTier2	Khi ở Bậc 2 Serpent:	false
+building_effect_context_expressions_display_text_NORSerpentTier3	Khi ở Bậc 3 Serpent:	false
+building_effect_context_expressions_display_text_NORSerpentTier4	Khi ở Bậc 4 Serpent:	false
+building_effect_context_expressions_display_text_NeglectedIceCourt	Nếu Ice Court hiện đang bị lãng quên:	false
+building_effect_context_expressions_display_text_NeglectedOrthodoxy	Nếu Orthodoxy hiện đang bị lãng quên:	false
+building_effect_context_expressions_display_text_NotDwarf	Khi chủ sở hữu không phải là Dwarfs:	false
+building_effect_context_expressions_display_text_NotDwarfHidden		false
+building_effect_context_expressions_display_text_NotNeglectedIceCourt	Nếu Ice Court hiện không bị lãng quên:	false
+building_effect_context_expressions_display_text_NotNeglectedOrthodoxy	Nếu Orthodoxy hiện không bị lãng quên:	false
+building_effect_context_expressions_display_text_NotRegionHasPlague	Khi khu định cư này không có [[img:icon_plague]][[/img]]Dịch Bệnh nào đang hoạt động:	false
+building_effect_context_expressions_display_text_NotRegionOwnerFavouredCorruptionKhorne	[PH]	false
+building_effect_context_expressions_display_text_NotRegionOwnerFavouredCorruptionNone	[PH]	false
+building_effect_context_expressions_display_text_NotRegionOwnerFavouredCorruptionNurgle	[PH]	false
+building_effect_context_expressions_display_text_NotRegionOwnerFavouredCorruptionSkaven	[PH]	false
+building_effect_context_expressions_display_text_NotRegionOwnerFavouredCorruptionSlaanesh	[PH]	false
+building_effect_context_expressions_display_text_NotRegionOwnerFavouredCorruptionTzeentch	[PH]	false
+building_effect_context_expressions_display_text_NotRegionOwnerFavouredCorruptionUndivided	[PH]	false
+building_effect_context_expressions_display_text_NotRegionOwnerFavouredCorruptionVampiric	[PH]	false
+building_effect_context_expressions_display_text_NurgleCorruption100	Khi sự tha hóa [[img:icon_corruption_nur]][[/img]]Nurgle là 100 trở lên:	false
+building_effect_context_expressions_display_text_NurgleCorruption50	Khi sự tha hóa [[img:icon_corruption_nur]][[/img]]Nurgle là 50 trở lên:	false
+building_effect_context_expressions_display_text_NurgleCorruption75	Khi sự tha hóa [[img:icon_corruption_nur]][[/img]]Nurgle là 75 trở lên:	false
+building_effect_context_expressions_display_text_OwnerIsDechala	[PH]	false
+building_effect_context_expressions_display_text_OwnerIsNotBhashiva	[PH]	false
+building_effect_context_expressions_display_text_OwnerIsNotDechala	[PH]	false
+building_effect_context_expressions_display_text_PawnbrokerSoldOut	Khi tất cả các vật phẩm đã được mua:	false
+building_effect_context_expressions_display_text_ProvinceIsFullyOwned	Khi tỉnh này được kiểm soát hoàn toàn:	false
+building_effect_context_expressions_display_text_ProvinceIsFullyOwnedByRegionOwner	Khi tỉnh này được chủ sở hữu vùng kiểm soát hoàn toàn:	false
+building_effect_context_expressions_display_text_ProvinceIsNotFullyOwned	Khi tỉnh này chưa được kiểm soát hoàn toàn:	false
+building_effect_context_expressions_display_text_PublicOrder100	Khi [[img:icon_public_order]][[/img]]{{tr:public_order_effect}} là 100:	false
+building_effect_context_expressions_display_text_PublicOrderGreaterThan-25	Khi [[img:icon_public_order]][[/img]]{{tr:public_order_effect}} là -25 hoặc cao hơn:	false
+building_effect_context_expressions_display_text_PublicOrderGreaterThan-50	Khi [[img:icon_public_order]][[/img]]{{tr:public_order_effect}} là -50 hoặc cao hơn:	false
+building_effect_context_expressions_display_text_PublicOrderGreaterThan0	Khi [[img:icon_public_order]][[/img]]{{tr:public_order_effect}} là số dương:	false
+building_effect_context_expressions_display_text_PublicOrderGreaterThan20	Khi [[img:icon_public_order]][[/img]]{{tr:public_order_effect}} là 20 trở lên:	false
+building_effect_context_expressions_display_text_PublicOrderGreaterThan25	Khi [[img:icon_public_order]][[/img]]{{tr:public_order_effect}} là 25 trở lên:	false
+building_effect_context_expressions_display_text_PublicOrderGreaterThan50	Khi [[img:icon_public_order]][[/img]]{{tr:public_order_effect}} là 50 trở lên:	false
+building_effect_context_expressions_display_text_PublicOrderGreaterThan75	Khi [[img:icon_public_order]][[/img]]{{tr:public_order_effect}} là 75 trở lên:	false
+building_effect_context_expressions_display_text_PublicOrderGreaterThan90	Khi [[img:icon_public_order]][[/img]]{{tr:public_order_effect}} là 90 trở lên:	false
+building_effect_context_expressions_display_text_PublicOrderLessThan-40	Khi [[img:icon_public_order]][[/img]]{{tr:public_order_effect}} dưới -40:	false
+building_effect_context_expressions_display_text_PublicOrderLessThan-50	Khi [[img:icon_public_order]][[/img]]{{tr:public_order_effect}} dưới -50:	false
+building_effect_context_expressions_display_text_PublicOrderLessThan0	Khi [[img:icon_public_order]][[/img]]{{tr:public_order_effect}} là số âm:	false
+building_effect_context_expressions_display_text_PublicOrderLessThan25	Khi [[img:icon_public_order]][[/img]]{{tr:public_order_effect}} là 25 trở xuống:	false
+building_effect_context_expressions_display_text_PurpleHandRemoved	Nếu nhà an toàn chính của Purple Hand bị buộc phải dỡ bỏ:	false
+building_effect_context_expressions_display_text_RegionAdjacentElvenColony	Khi một vùng lân cận là Thuộc Địa Elven:	false
+building_effect_context_expressions_display_text_RegionDechalaNotPermanent	Nếu khu định cư không cố định:	false
+building_effect_context_expressions_display_text_RegionDechalaPermanent	Nếu khu định cư cố định:	false
+building_effect_context_expressions_display_text_RegionHasAdjacentDwarfFaction	Khi có bất kỳ vùng lân cận nào thuộc sở hữu của phe Dwarf (ngoại trừ phe của bạn):	false
+building_effect_context_expressions_display_text_RegionHasAnyTradeResource	Khi vùng này có bất kỳ tài nguyên có thể giao dịch nào:	false
+building_effect_context_expressions_display_text_RegionHasPlague	Khi khu định cư này có một [[img:icon_plague]][[/img]]Dịch Bệnh (Plague):	false
+building_effect_context_expressions_display_text_RegionHasResourceDyes	[PH]	false
+building_effect_context_expressions_display_text_RegionHasResourceExoticAnimals	[PH]	false
+building_effect_context_expressions_display_text_RegionHasResourceFurs	[PH]	false
+building_effect_context_expressions_display_text_RegionHasResourceGems	[PH]	false
+building_effect_context_expressions_display_text_RegionHasResourceGold	[PH]	false
+building_effect_context_expressions_display_text_RegionHasResourceIron	[PH]	false
+building_effect_context_expressions_display_text_RegionHasResourceIvory	[PH]	false
+building_effect_context_expressions_display_text_RegionHasResourceMarble	[PH]	false
+building_effect_context_expressions_display_text_RegionHasResourceMedicine	[PH]	false
+building_effect_context_expressions_display_text_RegionHasResourceObsidian	[PH]	false
+building_effect_context_expressions_display_text_RegionHasResourcePastures	[PH]	false
+building_effect_context_expressions_display_text_RegionHasResourcePottery	[PH]	false
+building_effect_context_expressions_display_text_RegionHasResourceSalt	[PH]	false
+building_effect_context_expressions_display_text_RegionHasResourceSpices	[PH]	false
+building_effect_context_expressions_display_text_RegionHasResourceWine	[PH]	false
+building_effect_context_expressions_display_text_RegionHasResourceWood	[PH]	false
+building_effect_context_expressions_display_text_RegionIsFactionCapital	Khi vùng này là Thủ đô của chủ sở hữu vùng:	false
+building_effect_context_expressions_display_text_RegionOwnerDarkElves	[PH]	false
+building_effect_context_expressions_display_text_RegionOwnerFavouredCorruptionKhorne	[PH]	false
+building_effect_context_expressions_display_text_RegionOwnerFavouredCorruptionNone	[PH]	false
+building_effect_context_expressions_display_text_RegionOwnerFavouredCorruptionNurgle	[PH]	false
+building_effect_context_expressions_display_text_RegionOwnerFavouredCorruptionSkaven	[PH]	false
+building_effect_context_expressions_display_text_RegionOwnerFavouredCorruptionSlaanesh	[PH]	false
+building_effect_context_expressions_display_text_RegionOwnerFavouredCorruptionTzeentch	[PH]	false
+building_effect_context_expressions_display_text_RegionOwnerFavouredCorruptionUndivided	[PH]	false
+building_effect_context_expressions_display_text_RegionOwnerFavouredCorruptionVampiric	[PH]	false
+building_effect_context_expressions_display_text_RegionOwnerNotDarkElves	[PH]	false
+building_effect_context_expressions_display_text_RegionThrallsAbove30percent	Trong khi [[img:icon_placeholder]][[/img]]Nô Lệ của khu định cư ở trên 30%:	false
+building_effect_context_expressions_display_text_RegionThrallsAbove70percent	Trong khi [[img:icon_placeholder]][[/img]]Nô Lệ của khu định cư ở trên 70%:	false
+building_effect_context_expressions_display_text_RegionThrallsAboveZero	Trong khi khu định cư còn lại [[img:icon_thralls]][[/img]]Nô Lệ	false
+building_effect_context_expressions_display_text_RegionThrallsBelow0percent	When settlement [[img:icon_placeholder]][[/img]]Thralls drop to 0	false
+building_effect_context_expressions_display_text_RegionThrallsBelow30percent	Khi [[img:icon_placeholder]][[/img]]Nô Lệ (Thralls) của khu định cư giảm xuống dưới 30%:	false
+building_effect_context_expressions_display_text_RegionThrallsBelow70percent	Khi [[img:icon_placeholder]][[/img]]Nô Lệ (Thralls) của khu định cư giảm xuống dưới 70%:	false
+building_effect_context_expressions_display_text_SaylFinalBattleCompleted	Trận chiến Nghi Thức Hắc Ám hoàn thành: Đêm Của Sự Khải Huyền	false
+building_effect_context_expressions_display_text_SaylNarrativeT1	{{tr:advice_info_texts_localised_text_dlc27.war.camp.prelude.nor.gods.sayl.info_001}}: {{tr:effect_bundles_localised_title_wh3_dlc27_nor_sayl_narrative_t1}}	false
+building_effect_context_expressions_display_text_SaylNarrativeT2	{{tr:advice_info_texts_localised_text_dlc27.war.camp.prelude.nor.gods.sayl.info_001}}: {{tr:effect_bundles_localised_title_wh3_dlc27_nor_sayl_narrative_t2}}	false
+building_effect_context_expressions_display_text_SaylNarrativeT3	{{tr:advice_info_texts_localised_text_dlc27.war.camp.prelude.nor.gods.sayl.info_001}}: {{tr:effect_bundles_localised_title_wh3_dlc27_nor_sayl_narrative_t3}}	false
+building_effect_context_expressions_display_text_SaylNarrativeT4	{{tr:advice_info_texts_localised_text_dlc27.war.camp.prelude.nor.gods.sayl.info_001}}: Giai đoạn {{tr:effect_bundles_localised_title_wh3_dlc27_nor_sayl_narrative_t4}}	false
+building_effect_context_expressions_display_text_SaylTreacheryDeclareWar	Hiệu ứng Sự Phản Bội [[img:icon_treacheries]][[/img]]:	false
+building_effect_context_expressions_display_text_SaylTreacheryDeclareWarAfter	Khi khu định cư này bị tộc Dolgan chiếm đóng:	false
+building_effect_context_expressions_display_text_SeaRegionJungleCoasts	Khi Hắc Hạm này ở vùng biển gần rừng rậm:	false
+building_effect_context_expressions_display_text_SeaRegionNaggarondSeas	Khi Hắc Hạm này ở vùng biển gần Naggarond:	false
+building_effect_context_expressions_display_text_SeaRegionNorthernSeas	Khi Hắc Hạm này ở các vùng biển Phương Bắc:	false
+building_effect_context_expressions_display_text_SeaRegionOpenSea	Khi Hắc Hạm này đang ra khơi trên biển mở:	false
+building_effect_context_expressions_display_text_SeaRegionRiver	Khi Hắc Hạm này đang đi vào vùng sông nước:	false
+building_effect_context_expressions_display_text_SeaRegionUlthuanEasternIsles	Khi Hắc Hạm này ở vùng biển gần Ulthuan hoặc Quần Đảo Phương Đông (Eastern Isles):	false
+building_effect_context_expressions_display_text_SkavenCorruption0Dummy	Khi sự tha hóa [[img:icon_corruption_skv]][[/img]]Skaven đạt mức 0:	false
+building_effect_context_expressions_display_text_SkavenCorruption100	Khi sự tha hóa [[img:icon_corruption_skv]][[/img]]Skaven là 100 trở lên:	false
+building_effect_context_expressions_display_text_SkavenCorruption100Dummy	Khi sự tha hóa [[img:icon_corruption_skv]][[/img]]Skaven đạt mức 100:	false
+building_effect_context_expressions_display_text_SkavenCorruption50	Khi sự tha hóa [[img:icon_corruption_skv]][[/img]]Skaven là 50 trở lên:	false
+building_effect_context_expressions_display_text_SkavenCorruption75	Khi sự tha hóa [[img:icon_corruption_skv]][[/img]]Skaven là 75 trở lên:	false
+building_effect_context_expressions_display_text_SlaaneshCorruption100	Khi sự tha hóa [[img:icon_corruption_sla]][[/img]]Slaanesh là 100 trở lên:	false
+building_effect_context_expressions_display_text_SlaaneshCorruption50	Khi sự tha hóa [[img:icon_corruption_sla]][[/img]]Slaanesh là 50 trở lên:	false
+building_effect_context_expressions_display_text_SlaaneshCorruption75	Khi sự tha hóa [[img:icon_corruption_sla]][[/img]]Slaanesh là 75 trở lên:	false
+building_effect_context_expressions_display_text_SlaaneshCorruptionLessThan100	Khi sự tha hóa [[img:icon_corruption_sla]][[/img]]Slaanesh dưới 100:	false
+building_effect_context_expressions_display_text_StanceIsDragonshipExpansion	Ở thế trận Bành Trướng Long Thuyền (Dragonship Expansion):	false
+building_effect_context_expressions_display_text_ThroggBuildingsHasStopTrollkindResourceBonusValue	[[col:yellow]]Thu nhập của Trollkind bị chặn một lúc sau khi {{tr:rituals_display_name_wh3_dlc27_ritual_nor_throgg_units_level_1}} được kích hoạt[[/col]]	false
+building_effect_context_expressions_display_text_TreasuryGreaterThan5000	Khi [[img:icon_treasury]][[/img]]Kho Bạc (Treasury) trên 5000:	false
+building_effect_context_expressions_display_text_TreasuryLessThan2000	Khi [[img:icon_treasury]][[/img]]Kho Bạc (Treasury) dưới 2000:	false
+building_effect_context_expressions_display_text_TreasuryMoreThan2000	Khi [[img:icon_treasury]][[/img]]Kho Bạc (Treasury) là 2000 trở lên:	false
+building_effect_context_expressions_display_text_TzeentchCorruption100	Khi sự tha hóa [[img:icon_corruption_tze]][[/img]]Tzeentch là 100 trở lên:	false
+building_effect_context_expressions_display_text_TzeentchCorruption50	Khi sự tha hóa [[img:icon_corruption_tze]][[/img]]Tzeentch là 50 trở lên:	false
+building_effect_context_expressions_display_text_TzeentchCorruption75	Khi sự tha hóa [[img:icon_corruption_tze]][[/img]]Tzeentch là 75 trở lên:	false
+building_effect_context_expressions_display_text_TzeentchCorruptionLessThan50	Khi sự tha hóa [[img:icon_corruption_tze]][[/img]]Tzeentch dưới 50:	false
+building_effect_context_expressions_display_text_UnitRecruitedProvinceDummy	\\nEvery time a unit is recruited in this province:\\n\\n	false
+building_effect_context_expressions_display_text_VampiricCorruption100	Khi sự tha hóa [[img:icon_corruption_vmp]][[/img]]Vampiric là 100 trở lên:	false
+building_effect_context_expressions_display_text_VampiricCorruption50	Khi sự tha hóa [[img:icon_corruption_vmp]][[/img]]Vampiric là 50 trở lên:	false
+building_effect_context_expressions_display_text_VampiricCorruption75	Khi sự tha hóa [[img:icon_corruption_vmp]][[/img]]Vampiric là 75 trở lên:	false
+building_effect_context_expressions_display_text_WallEffect	Khi ở bên ngoài quê hương Wood Elf, Ogre hoặc Norsca:	false
+building_effect_context_expressions_display_text_WoMGreaterThan3	Khi Winds of Magic Mạnh (Strong) hoặc cao hơn:	false
+building_effect_context_expressions_display_text_WoMGreaterThan4	Khi Winds of Magic Giông Bão (Tempestuous):	false
+building_effect_context_expressions_display_text_armies_sy_initiative_alchemists	{{tr:building_effect_context_expressions_display_text_armies_sy_initiative_jade_armoury}}	false
+building_effect_context_expressions_display_text_armies_sy_initiative_celestial_forge	{{tr:building_effect_context_expressions_display_text_armies_sy_initiative_jade_armoury}}	false
+building_effect_context_expressions_display_text_armies_sy_initiative_gunpowder	{{tr:building_effect_context_expressions_display_text_armies_sy_initiative_jade_armoury}}	false
+building_effect_context_expressions_display_text_armies_sy_initiative_jade_armoury	Nhu Yếu Phẩm Shang-Yang	false
+building_effect_context_expressions_display_text_tiger_court_bhashiva_passive_1	{{tr:building_effect_context_expressions_display_text_tiger_court_military_passive_1}}	false
+building_effect_context_expressions_display_text_tiger_court_bhashiva_passive_3	{{tr:building_effect_context_expressions_display_text_tiger_court_military_passive_1}}	false
+building_effect_context_expressions_display_text_tiger_court_bhashiva_passive_4	{{tr:building_effect_context_expressions_display_text_tiger_court_military_passive_1}}	false
+building_effect_context_expressions_display_text_tiger_court_bhashiva_passive_5	{{tr:building_effect_context_expressions_display_text_tiger_court_military_passive_1}}	false
+building_effect_context_expressions_display_text_tiger_court_bhashiva_passive_from_t3	{{tr:building_effect_context_expressions_display_text_tiger_court_military_passive_1}}	false
+building_effect_context_expressions_display_text_tiger_court_military_passive_1	Các Cường Hóa Tiger Court	false
+building_effect_context_expressions_display_text_tiger_court_military_passive_3	{{tr:building_effect_context_expressions_display_text_tiger_court_military_passive_1}}	false
+building_effect_context_expressions_display_text_tiger_court_military_passive_4	{{tr:building_effect_context_expressions_display_text_tiger_court_military_passive_1}}	false
+building_effect_context_expressions_display_text_tiger_court_military_passive_5	{{tr:building_effect_context_expressions_display_text_tiger_court_military_passive_1}}	false
+building_effect_context_expressions_display_text_tiger_court_military_passive_from_t3	{{tr:building_effect_context_expressions_display_text_tiger_court_military_passive_1}}	false
+building_effect_context_expressions_display_text_tiger_court_spiritual_passive_1	{{tr:building_effect_context_expressions_display_text_tiger_court_military_passive_1}}	false
+building_effect_context_expressions_display_text_tiger_court_spiritual_passive_3	{{tr:building_effect_context_expressions_display_text_tiger_court_military_passive_1}}	false
+building_effect_context_expressions_display_text_tiger_court_spiritual_passive_4	{{tr:building_effect_context_expressions_display_text_tiger_court_military_passive_1}}	false
+building_effect_context_expressions_display_text_tiger_court_spiritual_passive_5	{{tr:building_effect_context_expressions_display_text_tiger_court_military_passive_1}}	false
+building_effect_context_expressions_display_text_tiger_court_spiritual_passive_from_t3	{{tr:building_effect_context_expressions_display_text_tiger_court_military_passive_1}}	false
+building_effect_context_expressions_display_text_tiger_court_spiritual_passive_from_t3_hidden	{{tr:building_effect_context_expressions_display_text_tiger_court_military_passive_1}}\\n[[col:yellow]]Active when no enemy Lords or Heroes are present in the region[[//col]]	false
+building_effect_context_expressions_display_text_wh3_cp1_IsRelics	Các thánh tích được tìm thấy ở khu định cư này:	false
