@@ -40,9 +40,12 @@
 | building_description_texts__.loc.tsv | 3 | 3 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
 | building_effect_context_expressions__.loc.tsv | 373 | 373 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
 | building_flavour_texts__.loc.tsv | 549 | 549 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
-| building_sets__.loc.tsv | 560 | 0 | In Progress | 0% | Bắt đầu dịch theo quy trình mới. |
-| building_short_description_texts__.loc.tsv | - | 0 | Not Started | 0% | |
-| ... (231 tables khác) | - | 0 | Not Started | 0% | Sẽ cập nhật khi bắt đầu dịch |
+| building_sets__.loc.tsv | 560 | 560 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (560/560). |
+| building_short_description_texts__.loc.tsv | 3297 | 3297 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (3297/3297). |
+| campaign_areas_of_interest__.loc.tsv | 118 | 118 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (118/118). |
+| ... (230 tables khác) | - | 0 | Not Started | 0% | Sẽ cập nhật khi bắt đầu dịch |
 ---
-*Cập nhật lần cuối: 2026-05-26*
+*Cập nhật lần cuối: 2026-05-26 (20:03 ICT)*
 *Quy tắc an toàn: Cập nhật ngay sau mỗi table hoặc mỗi 100 dòng dịch.*
+*Xem các quy tắc dịch đặc biệt tại: GEMINI.md (Section 4)*
+

@@ -25,7 +25,15 @@ Tài liệu này quy định quy trình làm việc bắt buộc cho Agent khi t
 - Số lượng key trong file tại `text_translated/` **phải khớp hoàn toàn** với số lượng key trong file gốc tại `text_origin/`.
 - Nếu phát hiện sai lệch, phải dừng lại và sửa đổi trước khi tiếp tục file tiếp theo.
 
-## 4. Đóng gói (Packing)
+## 4. Quy tắc đặc biệt khi dịch
+
+### Key "placeholder" — KHÔNG ĐƯỢC DỊCH
+- Các key có text = `placeholder`, `PLACEHOLDER`, hoặc `Placeholder` trong file gốc là **text tạm thời của CA chưa được điền nội dung thực**.
+- **Bắt buộc:** Giữ nguyên nguyên văn giá trị gốc (giữ đúng case: lowercase/uppercase/titlecase như file origin).
+- **Tuyệt đối không** dịch thành "vùng giữ chỗ" hay bất kỳ nội dung tiếng Việt nào.
+- Phạm vi ảnh hưởng: ~1.643 key trải rộng 29 file trong toàn dự án.
+
+## 5. Đóng gói (Packing)
 - Sử dụng `rpfm_cli` để tạo một pack mới tên là `text_translated.pack`.
 - Pack này sẽ chứa các file đã được dịch từ thư mục `text_translated/`.
 
