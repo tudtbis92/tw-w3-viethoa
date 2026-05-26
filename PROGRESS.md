@@ -39,7 +39,9 @@
 | building_culture_variants__.loc.tsv | 5411 | 5411 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
 | building_description_texts__.loc.tsv | 3 | 3 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
 | building_effect_context_expressions__.loc.tsv | 373 | 373 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
-| unit_abilities__.loc.tsv | 5773 | 0 | Not Started | 0% | |
+| building_flavour_texts__.loc.tsv | 549 | 549 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
+| building_sets__.loc.tsv | 560 | 0 | In Progress | 0% | Bắt đầu dịch theo quy trình mới. |
+| building_short_description_texts__.loc.tsv | - | 0 | Not Started | 0% | |
 | ... (231 tables khác) | - | 0 | Not Started | 0% | Sẽ cập nhật khi bắt đầu dịch |
 ---
 *Cập nhật lần cuối: 2026-05-26*

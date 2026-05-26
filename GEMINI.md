@@ -14,13 +14,12 @@ Tài liệu này quy định quy trình làm việc bắt buộc cho Agent khi t
 
 ## 3. Quy trình dịch và Kiểm tra (Translation & Validation)
 - Khi dịch một file từ `text_origin/`, kết quả phải được lưu vào đường dẫn tương ứng trong `text_translated/`.
-- **Xử lý file lớn:** Đối với các file có số lượng key lớn, Agent **bắt buộc** thực hiện quy trình sau:
-    1. Đọc nội dung file gốc với kích thước **200 key/lần**.
-    2. Dịch từng phần.
-    3. Ghi kết quả dịch của mỗi phần vào một file tạm (chunk).
-    4. Sử dụng script `append_safe.py` để nối nội dung từ file chunk vào file kết quả cuối cùng trong `text_translated/`.
-    5. Cập nhật `PROGRESS.md` sau mỗi đợt dịch.
-    6. Lặp lại cho đến khi kết thúc file.
+- **Quy trình dịch (Bắt buộc cho mọi file):** Mọi file translation **bắt buộc** phải xử lý theo các bước sau:
+    1. Chạy script `split_tsv.py <path_to_origin_tsv>` để chia file gốc thành các file chunk lưu trực tiếp trong thư mục `chunks/` theo định dạng `filename_chunk_x.tsv` (mỗi file 200 key).
+    2. Dịch lần lượt từng file chunk. Kết quả dịch của mỗi chunk phải được lưu thành `filename_chunk_translated_x.tsv` trong cùng thư mục `chunks/`.
+    3. Cập nhật `PROGRESS.md` sau khi hoàn thành mỗi chunk.
+    4. Sau khi dịch xong toàn bộ các chunk, chạy script `merge_chunks.py <filename>` để nối các file chunk đã dịch thành file kết quả cuối cùng trong `text_translated/`. Script này cũng sẽ thực hiện xóa bỏ các file chunk (gốc và dịch) sau khi hoàn tất.
+    5. Thực hiện so sánh số lượng key giữa file kết quả và file gốc để đảm bảo tính toàn vẹn.
 - **Encoding (Mã hóa):** Khi ghi file (sử dụng `write_file`, `replace` hoặc các lệnh shell), **bắt buộc** phải sử dụng mã hóa **UTF-8** (đảm bảo hiển thị đúng tiếng Việt có dấu). Tuyệt đối tránh sử dụng các encoding mặc định của hệ thống hoặc không xác định, điều này sẽ gây ra lỗi hiển thị (Mojibake).
 - **Bắt buộc:** Sau khi dịch xong mỗi file table, Agent phải thực hiện kiểm tra số lượng key (hoặc số dòng dữ liệu).
 - Số lượng key trong file tại `text_translated/` **phải khớp hoàn toàn** với số lượng key trong file gốc tại `text_origin/`.
