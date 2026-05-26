@@ -1,0 +1,354 @@
+﻿key	text	tooltip
+#Loc;1;text/db/agent_actions__.loc		
+agent_actions_localised_action_description_wh2_dlc09_agent_action_engineer_hinder_settlement_necrotect_ritual	[[col:yellow]]Thuộc địa hóa khu định cư đổ nát tại cấp 3.[[/col]]\\n[[col:red]]Hành động này sẽ giết chết Necrotect![[/col]]	false
+agent_actions_localised_action_description_wh2_dlc11_agent_action_champion_assist_province_dig_for_treasure	[[col:yellow]]Giải các Bản đồ Kho báu bằng cách đào kho báu tại các địa điểm được gợi ý trong các câu đố.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc11_agent_action_champion_hinder_province_dig_for_treasure	[[col:yellow]]Giải các Bản đồ Kho báu bằng cách đào kho báu tại các địa điểm được gợi ý trong các câu đố.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc11_agent_action_champion_hinder_settlement_treasure_hunt	[[col:yellow]]Tìm kiếm khu định cư đổ nát, dẫn đến kết quả tốt hoặc xấu.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc11_agent_action_dignitary_assist_province_dig_for_treasure	[[col:yellow]]Giải các Bản đồ Kho báu bằng cách đào kho báu tại các địa điểm được gợi ý trong các câu đố.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc11_agent_action_dignitary_hinder_province_dig_for_treasure	[[col:yellow]]Giải các Bản đồ Kho báu bằng cách đào kho báu tại các địa điểm được gợi ý trong các câu đố.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc11_agent_action_dignitary_hinder_settlement_establish_pirate_cove	[[col:yellow]]Thiết lập một hang hải tặc tại khu định cư mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc11_agent_action_dignitary_hinder_settlement_treasure_hunt	[[col:yellow]]Tìm kiếm khu định cư đổ nát, dẫn đến kết quả tốt hoặc xấu.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc11_agent_action_engineer_assist_province_dig_for_treasure	[[col:yellow]]Giải các Bản đồ Kho báu bằng cách đào kho báu tại các địa điểm được gợi ý trong các câu đố.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc11_agent_action_engineer_hinder_province_dig_for_treasure	[[col:yellow]]Giải các Bản đồ Kho báu bằng cách đào kho báu tại các địa điểm được gợi ý trong các câu đố.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc11_agent_action_engineer_hinder_settlement_treasure_hunt	[[col:yellow]]Tìm kiếm khu định cư đổ nát, dẫn đến kết quả tốt hoặc xấu.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc11_agent_action_runesmith_hinder_settlement_treasure_hunt	[[col:yellow]]Tìm kiếm khu định cư đổ nát, dẫn đến kết quả tốt hoặc xấu.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc11_agent_action_spy_assist_province_dig_for_treasure	[[col:yellow]]Giải các Bản đồ Kho báu bằng cách đào kho báu tại các địa điểm được gợi ý trong các câu đố.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc11_agent_action_spy_hinder_province_dig_for_treasure	[[col:yellow]]Giải các Bản đồ Kho báu bằng cách đào kho báu tại các địa điểm được gợi ý trong các câu đố.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc11_agent_action_spy_hinder_settlement_treasure_hunt	[[col:yellow]]Tìm kiếm khu định cư đổ nát, dẫn đến kết quả tốt hoặc xấu.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc11_agent_action_wizard_hinder_settlement_treasure_hunt	[[col:yellow]]Tìm kiếm khu định cư đổ nát, dẫn đến kết quả tốt hoặc xấu.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc12_agent_action_dignitary_hinder_settlement_expand_underempire	[[col:yellow]]Thiết lập một Địa Thành (Under-City) bên dưới khu định cư mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc12_agent_action_dignitary_hinder_settlement_expand_underempire_unique	[[col:yellow]]Thiết lập một Địa Thành bên dưới khu định cư mục tiêu và ngay lập tức tạo một công trình Phòng Thí Nghiệm.[[/col]]\\n[[col:red]]Hành động này sẽ giết chết Warlock Engineer![[/col]]	false
+agent_actions_localised_action_description_wh2_dlc12_agent_action_kroak_assist_army_replenish_troops	[[col:yellow]]Tăng [[img:icon_replenishment]][[/img]]hồi quân của quân đội đồn trú thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc12_agent_action_kroak_assist_army_training	[[col:yellow]]Tăng điểm kinh nghiệm nhận được thêm %n% cho các đơn vị phục vụ trong quân đội đồn trú.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc12_agent_action_kroak_passive_boost_income	[[col:yellow]]Tăng {{tr:icon_income}}thu nhập tạo ra bởi các công trình trong tỉnh địa phương thêm %n% (giảm trong các tỉnh của kẻ thù).[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc12_agent_action_kroak_passive_stimulate_growth	[[col:yellow]]Tăng [[img:icon_growth]][[/img]]tăng trưởng trong tỉnh địa phương thêm %n (giảm trong các tỉnh của kẻ thù).[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc12_agent_action_wizard_hinder_settlement_kroak_settlement	[[col:yellow]]Gây sát thương lên tường thành, công trình, và hạ cấp khu định cư của khu định cư mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc12_agent_action_wizard_hinder_settlement_kroak_walls_1	[[col:yellow]]Gây sát thương lên tường thành của khu định cư mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc12_agent_action_wizard_hinder_settlement_kroak_walls_2	[[col:yellow]]Gây sát thương lên tường thành của khu định cư mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc15_agent_action_runesmith_assist_army_replenish_troops	[[col:yellow]]Tăng [[img:icon_replenishment]][[/img]]hồi quân của quân đội đồn trú thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc15_agent_action_runesmith_hinder_army_assault_unit	[[col:yellow]]Gây sát thương lên một đơn vị trong quân đội mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc15_agent_action_runesmith_hinder_settlement_steal_technology	[[col:yellow]]Giảm thời gian nghiên cứu thêm %n% trong 3 lượt.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc16_agent_action_champion_hinder_settlement_expand_underempire	[[col:yellow]]Thiết lập một Địa Thành bên dưới khu định cư mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc16_agent_action_dignitary_assist_army_increase_mobility	[[col:yellow]]Tăng tầm di chuyển chiến dịch của quân đội đồn trú thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc16_agent_action_dignitary_hinder_army_assault_unit	[[col:yellow]]Gây sát thương lên một đơn vị trong quân đội mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc16_agent_action_dignitary_passive_boost_income	[[col:yellow]]Tăng {{tr:icon_income}}thu nhập tạo ra bởi các công trình trong tỉnh địa phương thêm %n% (giảm trong các tỉnh của kẻ thù).[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc16_agent_action_runesmith_assist_army_scavenge_buff	[[col:yellow]]Tăng {{tr:icon_income}}thu nhập từ chiến lợi phẩm sau trận chiến nhận được bởi quân đội đồn trú thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc16_agent_action_runesmith_hinder_settlement_damage_building	[[col:yellow]]Gây sát thương lên một công trình trong khu định cư mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc16_agent_action_runesmith_passive_stimulate_growth	[[col:yellow]]Tăng [[img:icon_growth]][[/img]]tăng trưởng trong tỉnh địa phương thêm %n (giảm trong các tỉnh của kẻ thù).[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc16_agent_action_wizard_hinder_settlement_ariel	[[col:yellow]]Gây sát thương lên tường thành, công trình, và hạ cấp khu định cư của khu định cư mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc17_agent_action_runesmith_assist_army_improve_armour	[[col:yellow]]Tăng giáp của tất cả các đơn vị trong quân đội đồn trú thêm %n. Chỉ một Runesmith có thể áp dụng hiệu ứng này tại một thời điểm.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc17_agent_action_runesmith_assist_army_improve_weapons	[[col:yellow]]Tăng sát thương tầm xa và cận chiến của tất cả các đơn vị trong quân đội đồn trú thêm %n%. Chỉ một Runesmith có thể áp dụng hiệu ứng này tại một thời điểm.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc17_agent_action_runesmith_assist_army_increase_mobility	[[col:yellow]]Tăng tầm di chuyển chiến dịch của quân đội đồn trú thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc17_agent_action_runesmith_hinder_settlement_assault_garrison	[[col:yellow]]Gây sát thương lên đội quân đồn trú của khu định cư mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_dlc17_agent_action_spy_passive_spread_corruption_chs	[[col:yellow]]Tăng lượng [[img:icon_corruption_chs]][[/img]]sự thối nát Hỗn mang Bất phân (Chaos Undivided) trong tỉnh địa phương thêm %n.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_champion_assist_army_green_knight	[[col:yellow]]Gia nhập quân đội đồn trú để phục vụ trong trận chiến.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_champion_assist_army_replenish_troops	[[col:yellow]]Tăng [[img:icon_replenishment]][[/img]]hồi quân của quân đội đồn trú thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_champion_assist_army_scavenge	[[col:yellow]]Tăng {{tr:icon_income}}thu nhập từ chiến lợi phẩm sau trận chiến nhận được bởi quân đội đồn trú thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_champion_assist_army_scouting	[[col:yellow]]Tăng cơ hội tìm thấy vật phẩm ma thuật của quân đội đồn trú sau khi thắng một trận chiến thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_champion_assist_army_training	[[col:yellow]]Tăng điểm kinh nghiệm nhận được thêm %n% cho các đơn vị phục vụ trong quân đội đồn trú.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_champion_hinder_agent_assassinate	[[col:yellow]]Ám sát [[img:icon_hero]][[/img]]Anh hùng mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_champion_hinder_agent_wound	[[col:yellow]]Làm bị thương [[img:icon_hero]][[/img]]Anh hùng mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_champion_hinder_army_assault_units	[[col:yellow]]Gây sát thương lên tất cả các đơn vị trong quân đội mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_champion_hinder_army_block_army	[[col:yellow]]Thay đổi tầm di chuyển chiến dịch của quân đội mục tiêu thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_champion_hinder_army_hinder_replenishment	[[col:yellow]]Thay đổi [[img:icon_replenishment]][[/img]]hồi quân của quân đội mục tiêu thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_champion_hinder_settlement_assault_garrison	[[col:yellow]]Gây sát thương lên đội quân đồn trú của khu định cư mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_champion_hinder_settlement_damage_building	[[col:yellow]]Gây sát thương lên một công trình trong khu định cư mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_champion_hinder_settlement_damage_walls	[[col:yellow]]Gây sát thương lên tường thành của khu định cư mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_champion_hinder_settlement_gain_influence	[[col:yellow]]Tạo ra %n [[img:icon_influence]][[/img]]tầm ảnh hưởng mỗi lượt trong 5 lượt.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_champion_hinder_settlement_scout_settlement	[[col:yellow]]Do thám khu định cư đổ nát để lộ ra bất kỳ mối đe dọa ẩn giấu nào.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_champion_passive_increase_trade	[[col:yellow]]Tăng tài nguyên thương mại được sản xuất trong tỉnh địa phương thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_champion_passive_spread_corruption	[[col:yellow]]Giảm lượng [[img:icon_corruption_untainted]][[/img]]sự thối nát trong tỉnh địa phương thêm %n.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_champion_passive_spread_corruption_vmp	[[col:yellow]]Tăng lượng [[img:icon_corruption_vmp]][[/img]]sự thối nát Ma tớn (Vampiric) trong tỉnh địa phương thêm %n.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_champion_passive_spread_public_order	[[col:yellow]]Tăng [[img:icon_public_order]][[/img]]{{tr:hp_campaign_public_order_term}} trong tỉnh địa phương thêm %n (giảm trong các tỉnh của kẻ thù).[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_champion_passive_spread_public_order_horde	[[col:yellow]]Thay đổi [[img:icon_public_order]][[/img]]{{tr:hp_campaign_public_order_term}} trong tỉnh địa phương thêm %n.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_champion_passive_stimulate_growth	[[col:yellow]]Tăng [[img:icon_growth]][[/img]]tăng trưởng trong tỉnh địa phương thêm %n (giảm trong các tỉnh của kẻ thù).[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_dignitary_assist_army_replenish_troops	[[col:yellow]]Tăng [[img:icon_replenishment]][[/img]]hồi quân của quân đội đồn trú thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_dignitary_assist_army_training	[[col:yellow]]Tăng điểm kinh nghiệm nhận được thêm %n% cho các đơn vị phục vụ trong quân đội đồn trú.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_dignitary_hinder_agent_wound	[[col:yellow]]Làm bị thương [[img:icon_hero]][[/img]]Anh hùng mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_dignitary_hinder_army_assault_units	[[col:yellow]]Gây sát thương lên tất cả các đơn vị trong quân đội mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_dignitary_hinder_army_hinder_replenishment	[[col:yellow]]Thay đổi [[img:icon_replenishment]][[/img]]hồi quân của quân đội mục tiêu thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_dignitary_hinder_settlement_assault_garrison	[[col:yellow]]Gây sát thương lên đội quân đồn trú của khu định cư mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_dignitary_hinder_settlement_damage_building	[[col:yellow]]Gây sát thương lên một công trình trong khu định cư mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_dignitary_hinder_settlement_damage_walls	[[col:yellow]]Gây sát thương lên tường thành của khu định cư mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_dignitary_hinder_settlement_scout_settlement	[[col:yellow]]Do thám khu định cư đổ nát để lộ ra bất kỳ mối đe dọa ẩn giấu nào.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_dignitary_passive_spread_corruption	[[col:yellow]]Giảm lượng [[img:icon_corruption_untainted]][[/img]]sự thối nát trong tỉnh địa phương thêm %n.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_dignitary_passive_spread_corruption_chs	[[col:yellow]]Tăng lượng [[img:icon_corruption_chs]][[/img]]sự thối nát Hỗn mang Bất phân (Chaos Undivided) trong tỉnh địa phương thêm %n.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_dignitary_passive_spread_corruption_vmp	[[col:yellow]]Tăng lượng [[img:icon_corruption_vmp]][[/img]]sự thối nát Ma tớn (Vampiric) trong tỉnh địa phương thêm %n.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_dignitary_passive_spread_public_order	[[col:yellow]]Tăng [[img:icon_public_order]][[/img]]{{tr:hp_campaign_public_order_term}} trong tỉnh địa phương thêm %n (giảm trong các tỉnh của kẻ thù).[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_dignitary_passive_stimulate_growth	[[col:yellow]]Tăng [[img:icon_growth]][[/img]]tăng trưởng trong tỉnh địa phương thêm %n (giảm trong các tỉnh của kẻ thù).[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_engineer_assist_army_increase_mobility	[[col:yellow]]Tăng tầm di chuyển chiến dịch của quân đội đồn trú thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_engineer_assist_army_training	[[col:yellow]]Tăng điểm kinh nghiệm nhận được thêm %n% cho các đơn vị phục vụ trong quân đội đồn trú.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_engineer_hinder_agent_assassinate	[[col:yellow]]Ám sát [[img:icon_hero]][[/img]]Anh hùng mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_engineer_hinder_agent_wound	[[col:yellow]]Làm bị thương [[img:icon_hero]][[/img]]Anh hùng mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_engineer_hinder_army_assault_units	[[col:yellow]]Gây sát thương lên tất cả các đơn vị trong quân đội mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_engineer_hinder_army_block_army	[[col:yellow]]Thay đổi tầm di chuyển chiến dịch của quân đội mục tiêu thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_engineer_hinder_army_hinder_replenishment	[[col:yellow]]Thay đổi [[img:icon_replenishment]][[/img]]hồi quân của quân đội mục tiêu thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_engineer_hinder_settlement_assault_garrison	[[col:yellow]]Gây sát thương lên đội quân đồn trú của khu định cư mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_engineer_hinder_settlement_damage_building	[[col:yellow]]Gây sát thương lên một công trình trong khu định cư mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_engineer_hinder_settlement_damage_walls	[[col:yellow]]Gây sát thương lên tường thành của khu định cư mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_engineer_hinder_settlement_scout_settlement	[[col:yellow]]Do thám khu định cư đổ nát để lộ ra bất kỳ mối đe dọa ẩn giấu nào.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_engineer_hinder_settlement_steal_technology	[[col:yellow]]Giảm thời gian nghiên cứu thêm %n% trong 3 lượt.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_engineer_hinder_settlement_warlock_engineer_ritual	[[col:yellow]]Gây sát thương lên tường thành và công trình của khu định cư mục tiêu.[[/col]]\\n[[col:red]]Hành động này sẽ giết chết Warlock Engineer![[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_engineer_passive_boost_income	[[col:yellow]]Tăng {{tr:icon_income}}thu nhập tạo ra bởi các công trình trong tỉnh địa phương thêm %n% (giảm trong các tỉnh của kẻ thù).[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_engineer_passive_spread_public_order	[[col:yellow]]Tăng [[img:icon_public_order]][[/img]]{{tr:hp_campaign_public_order_term}} trong tỉnh địa phương thêm %n (giảm trong các tỉnh của kẻ thù).[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_runesmith_assist_army_scouting	[[col:yellow]]Tăng cơ hội tìm thấy vật phẩm ma thuật của quân đội đồn trú sau khi thắng một trận chiến thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_runesmith_assist_army_training	[[col:yellow]]Tăng điểm kinh nghiệm nhận được thêm %n% cho các đơn vị phục vụ trong quân đội đồn trú.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_runesmith_hinder_agent_wound	[[col:yellow]]Làm bị thương [[img:icon_hero]][[/img]]Anh hùng mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_runesmith_hinder_army_hinder_replenishment	[[col:yellow]]Thay đổi [[img:icon_replenishment]][[/img]]hồi quân của quân đội mục tiêu thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_runesmith_hinder_character_assassinate	[[col:yellow]]Ám sát [[img:icon_hero]][[/img]]Anh hùng mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_runesmith_hinder_settlement_damage_walls	[[col:yellow]]Gây sát thương lên tường thành của khu định cư mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_runesmith_hinder_settlement_scout_settlement	[[col:yellow]]Do thám khu định cư đổ nát để lộ ra bất kỳ mối đe dọa ẩn giấu nào.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_runesmith_passive_spread_corruption	[[col:yellow]]Giảm lượng [[img:icon_corruption_untainted]][[/img]]sự thối nát trong tỉnh địa phương thêm %n.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_runesmith_passive_spread_public_order	[[col:yellow]]Tăng [[img:icon_public_order]][[/img]]{{tr:hp_campaign_public_order_term}} trong tỉnh địa phương thêm %n (giảm trong các tỉnh của kẻ thù).[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_spy_assist_army_increase_mobility	[[col:yellow]]Tăng tầm di chuyển chiến dịch của quân đội đồn trú thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_spy_assist_army_replenish_troops	[[col:yellow]]Tăng [[img:icon_replenishment]][[/img]]hồi quân của quân đội đồn trú thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_spy_assist_army_replenish_troops_horde	[[col:yellow]]Tăng [[img:icon_replenishment]][[/img]]hồi quân của quân đội đồn trú thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_spy_assist_army_scavenge	[[col:yellow]]Tăng {{tr:icon_income}}thu nhập từ chiến lợi phẩm sau trận chiến nhận được bởi quân đội đồn trú thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_spy_assist_army_training	[[col:yellow]]Tăng điểm kinh nghiệm nhận được thêm %n% cho các đơn vị phục vụ trong quân đội đồn trú.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_spy_hinder_agent_assassinate	[[col:yellow]]Ám sát [[img:icon_hero]][[/img]]Anh hùng mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_spy_hinder_agent_wound	[[col:yellow]]Làm bị thương [[img:icon_hero]][[/img]]Anh hùng mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_spy_hinder_army_assault_units	[[col:yellow]]Gây sát thương lên tất cả các đơn vị trong quân đội mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_spy_hinder_army_block_army	[[col:yellow]]Thay đổi tầm di chuyển chiến dịch của quân đội mục tiêu thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_spy_hinder_army_hinder_replenishment	[[col:yellow]]Thay đổi [[img:icon_replenishment]][[/img]]hồi quân của quân đội mục tiêu thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_spy_hinder_character_assassinate	[[col:yellow]]Ám sát Nhân vật mục tiêu.[[/col]]\\n[[col:red]]Hành động này sẽ giết chết Hand of the Shadow Crown![[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_spy_hinder_settlement_assault_garrison	[[col:yellow]]Gây sát thương lên đội quân đồn trú của khu định cư mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_spy_hinder_settlement_damage_walls	[[col:yellow]]Gây sát thương lên tường thành của khu định cư mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_spy_hinder_settlement_scout_settlement	[[col:yellow]]Do thám khu định cư đổ nát để lộ ra bất kỳ mối đe dọa ẩn giấu nào.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_spy_passive_boost_income	[[col:yellow]]Tăng {{tr:icon_income}}thu nhập tạo ra bởi các công trình trong tỉnh địa phương thêm %n% (giảm trong các tỉnh của kẻ thù).[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_spy_passive_increase_slave_income	[[col:yellow]]Tạo ra %n [[img:icon_slaves]][[/img]]nô lệ mỗi lượt.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_spy_passive_spread_corruption	[[col:yellow]]Giảm lượng [[img:icon_corruption_untainted]][[/img]]sự thối nát trong tỉnh địa phương thêm %n.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_spy_passive_spread_public_order	[[col:yellow]]Tăng [[img:icon_public_order]][[/img]]{{tr:hp_campaign_public_order_term}} trong tỉnh địa phương thêm %n (giảm trong các tỉnh của kẻ thù).[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_spy_passive_stimulate_growth	[[col:yellow]]Tăng [[img:icon_growth]][[/img]]tăng trưởng trong tỉnh địa phương thêm %n (giảm trong các tỉnh của kẻ thù).[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_wizard_assist_army_replenish_troops	[[col:yellow]]Tăng [[img:icon_replenishment]][[/img]]hồi quân của quân đội đồn trú thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_wizard_assist_army_scouting	[[col:yellow]]Tăng cơ hội tìm thấy vật phẩm ma thuật của quân đội đồn trú sau khi thắng một trận chiến thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_wizard_assist_army_training	[[col:yellow]]Tăng điểm kinh nghiệm nhận được thêm %n% cho các đơn vị phục vụ trong quân đội đồn trú.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_wizard_hinder_agent_assassinate	[[col:yellow]]Ám sát [[img:icon_hero]][[/img]]Anh hùng mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_wizard_hinder_agent_wound	[[col:yellow]]Làm bị thương [[img:icon_hero]][[/img]]Anh hùng mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_wizard_hinder_army_assault_unit	[[col:yellow]]Gây sát thương lên một đơn vị trong quân đội mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_wizard_hinder_army_assault_units	[[col:yellow]]Gây sát thương lên tất cả các đơn vị trong quân đội mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_wizard_hinder_army_block_army	[[col:yellow]]Thay đổi tầm di chuyển chiến dịch của quân đội mục tiêu thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_wizard_hinder_army_hinder_replenishment	[[col:yellow]]Thay đổi [[img:icon_replenishment]][[/img]]hồi quân của quân đội mục tiêu thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_wizard_hinder_settlement_assault_garrison	[[col:yellow]]Gây sát thương lên đội quân đồn trú của khu định cư mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_wizard_hinder_settlement_damage_building	[[col:yellow]]Gây sát thương lên một công trình trong khu định cư mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_wizard_hinder_settlement_damage_walls	[[col:yellow]]Gây sát thương lên tường thành của khu định cư mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_wizard_hinder_settlement_plague_priest_ritual	[[col:yellow]]Gieo rắc một trận [[img:icon_plague]][[/img]]dịch bệnh đến khu định cư mục tiêu, cản trở [[img:icon_growth]][[/img]]tăng trưởng và [[img:icon_income]][[/img]]thu nhập.[[/col]]\\n[[col:red]]Hành động này sẽ giết chết Plague Priest![[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_wizard_hinder_settlement_scout_settlement	[[col:yellow]]Do thám khu định cư đổ nát để lộ ra bất kỳ mối đe dọa ẩn giấu nào.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_wizard_hinder_settlement_steal_technology	[[col:yellow]]Giảm thời gian nghiên cứu thêm %n% trong 3 lượt.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_wizard_passive_boost_income	[[col:yellow]]Tăng {{tr:icon_income}}thu nhập tạo ra bởi các công trình trong tỉnh địa phương thêm %n% (giảm trong các tỉnh của kẻ thù).[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_wizard_passive_spread_corruption	[[col:yellow]]Giảm lượng [[img:icon_corruption_untainted]][[/img]]sự thối nát trong tỉnh địa phương thêm %n.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_wizard_passive_spread_corruption_chs	[[col:yellow]]Tăng lượng [[img:icon_corruption_chs]][[/img]]sự thối nát Hỗn mang Bất phân (Chaos Undivided) trong tỉnh địa phương thêm %n.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_wizard_passive_spread_corruption_skv	[[col:yellow]]Tăng lượng [[img:icon_corruption_skv]][[/img]]sự thối nát Skaven trong tỉnh địa phương thêm %n.[[/col]]	false
+agent_actions_localised_action_description_wh2_main_agent_action_wizard_passive_spread_public_order	[[col:yellow]]Tăng [[img:icon_public_order]][[/img]]{{tr:hp_campaign_public_order_term}} trong tỉnh địa phương thêm %n (giảm trong các tỉnh của kẻ thù).[[/col]]	false
+agent_actions_localised_action_description_wh3_cp1_agent_action_alchemist_assist_army_alchemical_hardening	[[col:yellow]]Tăng giáp của tất cả các đơn vị trong quân đội đồn trú thêm %n. Chỉ một Alchemist có thể áp dụng hiệu ứng này tại một thời điểm.[[/col]]	false
+agent_actions_localised_action_description_wh3_cp1_agent_action_alchemist_assist_army_metallurgic_refining	[[col:yellow]]Tăng sức mạnh vũ khí của tất cả các đơn vị trong quân đội đồn trú thêm %n%. Chỉ một Alchemist có thể áp dụng hiệu ứng này tại một thời điểm.[[/col]]	false
+agent_actions_localised_action_description_wh3_cp1_agent_action_gate_master_assist_army_gifted_logistician	[[col:yellow]]Tăng lượng đạn dược của tất cả các đơn vị trong quân đội đồn trú thêm %n%. Chỉ một Gate Master có thể áp dụng hiệu ứng này tại một thời điểm.[[/col]]	false
+agent_actions_localised_action_description_wh3_cp1_agent_action_runesmith_assist_army_preparedness_drills	[[col:yellow]]Tăng phòng thủ cận chiến của tất cả các đơn vị trong quân đội đồn trú thêm %n. Chỉ một Gate Master có thể áp dụng hiệu ứng này tại một thời điểm.[[/col]]	false
+agent_actions_localised_action_description_wh3_dlc23_agent_action_enable_wizard_assist_army_enhance_mobility	[[col:yellow]]Tăng tầm di chuyển chiến dịch của quân đội đồn trú thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh3_dlc23_agent_action_spy_hinder_settlement_damage_building	[[col:yellow]]Gây sát thương lên một công trình trong khu định cư mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh3_dlc23_agent_action_wizard_destroy_settlement_daemonsmith_settlement	[[col:yellow]]San bằng khu định cư mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh3_dlc24_agent_action_engineer_hinder_settlement_infiltrate_cults_unique_military	[[col:yellow]]Thiết lập một Giáo Phái Kẻ Lừa Dối (Trickster Cult) tại khu định cư mục tiêu, với các công trình chiêu mộ.[[/col]]\\n[[col:red]]Hành động này sẽ giết chết Trickster Cultist![[/col]]	false
+agent_actions_localised_action_description_wh3_dlc24_agent_action_engineer_hinder_settlement_infiltrate_cults_unique_parasitic	[[col:yellow]]Thiết lập một Giáo Phái Kẻ Lừa Dối tại khu định cư mục tiêu, với các công trình ký sinh để hút tài nguyên từ chủ sở hữu.[[/col]]\\n[[col:red]]Hành động này sẽ giết chết Trickster Cultist![[/col]]	false
+agent_actions_localised_action_description_wh3_dlc24_agent_action_engineer_hinder_settlement_infiltrate_cults_unique_symbiotic	[[col:yellow]]Thiết lập một Giáo Phái Kẻ Lừa Dối tại khu định cư mục tiêu, với các công trình cộng sinh để tăng cường sức mạnh cho chủ sở hữu.[[/col]]\\n[[col:red]]Hành động này sẽ giết chết Trickster Cultist![[/col]]	false
+agent_actions_localised_action_description_wh3_dlc24_agent_action_runesmith_assist_army_protective_charms	[[col:yellow]]Thay đổi [[img:icon_attrition]][[/img]]hao mòn mà quân đội đồn trú phải chịu thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh3_dlc24_agent_action_runesmith_hinder_army_hags_cursemark	[[col:yellow]]Quân đội mục tiêu bắt đầu trận chiến với trạng thái thể lực Thở Dốc (Winded) trong 3 lượt.[[/col]]	false
+agent_actions_localised_action_description_wh3_dlc24_agent_action_wizard_assist_army_funnel_magic	[[col:yellow]]Cộng thêm %n vào dự trữ ma thuật của Luồng gió Ma thuật của quân đội đồn trú mỗi lượt.[[/col]]	false
+agent_actions_localised_action_description_wh3_dlc24_agent_action_wizard_hinder_army_siphon_winds	[[col:yellow]]Thay đổi dự trữ ma thuật của quân đội mục tiêu thêm %n trong 4 lượt.[[/col]]	false
+agent_actions_localised_action_description_wh3_dlc25_agent_action_champion_passive_boost_income	[[col:yellow]]Tăng {{tr:icon_income}}thu nhập tạo ra bởi các công trình trong tỉnh địa phương thêm %n% (giảm trong các tỉnh của kẻ thù).[[/col]]	false
+agent_actions_localised_action_description_wh3_dlc25_agent_action_wizard_passive_spread_corruption_nur	[[col:yellow]]Tăng lượng [[img:icon_corruption_nur]][[/img]]sự thối nát Nurgle trong tỉnh địa phương thêm %n.[[/col]]	false
+agent_actions_localised_action_description_wh3_dlc26_agent_action_champion_passive_spread_corruption_kho	[[col:yellow]]Tăng lượng [[img:icon_corruption_kho]][[/img]]sự thối nát Khorne trong tỉnh địa phương thêm %n.[[/col]]	false
+agent_actions_localised_action_description_wh3_dlc26_agent_action_dignitary_hinder_settlement_steal_technology	[[col:yellow]]Giảm thời gian nghiên cứu thêm %n% trong 3 lượt.[[/col]]	false
+agent_actions_localised_action_description_wh3_dlc27_effect_agent_action_enable_runesmith_passive_spread_corruption_sla	[[col:yellow]]Tăng lượng [[img:icon_corruption_sla]][[/img]]sự thối nát Slaanesh trong tỉnh địa phương thêm %n.[[/col]]	false
+agent_actions_localised_action_description_wh3_dlc27_effect_agent_action_enable_spy_passive_spread_corruption_sla	[[col:yellow]]Tăng lượng [[img:icon_corruption_sla]][[/img]]sự thối nát Slaanesh trong tỉnh địa phương thêm %n.[[/col]]	false
+agent_actions_localised_action_description_wh3_main_agent_action_dignitary_assist_army_enhance_mobility	[[col:yellow]]Tăng tầm di chuyển chiến dịch của quân đội đồn trú thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh3_main_agent_action_dignitary_assist_army_scouting	[[col:yellow]]Tăng cơ hội tìm thấy vật phẩm ma thuật của quân đội đồn trú sau khi thắng một trận chiến thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh3_main_agent_action_dignitary_hinder_agent_assassinate	[[col:yellow]]Ám sát [[img:icon_hero]][[/img]]Anh hùng mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh3_main_agent_action_dignitary_hinder_army_block_army	[[col:yellow]]Thay đổi tầm di chuyển chiến dịch của quân đội mục tiêu thêm %n%.[[/col]]	false
+agent_actions_localised_action_description_wh3_main_agent_action_dignitary_hinder_army_plague_cultist_ritual	[[col:yellow]]Gieo rắc một trận [[img:icon_plague]][[/img]]Dịch bệnh đến quân đội mục tiêu.\\n[[col:red]]Hành động này sẽ giết chết Plague cultist![[/col]]	false
+agent_actions_localised_action_description_wh3_main_agent_action_dignitary_hinder_settlement_establish_cult	[[col:yellow]]Thiết lập một giáo phái tại khu định cư mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh3_main_agent_action_dignitary_hinder_settlement_establish_cult_magus	[[col:yellow]]Thiết lập một giáo phái độc nhất tại khu định cư mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh3_main_agent_action_dignitary_hinder_settlement_plague_cultist_ritual	[[col:yellow]]Gieo rắc một trận [[img:icon_plague]][[/img]]Dịch bệnh đến khu định cư mục tiêu.\\n[[col:red]]Hành động này sẽ giết chết Plague cultist![[/col]]	false
+agent_actions_localised_action_description_wh3_main_agent_action_dignitary_passive_spread_corruption_nur	[[col:yellow]]Tăng lượng [[img:icon_corruption_nur]][[/img]]sự thối nát Nurgle trong tỉnh địa phương thêm %n.[[/col]]	false
+agent_actions_localised_action_description_wh3_main_agent_action_dignitary_passive_spread_corruption_sla	[[col:yellow]]Tăng lượng [[img:icon_corruption_sla]][[/img]]sự thối nát Slaanesh trong tỉnh địa phương thêm %n.[[/col]]	false
+agent_actions_localised_action_description_wh3_main_agent_action_dignitary_passive_spread_corruption_tze	[[col:yellow]]Tăng lượng [[img:icon_corruption_tze]][[/img]]sự thối nát Tzeentch trong tỉnh địa phương thêm %n.[[/col]]	false
+agent_actions_localised_action_description_wh3_main_agent_action_runesmith_hinder_army_assault_units	[[col:yellow]]Gây sát thương lên tất cả các đơn vị trong quân đội mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh3_main_agent_action_runesmith_hinder_settlement_establish_cult	[[col:yellow]]Thiết lập một giáo phái tại khu định cư mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh3_main_agent_action_runesmith_hinder_settlement_establish_cult_magus	[[col:yellow]]Thiết lập một giáo phái độc nhất tại khu định cư mục tiêu.[[/col]]	false
+agent_actions_localised_action_description_wh3_main_agent_action_runesmith_passive_spread_corruption_kho	[[col:yellow]]Tăng lượng [[img:icon_corruption_kho]][[/img]]sự thối nát Khorne trong tỉnh địa phương thêm %n.[[/col]]	false
+agent_actions_localised_action_description_wh3_main_agent_action_wizard_passive_spread_corruption_sla	[[col:yellow]]Tăng lượng [[img:icon_corruption_sla]][[/img]]sự thối nát Slaanesh trong tỉnh địa phương thêm %n.[[/col]]	false
+agent_actions_localised_action_description_wh3_main_agent_action_wizard_passive_spread_corruption_tze	[[col:yellow]]Tăng lượng [[img:icon_corruption_tze]][[/img]]sự thối nát Tzeentch trong tỉnh địa phương thêm %n.[[/col]]	false
+agent_actions_localised_action_name_wh2_dlc09_agent_action_engineer_hinder_settlement_necrotect_ritual	{{tr:agent_action_name_colonise_ruins}}	false
+agent_actions_localised_action_name_wh2_dlc11_agent_action_champion_assist_province_dig_for_treasure	Đào Kho báu	false
+agent_actions_localised_action_name_wh2_dlc11_agent_action_champion_hinder_province_dig_for_treasure	Đào Kho báu	false
+agent_actions_localised_action_name_wh2_dlc11_agent_action_champion_hinder_settlement_treasure_hunt	{{tr:agent_action_name_treasure_hunt}}	false
+agent_actions_localised_action_name_wh2_dlc11_agent_action_dignitary_assist_province_dig_for_treasure	Đào Kho báu	false
+agent_actions_localised_action_name_wh2_dlc11_agent_action_dignitary_hinder_province_dig_for_treasure	Đào Kho báu	false
+agent_actions_localised_action_name_wh2_dlc11_agent_action_dignitary_hinder_settlement_establish_pirate_cove	{{tr:agent_action_name_establish_pirate_cove}}	false
+agent_actions_localised_action_name_wh2_dlc11_agent_action_dignitary_hinder_settlement_treasure_hunt	{{tr:agent_action_name_treasure_hunt}}	false
+agent_actions_localised_action_name_wh2_dlc11_agent_action_engineer_assist_province_dig_for_treasure	Đào Kho báu	false
+agent_actions_localised_action_name_wh2_dlc11_agent_action_engineer_hinder_province_dig_for_treasure	Đào Kho báu	false
+agent_actions_localised_action_name_wh2_dlc11_agent_action_engineer_hinder_settlement_treasure_hunt	{{tr:agent_action_name_treasure_hunt}}	false
+agent_actions_localised_action_name_wh2_dlc11_agent_action_runesmith_hinder_settlement_treasure_hunt	{{tr:agent_action_name_treasure_hunt}}	false
+agent_actions_localised_action_name_wh2_dlc11_agent_action_spy_assist_province_dig_for_treasure	Đào Kho báu	false
+agent_actions_localised_action_name_wh2_dlc11_agent_action_spy_hinder_province_dig_for_treasure	Đào Kho báu	false
+agent_actions_localised_action_name_wh2_dlc11_agent_action_spy_hinder_settlement_treasure_hunt	{{tr:agent_action_name_treasure_hunt}}	false
+agent_actions_localised_action_name_wh2_dlc11_agent_action_wizard_hinder_settlement_treasure_hunt	{{tr:agent_action_name_treasure_hunt}}	false
+agent_actions_localised_action_name_wh2_dlc12_agent_action_dignitary_hinder_settlement_expand_underempire	{{tr:agent_action_name_expand_underempire}}	false
+agent_actions_localised_action_name_wh2_dlc12_agent_action_dignitary_hinder_settlement_expand_underempire_unique	Thiết lập Warlock Laboratory	false
+agent_actions_localised_action_name_wh2_dlc12_agent_action_kroak_assist_army_replenish_troops	{{tr:agent_action_name_replenish_troops}}	false
+agent_actions_localised_action_name_wh2_dlc12_agent_action_kroak_assist_army_training	{{tr:agent_action_name_training}}	false
+agent_actions_localised_action_name_wh2_dlc12_agent_action_kroak_passive_boost_income	{{tr:agent_action_name_boost_income}}	false
+agent_actions_localised_action_name_wh2_dlc12_agent_action_kroak_passive_stimulate_growth	{{tr:agent_action_name_stimulate_growth}}	false
+agent_actions_localised_action_name_wh2_dlc12_agent_action_wizard_hinder_settlement_kroak_settlement	Sự Giải Thoát Tối Thượng	false
+agent_actions_localised_action_name_wh2_dlc12_agent_action_wizard_hinder_settlement_kroak_walls_1	Sự Giải Thoát Khổng Lồ	false
+agent_actions_localised_action_name_wh2_dlc12_agent_action_wizard_hinder_settlement_kroak_walls_2	Sự Giải Thoát Khổng Lồ	false
+agent_actions_localised_action_name_wh2_dlc15_agent_action_runesmith_assist_army_replenish_troops	{{tr:agent_action_name_replenish_troops}}	false
+agent_actions_localised_action_name_wh2_dlc15_agent_action_runesmith_hinder_army_assault_unit	{{tr:agent_action_name_assault_unit}}	false
+agent_actions_localised_action_name_wh2_dlc15_agent_action_runesmith_hinder_settlement_steal_technology	{{tr:agent_action_name_steal_technology}}	false
+agent_actions_localised_action_name_wh2_dlc16_agent_action_champion_hinder_settlement_expand_underempire	{{tr:agent_action_name_expand_underempire}}	false
+agent_actions_localised_action_name_wh2_dlc16_agent_action_dignitary_assist_army_increase_mobility	{{tr:agent_action_name_increase_mobility}}	false
+agent_actions_localised_action_name_wh2_dlc16_agent_action_dignitary_hinder_army_assault_unit	{{tr:agent_action_name_assault_unit}}	false
+agent_actions_localised_action_name_wh2_dlc16_agent_action_dignitary_passive_boost_income	{{tr:agent_action_name_boost_income}}	false
+agent_actions_localised_action_name_wh2_dlc16_agent_action_runesmith_assist_army_scavenge_buff	{{tr:agent_action_name_scavenge}}	false
+agent_actions_localised_action_name_wh2_dlc16_agent_action_runesmith_hinder_settlement_damage_building	{{tr:agent_action_name_damage_building}}	false
+agent_actions_localised_action_name_wh2_dlc16_agent_action_runesmith_passive_stimulate_growth	{{tr:agent_action_name_stimulate_growth}}	false
+agent_actions_localised_action_name_wh2_dlc16_agent_action_wizard_hinder_settlement_ariel	{{tr:agent_action_name_natures_wrath}}	false
+agent_actions_localised_action_name_wh2_dlc17_agent_action_runesmith_assist_army_improve_armour	Gia cố Giáp	false
+agent_actions_localised_action_name_wh2_dlc17_agent_action_runesmith_assist_army_improve_weapons	Mài sắc Vũ khí	false
+agent_actions_localised_action_name_wh2_dlc17_agent_action_runesmith_assist_army_increase_mobility	{{tr:agent_action_name_increase_mobility}}	false
+agent_actions_localised_action_name_wh2_dlc17_agent_action_runesmith_hinder_settlement_assault_garrison	{{tr:agent_action_name_assault_garrison}}	false
+agent_actions_localised_action_name_wh2_dlc17_agent_action_spy_passive_spread_corruption_chs	{{tr:agent_action_name_spread_corruption}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_champion_assist_army_green_knight	Gia nhập Quân đội	false
+agent_actions_localised_action_name_wh2_main_agent_action_champion_assist_army_replenish_troops	{{tr:agent_action_name_replenish_troops}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_champion_assist_army_scavenge	{{tr:agent_action_name_scavenge}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_champion_assist_army_scouting	{{tr:agent_action_name_scouting}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_champion_assist_army_training	{{tr:agent_action_name_training}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_champion_hinder_agent_assassinate	{{tr:agent_action_name_assassinate}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_champion_hinder_agent_wound	{{tr:agent_action_name_wound}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_champion_hinder_army_assault_units	{{tr:agent_action_name_assault_units}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_champion_hinder_army_block_army	{{tr:agent_action_name_block_army}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_champion_hinder_army_hinder_replenishment	{{tr:agent_action_name_hinder_replenishment}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_champion_hinder_settlement_assault_garrison	{{tr:agent_action_name_assault_garrison}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_champion_hinder_settlement_damage_building	{{tr:agent_action_name_damage_building}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_champion_hinder_settlement_damage_walls	{{tr:agent_action_name_damage_walls}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_champion_hinder_settlement_gain_influence	{{tr:agent_action_name_gain_influence}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_champion_hinder_settlement_scout_settlement	{{tr:agent_action_name_scout_settlement}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_champion_passive_increase_trade	{{tr:agent_action_name_increase_trade}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_champion_passive_spread_corruption	{{tr:agent_action_name_cleanse_corruption}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_champion_passive_spread_corruption_vmp	{{tr:agent_action_name_spread_corruption}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_champion_passive_spread_public_order	{{tr:agent_action_name_spread_public_order}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_champion_passive_spread_public_order_horde	{{tr:agent_action_name_spread_public_order}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_champion_passive_stimulate_growth	{{tr:agent_action_name_stimulate_growth}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_dignitary_assist_army_replenish_troops	{{tr:agent_action_name_replenish_troops}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_dignitary_assist_army_training	{{tr:agent_action_name_training}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_dignitary_hinder_agent_wound	{{tr:agent_action_name_wound}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_dignitary_hinder_army_assault_units	{{tr:agent_action_name_assault_units}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_dignitary_hinder_army_hinder_replenishment	{{tr:agent_action_name_hinder_replenishment}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_dignitary_hinder_settlement_assault_garrison	{{tr:agent_action_name_assault_garrison}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_dignitary_hinder_settlement_damage_building	{{tr:agent_action_name_damage_building}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_dignitary_hinder_settlement_damage_walls	{{tr:agent_action_name_damage_walls}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_dignitary_hinder_settlement_scout_settlement	{{tr:agent_action_name_scout_settlement}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_dignitary_passive_spread_corruption	{{tr:agent_action_name_cleanse_corruption}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_dignitary_passive_spread_corruption_chs	{{tr:agent_action_name_spread_corruption}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_dignitary_passive_spread_corruption_vmp	{{tr:agent_action_name_spread_corruption}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_dignitary_passive_spread_public_order	{{tr:agent_action_name_spread_public_order}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_dignitary_passive_stimulate_growth	{{tr:agent_action_name_stimulate_growth}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_engineer_assist_army_increase_mobility	{{tr:agent_action_name_increase_mobility}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_engineer_assist_army_training	{{tr:agent_action_name_training}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_engineer_hinder_agent_assassinate	{{tr:agent_action_name_assassinate}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_engineer_hinder_agent_wound	{{tr:agent_action_name_wound}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_engineer_hinder_army_assault_units	{{tr:agent_action_name_assault_units}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_engineer_hinder_army_block_army	{{tr:agent_action_name_block_army}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_engineer_hinder_army_hinder_replenishment	{{tr:agent_action_name_hinder_replenishment}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_engineer_hinder_settlement_assault_garrison	{{tr:agent_action_name_assault_garrison}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_engineer_hinder_settlement_damage_building	{{tr:agent_action_name_damage_building}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_engineer_hinder_settlement_damage_walls	{{tr:agent_action_name_damage_walls}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_engineer_hinder_settlement_scout_settlement	{{tr:agent_action_name_scout_settlement}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_engineer_hinder_settlement_steal_technology	{{tr:agent_action_name_steal_technology}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_engineer_hinder_settlement_warlock_engineer_ritual	{{tr:agent_action_name_cause_earthquake}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_engineer_passive_boost_income	{{tr:agent_action_name_boost_income}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_engineer_passive_spread_public_order	{{tr:agent_action_name_spread_public_order}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_runesmith_assist_army_scouting	{{tr:agent_action_name_scouting}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_runesmith_assist_army_training	{{tr:agent_action_name_training}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_runesmith_hinder_agent_wound	{{tr:agent_action_name_wound}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_runesmith_hinder_army_hinder_replenishment	{{tr:agent_action_name_hinder_replenishment}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_runesmith_hinder_character_assassinate	{{tr:agent_action_name_assassinate}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_runesmith_hinder_settlement_damage_walls	{{tr:agent_action_name_damage_walls}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_runesmith_hinder_settlement_scout_settlement	{{tr:agent_action_name_scout_settlement}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_runesmith_passive_spread_corruption	{{tr:agent_action_name_cleanse_corruption}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_runesmith_passive_spread_public_order	{{tr:agent_action_name_spread_public_order}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_spy_assist_army_increase_mobility	{{tr:agent_action_name_increase_mobility}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_spy_assist_army_replenish_troops	{{tr:agent_action_name_replenish_troops}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_spy_assist_army_replenish_troops_horde	{{tr:agent_action_name_replenish_troops}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_spy_assist_army_scavenge	{{tr:agent_action_name_scavenge}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_spy_assist_army_training	{{tr:agent_action_name_training}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_spy_hinder_agent_assassinate	{{tr:agent_action_name_assassinate}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_spy_hinder_agent_wound	{{tr:agent_action_name_wound}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_spy_hinder_army_assault_units	{{tr:agent_action_name_assault_units}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_spy_hinder_army_block_army	{{tr:agent_action_name_block_army}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_spy_hinder_army_hinder_replenishment	{{tr:agent_action_name_hinder_replenishment}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_spy_hinder_character_assassinate	{{tr:agent_action_name_assassinate}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_spy_hinder_settlement_assault_garrison	{{tr:agent_action_name_assault_garrison}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_spy_hinder_settlement_damage_walls	{{tr:agent_action_name_damage_walls}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_spy_hinder_settlement_scout_settlement	{{tr:agent_action_name_scout_settlement}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_spy_passive_boost_income	{{tr:agent_action_name_boost_income}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_spy_passive_increase_slave_income	{{tr:agent_action_name_increase_slave_income}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_spy_passive_spread_corruption	{{tr:agent_action_name_cleanse_corruption}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_spy_passive_spread_public_order	{{tr:agent_action_name_spread_public_order}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_spy_passive_stimulate_growth	{{tr:agent_action_name_stimulate_growth}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_wizard_assist_army_replenish_troops	{{tr:agent_action_name_replenish_troops}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_wizard_assist_army_scouting	{{tr:agent_action_name_scouting}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_wizard_assist_army_training	{{tr:agent_action_name_training}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_wizard_hinder_agent_assassinate	{{tr:agent_action_name_assassinate}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_wizard_hinder_agent_wound	{{tr:agent_action_name_wound}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_wizard_hinder_army_assault_unit	{{tr:agent_action_name_assault_unit}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_wizard_hinder_army_assault_units	{{tr:agent_action_name_assault_units}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_wizard_hinder_army_block_army	{{tr:agent_action_name_block_army}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_wizard_hinder_army_hinder_replenishment	{{tr:agent_action_name_hinder_replenishment}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_wizard_hinder_settlement_assault_garrison	{{tr:agent_action_name_assault_garrison}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_wizard_hinder_settlement_damage_building	{{tr:agent_action_name_damage_building}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_wizard_hinder_settlement_damage_walls	{{tr:agent_action_name_damage_walls}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_wizard_hinder_settlement_plague_priest_ritual	{{tr:agent_action_name_spread_plague}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_wizard_hinder_settlement_scout_settlement	{{tr:agent_action_name_scout_settlement}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_wizard_hinder_settlement_steal_technology	{{tr:agent_action_name_steal_technology}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_wizard_passive_boost_income	{{tr:agent_action_name_boost_income}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_wizard_passive_spread_corruption	{{tr:agent_action_name_cleanse_corruption}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_wizard_passive_spread_corruption_chs	{{tr:agent_action_name_spread_corruption}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_wizard_passive_spread_corruption_skv	{{tr:agent_action_name_spread_corruption}}	false
+agent_actions_localised_action_name_wh2_main_agent_action_wizard_passive_spread_public_order	{{tr:agent_action_name_spread_public_order}}	false
+agent_actions_localised_action_name_wh3_cp1_agent_action_alchemist_assist_army_alchemical_hardening	{{tr:character_skills_localised_name_wh3_cp1_skill_cth_alchemist_army_alchemical_hardening}}	false
+agent_actions_localised_action_name_wh3_cp1_agent_action_alchemist_assist_army_metallurgic_refining	{{tr:character_skills_localised_name_wh3_cp1_skill_cth_alchemist_army_metallurgic_refining}}	false
+agent_actions_localised_action_name_wh3_cp1_agent_action_gate_master_assist_army_gifted_logistician	{{tr:character_skills_localised_name_wh3_cp1_skill_cth_gate_master_unique_gifted_logistician}}	false
+agent_actions_localised_action_name_wh3_cp1_agent_action_runesmith_assist_army_preparedness_drills	Diễn tập Sẵn sàng	false
+agent_actions_localised_action_name_wh3_dlc23_agent_action_enable_wizard_assist_army_enhance_mobility	{{tr:agent_action_name_increase_mobility}}	false
+agent_actions_localised_action_name_wh3_dlc23_agent_action_spy_hinder_settlement_damage_building	{{tr:agent_action_name_damage_building}}	false
+agent_actions_localised_action_name_wh3_dlc23_agent_action_wizard_destroy_settlement_daemonsmith_settlement	Máu của Hashut	false
+agent_actions_localised_action_name_wh3_dlc24_agent_action_engineer_hinder_settlement_infiltrate_cults_unique_military	Thiết lập Giáo Phái Kẻ Lừa Dối Quân Sự	false
+agent_actions_localised_action_name_wh3_dlc24_agent_action_engineer_hinder_settlement_infiltrate_cults_unique_parasitic	Thiết lập Giáo Phái Kẻ Lừa Dối Ký Sinh	false
+agent_actions_localised_action_name_wh3_dlc24_agent_action_engineer_hinder_settlement_infiltrate_cults_unique_symbiotic	Thiết lập Giáo Phái Kẻ Lừa Dối Cộng Sinh	false
+agent_actions_localised_action_name_wh3_dlc24_agent_action_runesmith_assist_army_protective_charms	{{tr:agent_action_name_protective_charms}}	false
+agent_actions_localised_action_name_wh3_dlc24_agent_action_runesmith_hinder_army_hags_cursemark	{{tr:agent_action_name_hags_cursemark}}	false
+agent_actions_localised_action_name_wh3_dlc24_agent_action_wizard_assist_army_funnel_magic	{{tr:agent_action_name_funnel_magic}}	false
+agent_actions_localised_action_name_wh3_dlc24_agent_action_wizard_hinder_army_siphon_winds	{{tr:agent_action_name_siphon_winds}}	false
+agent_actions_localised_action_name_wh3_dlc25_agent_action_champion_passive_boost_income	{{tr:agent_action_name_boost_income}}	false
+agent_actions_localised_action_name_wh3_dlc25_agent_action_wizard_passive_spread_corruption_nur	{{tr:agent_action_name_spread_corruption}}	false
+agent_actions_localised_action_name_wh3_dlc26_agent_action_champion_passive_spread_corruption_kho	{{tr:agent_action_name_spread_corruption}}	false
+agent_actions_localised_action_name_wh3_dlc26_agent_action_dignitary_hinder_settlement_steal_technology	{{tr:agent_action_name_steal_technology}}	false
+agent_actions_localised_action_name_wh3_dlc27_effect_agent_action_enable_runesmith_passive_spread_corruption_sla	{{tr:agent_action_name_spread_corruption}}	false
+agent_actions_localised_action_name_wh3_dlc27_effect_agent_action_enable_spy_passive_spread_corruption_sla	{{tr:agent_action_name_spread_corruption}}	false
+agent_actions_localised_action_name_wh3_main_agent_action_dignitary_assist_army_enhance_mobility	{{tr:agent_action_name_increase_mobility}}	false
+agent_actions_localised_action_name_wh3_main_agent_action_dignitary_assist_army_scouting	{{tr:agent_action_name_scouting}}	false
+agent_actions_localised_action_name_wh3_main_agent_action_dignitary_hinder_agent_assassinate	{{tr:agent_action_name_assassinate}}	false
+agent_actions_localised_action_name_wh3_main_agent_action_dignitary_hinder_army_block_army	{{tr:agent_action_name_block_army}}	false
+agent_actions_localised_action_name_wh3_main_agent_action_dignitary_hinder_army_plague_cultist_ritual	{{tr:agent_action_name_spread_plague}}	false
+agent_actions_localised_action_name_wh3_main_agent_action_dignitary_hinder_settlement_establish_cult	{{tr:agent_action_name_establish_cult}}	false
+agent_actions_localised_action_name_wh3_main_agent_action_dignitary_hinder_settlement_establish_cult_magus	{{tr:agent_action_name_establish_cult_magus}}	false
+agent_actions_localised_action_name_wh3_main_agent_action_dignitary_hinder_settlement_plague_cultist_ritual	{{tr:agent_action_name_spread_plague}}	false
+agent_actions_localised_action_name_wh3_main_agent_action_dignitary_passive_spread_corruption_nur	{{tr:agent_action_name_spread_corruption}}	false
+agent_actions_localised_action_name_wh3_main_agent_action_dignitary_passive_spread_corruption_sla	{{tr:agent_action_name_spread_corruption}}	false
+agent_actions_localised_action_name_wh3_main_agent_action_dignitary_passive_spread_corruption_tze	{{tr:agent_action_name_spread_corruption}}	false
+agent_actions_localised_action_name_wh3_main_agent_action_runesmith_hinder_army_assault_units	{{tr:agent_action_name_assault_units}}	false
+agent_actions_localised_action_name_wh3_main_agent_action_runesmith_hinder_settlement_establish_cult	{{tr:agent_action_name_establish_cult}}	false
+agent_actions_localised_action_name_wh3_main_agent_action_runesmith_hinder_settlement_establish_cult_magus	{{tr:agent_action_name_establish_cult_magus}}	false
+agent_actions_localised_action_name_wh3_main_agent_action_runesmith_passive_spread_corruption_kho	{{tr:agent_action_name_spread_corruption}}	false
+agent_actions_localised_action_name_wh3_main_agent_action_wizard_passive_spread_corruption_sla	{{tr:agent_action_name_spread_corruption}}	false
+agent_actions_localised_action_name_wh3_main_agent_action_wizard_passive_spread_corruption_tze	{{tr:agent_action_name_spread_corruption}}	false

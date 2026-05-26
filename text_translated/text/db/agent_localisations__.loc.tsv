@@ -1,0 +1,89 @@
+﻿key	text	tooltip
+#Loc;1;text/db/agent_localisations__.loc		
+agent_localisations_text_agent	[[img:icon_hero]][[/img]]Anh hùng	false
+agent_localisations_text_agent_action_panel_all_method_hinder_agent	Thao túng Anh hùng	false
+agent_localisations_text_agent_action_panel_all_method_hinder_character	Ám sát	false
+agent_localisations_text_agent_action_panel_champion_method_hinder_agent	Thao túng Đặc vụ	false
+agent_localisations_text_agent_action_panel_champion_method_hinder_army	Nhắm vào Quân đội	false
+agent_localisations_text_agent_action_panel_champion_method_hinder_character	Ám sát	false
+agent_localisations_text_agent_action_panel_champion_method_hinder_settlement	Nhắm vào Khu định cư	false
+agent_localisations_text_agent_action_panel_chance_assassination_kill	Cơ hội ám sát: 	false
+agent_localisations_text_agent_action_panel_chance_assassination_wound	Cơ hội làm bị thương: 	false
+agent_localisations_text_agent_action_panel_chance_manipulation_hinder	Cơ hội cản trở:	false
+agent_localisations_text_agent_action_panel_chance_manipulation_steal	Cơ hội thao túng: 	false
+agent_localisations_text_agent_action_panel_dignitary_method_hinder_agent	Thao túng Đặc vụ	false
+agent_localisations_text_agent_action_panel_dignitary_method_hinder_army	Nhắm vào Quân đội	false
+agent_localisations_text_agent_action_panel_dignitary_method_hinder_character	Ám sát	false
+agent_localisations_text_agent_action_panel_dignitary_method_hinder_settlement	Nhắm vào Khu định cư	false
+agent_localisations_text_agent_action_panel_outcomes_all_failure	Anh hùng thất bại	false
+agent_localisations_text_agent_action_panel_outcomes_all_failure_critical	Anh hùng bị thương	false
+agent_localisations_text_agent_action_panel_outcomes_failure_header	Kết quả tiêu cực	false
+agent_localisations_text_agent_action_panel_outcomes_hinder_agent_success	Anh hùng bị thương	false
+agent_localisations_text_agent_action_panel_outcomes_hinder_agent_success_critical	Anh hùng bị ám sát	false
+agent_localisations_text_agent_action_panel_outcomes_hinder_army_success	Mục tiêu bị làm chậm	false
+agent_localisations_text_agent_action_panel_outcomes_hinder_army_success_critical	Mục tiêu bị chặn đứng	false
+agent_localisations_text_agent_action_panel_outcomes_hinder_character_success	Nhân vật bị thương	false
+agent_localisations_text_agent_action_panel_outcomes_hinder_character_success_critical	Nhân vật bị ám sát	false
+agent_localisations_text_agent_action_panel_outcomes_hinder_settlement_success	Xây dựng bị trì hoãn	false
+agent_localisations_text_agent_action_panel_outcomes_hinder_settlement_success_critical	Xây dựng bị trì hoãn nghiêm trọng	false
+agent_localisations_text_agent_action_panel_outcomes_success_header	Kết quả tích cực	false
+agent_localisations_text_agent_action_panel_spy_method_hinder_agent	Thao túng Đặc vụ	false
+agent_localisations_text_agent_action_panel_spy_method_hinder_army	Nhắm vào Quân đội	false
+agent_localisations_text_agent_action_panel_spy_method_hinder_character	Ám sát	false
+agent_localisations_text_agent_action_panel_spy_method_hinder_settlement	Phương thức Phá hoại	false
+agent_localisations_text_agent_action_result_strings_action	Hành động:	false
+agent_localisations_text_agent_action_result_strings_target	Mục tiêu:	false
+agent_localisations_text_agent_attribute_panel_approach_attribute_theirs	Của họ:	false
+agent_localisations_text_agent_attribute_panel_approach_attribute_yours	Của ngài:	false
+agent_localisations_text_agent_attribute_panel_approach_authority_tooltip	Tiếp cận dựa trên Quyền uy (Authority).||Thành công của cách tiếp cận này được quản lý bởi chỉ số Quyền uy của đặc vụ so với mục tiêu của họ. 	false
+agent_localisations_text_agent_attribute_panel_approach_subterfuge_tooltip	Tiếp cận dựa trên Gian xảo (Cunning).||Thành công của cách tiếp cận này được quản lý bởi chỉ số Gian xảo của đặc vụ so với mục tiêu của họ. 	false
+agent_localisations_text_agent_attribute_panel_approach_zeal_tooltip	Tiếp cận dựa trên Nhiệt huyết (Zeal).||Thành công của cách tiếp cận này được quản lý bởi chỉ số Nhiệt huyết của đặc vụ so với mục tiêu của họ. 	false
+agent_localisations_text_agent_attribute_tooltip_authority	Quyền uy (Authority)||Sức mạnh tính cách và khả năng thao túng của một đặc vụ.	false
+agent_localisations_text_agent_attribute_tooltip_subterfuge	Gian xảo (Cunning)||Khả năng đánh lạc hướng và gián điệp của một đặc vụ.	false
+agent_localisations_text_agent_attribute_tooltip_zeal	Nhiệt huyết (Zeal)||Quyết tâm và khả năng hiếu chiến của một đặc vụ.	false
+agent_localisations_text_agent_disband_dialog_description	Ngài có chắc chắn muốn giải tán anh hùng này không?	false
+agent_localisations_text_agent_disband_dialog_heading	Giải tán Đặc vụ	false
+agent_localisations_text_agent_localisation_action_deployed_can_undeploy	{{tr:agent_localisation_action_deployed_can_undeploy}}	false
+agent_localisations_text_agent_localisation_action_deployed_cannot_undeploy	{{tr:agent_localisation_action_deployed_cannot_undeploy}}	false
+agent_localisations_text_agent_localisation_action_execution_status_action_targets_has_plague_immunity	[[col:red]]Mục tiêu hiện đang Miễn nhiễm với Dịch bệnh. Một trận Dịch bệnh không thể gieo rắc lên mục tiêu này cho đến khi thời gian Miễn nhiễm kết thúc.[[/col]]	false
+agent_localisations_text_agent_localisation_action_execution_status_action_targets_invalid_garrison_hidden_state	[[col:red]]Hành động này chỉ có thể thực hiện đối với các tàn tích.[[/col]]	false
+agent_localisations_text_agent_localisation_action_execution_status_action_targets_no_foreign_slot_set_available	Chúng ta không thể thiết lập một Hang Hải Tặc tại đây.	false
+agent_localisations_text_agent_localisation_action_execution_status_action_targets_not_valid_to_treasure_hunt	Không thể Đào Kho báu tại đây.	false
+agent_localisations_text_agent_localisation_action_execution_status_agent_cap_reached	[[col:red]]Ngài đã đạt đến số lượng tối đa của loại đặc vụ này.[[/col]]\\n	false
+agent_localisations_text_agent_localisation_action_execution_status_cannot_peform	[[col:red]]Hành động này hiện không thể thực hiện[[/col]]	false
+agent_localisations_text_agent_localisation_action_execution_status_cannot_sabotage_damaged_castle_gates	[[col:red]]Cổng thành không thể bị phá hoại vì chúng đã bị hư hại sẵn rồi.[[/col]]\\n	false
+agent_localisations_text_agent_localisation_action_execution_status_cannot_sabotage_fully_damaged_building	[[col:red]]Công trình này không thể bị phá hoại vì nó đã là một đống đổ nát.[[/col]]\\n	false
+agent_localisations_text_agent_localisation_action_execution_status_coop_action	[[col:red]]Ngài không thể thực hiện hành động đặc vụ chống lại đồng minh co-op của mình.[[/col]]\\n	false
+agent_localisations_text_agent_localisation_action_execution_status_guaranteed	[[col:green]]Hành động này không thể thất bại.[[/col]]\\n	false
+agent_localisations_text_agent_localisation_action_execution_status_insufficient_funds	[[col:red]]Ngài không có đủ ngân quỹ để thực hiện hành động này.[[/col]]\\n	false
+agent_localisations_text_agent_localisation_action_execution_status_low_success_chance	[[col:red]]Hành động này không thể thực hiện: cơ hội thành công quá thấp.[[/col]]\\n	false
+agent_localisations_text_agent_localisation_action_execution_status_ok	[[col:green]]Đặc vụ này có thể thực hiện hành động này.[[/col]]\\n	false
+agent_localisations_text_agent_localisation_action_execution_status_seduce_faction_leader	[[col:red]]Ngài không thể thao túng một Thủ lĩnh Phe phái.[[/col]]\\n	false
+agent_localisations_text_agent_localisation_action_execution_status_target_immortal	\\n[[col:yellow]]Vì nhân vật này là Thủ lĩnh Phe phái hoặc Chúa tể Huyền thoại, hắn chỉ có thể bị thương.[[/col]]	false
+agent_localisations_text_agent_localisation_action_execution_status_target_impossible_kill	\\n[[col:yellow]]Cơ hội giết chết nhân vật này quá thấp, họ chỉ có thể bị thương.[[/col]]	false
+agent_localisations_text_agent_localisation_action_execution_status_targets_walls_of_garrison_without_walls	[[col:red]]Ngài không thể thực hiện hành động này vì khu định cư này không có tường thành.[[/col]]\\n	false
+agent_localisations_text_agent_localisation_action_impossible_in_this_region	[[col:red]]Anh hùng không thể triển khai trong vùng này.[[/col]]	false
+agent_localisations_text_agent_localisation_action_need_action_to_deploy	[[col:red]]Ngài phải mở khóa hành động sau để triển khai tại địa điểm này: [[/col]]	false
+agent_localisations_text_agent_localisation_action_undeployed_at_sea_cannot_deploy	{{tr:agent_localisation_action_undeployed_at_sea_cannot_deploy}}	false
+agent_localisations_text_agent_localisation_action_undeployed_can_deploy	{{tr:agent_localisation_action_undeployed_can_deploy}}	false
+agent_localisations_text_agent_localisation_action_undeployed_cannot_deploy	{{tr:agent_localisation_action_undeployed_cannot_deploy}}	false
+agent_localisations_text_agent_outcome_opportune_failure_additional_experience	Họ đã học được nhiều điều từ thất bại hơn là nếu thành công.	false
+agent_localisations_text_agent_outcome_opportune_failure_ancillary_kill	Họ đã xoay xở để giết một thành viên trong tùy tùng của mục tiêu khi đang trốn thoát.	false
+agent_localisations_text_agent_outcome_opportune_failure_ancillary_steal	Họ thuyết phục một thành viên trong tùy tùng của mục tiêu gia nhập phe mình trước khi trốn thoát.	false
+agent_localisations_text_agent_outcome_opportune_failure_go_again	Họ hoàn toàn không bị phát hiện và cản trở, và không có gì ngăn cản họ thực hiện một nỗ lực khác.	false
+agent_localisations_text_agent_outcome_opportune_failure_money_refund	Họ đã có thể thu hồi lại chi phí của nỗ lực đó.	false
+agent_localisations_text_agent_outcome_opportune_failure_research_points	Họ đã thu được kiến thức quan trọng sẽ đóng góp vào các nỗ lực nghiên cứu.	false
+agent_localisations_text_agent_recruitment_building_required	Ngài không thể chiêu mộ đặc vụ này cho đến khi ngài xây dựng công trình sau:	false
+agent_localisations_text_agent_recruitment_no_agents_description	Cần một chuỗi công trình cụ thể để chiêu mộ đặc vụ.	false
+agent_localisations_text_agent_recruitment_no_agents_header	Hiện không có đặc vụ nào khả dụng.	false
+agent_localisations_text_general_attribute_tooltip_authority	Quyền uy (Authority)||Sức mạnh tính cách của một tướng quân và khả năng dẫn dắt binh lính vào trận chiến.	false
+agent_localisations_text_general_attribute_tooltip_subterfuge	Gian xảo (Cunning)||Sự hiểu biết của một tướng quân về chiến lược và chiến thuật.	false
+agent_localisations_text_general_attribute_tooltip_zeal	Nhiệt huyết (Zeal)||Quyết tâm và năng lực chiến đấu cá nhân của một tướng quân.	false
+agent_localisations_text_general_profession_admiral	[[img:icon_admiral]][[/img]]Đô đốc	false
+agent_localisations_text_general_profession_candidate	Ứng viên	false
+agent_localisations_text_general_profession_emperor	Hoàng đế	false
+agent_localisations_text_general_profession_family_member	Thành viên Gia đình	false
+agent_localisations_text_general_profession_general	[[img:icon_general]][[/img]]Chúa tể	false
+agent_localisations_text_general_profession_governor	[[img:icon_overseer]][[/img]]Người Giám Sát	false
+agent_localisations_text_general_profession_politician	[[img:icon_protagonist]][[/img]]Nhân vật Chính	false
+agent_localisations_text_general_profession_retainer	Hầu cận	false

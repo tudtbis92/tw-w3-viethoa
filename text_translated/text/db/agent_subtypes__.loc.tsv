@@ -1,0 +1,1228 @@
+﻿key	text	tooltip
+#Loc;1;text/db/agent_subtypes__.loc		
+agent_subtypes_description_text_override_wh2_dlc09_skv_tretch_craventail		false
+agent_subtypes_description_text_override_wh2_dlc09_tmb_arkhan		false
+agent_subtypes_description_text_override_wh2_dlc09_tmb_khalida		false
+agent_subtypes_description_text_override_wh2_dlc09_tmb_khatep		false
+agent_subtypes_description_text_override_wh2_dlc09_tmb_liche_priest_death	Không có gì ngạc nhiên khi một số Tư Tế Liche xuất sắc trong việc thao túng Luồng gió vùng Shyish, và vô song ở Ma thuật Tử thần.	false
+agent_subtypes_description_text_override_wh2_dlc09_tmb_liche_priest_light	Nơi nào có bóng tối thì phải có ánh sáng. Và cũng như ngày nối tiếp đêm, có những kẻ trong Hội Tang Lễ rất thành thạo về ma thuật xua đuổi, và ma thuật trắng.	false
+agent_subtypes_description_text_override_wh2_dlc09_tmb_liche_priest_nehekhara	Ma thuật Nehekhara được tạo ra bởi các Tư Tế Liche của Hội Tang Lễ trong hành trình tìm kiếm bí mật của sự bất tử.	false
+agent_subtypes_description_text_override_wh2_dlc09_tmb_liche_priest_shadow	Trong bóng tối của những kim tự tháp vĩ đại, các Tư Tế Liche thực hành các nghệ thuật hắc ám của họ. Trong khi một số xuất sắc ở Ma thuật Tử thần, hoặc thậm chí là Ánh sáng, những người khác đã thuần hóa được Phantasmancy.	false
+agent_subtypes_description_text_override_wh2_dlc09_tmb_necrotect		false
+agent_subtypes_description_text_override_wh2_dlc09_tmb_necrotect_ritual	Mục đích duy nhất của Necrotect này là dành cả phần Đời Bất Tử của mình để thuộc địa hóa một khu định cư đổ nát, một sức mạnh được ban cho hắn thông qua Nghi lễ Đại Khẩn Cầu của Ptra.	false
+agent_subtypes_description_text_override_wh2_dlc09_tmb_settra		false
+agent_subtypes_description_text_override_wh2_dlc09_tmb_tomb_king		false
+agent_subtypes_description_text_override_wh2_dlc09_tmb_tomb_king_alkhazzar_ii		false
+agent_subtypes_description_text_override_wh2_dlc09_tmb_tomb_king_lahmizzash		false
+agent_subtypes_description_text_override_wh2_dlc09_tmb_tomb_king_rakhash		false
+agent_subtypes_description_text_override_wh2_dlc09_tmb_tomb_king_setep		false
+agent_subtypes_description_text_override_wh2_dlc09_tmb_tomb_king_thutep		false
+agent_subtypes_description_text_override_wh2_dlc09_tmb_tomb_king_wakhaf		false
+agent_subtypes_description_text_override_wh2_dlc09_tmb_tomb_prince		false
+agent_subtypes_description_text_override_wh2_dlc10_def_crone_hellebron		false
+agent_subtypes_description_text_override_wh2_dlc10_def_mon_war_hydra_boss		false
+agent_subtypes_description_text_override_wh2_dlc10_def_sorceress_beasts	Mặc dù thường là lĩnh vực của Clar Karond, có những Nữ Pháp Sư có thể sử dụng Luồng gió vùng Ghur cũng như bất kỳ cây roi nào.	false
+agent_subtypes_description_text_override_wh2_dlc10_def_sorceress_death	Cái chết rình rập tất cả những kẻ đến với Ghrond, và những kẻ sử dụng sức mạnh của Shyish có kỹ năng hơn hầu hết những kẻ khác trong các nghệ thuật ma thuật sát nhân.	false
+agent_subtypes_description_text_override_wh2_dlc10_def_supreme_sorceress_beasts	Một Nữ Đại Pháp sư không chỉ xuất sắc ở Ma thuật Hắc ám, mà còn cả khả năng kiểm soát và triệu hồi các loài thú - một nữ chủ nhân thực sự của Ghur.	false
+agent_subtypes_description_text_override_wh2_dlc10_def_supreme_sorceress_dark	Các phép thuật được thi triển với 'Dhar', hay Ma thuật Hắc ám, là những phép thuật mang tính tàn phá nhất. Chúng được cung cấp sức mạnh bởi những Luồng gió Ma thuật chưa tinh chế, vì vậy cái giá phải trả đối với cả người thi triển và nạn nhân của chúng thực sự rất lớn.	false
+agent_subtypes_description_text_override_wh2_dlc10_def_supreme_sorceress_death	Có kẻ gieo rắc cái chết nào vĩ đại hơn một Nữ Pháp Sư ở đỉnh cao quyền lực của bà ta không? Có lẽ là có... nhưng không ai sẽ có được niềm vui lớn như thế khi giải phóng nó.	false
+agent_subtypes_description_text_override_wh2_dlc10_def_supreme_sorceress_fire	Trong khi hầu hết các Pháp sư Druchii sử dụng bóng tối trong ma thuật của họ, ngọn lửa từ thuật phóng hỏa lại rất sáng. Tuy nhiên, những kẻ ở Naggaroth sử dụng 'Aqshy' không nghĩ nó như ngọn lửa rực sáng, thay vào đó họ nhìn vào khói đen nghẹt thở luôn đi kèm với nó.	false
+agent_subtypes_description_text_override_wh2_dlc10_def_supreme_sorceress_shadow	Hầu hết các Nữ Pháp sư vùng Ghrond lẩn khuất trong bóng tối tuyệt đối, nhưng có những kẻ vẫn bước gần đến ánh sáng, sử dụng ảo ảnh để thêu dệt những viễn cảnh tàn nhẫn và đánh lừa cả những loài thú săn mồi và con mồi, để chúng có được những linh hồn chúng khao khát.	false
+agent_subtypes_description_text_override_wh2_dlc10_hef_alarielle		false
+agent_subtypes_description_text_override_wh2_dlc10_hef_alith_anar		false
+agent_subtypes_description_text_override_wh2_dlc10_hef_handmaiden	Không chỉ đơn thuần là những người hầu cận như tên gọi, mà là những chiến binh đáng kinh ngạc và là sứ giả của Vĩnh hằng Nữ vương, những người nhân danh quyền uy của bà trong mọi vấn đề.	false
+agent_subtypes_description_text_override_wh2_dlc10_hef_mage_heavens	High Elf đã nghiên cứu bầu trời đêm rất lâu trước các nhà thiên văn học của Đế chế, và do đó có thể tự do thao túng Luồng gió vùng Azyr.	false
+agent_subtypes_description_text_override_wh2_dlc10_hef_mage_shadows	Các Mage vùng Saphery xuất sắc ở mọi dạng ma thuật; các phép thuật của bóng tối và ảo ảnh cũng không ngoại lệ.	false
+agent_subtypes_description_text_override_wh2_dlc10_hef_shadow_walker	Bên cạnh việc dẫn dắt các toán sát thủ chết chóc nhất của Nagarythe, Hand of the Shadow Crown còn xuất sắc trong các nhiệm vụ đơn độc, dù là phá hoại hay ám sát.	false
+agent_subtypes_description_text_override_wh2_dlc10_lzd_mon_carnosaur_boss		false
+agent_subtypes_description_text_override_wh2_dlc10_nor_phoenix_flamespyre_boss		false
+agent_subtypes_description_text_override_wh2_dlc10_skv_mon_hell_pit_abomination_boss		false
+agent_subtypes_description_text_override_wh2_dlc11_cst_admiral_death		false
+agent_subtypes_description_text_override_wh2_dlc11_cst_admiral_deep		false
+agent_subtypes_description_text_override_wh2_dlc11_cst_admiral_fem_death		false
+agent_subtypes_description_text_override_wh2_dlc11_cst_admiral_fem_deep		false
+agent_subtypes_description_text_override_wh2_dlc11_cst_admiral_fem_vampires		false
+agent_subtypes_description_text_override_wh2_dlc11_cst_admiral_tech_01		false
+agent_subtypes_description_text_override_wh2_dlc11_cst_admiral_tech_02		false
+agent_subtypes_description_text_override_wh2_dlc11_cst_admiral_tech_03		false
+agent_subtypes_description_text_override_wh2_dlc11_cst_admiral_tech_04		false
+agent_subtypes_description_text_override_wh2_dlc11_cst_admiral_vampires		false
+agent_subtypes_description_text_override_wh2_dlc11_cst_aranessa		false
+agent_subtypes_description_text_override_wh2_dlc11_cst_cylostra		false
+agent_subtypes_description_text_override_wh2_dlc11_cst_fleet_captain_death		false
+agent_subtypes_description_text_override_wh2_dlc11_cst_fleet_captain_deep		false
+agent_subtypes_description_text_override_wh2_dlc11_cst_fleet_captain_vampires		false
+agent_subtypes_description_text_override_wh2_dlc11_cst_ghost_paladin		false
+agent_subtypes_description_text_override_wh2_dlc11_cst_gunnery_wight		false
+agent_subtypes_description_text_override_wh2_dlc11_cst_harkon		false
+agent_subtypes_description_text_override_wh2_dlc11_cst_mourngul		false
+agent_subtypes_description_text_override_wh2_dlc11_cst_noctilus		false
+agent_subtypes_description_text_override_wh2_dlc11_def_lokhir		false
+agent_subtypes_description_text_override_wh2_dlc11_vmp_bloodline_blood_dragon		false
+agent_subtypes_description_text_override_wh2_dlc11_vmp_bloodline_lahmian		false
+agent_subtypes_description_text_override_wh2_dlc11_vmp_bloodline_necrarch		false
+agent_subtypes_description_text_override_wh2_dlc11_vmp_bloodline_strigoi		false
+agent_subtypes_description_text_override_wh2_dlc11_vmp_bloodline_von_carstein		false
+agent_subtypes_description_text_override_wh2_dlc12_lzd_lord_kroak	Là người lớn tuổi nhất của Thế Hệ Đầu Tiên trong truyền thuyết và là Relic Priest nguyên bản, Kroak lao động không mệt mỏi để thúc đẩy Đại Kế Hoạch.	false
+agent_subtypes_description_text_override_wh2_dlc12_lzd_lord_kroak_boss	Là người lớn tuổi nhất của Thế Hệ Đầu Tiên trong truyền thuyết và là Relic Priest nguyên bản, Kroak lao động không mệt mỏi để thúc đẩy Đại Kế Hoạch.	false
+agent_subtypes_description_text_override_wh2_dlc12_lzd_red_crested_skink_chief		false
+agent_subtypes_description_text_override_wh2_dlc12_lzd_red_crested_skink_chief_legendary		false
+agent_subtypes_description_text_override_wh2_dlc12_lzd_tehenhauin		false
+agent_subtypes_description_text_override_wh2_dlc12_lzd_tiktaqto		false
+agent_subtypes_description_text_override_wh2_dlc12_lzd_tlaqua_skink_chief		false
+agent_subtypes_description_text_override_wh2_dlc12_lzd_tlaqua_skink_priest_beasts	Một số Tư tế Skink thành thạo trong việc giao tiếp không chỉ với các loài bò sát khác, mà còn với tất cả các sinh vật của rừng rậm. Họ có kỹ năng thao túng Luồng gió của 'Ghur'.	false
+agent_subtypes_description_text_override_wh2_dlc12_lzd_tlaqua_skink_priest_heavens	Các Astromancer Skink tương đối hiếm, sự sinh ra của họ được đánh dấu bởi một trận mưa sao băng trên bầu trời Tlaxtlan. Họ phục vụ những kẻ hùng mạnh nhất trong giống loài của mình, được gọi là 'Người Nhìn Thấu', người cử họ đi khắp nơi để phục vụ Đại Kế Hoạch.	false
+agent_subtypes_description_text_override_wh2_dlc12_skv_ikit_claw		false
+agent_subtypes_description_text_override_wh2_dlc12_skv_warlock_master		false
+agent_subtypes_description_text_override_wh2_dlc13_emp_cha_huntsmarshal		false
+agent_subtypes_description_text_override_wh2_dlc13_emp_cha_markus_wulfhart		false
+agent_subtypes_description_text_override_wh2_dlc13_emp_hunter_doctor_hertwig_van_hal	Là một bác sĩ do lựa chọn nhưng là một Witch Hunter theo dòng máu, Bác sĩ van Hal vừa bảo tồn sự sống tự nhiên vừa tiêu diệt những cái ác phi tự nhiên.	false
+agent_subtypes_description_text_override_wh2_dlc13_emp_hunter_jorek_grimm	Jorek Grimm là một nhà phát minh bậc thầy không giống bất kỳ ai trong giống loài của mình – một người dám chấp nhận rủi ro táo bạo và triệt để.	false
+agent_subtypes_description_text_override_wh2_dlc13_emp_hunter_kalara_of_wydrioth	Một Waystalker trang nghiêm và buồn bã, Kalara sở hữu một phong thái che giấu đi sự chết chóc dữ dội của cô.	false
+agent_subtypes_description_text_override_wh2_dlc13_emp_hunter_rodrik_l_anguille	Không chỉ là một lính đánh thuê đơn thuần, sự kiên cường và khả năng kiếm thuật của Rodrik khiến anh trở thành một tài sản quý giá trong bất kỳ chiến trường nào.	false
+agent_subtypes_description_text_override_wh2_dlc13_lzd_gor_rok		false
+agent_subtypes_description_text_override_wh2_dlc13_lzd_kroxigor_ancient		false
+agent_subtypes_description_text_override_wh2_dlc13_lzd_kroxigor_ancient_horde		false
+agent_subtypes_description_text_override_wh2_dlc13_lzd_nakai		false
+agent_subtypes_description_text_override_wh2_dlc13_lzd_red_crested_skink_chief_horde		false
+agent_subtypes_description_text_override_wh2_dlc13_lzd_saurus_old_blood_horde		false
+agent_subtypes_description_text_override_wh2_dlc13_lzd_skink_chief_horde		false
+agent_subtypes_description_text_override_wh2_dlc13_lzd_slann_mage_priest_beasts		false
+agent_subtypes_description_text_override_wh2_dlc13_lzd_slann_mage_priest_beasts_horde		false
+agent_subtypes_description_text_override_wh2_dlc13_lzd_slann_mage_priest_death		false
+agent_subtypes_description_text_override_wh2_dlc13_lzd_slann_mage_priest_death_horde		false
+agent_subtypes_description_text_override_wh2_dlc13_lzd_slann_mage_priest_fire		false
+agent_subtypes_description_text_override_wh2_dlc13_lzd_slann_mage_priest_fire_horde		false
+agent_subtypes_description_text_override_wh2_dlc13_lzd_slann_mage_priest_heavens		false
+agent_subtypes_description_text_override_wh2_dlc13_lzd_slann_mage_priest_heavens_horde		false
+agent_subtypes_description_text_override_wh2_dlc13_lzd_slann_mage_priest_high		false
+agent_subtypes_description_text_override_wh2_dlc13_lzd_slann_mage_priest_high_horde		false
+agent_subtypes_description_text_override_wh2_dlc13_lzd_slann_mage_priest_life		false
+agent_subtypes_description_text_override_wh2_dlc13_lzd_slann_mage_priest_life_horde		false
+agent_subtypes_description_text_override_wh2_dlc13_lzd_slann_mage_priest_metal		false
+agent_subtypes_description_text_override_wh2_dlc13_lzd_slann_mage_priest_metal_horde		false
+agent_subtypes_description_text_override_wh2_dlc13_lzd_slann_mage_priest_shadows		false
+agent_subtypes_description_text_override_wh2_dlc13_lzd_slann_mage_priest_shadows_horde		false
+agent_subtypes_description_text_override_wh2_dlc14_brt_henri_le_massif	Đúng với cái tên "Kẻ Khổng Lồ", Henri là một trong những Paladin vùng Bretonnia lớn nhất từng có và là một Hiệp sĩ trung thành của Repanse, người sát cánh bên bà vượt qua mọi khó khăn.	false
+agent_subtypes_description_text_override_wh2_dlc14_brt_repanse		false
+agent_subtypes_description_text_override_wh2_dlc14_def_high_beastmaster		false
+agent_subtypes_description_text_override_wh2_dlc14_def_malus_darkblade		false
+agent_subtypes_description_text_override_wh2_dlc14_def_malus_darkblade_mp		false
+agent_subtypes_description_text_override_wh2_dlc14_def_master		false
+agent_subtypes_description_text_override_wh2_dlc14_dummy_tzarkan		false
+agent_subtypes_description_text_override_wh2_dlc14_skv_deathmaster_snikch		false
+agent_subtypes_description_text_override_wh2_dlc14_skv_eshin_sorcerer	Tên Eshin Sorcerer này hỗ trợ những người anh em tồi tệ của mình thông qua nghệ thuật hắc ám về sự tàng hình học được từ rất xa Skavenblight, ở vùng Cathay kỳ lạ.	false
+agent_subtypes_description_text_override_wh2_dlc14_skv_master_assassin		false
+agent_subtypes_description_text_override_wh2_dlc15_grn_goblin_great_shaman_raknik		false
+agent_subtypes_description_text_override_wh2_dlc15_grn_grom_the_paunch		false
+agent_subtypes_description_text_override_wh2_dlc15_grn_orc_warboss_oglok		false
+agent_subtypes_description_text_override_wh2_dlc15_grn_river_troll_hag	Lấp lánh với bùn lầy nhầy nhụa, Troll Hag thỏa mãn cơn thèm khát tham ăn của mình với bất kỳ thứ gì và mọi thứ mà đôi tay nhớp nháp của mụ có thể với tới.	false
+agent_subtypes_description_text_override_wh2_dlc15_hef_archmage_beasts	PLACEHOLDER	false
+agent_subtypes_description_text_override_wh2_dlc15_hef_archmage_death	PLACEHOLDER	false
+agent_subtypes_description_text_override_wh2_dlc15_hef_archmage_fire	PLACEHOLDER	false
+agent_subtypes_description_text_override_wh2_dlc15_hef_archmage_heavens	High Elf đã nghiên cứu bầu trời đêm rất lâu trước các nhà thiên văn học của Đế chế, và do đó có thể tự do thao túng Luồng gió vùng Azyr.	false
+agent_subtypes_description_text_override_wh2_dlc15_hef_archmage_high	Không giống như con người, các Mage quyền năng của Ulthuan có thể thao túng toàn bộ quang phổ của các Luồng gió ma thuật và sử dụng một dạng thuần khiết, kết hợp được gọi là 'Qhaysh' hay Ma thuật Cao cấp.	false
+agent_subtypes_description_text_override_wh2_dlc15_hef_archmage_life	Các vương quốc của Ulthuan tràn ngập các luồng ma thuật đan xen và dệt qua các khu rừng và cánh đồng hoang. Do đó, có những Mage làm chủ Luồng gió vùng 'Ghyran' giống như bản năng thứ hai.	false
+agent_subtypes_description_text_override_wh2_dlc15_hef_archmage_light	Mặc dù các Mage người Elf có khả năng sử dụng sức mạnh kết hợp của Ma thuật Cao cấp, một vài người chọn chuyên biệt vào các lĩnh vực nhất định nếu họ có năng khiếu hoặc tài năng. Những người dẫn truyền 'Hysh' xuất sắc trong việc đối đầu và xua đuổi Ác quỷ.	false
+agent_subtypes_description_text_override_wh2_dlc15_hef_archmage_metal	PLACEHOLDER	false
+agent_subtypes_description_text_override_wh2_dlc15_hef_archmage_shadows	Các Mage vùng Saphery xuất sắc ở mọi dạng ma thuật; các phép thuật của bóng tối và ảo ảnh cũng không ngoại lệ.	false
+agent_subtypes_description_text_override_wh2_dlc15_hef_black_dragon_boss_imrik		false
+agent_subtypes_description_text_override_wh2_dlc15_hef_eltharion		false
+agent_subtypes_description_text_override_wh2_dlc15_hef_forest_dragon_boss_imrik		false
+agent_subtypes_description_text_override_wh2_dlc15_hef_imrik		false
+agent_subtypes_description_text_override_wh2_dlc15_hef_mage_beasts	Tất cả các Mage của Asur đều hòa mình vào bản chất hoang dã của thế giới, đón nhận nó để sử dụng ma thuật của sự man rợ nguyên thủy.	false
+agent_subtypes_description_text_override_wh2_dlc15_hef_mage_death	Có rất ít mage trong số những người Asur gieo rắc cái chết như những người thao túng Shyish, bóng tối đen tối nhất của các ma thuật chết người.	false
+agent_subtypes_description_text_override_wh2_dlc15_hef_mage_fire	Các Pháp sư Lửa người Elf chỉ huy một loạt các phép thuật mang tính hủy diệt bạo lực ấn tượng, khiến chúng được bố trí thuận lợi trong hàng ngũ chiến đấu của Asur.	false
+agent_subtypes_description_text_override_wh2_dlc15_hef_mage_metal	Tuổi thọ cực kỳ dài của Elf cho phép tích lũy kiến thức sâu rộng hơn so với các chủng tộc khác về sự biến đổi ma thuật của kim loại cho chiến tranh.	false
+agent_subtypes_description_text_override_wh2_dlc15_hef_moon_dragon_boss_imrik		false
+agent_subtypes_description_text_override_wh2_dlc15_hef_star_dragon_boss_imrik		false
+agent_subtypes_description_text_override_wh2_dlc15_hef_sun_dragon_boss_imrik		false
+agent_subtypes_description_text_override_wh2_dlc16_skv_chieftain		false
+agent_subtypes_description_text_override_wh2_dlc16_skv_ghoritch	Sức mạnh cơ bắp đột biến quái dị và bản năng của một chiến binh khiến Ghoritch trở thành một trong những tạo vật vĩ đại nhất từng xuất hiện từ Hell Pit.	false
+agent_subtypes_description_text_override_wh2_dlc16_skv_ghoritch_boss	Sức mạnh cơ bắp đột biến quái dị và bản năng của một chiến binh khiến Ghoritch trở thành một trong những tạo vật vĩ đại nhất từng xuất hiện từ Hell Pit.	false
+agent_subtypes_description_text_override_wh2_dlc16_skv_packmaster		false
+agent_subtypes_description_text_override_wh2_dlc16_skv_throt_the_unclean		false
+agent_subtypes_description_text_override_wh2_dlc16_wef_ariel	Sức mạnh ma thuật của thiên nhiên chảy qua Nữ hoàng của Athel Loren như thể bà chính là Isha.	false
+agent_subtypes_description_text_override_wh2_dlc16_wef_coeddil	Một trái tim đen tối với lòng hận thù tiêu thụ Cổ nhân Coeddil, một sự khao khát một ngày nào đó có thể khiến ông ta từ bỏ các Asrai một lần nữa!	false
+agent_subtypes_description_text_override_wh2_dlc16_wef_coeddil_qb	Một trái tim đen tối với lòng hận thù tiêu thụ Cổ nhân Coeddil, một sự khao khát một ngày nào đó có thể khiến ông ta từ bỏ các Asrai một lần nữa!	false
+agent_subtypes_description_text_override_wh2_dlc16_wef_drycha		false
+agent_subtypes_description_text_override_wh2_dlc16_wef_malicious_ancient_treeman_beasts	Thực vật và động vật luôn cùng tồn tại, mang lại cho các Cổ nhân một sự kết nối bẩm sinh với các loài thú có thể được thể hiện bằng ma thuật báo thù.	false
+agent_subtypes_description_text_override_wh2_dlc16_wef_malicious_ancient_treeman_life	Huyết tương của Những Cơn Gió Xanh từ lâu đã rơi xuống thế giới như những giọt mưa, nuôi dưỡng các Linh hồn Cây bằng một sức mạnh to lớn.	false
+agent_subtypes_description_text_override_wh2_dlc16_wef_malicious_ancient_treeman_shadows	Cũng giống như ý chí của họ đánh lừa những kẻ tiến vào Athel Loren mà không được mời, các Cổ nhân biết nhiều điều về các phép thuật ảo ảnh.	false
+agent_subtypes_description_text_override_wh2_dlc16_wef_malicious_branchwraith_beasts	Những người hầu cận của Cổ nhân sử dụng ma thuật thú vật với sự thù địch cay độc, không phân biệt đối với bất kỳ kẻ nào dám làm hại khu rừng.	false
+agent_subtypes_description_text_override_wh2_dlc16_wef_malicious_branchwraith_life	Qua nhiều thời đại, những vùng đất màu mỡ đã hấp thụ sức mạnh của những Luồng gió thổi trên đầu, làm bão hòa các tinh linh rừng bằng ma thuật sự sống.	false
+agent_subtypes_description_text_override_wh2_dlc16_wef_malicious_branchwraith_shadows	Nhiều bóng đen tối tăm được tạo ra bởi những cành cây của Branchwraith, một số được tạo ra để mê hoặc những kẻ xâm nhập bằng sự bối rối hoảng loạn.	false
+agent_subtypes_description_text_override_wh2_dlc16_wef_sisters_of_twilight		false
+agent_subtypes_description_text_override_wh2_dlc16_wef_spellweaver_beasts		false
+agent_subtypes_description_text_override_wh2_dlc16_wef_spellweaver_dark		false
+agent_subtypes_description_text_override_wh2_dlc16_wef_spellweaver_high		false
+agent_subtypes_description_text_override_wh2_dlc16_wef_spellweaver_life		false
+agent_subtypes_description_text_override_wh2_dlc16_wef_spellweaver_shadows		false
+agent_subtypes_description_text_override_wh2_dlc17_bst_doombull		false
+agent_subtypes_description_text_override_wh2_dlc17_bst_taurox		false
+agent_subtypes_description_text_override_wh2_dlc17_bst_wargor		false
+agent_subtypes_description_text_override_wh2_dlc17_dwf_thane_ghost_artifact		false
+agent_subtypes_description_text_override_wh2_dlc17_dwf_thorek		false
+agent_subtypes_description_text_override_wh2_dlc17_lzd_mon_dread_saurian_qb_boss		false
+agent_subtypes_description_text_override_wh2_dlc17_lzd_oxyotl		false
+agent_subtypes_description_text_override_wh2_dlc17_lzd_skink_oracle_troglodon	Tương lai đã được viết sẵn cho những ai có kiến thức để đọc nó.	false
+agent_subtypes_description_text_override_wh2_dlc17_vmp_kevon_lloydstein	Đối với các lãnh chúa cổ xưa đáng kính nhất, cái chết chưa bao giờ là sự kết thúc – họ sẽ sống mãi.	false
+agent_subtypes_description_text_override_wh2_main_def_black_ark		false
+agent_subtypes_description_text_override_wh2_main_def_black_ark_blessed_dread		false
+agent_subtypes_description_text_override_wh2_main_def_death_hag		false
+agent_subtypes_description_text_override_wh2_main_def_dreadlord		false
+agent_subtypes_description_text_override_wh2_main_def_dreadlord_fem		false
+agent_subtypes_description_text_override_wh2_main_def_khainite_assassin		false
+agent_subtypes_description_text_override_wh2_main_def_malekith		false
+agent_subtypes_description_text_override_wh2_main_def_morathi		false
+agent_subtypes_description_text_override_wh2_main_def_sorceress_dark	Các phép thuật được thi triển với 'Dhar', hay Ma thuật Hắc ám, là những phép thuật mang tính tàn phá nhất. Chúng được cung cấp sức mạnh bởi những Luồng gió Ma thuật chưa tinh chế, vì vậy cái giá phải trả đối với cả người thi triển và nạn nhân của chúng thực sự rất lớn.	false
+agent_subtypes_description_text_override_wh2_main_def_sorceress_fire	Trong khi hầu hết các Pháp sư Druchii sử dụng bóng tối trong ma thuật của họ, ngọn lửa từ thuật phóng hỏa lại rất sáng. Tuy nhiên, những kẻ ở Naggaroth sử dụng 'Aqshy' không nghĩ nó như ngọn lửa rực sáng, thay vào đó họ nhìn vào khói đen nghẹt thở luôn đi kèm với lửa.	false
+agent_subtypes_description_text_override_wh2_main_def_sorceress_shadow	Hầu hết các Nữ Pháp sư vùng Ghrond lẩn khuất trong bóng tối tuyệt đối, nhưng có những kẻ vẫn bước gần đến ánh sáng, sử dụng ảo ảnh để thêu dệt những viễn cảnh tàn nhẫn và đánh lừa cả những loài thú săn mồi và con mồi để chúng có được những linh hồn chúng khao khát.	false
+agent_subtypes_description_text_override_wh2_main_hef_loremaster_of_hoeth		false
+agent_subtypes_description_text_override_wh2_main_hef_mage_high	Không giống như con người, các Mage quyền năng của Ulthuan có thể thao túng toàn bộ quang phổ của các Luồng gió ma thuật và sử dụng một dạng thuần khiết, kết hợp được gọi là 'Qhaysh' hay Ma thuật Cao cấp.	false
+agent_subtypes_description_text_override_wh2_main_hef_mage_life	Các vương quốc của Ulthuan tràn ngập các luồng ma thuật đan xen và dệt qua các khu rừng và cánh đồng hoang. Do đó, có những Mage làm chủ Luồng gió vùng 'Ghyran' giống như bản năng thứ hai.	false
+agent_subtypes_description_text_override_wh2_main_hef_mage_light	Mặc dù các Mage người Elf có khả năng sử dụng sức mạnh kết hợp của Ma thuật Cao cấp, một vài người chọn chuyên biệt vào các lĩnh vực nhất định nếu họ có năng khiếu hoặc tài năng. Những người dẫn truyền 'Hysh' xuất sắc trong việc đối đầu và xua đuổi Ác quỷ.	false
+agent_subtypes_description_text_override_wh2_main_hef_noble		false
+agent_subtypes_description_text_override_wh2_main_hef_prince		false
+agent_subtypes_description_text_override_wh2_main_hef_prince_alastar		false
+agent_subtypes_description_text_override_wh2_main_hef_princess		false
+agent_subtypes_description_text_override_wh2_main_hef_teclis		false
+agent_subtypes_description_text_override_wh2_main_hef_tyrion		false
+agent_subtypes_description_text_override_wh2_main_lzd_kroq_gar		false
+agent_subtypes_description_text_override_wh2_main_lzd_lord_mazdamundi		false
+agent_subtypes_description_text_override_wh2_main_lzd_saurus_old_blood		false
+agent_subtypes_description_text_override_wh2_main_lzd_saurus_scar_veteran		false
+agent_subtypes_description_text_override_wh2_main_lzd_skink_chief		false
+agent_subtypes_description_text_override_wh2_main_lzd_skink_priest_beasts	Một số Tư tế Skink thành thạo trong việc giao tiếp không chỉ với các loài bò sát khác, mà còn với tất cả các sinh vật của rừng rậm. Họ có kỹ năng thao túng Luồng gió của 'Ghur'.	false
+agent_subtypes_description_text_override_wh2_main_lzd_skink_priest_heavens	Các Astromancer Skink tương đối hiếm, sự sinh ra của họ được đánh dấu bởi một trận mưa sao băng trên bầu trời Tlaxtlan. Họ phục vụ những kẻ hùng mạnh nhất trong giống loài của mình, được gọi là 'Người Nhìn Thấu', người cử họ đi khắp nơi để phục vụ Đại Kế Hoạch.	false
+agent_subtypes_description_text_override_wh2_main_lzd_slann_mage_priest		false
+agent_subtypes_description_text_override_wh2_main_lzd_slann_mage_priest_horde		false
+agent_subtypes_description_text_override_wh2_main_skv_assassin		false
+agent_subtypes_description_text_override_wh2_main_skv_grey_seer_plague		false
+agent_subtypes_description_text_override_wh2_main_skv_grey_seer_ruin		false
+agent_subtypes_description_text_override_wh2_main_skv_lord_skrolk		false
+agent_subtypes_description_text_override_wh2_main_skv_plague_priest	Các Tư Tế Dịch Bệnh (Plague Priest) dẫn dắt những người anh em tồi tệ của mình trong việc tạo ra các loại bệnh tật mới và độc hại được thiết kế để đưa kẻ thù đến một cái kết ô nhục, gào thét… tốt nhất là với mụn mủ và sự thối rữa nhiều vô kể.	false
+agent_subtypes_description_text_override_wh2_main_skv_plague_priest_ritual	Mục đích duy nhất của Tư Tế Dịch Bệnh này là dành cả cuộc đời mình để lây lan những căn bệnh chết người nhằm làm tê liệt kẻ thù; một sức mạnh được ban cho hắn thông qua Nghi lễ Kế Hoạch Bệnh Dịch (Rite of the Pestilent Scheme).	false
+agent_subtypes_description_text_override_wh2_main_skv_queek_headtaker		false
+agent_subtypes_description_text_override_wh2_main_skv_warlock_engineer		false
+agent_subtypes_description_text_override_wh2_main_skv_warlock_engineer_ritual	Warlock Engineer này sống – và chết – để kiến tạo hoặc phá hủy, có khả năng hy sinh mạng sống của mình để xây dựng một Địa Thành bên dưới một khu định cư của kẻ thù, hoặc làm tê liệt nó trong một vụ nổ chết người được nạp bằng Đá Warp thông qua Nghi lễ Kế Hoạch Của Sự DIỆT VONG (Rite of the Scheme of DOOOOM)!	false
+agent_subtypes_description_text_override_wh2_main_skv_warlord		false
+agent_subtypes_description_text_override_wh2_pro07_emp_amethyst_wizard	{{tr:unit_description_short_texts_text_wh2_pro07_unit_short_text_emp_amethyst_wizard}}	false
+agent_subtypes_description_text_override_wh2_pro08_neu_felix	Bị ràng buộc bởi lời thề khi say rượu, sự đồng hành của Felix với Slayer mang lại cho anh chủ nghĩa anh hùng và sự phiêu lưu, thứ mà anh đắm chìm vào với một sự miễn cưỡng rõ ràng!	false
+agent_subtypes_description_text_override_wh2_pro08_neu_gotrek	Ngay cả những cuộc đấu tay đôi chết chóc nhất cũng từ chối cái chết mà Gotrek hằng khao khát, khiến ông vừa là Dwarf Slayer vĩ đại nhất vừa là tồi tệ nhất từng có.	false
+agent_subtypes_description_text_override_wh2_pro09_grn_black_orc_big_boss	Sự ám ảnh vô thức với việc giết chóc của Black Orc rất khó để hắn kiềm chế, thường lây lan sang những tên nhóc xung quanh hắn.	false
+agent_subtypes_description_text_override_wh2_twa02_wef_glade_captain		false
+agent_subtypes_description_text_override_wh2_twa03_def_rakarth		false
+agent_subtypes_description_text_override_wh2_twa04_bst_great_bray_shaman_beasts	PLACEHOLDER	false
+agent_subtypes_description_text_override_wh2_twa04_bst_great_bray_shaman_death	PLACEHOLDER	false
+agent_subtypes_description_text_override_wh2_twa04_bst_great_bray_shaman_shadows	PLACEHOLDER	false
+agent_subtypes_description_text_override_wh2_twa04_bst_great_bray_shaman_wild	PLACEHOLDER	false
+agent_subtypes_description_text_override_wh3_cp1_cth_bhashiva		false
+agent_subtypes_description_text_override_wh3_cp1_cth_cha_taoyan		false
+agent_subtypes_description_text_override_wh3_cp1_cth_clawspeaker_beasts	{{tr:unit_description_short_texts_text_wh3_cp1_unit_short_text_cth_cha_clawspeaker_beasts}}	false
+agent_subtypes_description_text_override_wh3_cp1_cth_clawspeaker_life	{{tr:unit_description_short_texts_text_wh3_cp1_unit_short_text_cth_cha_clawspeaker_life}}	false
+agent_subtypes_description_text_override_wh3_cp1_cth_clawspeaker_shadows	{{tr:unit_description_short_texts_text_wh3_cp1_unit_short_text_cth_cha_clawspeaker_shadows}}	false
+agent_subtypes_description_text_override_wh3_cp1_cth_sawai		false
+agent_subtypes_description_text_override_wh3_cp1_cth_sawai_caravan		false
+agent_subtypes_description_text_override_wh3_demo_kho_cha_exalted_bloodthirster		false
+agent_subtypes_description_text_override_wh3_demo_nur_exalted_great_unclean_one_nurgle		false
+agent_subtypes_description_text_override_wh3_dlc20_chs_daemon_prince_khorne		false
+agent_subtypes_description_text_override_wh3_dlc20_chs_daemon_prince_nurgle		false
+agent_subtypes_description_text_override_wh3_dlc20_chs_daemon_prince_slaanesh		false
+agent_subtypes_description_text_override_wh3_dlc20_chs_daemon_prince_tzeentch		false
+agent_subtypes_description_text_override_wh3_dlc20_chs_daemon_prince_undivided		false
+agent_subtypes_description_text_override_wh3_dlc20_chs_exalted_hero_mkho		false
+agent_subtypes_description_text_override_wh3_dlc20_chs_exalted_hero_mnur		false
+agent_subtypes_description_text_override_wh3_dlc20_chs_lord_mkho		false
+agent_subtypes_description_text_override_wh3_dlc20_chs_lord_msla		false
+agent_subtypes_description_text_override_wh3_dlc20_chs_sorcerer_lord_death_mnur		false
+agent_subtypes_description_text_override_wh3_dlc20_chs_sorcerer_lord_metal_mtze		false
+agent_subtypes_description_text_override_wh3_dlc20_chs_sorcerer_lord_nurgle_mnur		false
+agent_subtypes_description_text_override_wh3_dlc20_chs_sorcerer_lord_tzeentch_mtze		false
+agent_subtypes_description_text_override_wh3_dlc20_chs_sorcerer_metal_mtze		false
+agent_subtypes_description_text_override_wh3_dlc20_chs_sorcerer_shadows_msla		false
+agent_subtypes_description_text_override_wh3_dlc20_chs_sorcerer_slaanesh_msla		false
+agent_subtypes_description_text_override_wh3_dlc20_chs_sorcerer_tzeentch_mtze		false
+agent_subtypes_description_text_override_wh3_dlc20_kho_valkia		false
+agent_subtypes_description_text_override_wh3_dlc20_nur_festus		false
+agent_subtypes_description_text_override_wh3_dlc20_sla_azazel		false
+agent_subtypes_description_text_override_wh3_dlc20_tze_vilitch		false
+agent_subtypes_description_text_override_wh3_dlc23_chd_astragoth		false
+agent_subtypes_description_text_override_wh3_dlc23_chd_bull_centaur_taurruk		false
+agent_subtypes_description_text_override_wh3_dlc23_chd_daemonsmith_sorcerer_death		false
+agent_subtypes_description_text_override_wh3_dlc23_chd_daemonsmith_sorcerer_fire		false
+agent_subtypes_description_text_override_wh3_dlc23_chd_daemonsmith_sorcerer_hashut		false
+agent_subtypes_description_text_override_wh3_dlc23_chd_daemonsmith_sorcerer_metal		false
+agent_subtypes_description_text_override_wh3_dlc23_chd_drazhoath		false
+agent_subtypes_description_text_override_wh3_dlc23_chd_gorduz_backstabber	Gorduz là một kẻ sống sót; một cá nhân cực kỳ nguy hiểm mà tài năng sinh tồn của hắn chỉ có thể sánh ngang với sự hung hãn bẩm sinh trong trận chiến.	false
+agent_subtypes_description_text_override_wh3_dlc23_chd_infernal_castellan		false
+agent_subtypes_description_text_override_wh3_dlc23_chd_lord_convoy_overseer		false
+agent_subtypes_description_text_override_wh3_dlc23_chd_overseer		false
+agent_subtypes_description_text_override_wh3_dlc23_chd_overseer_hobgoblin_spawned_army		false
+agent_subtypes_description_text_override_wh3_dlc23_chd_sorcerer_prophet_death		false
+agent_subtypes_description_text_override_wh3_dlc23_chd_sorcerer_prophet_fire		false
+agent_subtypes_description_text_override_wh3_dlc23_chd_sorcerer_prophet_hashut		false
+agent_subtypes_description_text_override_wh3_dlc23_chd_sorcerer_prophet_metal		false
+agent_subtypes_description_text_override_wh3_dlc23_chd_zhatan		false
+agent_subtypes_description_text_override_wh3_dlc23_neu_ulrika	Mặc dù Ulrika đã nhận Nụ Hôn Máu, nhưng nó không định nghĩa cô. Cô vẫn trung thành với nhân loại, cho đến chết và xa hơn thế nữa.	false
+agent_subtypes_description_text_override_wh3_dlc24_chs_exalted_hero_mtze		false
+agent_subtypes_description_text_override_wh3_dlc24_chs_lord_mtze		false
+agent_subtypes_description_text_override_wh3_dlc24_cth_celestial_general_yang		false
+agent_subtypes_description_text_override_wh3_dlc24_cth_celestial_general_yin		false
+agent_subtypes_description_text_override_wh3_dlc24_cth_gate_master		false
+agent_subtypes_description_text_override_wh3_dlc24_cth_lord_magistrate_reserves		false
+agent_subtypes_description_text_override_wh3_dlc24_cth_saytang_the_watcher	{{tr:unit_description_short_texts_text_wh3_dlc24_unit_short_text_cth_cha_saytang}}	false
+agent_subtypes_description_text_override_wh3_dlc24_cth_yuan_bo	Quản lý vương quốc, kiến trúc sư cho ý chí của Rồng Đế, và đao phủ đối với những kẻ thù của ngài.	false
+agent_subtypes_description_text_override_wh3_dlc24_grn_grimgor_ironhide_quest_battle		false
+agent_subtypes_description_text_override_wh3_dlc24_ksl_boyar_summoned		false
+agent_subtypes_description_text_override_wh3_dlc24_ksl_druzhina		false
+agent_subtypes_description_text_override_wh3_dlc24_ksl_hag_witch_beasts	Những người Koldunja chăm sóc cho các tinh linh của vùng đất, kêu gọi họ để xoa dịu, triệu hồi hoặc trục xuất.	false
+agent_subtypes_description_text_override_wh3_dlc24_ksl_hag_witch_death	Những người Znarkharja có kiến thức sâu rộng về mọi bệnh tật và có thể khai thác sinh lực để chữa lành hoặc làm suy yếu.	false
+agent_subtypes_description_text_override_wh3_dlc24_ksl_hag_witch_hag	{{tr:unit_description_short_texts_text_wh3_dlc24_unit_short_text_ksl_cha_hag_witch_hag}}	false
+agent_subtypes_description_text_override_wh3_dlc24_ksl_hag_witch_shadows	Những người Vorozheja giao tiếp với những linh hồn xui xẻo để bẻ cong thực tại và thao túng tương lai.	false
+agent_subtypes_description_text_override_wh3_dlc24_ksl_mother_ostankya	Hãy chứng kiến những nỗi kinh hoàng mà kẻ thù của mụ phù thủy phải chịu đựng từ những tua khói bốc lên từ chiếc vạc của mụ; Mẹ Ostankya là một cảnh tượng đáng sợ đối với tất cả!	false
+agent_subtypes_description_text_override_wh3_dlc24_ksl_the_golden_knight	{{tr:unit_description_short_texts_text_wh3_dlc24_unit_short_text_ksl_cha_golden_knight}}	false
+agent_subtypes_description_text_override_wh3_dlc24_tze_aekold_helbrass	Sự sống mới tuôn trào ở mỗi cái chạm – một món nợ mà chỉ cái chết của kẻ thù mới có thể trả được.	false
+agent_subtypes_description_text_override_wh3_dlc24_tze_blue_scribes	Dù Wandering Wizards đi đến đâu, ma thuật và sự tàn sát chắc chắn sẽ theo sau.	false
+agent_subtypes_description_text_override_wh3_dlc24_tze_exalted_lord_of_change_metal_locked_army		false
+agent_subtypes_description_text_override_wh3_dlc24_tze_exalted_lord_of_change_tzeentch_locked_army		false
+agent_subtypes_description_text_override_wh3_dlc24_tze_the_changeling	Ác tâm vô tận của Ác quỷ và mức chịu đựng sự nhàm chán thấp đã kích động các kế hoạch không ngừng thay đổi của Changeling... và ngoại hình của hắn.	false
+agent_subtypes_description_text_override_wh3_dlc24_tze_the_changeling_cultist_special	Công việc duy nhất của Trickster Cultist này là thâm nhập vào một khu định cư duy nhất, theo nhiệm vụ của chính Changeling.	false
+agent_subtypes_description_text_override_wh3_dlc25_bst_mon_jabberslythe_qb_boss		false
+agent_subtypes_description_text_override_wh3_dlc25_chs_lord_mnur		false
+agent_subtypes_description_text_override_wh3_dlc25_chs_sorcerer_death_mnur	{{tr:unit_description_short_texts_text_wh3_dlc25_unit_short_text_nur_cha_chaos_sorcerer_of_nurgle}}	false
+agent_subtypes_description_text_override_wh3_dlc25_chs_sorcerer_nurgle_mnur	{{tr:unit_description_short_texts_text_wh3_dlc25_unit_short_text_nur_cha_chaos_sorcerer_of_nurgle}}	false
+agent_subtypes_description_text_override_wh3_dlc25_dwf_daemon_slayer		false
+agent_subtypes_description_text_override_wh3_dlc25_dwf_daemon_slayer_spawned_army		false
+agent_subtypes_description_text_override_wh3_dlc25_dwf_dragon_slayer		false
+agent_subtypes_description_text_override_wh3_dlc25_dwf_garagrim_ironfist	{{tr:unit_description_short_texts_text_wh3_dlc25_unit_short_text_dwf_cha_garagrim_ironfist}}	false
+agent_subtypes_description_text_override_wh3_dlc25_dwf_lord_mikael_leadstrong		false
+agent_subtypes_description_text_override_wh3_dlc25_dwf_malakai_makaisson		false
+agent_subtypes_description_text_override_wh3_dlc25_emp_elspeth_von_draken		false
+agent_subtypes_description_text_override_wh3_dlc25_emp_engineer		false
+agent_subtypes_description_text_override_wh3_dlc25_emp_gold_wizard	{{tr:unit_description_short_texts_text_wh3_dlc25_unit_short_text_emp_cha_wizard_metal}}	false
+agent_subtypes_description_text_override_wh3_dlc25_emp_master_engineer		false
+agent_subtypes_description_text_override_wh3_dlc25_emp_theodore_bruckner	{{tr:unit_description_short_texts_text_wh3_dlc25_unit_short_text_emp_cha_theodore_bruckner}}	false
+agent_subtypes_description_text_override_wh3_dlc25_grn_mon_rogue_idol_qb_boss		false
+agent_subtypes_description_text_override_wh3_dlc25_neu_gotrek_hero	Ngay cả những cuộc đấu tay đôi chết chóc nhất cũng từ chối cái chết mà Gotrek hằng khao khát, khiến ông vừa là Dwarf Slayer vĩ đại nhất vừa là tồi tệ nhất từng có.	false
+agent_subtypes_description_text_override_wh3_dlc25_nur_bray_shaman_wild_chieftain	{{tr:unit_description_short_texts_text_wh3_dlc25_unit_short_text_nur_cha_bray_shaman_wild_chieftain}}	false
+agent_subtypes_description_text_override_wh3_dlc25_nur_castellan_chieftain	{{tr:unit_description_short_texts_text_wh3_dlc25_unit_short_text_nur_cha_infernal_castellan_chieftain}}	false
+agent_subtypes_description_text_override_wh3_dlc25_nur_cha_exalted_great_unclean_one_nurgle_qb_boss		false
+agent_subtypes_description_text_override_wh3_dlc25_nur_epidemius	Quá nhiều dịch bệnh cần phân loại, và thời gian thì quá ít!	false
+agent_subtypes_description_text_override_wh3_dlc25_nur_exalted_hero_chieftain	{{tr:unit_description_short_texts_text_wh3_dlc25_unit_short_text_nur_cha_exalted_hero_chieftain}}	false
+agent_subtypes_description_text_override_wh3_dlc25_nur_fimir_balefiend_shadow_chieftain	{{tr:unit_description_short_texts_text_wh3_dlc25_unit_short_text_nur_cha_fimir_balefiend_shadow_chieftain}}	false
+agent_subtypes_description_text_override_wh3_dlc25_nur_kayzk_the_befouled	{{tr:unit_description_short_texts_text_wh3_dlc25_unit_short_text_nur_cha_kayzk}}	false
+agent_subtypes_description_text_override_wh3_dlc25_nur_skin_wolf_werekin_chieftain	{{tr:unit_description_short_texts_text_wh3_dlc25_unit_short_text_nur_cha_skin_wolf_werekin_chieftain}}	false
+agent_subtypes_description_text_override_wh3_dlc25_nur_tamurkhan		false
+agent_subtypes_description_text_override_wh3_dlc26_grn_gorbad_ironclaw		false
+agent_subtypes_description_text_override_wh3_dlc26_grn_night_goblin_big_boss		false
+agent_subtypes_description_text_override_wh3_dlc26_grn_savage_orc_great_shaman		false
+agent_subtypes_description_text_override_wh3_dlc26_grn_snagla_grobpsit	{{tr:unit_description_short_texts_text_wh3_dlc26_unit_short_text_grn_cha_snagla_grobspit}}	false
+agent_subtypes_description_text_override_wh3_dlc26_kho_arbaal_the_undefeated		false
+agent_subtypes_description_text_override_wh3_dlc26_kho_bloodspeaker		false
+agent_subtypes_description_text_override_wh3_dlc26_kho_exalted_bloodthirster_khorne_spawned_army		false
+agent_subtypes_description_text_override_wh3_dlc26_kho_scyla_anfingrimm	{{tr:unit_description_short_texts_text_wh3_dlc26_unit_short_text_kho_cha_scyla}}	false
+agent_subtypes_description_text_override_wh3_dlc26_kho_skarr_bloodwrath	{{tr:unit_description_short_texts_text_wh3_dlc26_unit_short_text_kho_cha_skarr_bloodwrath}}	false
+agent_subtypes_description_text_override_wh3_dlc26_kho_skulltaker		false
+agent_subtypes_description_text_override_wh3_dlc26_ogr_bragg_the_gutsman	{{tr:unit_description_short_texts_text_wh3_dlc26_unit_short_text_ogr_cha_bragg_the_gutsman}}	false
+agent_subtypes_description_text_override_wh3_dlc26_ogr_bruiser		false
+agent_subtypes_description_text_override_wh3_dlc26_ogr_cha_butcher_death	{{tr:unit_description_short_texts_text_wh3_dlc26_unit_short_text_ogr_cha_butcher_death}}	false
+agent_subtypes_description_text_override_wh3_dlc26_ogr_cha_butcher_heavens	{{tr:unit_description_short_texts_text_wh3_dlc26_unit_short_text_ogr_cha_butcher_heavens}}	false
+agent_subtypes_description_text_override_wh3_dlc26_ogr_cha_slaughtermaster_death		false
+agent_subtypes_description_text_override_wh3_dlc26_ogr_cha_slaughtermaster_heavens		false
+agent_subtypes_description_text_override_wh3_dlc26_ogr_golgfag		false
+agent_subtypes_description_text_override_wh3_dlc26_ogr_golgfag_maneater		false
+agent_subtypes_description_text_override_wh3_dlc26_ogr_paymaster	{{tr:unit_description_short_texts_text_wh3_dlc26_unit_short_text_ogr_cha_paymaster}}	false
+agent_subtypes_description_text_override_wh3_dlc27_chs_cha_daemon_prince_mkho_qb		false
+agent_subtypes_description_text_override_wh3_dlc27_chs_exalted_hero_msla		false
+agent_subtypes_description_text_override_wh3_dlc27_chs_mon_dragon_ogre_shaggoth_minor_boss		false
+agent_subtypes_description_text_override_wh3_dlc27_chs_sorcerer_lord_shadows_msla		false
+agent_subtypes_description_text_override_wh3_dlc27_chs_sorcerer_lord_slaanesh_msla		false
+agent_subtypes_description_text_override_wh3_dlc27_def_black_dragon_boss		false
+agent_subtypes_description_text_override_wh3_dlc27_hef_aislinn		false
+agent_subtypes_description_text_override_wh3_dlc27_hef_caradryan		false
+agent_subtypes_description_text_override_wh3_dlc27_hef_dragonship_captain_01		false
+agent_subtypes_description_text_override_wh3_dlc27_hef_dragonship_captain_02		false
+agent_subtypes_description_text_override_wh3_dlc27_hef_dragonship_captain_03		false
+agent_subtypes_description_text_override_wh3_dlc27_hef_dragonship_captain_04		false
+agent_subtypes_description_text_override_wh3_dlc27_hef_dragonship_captain_05		false
+agent_subtypes_description_text_override_wh3_dlc27_hef_mist_mage	{{tr:unit_description_short_texts_text_wh3_dlc27_unit_short_text_hef_cha_mist_mage}}	false
+agent_subtypes_description_text_override_wh3_dlc27_hef_sea_helm		false
+agent_subtypes_description_text_override_wh3_dlc27_noble_militia		false
+agent_subtypes_description_text_override_wh3_dlc27_nor_beorg_bearstruck	{{tr:unit_description_short_texts_text_wh3_dlc27_unit_short_text_nor_cha_beorg_bearstruck}}	false
+agent_subtypes_description_text_override_wh3_dlc27_nor_fimir_noble		false
+agent_subtypes_description_text_override_wh3_dlc27_nor_great_shaman_sorcerer_death		false
+agent_subtypes_description_text_override_wh3_dlc27_nor_great_shaman_sorcerer_fire		false
+agent_subtypes_description_text_override_wh3_dlc27_nor_great_shaman_sorcerer_metal		false
+agent_subtypes_description_text_override_wh3_dlc27_nor_marauder_chieftain_spawned_army		false
+agent_subtypes_description_text_override_wh3_dlc27_nor_mon_arachnarok_spider_boss		false
+agent_subtypes_description_text_override_wh3_dlc27_nor_mon_bale_taurus_boss		false
+agent_subtypes_description_text_override_wh3_dlc27_nor_mon_carrion_boss		false
+agent_subtypes_description_text_override_wh3_dlc27_nor_mon_celestial_lion_boss		false
+agent_subtypes_description_text_override_wh3_dlc27_nor_mon_chimera_ror_boss		false
+agent_subtypes_description_text_override_wh3_dlc27_nor_mon_cockatrice_boss		false
+agent_subtypes_description_text_override_wh3_dlc27_nor_mon_dread_saurian_boss		false
+agent_subtypes_description_text_override_wh3_dlc27_nor_mon_feral_manticore_boss		false
+agent_subtypes_description_text_override_wh3_dlc27_nor_mon_ghorgon_boss		false
+agent_subtypes_description_text_override_wh3_dlc27_nor_mon_jabberslythe_boss		false
+agent_subtypes_description_text_override_wh3_dlc27_nor_mon_lammasu_boss		false
+agent_subtypes_description_text_override_wh3_dlc27_nor_mon_preyton_boss		false
+agent_subtypes_description_text_override_wh3_dlc27_nor_mon_thundertusk_boss		false
+agent_subtypes_description_text_override_wh3_dlc27_nor_mon_toad_dragon_boss		false
+agent_subtypes_description_text_override_wh3_dlc27_nor_mon_war_mammoth_boss		false
+agent_subtypes_description_text_override_wh3_dlc27_nor_sayl_the_faithless		false
+agent_subtypes_description_text_override_wh3_dlc27_sla_dechala		false
+agent_subtypes_description_text_override_wh3_dlc27_sla_druchii_anointed		false
+agent_subtypes_description_text_override_wh3_dlc27_sla_masque_of_slaanesh		false
+agent_subtypes_description_text_override_wh3_dlc27_sla_styrkaar_the_sortsvinaer	{{tr:unit_description_short_texts_text_wh3_dlc27_unit_short_text_sla_cha_styrkaar_the_sortsvinaer}}	false
+agent_subtypes_description_text_override_wh3_main_cth_alchemist		false
+agent_subtypes_description_text_override_wh3_main_cth_astromancer		false
+agent_subtypes_description_text_override_wh3_main_cth_dragon_blooded_shugengan_yang		false
+agent_subtypes_description_text_override_wh3_main_cth_dragon_blooded_shugengan_yin		false
+agent_subtypes_description_text_override_wh3_main_cth_lord_caravan_master		false
+agent_subtypes_description_text_override_wh3_main_cth_lord_magistrate_yang		false
+agent_subtypes_description_text_override_wh3_main_cth_lord_magistrate_yin		false
+agent_subtypes_description_text_override_wh3_main_cth_miao_ying		false
+agent_subtypes_description_text_override_wh3_main_cth_zhao_ming		false
+agent_subtypes_description_text_override_wh3_main_dae_belakor		false
+agent_subtypes_description_text_override_wh3_main_dae_daemon_prince		false
+agent_subtypes_description_text_override_wh3_main_dae_daemon_prince_khorne		false
+agent_subtypes_description_text_override_wh3_main_dae_daemon_prince_khorne_fe		false
+agent_subtypes_description_text_override_wh3_main_dae_daemon_prince_nurgle		false
+agent_subtypes_description_text_override_wh3_main_dae_daemon_prince_nurgle_fe		false
+agent_subtypes_description_text_override_wh3_main_dae_daemon_prince_slaanesh		false
+agent_subtypes_description_text_override_wh3_main_dae_daemon_prince_slaanesh_fe		false
+agent_subtypes_description_text_override_wh3_main_dae_daemon_prince_tzeentch		false
+agent_subtypes_description_text_override_wh3_main_dae_daemon_prince_tzeentch_fe		false
+agent_subtypes_description_text_override_wh3_main_ie_nor_burplesmirk_spewpit		false
+agent_subtypes_description_text_override_wh3_main_ie_nor_killgore_slaymaim		false
+agent_subtypes_description_text_override_wh3_main_kho_bloodreaper		false
+agent_subtypes_description_text_override_wh3_main_kho_cult_magus	Là người sáng lập và lãnh đạo của một Giáo phái Hỗn mang, mục đích chính của Cult Magus là hoàn thành các mục tiêu bí mật của vị chủ nhân Suy vong của họ.	falseagent_subtypes_description_text_override_wh3_main_kho_cultist	Các tín đồ của Khorne được tìm thấy trong các đấu trường võ sĩ giác đấu và các sàn đấu khác nơi máu được đổ vì giải trí và lợi nhuận.	false
+agent_subtypes_description_text_override_wh3_main_kho_exalted_bloodthirster		false
+agent_subtypes_description_text_override_wh3_main_kho_herald_of_khorne		false
+agent_subtypes_description_text_override_wh3_main_kho_herald_of_khorne_khorne_spawned_army		false
+agent_subtypes_description_text_override_wh3_main_kho_skarbrand		false
+agent_subtypes_description_text_override_wh3_main_ksl_ataman		false
+agent_subtypes_description_text_override_wh3_main_ksl_boris		false
+agent_subtypes_description_text_override_wh3_main_ksl_boyar		false
+agent_subtypes_description_text_override_wh3_main_ksl_frost_maiden_ice	Những người thực hành Ma thuật Băng (Lore of Ice) được cho là có lớp băng vĩnh cửu trong tim họ, vì đó là những gì cần thiết để sử dụng sức mạnh này.	false
+agent_subtypes_description_text_override_wh3_main_ksl_frost_maiden_tempest	Dễ nổi nóng, nhưng lại từ bi với những người mà cô ấy bảo vệ, người sử dụng Ma thuật Bão Tố không phải là người có thể dễ dàng chọc giận.	false
+agent_subtypes_description_text_override_wh3_main_ksl_ice_witch_ice	Những người thực hành Ma thuật Băng được cho là có lớp băng vĩnh cửu trong tim họ, vì đó là những gì cần thiết để sử dụng sức mạnh này.	false
+agent_subtypes_description_text_override_wh3_main_ksl_ice_witch_tempest	Dễ nổi nóng, nhưng lại từ bi với những người mà cô ấy bảo vệ, người sử dụng Ma thuật Bão Tố không phải là người có thể dễ dàng chọc giận.	false
+agent_subtypes_description_text_override_wh3_main_ksl_katarin		false
+agent_subtypes_description_text_override_wh3_main_ksl_kostaltyn		false
+agent_subtypes_description_text_override_wh3_main_ksl_patriarch		false
+agent_subtypes_description_text_override_wh3_main_nur_cult_magus	Là người sáng lập và lãnh đạo của một Giáo phái Hỗn mang, mục đích chính của Cult Magus là hoàn thành các mục tiêu bí mật của vị chủ nhân Suy vong của họ.	false
+agent_subtypes_description_text_override_wh3_main_nur_cultist	Những nạn nhân của dịch bệnh cầu xin Nurgle sự nhân từ thường sẽ rơi vào tầm ảnh hưởng của ngài, không bao giờ được thoát khỏi sự nhiễm bệnh và bị định sẵn là phải gieo rắc nó xa hơn.	false
+agent_subtypes_description_text_override_wh3_main_nur_cultist_plague_ritual	Plague Cultist này mang trong mình một căn bệnh độc nhất, và sẽ bị tiêu diệt khi gieo rắc nó.	false
+agent_subtypes_description_text_override_wh3_main_nur_exalted_great_unclean_one_death		false
+agent_subtypes_description_text_override_wh3_main_nur_exalted_great_unclean_one_nurgle		false
+agent_subtypes_description_text_override_wh3_main_nur_herald_of_nurgle_death		false
+agent_subtypes_description_text_override_wh3_main_nur_herald_of_nurgle_nurgle		false
+agent_subtypes_description_text_override_wh3_main_nur_kugath		false
+agent_subtypes_description_text_override_wh3_main_nur_plagueridden_death	Nurgle mang lại sự sống, không chỉ có cái chết, vì đây là vòng luân hồi của sự sáng tạo – mặc dù những Ác quỷ này vẫn thích cái chết hơn!	false
+agent_subtypes_description_text_override_wh3_main_nur_plagueridden_nurgle	Những người sử dụng ma thuật của Nurgle thường là những sinh vật vui vẻ, những kẻ không hiểu được sự thất vọng của người khác đối với các phép thuật và trò ảo thuật của chúng.	false
+agent_subtypes_description_text_override_wh3_main_ogr_butcher_beasts	Butcher này sử dụng con dao phay của mình với kỹ năng phi thường để chạm khắc các dã thú ra từng mảnh và hít lấy ma thuật của chúng.	false
+agent_subtypes_description_text_override_wh3_main_ogr_butcher_great_maw	Butcher là những người phát ngôn cho Cái Miệng Lớn (Great Maw); họ là những sứ giả. Nhờ đó, Ngài ban cho họ một chút sức mạnh của mình.	false
+agent_subtypes_description_text_override_wh3_main_ogr_firebelly		false
+agent_subtypes_description_text_override_wh3_main_ogr_greasus_goldtooth		false
+agent_subtypes_description_text_override_wh3_main_ogr_hunter		false
+agent_subtypes_description_text_override_wh3_main_ogr_skrag_the_slaughterer		false
+agent_subtypes_description_text_override_wh3_main_ogr_slaughtermaster_beasts		false
+agent_subtypes_description_text_override_wh3_main_ogr_slaughtermaster_great_maw		false
+agent_subtypes_description_text_override_wh3_main_ogr_tyrant		false
+agent_subtypes_description_text_override_wh3_main_ogr_tyrant_camp		false
+agent_subtypes_description_text_override_wh3_main_pro_kho_bloodthirster		false
+agent_subtypes_description_text_override_wh3_main_pro_kho_cultist	Các tín đồ của Khorne được tìm thấy trong các đấu trường võ sĩ giác đấu và các sàn đấu khác nơi máu được đổ vì giải trí và lợi nhuận.	false
+agent_subtypes_description_text_override_wh3_main_pro_kho_herald_of_khorne		false
+agent_subtypes_description_text_override_wh3_main_pro_ksl_boyar		false
+agent_subtypes_description_text_override_wh3_main_pro_ksl_cha_yuri_0_1		false
+agent_subtypes_description_text_override_wh3_main_pro_ksl_cha_yuri_0_2		false
+agent_subtypes_description_text_override_wh3_main_pro_ksl_cha_yuri_0_3		false
+agent_subtypes_description_text_override_wh3_main_pro_ksl_frost_maiden_ice	Những người thực hành Ma thuật Băng được cho là có lớp băng vĩnh cửu trong tim họ, vì đó là những gì cần thiết để sử dụng sức mạnh này.	false
+agent_subtypes_description_text_override_wh3_main_pro_ksl_gerik_0		false
+agent_subtypes_description_text_override_wh3_main_pro_ksl_patriarch		false
+agent_subtypes_description_text_override_wh3_main_pro_ksl_sergi_0		false
+agent_subtypes_description_text_override_wh3_main_pro_ksl_yuri_0		false
+agent_subtypes_description_text_override_wh3_main_pro_ksl_yuri_1		false
+agent_subtypes_description_text_override_wh3_main_pro_ksl_yuri_2		false
+agent_subtypes_description_text_override_wh3_main_pro_ksl_yuri_3		false
+agent_subtypes_description_text_override_wh3_main_pro_ksl_yuri_4		false
+agent_subtypes_description_text_override_wh3_main_pro_slavin_0		false
+agent_subtypes_description_text_override_wh3_main_pro_tze_cultist	Các tín đồ của Tzeentch bị thu hút bởi các mật thất kiến thức, các hội kín, thư viện và kho lưu trữ những kiến thức đã mất.	false
+agent_subtypes_description_text_override_wh3_main_pro_tze_herald_of_tzeentch_tzeentch		false
+agent_subtypes_description_text_override_wh3_main_sla_alluress_shadow	Sử dụng Luồng gió Ulgu để tạo ra bóng tối và ảo ảnh, Alluress này rình rập và quyến rũ.	false
+agent_subtypes_description_text_override_wh3_main_sla_alluress_slaanesh	Được ưu ái bởi Hoàng tử Bóng tối, Alluress được ban cho quyền sử dụng ma thuật gian xảo và tàn nhẫn của Hắn.	false
+agent_subtypes_description_text_override_wh3_main_sla_cult_magus	Là người sáng lập và lãnh đạo của một Giáo phái Hỗn mang, mục đích chính của Cult Magus là hoàn thành các mục tiêu bí mật của vị chủ nhân Suy vong của họ.	false
+agent_subtypes_description_text_override_wh3_main_sla_cultist	Thường được tìm thấy trong giới quý tộc hoặc trong những khu vực đồi trụy hơn, các giáo phái của Hoàng tử Bóng tối nuôi dưỡng ham muốn và sự dư thừa.	false
+agent_subtypes_description_text_override_wh3_main_sla_exalted_keeper_of_secrets_shadow		false
+agent_subtypes_description_text_override_wh3_main_sla_exalted_keeper_of_secrets_slaanesh		false
+agent_subtypes_description_text_override_wh3_main_sla_herald_of_slaanesh_shadow		false
+agent_subtypes_description_text_override_wh3_main_sla_herald_of_slaanesh_slaanesh		false
+agent_subtypes_description_text_override_wh3_main_sla_herald_of_slaanesh_slaanesh_disciple_army		false
+agent_subtypes_description_text_override_wh3_main_sla_nkari		false
+agent_subtypes_description_text_override_wh3_main_tze_cult_magus	Là người sáng lập và lãnh đạo của một Giáo phái Hỗn mang, mục đích chính của Cult Magus là hoàn thành các mục tiêu bí mật của vị chủ nhân Suy vong của họ.	false
+agent_subtypes_description_text_override_wh3_main_tze_cultist	Các tín đồ của Tzeentch bị thu hút bởi các mật thất kiến thức, các hội kín, thư viện và kho lưu trữ những kiến thức đã mất.	false
+agent_subtypes_description_text_override_wh3_main_tze_exalted_lord_of_change_metal		false
+agent_subtypes_description_text_override_wh3_main_tze_exalted_lord_of_change_tzeentch		false
+agent_subtypes_description_text_override_wh3_main_tze_herald_of_tzeentch_metal		false
+agent_subtypes_description_text_override_wh3_main_tze_herald_of_tzeentch_tzeentch		false
+agent_subtypes_description_text_override_wh3_main_tze_iridescent_horror_metal	Kim loại là một nguyên tố của sự thay đổi. Nó có nhiều hình dạng và trạng thái, giống như người sử dụng Chamon này.	false
+agent_subtypes_description_text_override_wh3_main_tze_iridescent_horror_tzeentch	Ma thuật của Tzeentch không phải là thứ để phàm nhân sử dụng, nhưng những tôi tớ của hắn lại là bậc thầy của ma thuật như vậy!	false
+agent_subtypes_description_text_override_wh3_main_tze_kairos		false
+agent_subtypes_description_text_override_wh3_pro10_chs_daemon_prince_tzeentch		false
+agent_subtypes_description_text_override_wh3_pro10_tze_cultist	Các tín đồ của Tzeentch bị thu hút bởi các mật thất kiến thức, các hội kín, thư viện và kho lưu trữ những kiến thức đã mất.	false
+agent_subtypes_description_text_override_wh3_pro11_chs_cha_harald_hammerstorm	{{tr:unit_description_short_texts_text_wh3_pro11_chs_cha_harald_hammerstorm}}	false
+agent_subtypes_description_text_override_wh3_pro12_kho_cha_karanak	{{tr:unit_description_short_texts_text_wh3_dlc25_unit_short_text_kho_cha_karanak}}	false
+agent_subtypes_description_text_override_wh3_prologue_apostles_of_change_chaos_knights		false
+agent_subtypes_description_text_override_wh3_prologue_general_test		false
+agent_subtypes_description_text_override_wh3_survival_dae_cha_belakor_01		false
+agent_subtypes_description_text_override_wh3_survival_kho_cha_daemon_prince_of_khorne		false
+agent_subtypes_description_text_override_wh3_survival_kho_cha_daemon_prince_of_khorne_fe		false
+agent_subtypes_description_text_override_wh3_survival_nur_cha_daemon_prince_of_nurgle		false
+agent_subtypes_description_text_override_wh3_survival_nur_cha_daemon_prince_of_nurgle_fe		false
+agent_subtypes_description_text_override_wh3_survival_sla_cha_daemon_prince_of_slaanesh		false
+agent_subtypes_description_text_override_wh3_survival_sla_cha_daemon_prince_of_slaanesh_fe		false
+agent_subtypes_description_text_override_wh3_survival_tze_cha_daemon_prince_of_tzeentch		false
+agent_subtypes_description_text_override_wh3_survival_tze_cha_daemon_prince_of_tzeentch_fe		false
+agent_subtypes_description_text_override_wh_dlc01_chs_kholek_suneater		false
+agent_subtypes_description_text_override_wh_dlc01_chs_prince_sigvald		false
+agent_subtypes_description_text_override_wh_dlc01_chs_sorcerer_lord_death		false
+agent_subtypes_description_text_override_wh_dlc01_chs_sorcerer_lord_fire		false
+agent_subtypes_description_text_override_wh_dlc01_chs_sorcerer_lord_metal		false
+agent_subtypes_description_text_override_wh_dlc01_nor_sorcerer_lord_metal		false
+agent_subtypes_description_text_override_wh_dlc03_bst_beastlord		false
+agent_subtypes_description_text_override_wh_dlc03_bst_bray_shaman_beasts	Khoác lên mình sức mạnh của loài thú, Bray-Shaman sử dụng những đột biến nguyên thủy của mình để thể hiện sức mạnh to lớn hơn.	false
+agent_subtypes_description_text_override_wh_dlc03_bst_bray_shaman_death	Cái chết thì thầm với Bray-Shaman, kẻ nói những lời đó với kẻ thù của mình bằng một sức mạnh vô hình, gớm ghiếc.	false
+agent_subtypes_description_text_override_wh_dlc03_bst_bray_shaman_shadows		false
+agent_subtypes_description_text_override_wh_dlc03_bst_bray_shaman_wild	Trái đất lên tiếng và Bray-Shaman lắng nghe nó. Thiên nhiên chảy qua hắn, ban cho hắn sự làm chủ chính vùng đất.	false
+agent_subtypes_description_text_override_wh_dlc03_bst_gorebull		false
+agent_subtypes_description_text_override_wh_dlc03_bst_khazrak		false
+agent_subtypes_description_text_override_wh_dlc03_bst_malagor		false
+agent_subtypes_description_text_override_wh_dlc03_emp_amber_wizard	{{tr:unit_description_short_texts_text_wh_dlc03_unit_short_text_amber_wizard}}	false
+agent_subtypes_description_text_override_wh_dlc03_emp_boris_todbringer		false
+agent_subtypes_description_text_override_wh_dlc04_emp_arch_lector		false
+agent_subtypes_description_text_override_wh_dlc04_emp_volkmar		false
+agent_subtypes_description_text_override_wh_dlc04_vmp_helman_ghorst		false
+agent_subtypes_description_text_override_wh_dlc04_vmp_strigoi_ghoul_king		false
+agent_subtypes_description_text_override_wh_dlc04_vmp_vlad_con_carstein		false
+agent_subtypes_description_text_override_wh_dlc04_vmp_vlad_von_carstein_hero	Trải qua sự sống, cái chết và Sự Bất Tử, vị Bá tước Ma tớn đầu tiên và vĩ đại nhất luôn theo đuổi ngai vàng; đó là quyền chính đáng của hắn!	false
+agent_subtypes_description_text_override_wh_dlc05_bst_morghur		false
+agent_subtypes_description_text_override_wh_dlc05_emp_grey_wizard	{{tr:unit_description_short_texts_text_wh_dlc05_unit_short_text_emp_grey_wizard}}	false
+agent_subtypes_description_text_override_wh_dlc05_emp_jade_wizard	{{tr:unit_description_short_texts_text_wh_dlc05_unit_short_text_emp_jade_wizard}}	false
+agent_subtypes_description_text_override_wh_dlc05_vmp_red_duke		false
+agent_subtypes_description_text_override_wh_dlc05_vmp_vampire_shadow		false
+agent_subtypes_description_text_override_wh_dlc05_wef_ancient_treeman		false
+agent_subtypes_description_text_override_wh_dlc05_wef_branchwraith		false
+agent_subtypes_description_text_override_wh_dlc05_wef_durthu		false
+agent_subtypes_description_text_override_wh_dlc05_wef_glade_lord		false
+agent_subtypes_description_text_override_wh_dlc05_wef_glade_lord_fem		false
+agent_subtypes_description_text_override_wh_dlc05_wef_orion		false
+agent_subtypes_description_text_override_wh_dlc05_wef_spellsinger_beasts	Các Spellsinger của Athel Loren tự bảo vệ mình bằng cách hợp nhất tâm trí của họ với ý thức đang ngủ say của khu rừng.	false
+agent_subtypes_description_text_override_wh_dlc05_wef_spellsinger_life	Các Spellsinger của Athel Loren tự bảo vệ mình bằng cách hợp nhất tâm trí của họ với ý thức đang ngủ say của khu rừng.	false
+agent_subtypes_description_text_override_wh_dlc05_wef_spellsinger_shadow	Các Spellsinger của Athel Loren tự bảo vệ mình bằng cách hợp nhất tâm trí của họ với ý thức đang ngủ say của khu rừng.	false
+agent_subtypes_description_text_override_wh_dlc05_wef_waystalker		false
+agent_subtypes_description_text_override_wh_dlc06_dwf_belegar		false
+agent_subtypes_description_text_override_wh_dlc06_dwf_master_engineer_ghost		false
+agent_subtypes_description_text_override_wh_dlc06_dwf_runelord		false
+agent_subtypes_description_text_override_wh_dlc06_dwf_runesmith_ghost		false
+agent_subtypes_description_text_override_wh_dlc06_dwf_thane_ghost_1		false
+agent_subtypes_description_text_override_wh_dlc06_dwf_thane_ghost_2		false
+agent_subtypes_description_text_override_wh_dlc06_grn_night_goblin_warboss		false
+agent_subtypes_description_text_override_wh_dlc06_grn_skarsnik		false
+agent_subtypes_description_text_override_wh_dlc06_grn_wurrzag_da_great_prophet		false
+agent_subtypes_description_text_override_wh_dlc07_brt_alberic		false
+agent_subtypes_description_text_override_wh_dlc07_brt_damsel_beasts	Kiểm soát động vật và bẻ cong sự hung hãn tự nhiên của chúng theo mục đích của riêng mình là thể hiện sự thành thạo thực sự trong nghệ thuật của ngài.	false
+agent_subtypes_description_text_override_wh_dlc07_brt_damsel_life	Những người ủng hộ Lore of Life bảo vệ và chữa lành cho quân đội đồng minh, đồng thời cản trở kẻ thù ở mọi bước đi.	false
+agent_subtypes_description_text_override_wh_dlc07_brt_fay_enchantress		false
+agent_subtypes_description_text_override_wh_dlc07_brt_green_knight	Người nắm giữ các bí mật và người bảo vệ con đường, sức mạnh của ông là bài kiểm tra tối thượng đối với người tìm kiếm (quester).	false
+agent_subtypes_description_text_override_wh_dlc07_brt_prophetess_beasts		false
+agent_subtypes_description_text_override_wh_dlc07_brt_prophetess_heavens		false
+agent_subtypes_description_text_override_wh_dlc07_brt_prophetess_life		false
+agent_subtypes_description_text_override_wh_dlc07_chs_chaos_sorcerer_shadow	Là những bậc thầy Phantasmancer, Chaos Sorcerers sử dụng Lore of Shadows để đánh lừa, dệt nên một vầng hào quang bóng tối và kinh hoàng xung quanh nạn nhân của chúng.	false
+agent_subtypes_description_text_override_wh_dlc07_chs_sorcerer_lord_shadow		false
+agent_subtypes_description_text_override_wh_dlc08_bst_cygor_boss		false
+agent_subtypes_description_text_override_wh_dlc08_chs_challenger_khorne		false
+agent_subtypes_description_text_override_wh_dlc08_chs_challenger_nurgle		false
+agent_subtypes_description_text_override_wh_dlc08_chs_challenger_slaanesh		false
+agent_subtypes_description_text_override_wh_dlc08_chs_challenger_tzeentch		false
+agent_subtypes_description_text_override_wh_dlc08_chs_dragon_ogre_shaggoth_boss		false
+agent_subtypes_description_text_override_wh_dlc08_grn_giant_boss		false
+agent_subtypes_description_text_override_wh_dlc08_grn_venom_queen_boss		false
+agent_subtypes_description_text_override_wh_dlc08_nor_arzik		false
+agent_subtypes_description_text_override_wh_dlc08_nor_fimir_balefiend_fire	Balefiend say sưa trong sự bất ổn mà chúng tạo ra giữa các thế giới, thúc giục các Tà Thần ủng hộ Fimir một lần nữa.	false
+agent_subtypes_description_text_override_wh_dlc08_nor_fimir_balefiend_shadow	Balefiend say sưa trong sự bất ổn mà chúng tạo ra giữa các thế giới, thúc giục các Tà Thần ủng hộ Fimir một lần nữa.	false
+agent_subtypes_description_text_override_wh_dlc08_nor_frost_wyrm_boss		false
+agent_subtypes_description_text_override_wh_dlc08_nor_kihar		false
+agent_subtypes_description_text_override_wh_dlc08_nor_shaman_sorcerer_death	Sử dụng năng lực tiên tri của mình, Shaman-Sorcerer điều khiển những Luồng gió để dẫn dắt bộ lạc hướng tới chiến tranh.	false
+agent_subtypes_description_text_override_wh_dlc08_nor_shaman_sorcerer_fire	Sử dụng năng lực tiên tri của mình, Shaman-Sorcerer điều khiển những Luồng gió để dẫn dắt bộ lạc hướng tới chiến tranh.	false
+agent_subtypes_description_text_override_wh_dlc08_nor_shaman_sorcerer_metal	Sử dụng năng lực tiên tri của mình, Shaman-Sorcerer điều khiển những Luồng gió để dẫn dắt bộ lạc hướng tới chiến tranh.	false
+agent_subtypes_description_text_override_wh_dlc08_nor_skin_wolf_werekin	Những mảng da rách rưới, bám vào một sinh vật sói hình người hung dữ, là tất cả những gì còn lại của các nhà vô địch trước đây này.	false
+agent_subtypes_description_text_override_wh_dlc08_nor_throgg		false
+agent_subtypes_description_text_override_wh_dlc08_nor_wulfrik		false
+agent_subtypes_description_text_override_wh_dlc08_vmp_terrorgheist_boss		false
+agent_subtypes_description_text_override_wh_dlc08_wef_forest_dragon_boss		false
+agent_subtypes_description_text_override_wh_main_brt_damsel_heavens	Những người có kiến thức có thể triệu hồi những cơn gió lớn hoặc những vòng cung tia chớp đáng sợ để quấy rối kẻ thù.	false
+agent_subtypes_description_text_override_wh_main_brt_lord		false
+agent_subtypes_description_text_override_wh_main_brt_louen_leoncouer		false
+agent_subtypes_description_text_override_wh_main_brt_paladin	Là người dũng cảm nhất trong số các chiến binh, Paladin xông vào trận chiến dù là trên lưng ngựa hay đi bộ, mang lại cái chết chính nghĩa dưới danh nghĩa của Phu nhân.	false
+agent_subtypes_description_text_override_wh_main_chs_archaon		false
+agent_subtypes_description_text_override_wh_main_chs_chaos_sorcerer_death	Một Chaos Sorcerer gây ra cái chết bất kể hắn sử dụng ma thuật nào, tuy nhiên những kẻ thao túng Luồng gió vùng Shyish đặc biệt vui mừng trong việc kết thúc mạng sống của những kẻ phàm trần. Tiếng cười độc ác của chúng là những gì được nghe thấy khi Mặt Trời Tím được triệu hồi!	false
+agent_subtypes_description_text_override_wh_main_chs_chaos_sorcerer_fire	Một số sinh vật chỉ muốn nhìn thấy thế giới bùng cháy. Các Pháp sư của Hỗn mang chắc chắn thuộc loại đó, bẻ cong Luồng gió rực lửa của Aqshy theo ý đồ ác độc của chúng, gieo rắc ngọn lửa và đau đớn dưới danh nghĩa của các Tà Thần.	false
+agent_subtypes_description_text_override_wh_main_chs_chaos_sorcerer_metal	Các Chaos Sorcerer xé toạc Chamon từ những Luồng gió Ma thuật luôn tuôn chảy sử dụng hình dạng lỏng, nhầy nhụa của nó để tạo hình kim loại thành những công cụ đáng sợ, giam cầm linh hồn trong những bức tượng vàng không hoàn hảo, và làm tan chảy áo giáp của bất kỳ kẻ nào dám thách thức các Chủ nhân Suy vong của chúng.	false
+agent_subtypes_description_text_override_wh_main_chs_exalted_hero		false
+agent_subtypes_description_text_override_wh_main_chs_lord		false
+agent_subtypes_description_text_override_wh_main_chs_lord_of_change		false
+agent_subtypes_description_text_override_wh_main_dwf_lord		false
+agent_subtypes_description_text_override_wh_main_dwf_master_engineer		false
+agent_subtypes_description_text_override_wh_main_dwf_runesmith		false
+agent_subtypes_description_text_override_wh_main_dwf_thane		false
+agent_subtypes_description_text_override_wh_main_dwf_thorgrim_grudgebearer		false
+agent_subtypes_description_text_override_wh_main_dwf_ungrim_ironfist		false
+agent_subtypes_description_text_override_wh_main_emp_balthasar_gelt		false
+agent_subtypes_description_text_override_wh_main_emp_bright_wizard	{{tr:unit_description_short_texts_text_wh_main_unit_short_text_emp_bright_wizard}}	false
+agent_subtypes_description_text_override_wh_main_emp_captain		false
+agent_subtypes_description_text_override_wh_main_emp_celestial_wizard	{{tr:unit_description_short_texts_text_wh_main_unit_short_text_emp_celestial_wizard}}	false
+agent_subtypes_description_text_override_wh_main_emp_karl_franz		false
+agent_subtypes_description_text_override_wh_main_emp_light_wizard	{{tr:unit_description_short_texts_text_wh_main_unit_short_text_emp_light_wizard}}	false
+agent_subtypes_description_text_override_wh_main_emp_lord		false
+agent_subtypes_description_text_override_wh_main_emp_lord_spawned_army		false
+agent_subtypes_description_text_override_wh_main_emp_warrior_priest		false
+agent_subtypes_description_text_override_wh_main_emp_witch_hunter		false
+agent_subtypes_description_text_override_wh_main_grn_azhag_the_slaughterer		false
+agent_subtypes_description_text_override_wh_main_grn_goblin_big_boss		false
+agent_subtypes_description_text_override_wh_main_grn_goblin_great_shaman		false
+agent_subtypes_description_text_override_wh_main_grn_grimgor_ironhide		false
+agent_subtypes_description_text_override_wh_main_grn_night_goblin_shaman	Night Goblin Shaman đội những chiếc mũ trùm đầu dễ nhận biết của giống loài mình và nổi tiếng là đặc biệt điên rồ do ăn một lượng lớn nấm gây ảo giác.	false
+agent_subtypes_description_text_override_wh_main_grn_orc_shaman	Orc Shaman được biết đến với việc khiến não của kẻ thù nổ tung khỏi hộp sọ, bắn ra những tia tử thần từ đôi mắt nhỏ xíu của chính chúng hoặc triệu hồi một bàn chân xanh toàn năng từ trên trời giáng xuống để giẫm đạp bất cứ thứ gì bất hạnh ở bên dưới.	false
+agent_subtypes_description_text_override_wh_main_grn_orc_warboss		false
+agent_subtypes_description_text_override_wh_main_nor_chaos_sorcerer_metal		false
+agent_subtypes_description_text_override_wh_main_nor_marauder_chieftain		false
+agent_subtypes_onscreen_name_override_wh_main_emp_light_wizard	Pháp sư Ánh sáng	false
+agent_subtypes_onscreen_name_override_wh_main_emp_lord	Tướng quân Đế chế	false
+agent_subtypes_onscreen_name_override_wh_main_emp_lord_spawned_army	Tướng quân Đế chế	false
+agent_subtypes_onscreen_name_override_wh_main_emp_warrior_priest	Warrior Priest	false
+agent_subtypes_onscreen_name_override_wh_main_emp_witch_hunter	Witch Hunter	false
+agent_subtypes_onscreen_name_override_wh_main_grn_azhag_the_slaughterer	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_main_grn_goblin_big_boss	Goblin Big Boss	false
+agent_subtypes_onscreen_name_override_wh_main_grn_goblin_great_shaman	Đại Pháp sư Goblin	false
+agent_subtypes_onscreen_name_override_wh_main_grn_grimgor_ironhide	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_main_grn_night_goblin_shaman	Pháp sư Night Goblin	false
+agent_subtypes_onscreen_name_override_wh_main_grn_orc_shaman	Orc Shaman	false
+agent_subtypes_onscreen_name_override_wh_main_grn_orc_warboss	Orc Warboss	false
+agent_subtypes_onscreen_name_override_wh_main_nor_chaos_sorcerer_metal	Pháp sư Hỗn mang (Kim loại)	false
+agent_subtypes_onscreen_name_override_wh_main_nor_marauder_chieftain	Thủ lĩnh Marauder	false
+agent_subtypes_onscreen_name_override_wh_main_teb_bright_wizard	Pháp sư Lửa	false
+agent_subtypes_onscreen_name_override_wh_main_teb_captain	Đội trưởng	false
+agent_subtypes_onscreen_name_override_wh_main_teb_lord	Tướng quân	false
+agent_subtypes_onscreen_name_override_wh_main_vmp_banshee	Banshee	false
+agent_subtypes_onscreen_name_override_wh_main_vmp_heinrich_kemmler	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_main_vmp_lord	Chúa tể Ma tớn	false
+agent_subtypes_onscreen_name_override_wh_main_vmp_mannfred_von_carstein	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_main_vmp_master_necromancer	Bậc thầy Necromancer	false
+agent_subtypes_onscreen_name_override_wh_main_vmp_necromancer	Necromancer	false
+agent_subtypes_onscreen_name_override_wh_main_vmp_vampire_death	Ma tớn (Tử thần)	false
+agent_subtypes_onscreen_name_override_wh_main_vmp_wight_king	Wight King	false
+agent_subtypes_onscreen_name_override_wh_pro01_dwf_grombrindal	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_pro02_vmp_isabella_von_carstein	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_pro02_vmp_isabella_von_carstein_hero	Anh hùng Huyền thoại	false
+agent_subtypes_onscreen_name_wh2_dlc09_skv_tretch_craventail	Tretch Craventail	false
+agent_subtypes_onscreen_name_wh2_dlc09_tmb_arkhan	Arkhan Kẻ Đen	false
+agent_subtypes_onscreen_name_wh2_dlc09_tmb_khalida	Đại Nữ hoàng Khalida	false
+agent_subtypes_onscreen_name_wh2_dlc09_tmb_khatep	Đại Tư tế Khatep	false
+agent_subtypes_onscreen_name_wh2_dlc09_tmb_liche_priest_death	Tư Tế Liche	false
+agent_subtypes_onscreen_name_wh2_dlc09_tmb_liche_priest_light	Tư Tế Liche	false
+agent_subtypes_onscreen_name_wh2_dlc09_tmb_liche_priest_nehekhara	Tư Tế Liche	false
+agent_subtypes_onscreen_name_wh2_dlc09_tmb_liche_priest_shadow	Tư Tế Liche	false
+agent_subtypes_onscreen_name_wh2_dlc09_tmb_necrotect	Necrotect	false
+agent_subtypes_onscreen_name_wh2_dlc09_tmb_necrotect_ritual	Necrotect	false
+agent_subtypes_onscreen_name_wh2_dlc09_tmb_settra	Settra Bất Diệt	false
+agent_subtypes_onscreen_name_wh2_dlc09_tmb_tomb_king	Tomb King	false
+agent_subtypes_onscreen_name_wh2_dlc09_tmb_tomb_king_alkhazzar_ii	Vua Alkhazzar Đệ nhị	false
+agent_subtypes_onscreen_name_wh2_dlc09_tmb_tomb_king_lahmizzash	Vua Lahmizzash	false
+agent_subtypes_onscreen_name_wh2_dlc09_tmb_tomb_king_rakhash	Vua Rakhash	false
+agent_subtypes_onscreen_name_wh2_dlc09_tmb_tomb_king_setep	Vua Setep	false
+agent_subtypes_onscreen_name_wh2_dlc09_tmb_tomb_king_thutep	Vua Thutep	false
+agent_subtypes_onscreen_name_wh2_dlc09_tmb_tomb_king_wakhaf	Vua Wakhaf	false
+agent_subtypes_onscreen_name_wh2_dlc09_tmb_tomb_prince	Tomb Prince	false
+agent_subtypes_onscreen_name_wh2_dlc10_def_crone_hellebron	Hellebron	false
+agent_subtypes_onscreen_name_wh2_dlc10_def_mon_war_hydra_boss	Kẻ To Lớn (The Big One)	false
+agent_subtypes_onscreen_name_wh2_dlc10_def_sorceress_beasts	Nữ Pháp sư	false
+agent_subtypes_onscreen_name_wh2_dlc10_def_sorceress_death	Nữ Pháp sư	false
+agent_subtypes_onscreen_name_wh2_dlc10_def_supreme_sorceress_beasts	Nữ Đại Pháp sư	false
+agent_subtypes_onscreen_name_wh2_dlc10_def_supreme_sorceress_dark	Nữ Đại Pháp sư	false
+agent_subtypes_onscreen_name_wh2_dlc10_def_supreme_sorceress_death	Nữ Đại Pháp sư	false
+agent_subtypes_onscreen_name_wh2_dlc10_def_supreme_sorceress_fire	Nữ Đại Pháp sư	false
+agent_subtypes_onscreen_name_wh2_dlc10_def_supreme_sorceress_shadow	Nữ Đại Pháp sư	false
+agent_subtypes_onscreen_name_wh2_dlc10_hef_alarielle	Alarielle Bất Duyệt	false
+agent_subtypes_onscreen_name_wh2_dlc10_hef_alith_anar	Alith Anar	false
+agent_subtypes_onscreen_name_wh2_dlc10_hef_handmaiden	Nữ quan (Handmaiden)	false
+agent_subtypes_onscreen_name_wh2_dlc10_hef_mage_heavens	Mage	false
+agent_subtypes_onscreen_name_wh2_dlc10_hef_mage_shadows	Mage	false
+agent_subtypes_onscreen_name_wh2_dlc10_hef_shadow_walker	Hand of the Shadow Crown	false
+agent_subtypes_onscreen_name_wh2_dlc10_lzd_mon_carnosaur_boss	The Pale Death	false
+agent_subtypes_onscreen_name_wh2_dlc10_nor_phoenix_flamespyre_boss	The Ward of Hoeth	false
+agent_subtypes_onscreen_name_wh2_dlc10_skv_mon_hell_pit_abomination_boss	The Thing in the Pit	false
+agent_subtypes_onscreen_name_wh2_dlc11_cst_admiral_death	Đô đốc Hạm đội Ma tớn	false
+agent_subtypes_onscreen_name_wh2_dlc11_cst_admiral_deep	Đô đốc Hạm đội Ma tớn	false
+agent_subtypes_onscreen_name_wh2_dlc11_cst_admiral_fem_death	Đô đốc Hạm đội Ma tớn	false
+agent_subtypes_onscreen_name_wh2_dlc11_cst_admiral_fem_deep	Đô đốc Hạm đội Ma tớn	false
+agent_subtypes_onscreen_name_wh2_dlc11_cst_admiral_fem_vampires	Đô đốc Hạm đội Ma tớn	false
+agent_subtypes_onscreen_name_wh2_dlc11_cst_admiral_tech_01	Đô đốc Khét tiếng (Ma tớn)	false
+agent_subtypes_onscreen_name_wh2_dlc11_cst_admiral_tech_02	Đô đốc Khét tiếng (Vực sâu)	false
+agent_subtypes_onscreen_name_wh2_dlc11_cst_admiral_tech_03	Đô đốc Khét tiếng (Tử thần)	false
+agent_subtypes_onscreen_name_wh2_dlc11_cst_admiral_tech_04	Đô đốc Khét tiếng (Vực sâu)	false
+agent_subtypes_onscreen_name_wh2_dlc11_cst_admiral_vampires	Đô đốc Hạm đội Ma tớn	false
+agent_subtypes_onscreen_name_wh2_dlc11_cst_aranessa	Aranessa Saltspite	false
+agent_subtypes_onscreen_name_wh2_dlc11_cst_cylostra	Cylostra Direfin	false
+agent_subtypes_onscreen_name_wh2_dlc11_cst_fleet_captain_death	Thuyền trưởng Hạm đội Ma tớn	false
+agent_subtypes_onscreen_name_wh2_dlc11_cst_fleet_captain_deep	Thuyền trưởng Hạm đội Ma tớn	false
+agent_subtypes_onscreen_name_wh2_dlc11_cst_fleet_captain_vampires	Thuyền trưởng Hạm đội Ma tớn	false
+agent_subtypes_onscreen_name_wh2_dlc11_cst_ghost_paladin	Damned Paladin	false
+agent_subtypes_onscreen_name_wh2_dlc11_cst_gunnery_wight	Gunnery Wight	false
+agent_subtypes_onscreen_name_wh2_dlc11_cst_harkon	Luthor Harkon	false
+agent_subtypes_onscreen_name_wh2_dlc11_cst_mourngul	Mourngul Haunter	false
+agent_subtypes_onscreen_name_wh2_dlc11_cst_noctilus	Bá tước Noctilus	false
+agent_subtypes_onscreen_name_wh2_dlc11_def_lokhir	Lokhir Fellheart	false
+agent_subtypes_onscreen_name_wh2_dlc11_vmp_bloodline_blood_dragon	Chúa tể Blood Dragon	false
+agent_subtypes_onscreen_name_wh2_dlc11_vmp_bloodline_lahmian	Chúa tể Lahmian	false
+agent_subtypes_onscreen_name_wh2_dlc11_vmp_bloodline_necrarch	Chúa tể Necrarch	false
+agent_subtypes_onscreen_name_wh2_dlc11_vmp_bloodline_strigoi	Strigoi Ghoul King Tôn kính	false
+agent_subtypes_onscreen_name_wh2_dlc11_vmp_bloodline_von_carstein	Chúa tể Von Carstein	false
+agent_subtypes_onscreen_name_wh2_dlc12_lzd_lord_kroak	Chúa tể Kroak	false
+agent_subtypes_onscreen_name_wh2_dlc12_lzd_lord_kroak_boss	Chúa tể Kroak (Vùng giao tranh)	false
+agent_subtypes_onscreen_name_wh2_dlc12_lzd_red_crested_skink_chief	Thủ lĩnh Skink Mào Đỏ	false
+agent_subtypes_onscreen_name_wh2_dlc12_lzd_red_crested_skink_chief_legendary	Lotl-Botl	false
+agent_subtypes_onscreen_name_wh2_dlc12_lzd_tehenhauin	Tehenhauin	false
+agent_subtypes_onscreen_name_wh2_dlc12_lzd_tiktaqto	Tiktaq'to	false
+agent_subtypes_onscreen_name_wh2_dlc12_lzd_tlaqua_skink_chief	Thủ lĩnh Skink	false
+agent_subtypes_onscreen_name_wh2_dlc12_lzd_tlaqua_skink_priest_beasts	Tư tế Skink	false
+agent_subtypes_onscreen_name_wh2_dlc12_lzd_tlaqua_skink_priest_heavens	Tư tế Skink	false
+agent_subtypes_onscreen_name_wh2_dlc12_skv_ikit_claw	Ikit Claw	false
+agent_subtypes_onscreen_name_wh2_dlc12_skv_warlock_master	Warlock Master	false
+agent_subtypes_onscreen_name_wh2_dlc13_emp_cha_huntsmarshal	Tướng quân Thợ săn	false
+agent_subtypes_onscreen_name_wh2_dlc13_emp_cha_markus_wulfhart	Markus Wulfhart	false
+agent_subtypes_onscreen_name_wh2_dlc13_emp_hunter_doctor_hertwig_van_hal	Hertwig van Hal	false
+agent_subtypes_onscreen_name_wh2_dlc13_emp_hunter_jorek_grimm	Jorek Grimm	false
+agent_subtypes_onscreen_name_wh2_dlc13_emp_hunter_kalara_of_wydrioth	Kalara of Wydrioth	false
+agent_subtypes_onscreen_name_wh2_dlc13_emp_hunter_rodrik_l_anguille	Rodrik L'Anguille	false
+agent_subtypes_onscreen_name_wh2_dlc13_lzd_gor_rok	Gor-Rok	false
+agent_subtypes_onscreen_name_wh2_dlc13_lzd_kroxigor_ancient	Kroxigor Cổ đại	false
+agent_subtypes_onscreen_name_wh2_dlc13_lzd_kroxigor_ancient_horde	Kroxigor Cổ đại	false
+agent_subtypes_onscreen_name_wh2_dlc13_lzd_nakai	Nakai Kẻ Lãng Du	false
+agent_subtypes_onscreen_name_wh2_dlc13_lzd_red_crested_skink_chief_horde	Thủ lĩnh Skink Mào Đỏ	false
+agent_subtypes_onscreen_name_wh2_dlc13_lzd_saurus_old_blood_horde	Saurus Oldblood	false
+agent_subtypes_onscreen_name_wh2_dlc13_lzd_skink_chief_horde	Thủ lĩnh Skink	false
+agent_subtypes_onscreen_name_wh2_dlc13_lzd_slann_mage_priest_beasts	Slann Mage-Priest	false
+agent_subtypes_onscreen_name_wh2_dlc13_lzd_slann_mage_priest_beasts_horde	Slann Mage-Priest	false
+agent_subtypes_onscreen_name_wh2_dlc13_lzd_slann_mage_priest_death	Slann Mage-Priest	false
+agent_subtypes_onscreen_name_wh2_dlc13_lzd_slann_mage_priest_death_horde	Slann Mage-Priest	false
+agent_subtypes_onscreen_name_wh2_dlc13_lzd_slann_mage_priest_fire	Slann Mage-Priest	false
+agent_subtypes_onscreen_name_wh2_dlc13_lzd_slann_mage_priest_fire_horde	Slann Mage-Priest	false
+agent_subtypes_onscreen_name_wh2_dlc13_lzd_slann_mage_priest_heavens	Slann Mage-Priest	false
+agent_subtypes_onscreen_name_wh2_dlc13_lzd_slann_mage_priest_heavens_horde	Slann Mage-Priest	false
+agent_subtypes_onscreen_name_wh2_dlc13_lzd_slann_mage_priest_high	Slann Mage-Priest	false
+agent_subtypes_onscreen_name_wh2_dlc13_lzd_slann_mage_priest_high_horde	Slann Mage-Priest	false
+agent_subtypes_onscreen_name_wh2_dlc13_lzd_slann_mage_priest_life	Slann Mage-Priest	false
+agent_subtypes_onscreen_name_wh2_dlc13_lzd_slann_mage_priest_life_horde	Slann Mage-Priest	false
+agent_subtypes_onscreen_name_wh2_dlc13_lzd_slann_mage_priest_metal	Slann Mage-Priest	false
+agent_subtypes_onscreen_name_wh2_dlc13_lzd_slann_mage_priest_metal_horde	Slann Mage-Priest	false
+agent_subtypes_onscreen_name_wh2_dlc13_lzd_slann_mage_priest_shadows	Slann Mage-Priest	false
+agent_subtypes_onscreen_name_wh2_dlc13_lzd_slann_mage_priest_shadows_horde	Slann Mage-Priest	false
+agent_subtypes_onscreen_name_wh2_dlc14_brt_henri_le_massif	Henri le Massif	false
+agent_subtypes_onscreen_name_wh2_dlc14_brt_repanse	Repanse de Lyonesse	false
+agent_subtypes_onscreen_name_wh2_dlc14_def_high_beastmaster	Đại Thống lĩnh Quái thú	false
+agent_subtypes_onscreen_name_wh2_dlc14_def_malus_darkblade	Malus Darkblade	false
+agent_subtypes_onscreen_name_wh2_dlc14_def_malus_darkblade_mp	Malus Darkblade	false
+agent_subtypes_onscreen_name_wh2_dlc14_def_master	Master	false
+agent_subtypes_onscreen_name_wh2_dlc14_dummy_tzarkan	Tz'arkan	false
+agent_subtypes_onscreen_name_wh2_dlc14_skv_deathmaster_snikch	Tử Thần Master Snikch	false
+agent_subtypes_onscreen_name_wh2_dlc14_skv_eshin_sorcerer	Eshin Sorcerer	false
+agent_subtypes_onscreen_name_wh2_dlc14_skv_master_assassin	Bậc thầy Sát thủ	false
+agent_subtypes_onscreen_name_wh2_dlc15_grn_goblin_great_shaman_raknik	Đại Pháp sư Goblin	false
+agent_subtypes_onscreen_name_wh2_dlc15_grn_grom_the_paunch	Grom Cái Bụng Phệ	false
+agent_subtypes_onscreen_name_wh2_dlc15_grn_orc_warboss_oglok	Orc Warboss	false
+agent_subtypes_onscreen_name_wh2_dlc15_grn_river_troll_hag	Giant River Troll Hag	false
+agent_subtypes_onscreen_name_wh2_dlc15_hef_archmage_beasts	Archmage	false
+agent_subtypes_onscreen_name_wh2_dlc15_hef_archmage_death	Archmage	false
+agent_subtypes_onscreen_name_wh2_dlc15_hef_archmage_fire	Archmage	false
+agent_subtypes_onscreen_name_wh2_dlc15_hef_archmage_heavens	Archmage	false
+agent_subtypes_onscreen_name_wh2_dlc15_hef_archmage_high	Archmage	false
+agent_subtypes_onscreen_name_wh2_dlc15_hef_archmage_life	Archmage	false
+agent_subtypes_onscreen_name_wh2_dlc15_hef_archmage_light	Archmage	false
+agent_subtypes_onscreen_name_wh2_dlc15_hef_archmage_metal	Archmage	false
+agent_subtypes_onscreen_name_wh2_dlc15_hef_archmage_shadows	Archmage	false
+agent_subtypes_onscreen_name_wh2_dlc15_hef_black_dragon_boss_imrik	Shacklesplitter (Hắc Long)	false
+agent_subtypes_onscreen_name_wh2_dlc15_hef_eltharion	Eltharion Kẻ Khắc Nghiệt	false
+agent_subtypes_onscreen_name_wh2_dlc15_hef_forest_dragon_boss_imrik	Bruwor (Forest Dragon)	false
+agent_subtypes_onscreen_name_wh2_dlc15_hef_imrik	Imrik	false
+agent_subtypes_onscreen_name_wh2_dlc15_hef_mage_beasts	Mage	false
+agent_subtypes_onscreen_name_wh2_dlc15_hef_mage_death	Mage	false
+agent_subtypes_onscreen_name_wh2_dlc15_hef_mage_fire	Mage	false
+agent_subtypes_onscreen_name_wh2_dlc15_hef_mage_metal	Mage	false
+agent_subtypes_onscreen_name_wh2_dlc15_hef_moon_dragon_boss_imrik	Gordinar (Nguyệt Long)	false
+agent_subtypes_onscreen_name_wh2_dlc15_hef_star_dragon_boss_imrik	Ymwrath Đáng Căm Hờn (Tinh Long)	false
+agent_subtypes_onscreen_name_wh2_dlc15_hef_sun_dragon_boss_imrik	Lamoureux (Thái Dương Long)	false
+agent_subtypes_onscreen_name_wh2_dlc16_skv_chieftain	Thủ lĩnh (Chieftain)	false
+agent_subtypes_onscreen_name_wh2_dlc16_skv_ghoritch	Ghoritch	false
+agent_subtypes_onscreen_name_wh2_dlc16_skv_ghoritch_boss	Ghoritch	false
+agent_subtypes_onscreen_name_wh2_dlc16_skv_packmaster	Packmaster	false
+agent_subtypes_onscreen_name_wh2_dlc16_skv_throt_the_unclean	Throt the Unclean	false
+agent_subtypes_onscreen_name_wh2_dlc16_wef_ariel	Ariel	false
+agent_subtypes_onscreen_name_wh2_dlc16_wef_coeddil	Coeddil	false
+agent_subtypes_onscreen_name_wh2_dlc16_wef_coeddil_qb	Coeddil	false
+agent_subtypes_onscreen_name_wh2_dlc16_wef_drycha	Drycha	false
+agent_subtypes_onscreen_name_wh2_dlc16_wef_malicious_ancient_treeman_beasts	Treeman Cổ đại Thù hằn	false
+agent_subtypes_onscreen_name_wh2_dlc16_wef_malicious_ancient_treeman_life	Treeman Cổ đại Thù hằn	false
+agent_subtypes_onscreen_name_wh2_dlc16_wef_malicious_ancient_treeman_shadows	Treeman Cổ đại Thù hằn	false
+agent_subtypes_onscreen_name_wh2_dlc16_wef_malicious_branchwraith_beasts	Branchwraith Thù hằn	false
+agent_subtypes_onscreen_name_wh2_dlc16_wef_malicious_branchwraith_life	Branchwraith Thù hằn	false
+agent_subtypes_onscreen_name_wh2_dlc16_wef_malicious_branchwraith_shadows	Branchwraith Thù hằn	false
+agent_subtypes_onscreen_name_wh2_dlc16_wef_sisters_of_twilight	Chị em vùng Twilight	false
+agent_subtypes_onscreen_name_wh2_dlc16_wef_spellweaver_beasts	Spellweaver	false
+agent_subtypes_onscreen_name_wh2_dlc16_wef_spellweaver_dark	Spellweaver	false
+agent_subtypes_onscreen_name_wh2_dlc16_wef_spellweaver_high	Spellweaver	false
+agent_subtypes_onscreen_name_wh2_dlc16_wef_spellweaver_life	Spellweaver	false
+agent_subtypes_onscreen_name_wh2_dlc16_wef_spellweaver_shadows	Spellweaver	false
+agent_subtypes_onscreen_name_wh2_dlc17_bst_doombull	Doombull	false
+agent_subtypes_onscreen_name_wh2_dlc17_bst_taurox	Taurox Móng Đồng	false
+agent_subtypes_onscreen_name_wh2_dlc17_bst_wargor	Wargor	false
+agent_subtypes_onscreen_name_wh2_dlc17_dwf_thane_ghost_artifact	Thane Đại Rìu (Great Axe Thane)	false
+agent_subtypes_onscreen_name_wh2_dlc17_dwf_thorek	Thorek Ironbrow	false
+agent_subtypes_onscreen_name_wh2_dlc17_lzd_mon_dread_saurian_qb_boss	Kẻ To Lớn (The Big One)	false
+agent_subtypes_onscreen_name_wh2_dlc17_lzd_oxyotl	Oxyotl	false
+agent_subtypes_onscreen_name_wh2_dlc17_lzd_skink_oracle_troglodon	Skink Oracle	false
+agent_subtypes_onscreen_name_wh2_dlc17_vmp_kevon_lloydstein	Kevon Lloydstein	false
+agent_subtypes_onscreen_name_override_wh2_main_hef_princess	Công chúa	false
+agent_subtypes_onscreen_name_override_wh2_main_hef_teclis	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh2_main_hef_tyrion	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh2_main_lzd_kroq_gar	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh2_main_lzd_lord_mazdamundi	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_main_emp_light_wizard	Pháp sư Ánh sáng	false
+agent_subtypes_onscreen_name_override_wh_main_emp_lord	Tướng quân Đế chế	false
+agent_subtypes_onscreen_name_override_wh_main_emp_lord_spawned_army	{{tr:agent_subtypes_onscreen_name_override_wh_main_emp_lord}}	false
+agent_subtypes_onscreen_name_override_wh_main_emp_warrior_priest	Warrior Priest	false
+agent_subtypes_onscreen_name_override_wh_main_emp_witch_hunter	Witch Hunter	false
+agent_subtypes_onscreen_name_override_wh_main_grn_azhag_the_slaughterer	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_main_grn_goblin_big_boss	Goblin Big Boss	false
+agent_subtypes_onscreen_name_override_wh_main_grn_goblin_great_shaman	Đại Pháp sư Goblin	false
+agent_subtypes_onscreen_name_override_wh_main_grn_grimgor_ironhide	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_main_grn_night_goblin_shaman	Pháp sư Night Goblin	false
+agent_subtypes_onscreen_name_override_wh_main_grn_orc_shaman	Orc Shaman	false
+agent_subtypes_onscreen_name_override_wh_main_grn_orc_warboss	Orc Warboss	false
+agent_subtypes_onscreen_name_override_wh_main_nor_chaos_sorcerer_metal	Pháp sư Hỗn mang (Kim loại)	false
+agent_subtypes_onscreen_name_override_wh_main_nor_marauder_chieftain	Thủ lĩnh Marauder	false
+agent_subtypes_onscreen_name_override_wh_main_teb_bright_wizard	Pháp sư Lửa	false
+agent_subtypes_onscreen_name_override_wh_main_teb_captain	Đội trưởng	false
+agent_subtypes_onscreen_name_override_wh_main_teb_lord	Tướng quân	false
+agent_subtypes_onscreen_name_override_wh_main_vmp_banshee	Banshee	false
+agent_subtypes_onscreen_name_override_wh_main_vmp_heinrich_kemmler	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_main_vmp_lord	Chúa tể Ma tớn	false
+agent_subtypes_onscreen_name_override_wh_main_vmp_mannfred_von_carstein	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_main_vmp_master_necromancer	Bậc thầy Necromancer	false
+agent_subtypes_onscreen_name_override_wh_main_vmp_necromancer	Necromancer	false
+agent_subtypes_onscreen_name_override_wh_main_vmp_vampire_death	Ma tớn (Tử thần)	false
+agent_subtypes_onscreen_name_override_wh_main_vmp_wight_king	Wight King	false
+agent_subtypes_onscreen_name_override_wh_pro01_dwf_grombrindal	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_pro02_vmp_isabella_von_carstein	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_pro02_vmp_isabella_von_carstein_hero	Anh hùng Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh2_twa04_bst_great_bray_shaman_beasts	Đại Bray-Shaman (Dã thú)	false
+agent_subtypes_onscreen_name_override_wh2_twa04_bst_great_bray_shaman_death	Đại Bray-Shaman (Tử thần)	false
+agent_subtypes_onscreen_name_override_wh2_twa04_bst_great_bray_shaman_shadows	Đại Bray-Shaman (Bóng tối)	false
+agent_subtypes_onscreen_name_override_wh2_twa04_bst_great_bray_shaman_wild	Đại Bray-Shaman (Hoang dã)	false
+agent_subtypes_onscreen_name_override_wh3_cp1_cth_bhashiva	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_cp1_cth_cha_taoyan	Anh hùng Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_cp1_cth_clawspeaker_beasts	{{tr:land_units_onscreen_name_wh3_cp1_cth_cha_clawspeaker_beasts}}	false
+agent_subtypes_onscreen_name_override_wh3_cp1_cth_clawspeaker_life	{{tr:land_units_onscreen_name_wh3_cp1_cth_cha_clawspeaker_life}}	false
+agent_subtypes_onscreen_name_override_wh3_cp1_cth_clawspeaker_shadows	{{tr:land_units_onscreen_name_wh3_cp1_cth_cha_clawspeaker_shadows}}	false
+agent_subtypes_onscreen_name_override_wh3_cp1_cth_sawai	{{tr:land_units_onscreen_name_wh3_cp1_cth_cha_sawai}}	false
+agent_subtypes_onscreen_name_override_wh3_cp1_cth_sawai_caravan	Lính đánh thuê Sawai	false
+agent_subtypes_onscreen_name_override_wh3_demo_kho_cha_exalted_bloodthirster	Bloodthirster Vĩ Đại	false
+agent_subtypes_onscreen_name_override_wh3_demo_nur_exalted_great_unclean_one_nurgle	Great Unclean One Vĩ Đại (Nurgle)	false
+agent_subtypes_onscreen_name_override_wh3_dlc20_chs_daemon_prince_khorne	Hoàng tử Ác quỷ của Khorne	false
+agent_subtypes_onscreen_name_override_wh3_dlc20_chs_daemon_prince_nurgle	Hoàng tử Ác quỷ của Nurgle	false
+agent_subtypes_onscreen_name_override_wh3_dlc20_chs_daemon_prince_slaanesh	Hoàng tử Ác quỷ của Slaanesh	false
+agent_subtypes_onscreen_name_override_wh3_dlc20_chs_daemon_prince_tzeentch	Hoàng tử Ác quỷ của Tzeentch	false
+agent_subtypes_onscreen_name_override_wh3_dlc20_chs_daemon_prince_undivided	Hoàng tử Ác quỷ (Hỗn mang Bất phân)	false
+agent_subtypes_onscreen_name_override_wh3_dlc20_chs_exalted_hero_mkho	Nhà Vô Địch của Khorne	false
+agent_subtypes_onscreen_name_override_wh3_dlc20_chs_exalted_hero_mnur	Nhà Vô Địch của Nurgle	false
+agent_subtypes_onscreen_name_override_wh3_dlc20_chs_lord_mkho	Chúa tể Hỗn mang của Khorne	false
+agent_subtypes_onscreen_name_override_wh3_dlc20_chs_lord_msla	Chúa tể Hỗn mang của Slaanesh	false
+agent_subtypes_onscreen_name_override_wh3_dlc20_chs_sorcerer_lord_death_mnur	Chúa tể Pháp sư Hỗn mang của Nurgle (Tử thần)	false
+agent_subtypes_onscreen_name_override_wh3_dlc20_chs_sorcerer_lord_metal_mtze	Chúa tể Pháp sư Hỗn mang của Tzeentch (Kim loại)	false
+agent_subtypes_onscreen_name_override_wh3_dlc20_chs_sorcerer_lord_nurgle_mnur	Chúa tể Pháp sư Hỗn mang của Nurgle (Nurgle)	false
+agent_subtypes_onscreen_name_override_wh3_dlc20_chs_sorcerer_lord_tzeentch_mtze	Chúa tể Pháp sư Hỗn mang của Tzeentch (Tzeentch)	false
+agent_subtypes_onscreen_name_override_wh3_dlc20_chs_sorcerer_metal_mtze	Pháp sư Hỗn mang của Tzeentch (Kim loại)	false
+agent_subtypes_onscreen_name_override_wh3_dlc20_chs_sorcerer_shadows_msla	Pháp sư Hỗn mang của Slaanesh (Bóng tối)	false
+agent_subtypes_onscreen_name_override_wh3_dlc20_chs_sorcerer_slaanesh_msla	Pháp sư Hỗn mang của Slaanesh (Slaanesh)	false
+agent_subtypes_onscreen_name_override_wh3_dlc20_chs_sorcerer_tzeentch_mtze	Pháp sư Hỗn mang của Tzeentch (Tzeentch)	false
+agent_subtypes_onscreen_name_override_wh3_dlc20_kho_valkia	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_dlc20_nur_festus	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_dlc20_sla_azazel	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_dlc20_tze_vilitch	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_dlc23_chd_astragoth	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_dlc23_chd_bull_centaur_taurruk	Bull Centaur Taur'ruk	false
+agent_subtypes_onscreen_name_override_wh3_dlc23_chd_daemonsmith_sorcerer_death	Daemonsmith Sorcerer (Tử thần)	false
+agent_subtypes_onscreen_name_override_wh3_dlc23_chd_daemonsmith_sorcerer_fire	Daemonsmith Sorcerer (Lửa)	false
+agent_subtypes_onscreen_name_override_wh3_dlc23_chd_daemonsmith_sorcerer_hashut	Daemonsmith Sorcerer (Hashut)	false
+agent_subtypes_onscreen_name_override_wh3_dlc23_chd_daemonsmith_sorcerer_metal	Daemonsmith Sorcerer (Kim loại)	false
+agent_subtypes_onscreen_name_override_wh3_dlc23_chd_drazhoath	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_dlc23_chd_gorduz_backstabber	Anh hùng Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_dlc23_chd_infernal_castellan	Infernal Castellan	false
+agent_subtypes_onscreen_name_override_wh3_dlc23_chd_lord_convoy_overseer	Người giám sát Đoàn buôn	false
+agent_subtypes_onscreen_name_override_wh3_dlc23_chd_overseer	Người giám sát	false
+agent_subtypes_onscreen_name_override_wh3_dlc23_chd_overseer_hobgoblin_spawned_army	Người giám sát	false
+agent_subtypes_onscreen_name_override_wh3_dlc23_chd_sorcerer_prophet_death	Pháp sư-Tiên tri (Tử thần)	false
+agent_subtypes_onscreen_name_override_wh3_dlc23_chd_sorcerer_prophet_fire	Pháp sư-Tiên tri (Lửa)	false
+agent_subtypes_onscreen_name_override_wh3_dlc23_chd_sorcerer_prophet_hashut	Pháp sư-Tiên tri (Hashut)	false
+agent_subtypes_onscreen_name_override_wh3_dlc23_chd_sorcerer_prophet_metal	Pháp sư-Tiên tri (Kim loại)	false
+agent_subtypes_onscreen_name_override_wh3_dlc23_chd_zhatan	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_dlc23_neu_ulrika	Anh hùng Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_dlc24_chs_exalted_hero_mtze	Nhà Vô Địch của Tzeentch	false
+agent_subtypes_onscreen_name_override_wh3_dlc24_chs_lord_mtze	Chúa tể Hỗn mang của Tzeentch	false
+agent_subtypes_onscreen_name_override_wh3_dlc24_cth_celestial_general_yang	Tướng quân Thiên giới (Dương)	false
+agent_subtypes_onscreen_name_override_wh3_dlc24_cth_celestial_general_yin	Tướng quân Thiên giới (Âm)	false
+agent_subtypes_onscreen_name_override_wh3_dlc24_cth_gate_master	{{tr:agent_culture_details_onscreen_name_372558352}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc24_cth_lord_magistrate_reserves	Chúa tể Pháp quan (Chỉ huy Đồn trú)	false
+agent_subtypes_onscreen_name_override_wh3_dlc24_cth_saytang_the_watcher	Anh hùng Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_dlc24_cth_yuan_bo	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_dlc24_grn_grimgor_ironhide_quest_battle	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_dlc24_ksl_boyar_summoned	Boyar	false
+agent_subtypes_onscreen_name_override_wh3_dlc24_ksl_druzhina	Druzhina	false
+agent_subtypes_onscreen_name_override_wh3_dlc24_ksl_hag_witch_beasts	Hag Witch (Dã thú)	false
+agent_subtypes_onscreen_name_override_wh3_dlc24_ksl_hag_witch_death	Hag Witch (Tử thần)	false
+agent_subtypes_onscreen_name_override_wh3_dlc24_ksl_hag_witch_hag	Hag Witch (Hag)	false
+agent_subtypes_onscreen_name_override_wh3_dlc24_ksl_hag_witch_shadows	Hag Witch (Bóng tối)	false
+agent_subtypes_onscreen_name_override_wh3_dlc24_ksl_mother_ostankya	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_dlc24_ksl_the_golden_knight	Anh hùng Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_dlc24_tze_aekold_helbrass	Anh hùng Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_dlc24_tze_blue_scribes	Anh hùng Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_dlc24_tze_exalted_lord_of_change_metal_locked_army	Chúa tể Thay đổi Vĩ Đại (Kim loại)	false
+agent_subtypes_onscreen_name_override_wh3_dlc24_tze_exalted_lord_of_change_tzeentch_locked_army	Chúa tể Thay đổi Vĩ Đại (Tzeentch)	false
+agent_subtypes_onscreen_name_override_wh3_dlc24_tze_the_changeling	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_dlc24_tze_the_changeling_cultist_special	Trickster Cultist	false
+agent_subtypes_onscreen_name_override_wh3_dlc25_bst_mon_jabberslythe_qb_boss	{{tr:land_units_onscreen_name_wh3_dlc25_bst_mon_jabberslythe_qb_boss}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc25_chs_lord_mnur	Chúa tể Hỗn mang của Nurgle	false
+agent_subtypes_onscreen_name_override_wh3_dlc25_chs_sorcerer_death_mnur	Pháp sư Hỗn mang của Nurgle (Tử thần)	false
+agent_subtypes_onscreen_name_override_wh3_dlc25_chs_sorcerer_nurgle_mnur	Pháp sư Hỗn mang của Nurgle (Nurgle)	false
+agent_subtypes_onscreen_name_override_wh3_dlc25_dwf_daemon_slayer	Daemon Slayer	false
+agent_subtypes_onscreen_name_override_wh3_dlc25_dwf_daemon_slayer_spawned_army	{{tr:agent_subtypes_onscreen_name_override_wh3_dlc25_dwf_daemon_slayer}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc25_dwf_dragon_slayer	Dragon Slayer	false
+agent_subtypes_onscreen_name_override_wh3_dlc25_dwf_garagrim_ironfist	Anh hùng Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_dlc25_dwf_lord_mikael_leadstrong	Chúa tể	false
+agent_subtypes_onscreen_name_override_wh3_dlc25_dwf_malakai_makaisson	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_dlc25_emp_elspeth_von_draken	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_dlc25_emp_engineer	{{tr:land_units_onscreen_name_wh3_dlc25_emp_cha_engineer}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc25_emp_gold_wizard	Pháp sư Vàng	false
+agent_subtypes_onscreen_name_override_wh3_dlc25_emp_master_engineer	{{tr:land_units_onscreen_name_wh3_dlc25_emp_cha_master_engineer}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc25_emp_theodore_bruckner	Anh hùng Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_dlc25_grn_mon_rogue_idol_qb_boss	{{tr:land_units_onscreen_name_wh3_dlc25_grn_mon_rogue_idol_qb_boss}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc25_neu_gotrek_hero	Anh hùng Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_dlc25_nur_bray_shaman_wild_chieftain	Bray-Shaman (Hoang dã)	false
+agent_subtypes_onscreen_name_override_wh3_dlc25_nur_castellan_chieftain	Infernal Castellan	false
+agent_subtypes_onscreen_name_override_wh3_dlc25_nur_cha_exalted_great_unclean_one_nurgle_qb_boss	Fatsod	false
+agent_subtypes_onscreen_name_override_wh3_dlc25_nur_epidemius	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_dlc25_nur_exalted_hero_chieftain	Nhà Vô Địch	false
+agent_subtypes_onscreen_name_override_wh3_dlc25_nur_fimir_balefiend_shadow_chieftain	Fimir Balefiend (Bóng tối)	false
+agent_subtypes_onscreen_name_override_wh3_dlc25_nur_kayzk_the_befouled	Anh hùng Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_dlc25_nur_skin_wolf_werekin_chieftain	Skin Wolf Werekin	false
+agent_subtypes_onscreen_name_override_wh3_dlc25_nur_tamurkhan	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_dlc26_grn_gorbad_ironclaw	{{tr:agent_subtypes_onscreen_name_override_wh3_dlc26_ogr_golgfag_maneater}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc26_grn_night_goblin_big_boss	{{tr:land_units_onscreen_name_wh3_dlc26_grn_cha_night_goblin_big_boss}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc26_grn_savage_orc_great_shaman	{{tr:land_units_onscreen_name_wh3_dlc26_grn_cha_savage_orc_great_shaman}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc26_grn_snagla_grobpsit	{{tr:agent_subtypes_onscreen_name_override_wh3_dlc25_emp_theodore_bruckner}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc26_kho_arbaal_the_undefeated	{{tr:agent_subtypes_onscreen_name_override_wh3_dlc26_ogr_golgfag_maneater}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc26_kho_bloodspeaker	{{tr:land_units_onscreen_name_wh3_dlc26_kho_cha_bloodspeaker}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc26_kho_exalted_bloodthirster_khorne_spawned_army	{{tr:khorne_spawned_army}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc26_kho_scyla_anfingrimm	{{tr:agent_subtypes_onscreen_name_override_wh3_dlc25_emp_theodore_bruckner}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc26_kho_skarr_bloodwrath	{{tr:agent_subtypes_onscreen_name_override_wh3_dlc25_emp_theodore_bruckner}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc26_kho_skulltaker	{{tr:agent_subtypes_onscreen_name_override_wh3_dlc26_ogr_golgfag_maneater}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc26_ogr_bragg_the_gutsman	{{tr:agent_subtypes_onscreen_name_override_wh3_dlc25_emp_theodore_bruckner}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc26_ogr_bruiser	{{tr:land_units_onscreen_name_wh3_dlc26_ogr_cha_bruiser}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc26_ogr_cha_butcher_death	{{tr:land_units_onscreen_name_wh3_dlc26_ogr_cha_butcher_death}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc26_ogr_cha_butcher_heavens	{{tr:land_units_onscreen_name_wh3_dlc26_ogr_cha_butcher_heavens}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc26_ogr_cha_slaughtermaster_death	{{tr:land_units_onscreen_name_wh3_dlc26_ogr_cha_slaughtermaster_death}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc26_ogr_cha_slaughtermaster_heavens	{{tr:land_units_onscreen_name_wh3_dlc26_ogr_cha_slaughtermaster_heavens}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc26_ogr_golgfag	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_dlc26_ogr_golgfag_maneater	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_dlc26_ogr_paymaster	{{tr:land_units_onscreen_name_wh3_dlc26_ogr_cha_paymaster}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_chs_cha_daemon_prince_mkho_qb	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_chs_exalted_hero_msla	{{tr:land_units_onscreen_name_wh3_dlc27_chs_cha_exalted_hero_msla}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_chs_mon_dragon_ogre_shaggoth_minor_boss	Quái thú Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_chs_sorcerer_lord_shadows_msla	{{tr:land_units_onscreen_name_wh3_dlc27_chs_cha_sorcerer_lord_shadows_msla}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_chs_sorcerer_lord_slaanesh_msla	{{tr:land_units_onscreen_name_wh3_dlc27_chs_cha_sorcerer_lord_slaanesh_msla}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_def_black_dragon_boss	{{tr:agent_subtypes_onscreen_name_override_wh3_dlc27_chs_mon_dragon_ogre_shaggoth_minor_boss}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_hef_aislinn	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_hef_caradryan	{{tr:agent_subtypes_onscreen_name_override_wh3_dlc25_emp_theodore_bruckner}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_hef_dragonship_captain_01	Đô đốc Tàu Rồng (Dragonship Admiral)	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_hef_dragonship_captain_02	{{tr:agent_subtypes_onscreen_name_override_wh3_dlc27_hef_dragonship_captain_01}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_hef_dragonship_captain_03	{{tr:agent_subtypes_onscreen_name_override_wh3_dlc27_hef_dragonship_captain_01}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_hef_dragonship_captain_04	{{tr:agent_subtypes_onscreen_name_override_wh3_dlc27_hef_dragonship_captain_01}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_hef_dragonship_captain_05	{{tr:agent_subtypes_onscreen_name_override_wh3_dlc27_hef_dragonship_captain_01}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_hef_mist_mage	Mist Mage	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_hef_sea_helm	Sea Helm	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_noble_militia	Noble (Chỉ huy Dân quân)	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_nor_beorg_bearstruck	{{tr:land_units_onscreen_name_wh3_dlc27_nor_cha_beorg_bearstruck}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_nor_fimir_noble	Quý tộc Fimir (Fimir Noble)	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_nor_great_shaman_sorcerer_death	{{tr:land_units_onscreen_name_wh3_dlc27_nor_cha_great_shaman_sorcerer_death}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_nor_great_shaman_sorcerer_fire	{{tr:land_units_onscreen_name_wh3_dlc27_nor_cha_great_shaman_sorcerer_fire}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_nor_great_shaman_sorcerer_metal	{{tr:land_units_onscreen_name_wh3_dlc27_nor_cha_great_shaman_sorcerer_metal}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_nor_marauder_chieftain_spawned_army	{{tr:norsca_spawned_army}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_nor_mon_arachnarok_spider_boss	{{tr:agent_subtypes_onscreen_name_override_wh3_dlc27_chs_mon_dragon_ogre_shaggoth_minor_boss}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_nor_mon_bale_taurus_boss	{{tr:agent_subtypes_onscreen_name_override_wh3_dlc27_chs_mon_dragon_ogre_shaggoth_minor_boss}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_nor_mon_carrion_boss	{{tr:agent_subtypes_onscreen_name_override_wh3_dlc27_chs_mon_dragon_ogre_shaggoth_minor_boss}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_nor_mon_celestial_lion_boss	{{tr:agent_subtypes_onscreen_name_override_wh3_dlc27_chs_mon_dragon_ogre_shaggoth_minor_boss}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_nor_mon_chimera_ror_boss	{{tr:agent_subtypes_onscreen_name_override_wh3_dlc27_chs_mon_dragon_ogre_shaggoth_minor_boss}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_nor_mon_cockatrice_boss	{{tr:agent_subtypes_onscreen_name_override_wh3_dlc27_chs_mon_dragon_ogre_shaggoth_minor_boss}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_nor_mon_dread_saurian_boss	{{tr:agent_subtypes_onscreen_name_override_wh3_dlc27_chs_mon_dragon_ogre_shaggoth_minor_boss}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_nor_mon_feral_manticore_boss	{{tr:agent_subtypes_onscreen_name_override_wh3_dlc27_chs_mon_dragon_ogre_shaggoth_minor_boss}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_nor_mon_ghorgon_boss	{{tr:agent_subtypes_onscreen_name_override_wh3_dlc27_chs_mon_dragon_ogre_shaggoth_minor_boss}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_nor_mon_jabberslythe_boss	{{tr:agent_subtypes_onscreen_name_override_wh3_dlc27_chs_mon_dragon_ogre_shaggoth_minor_boss}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_nor_mon_lammasu_boss	{{tr:agent_subtypes_onscreen_name_override_wh3_dlc27_chs_mon_dragon_ogre_shaggoth_minor_boss}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_nor_mon_preyton_boss	{{tr:agent_subtypes_onscreen_name_override_wh3_dlc27_chs_mon_dragon_ogre_shaggoth_minor_boss}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_nor_mon_thundertusk_boss	{{tr:agent_subtypes_onscreen_name_override_wh3_dlc27_chs_mon_dragon_ogre_shaggoth_minor_boss}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_nor_mon_toad_dragon_boss	{{tr:agent_subtypes_onscreen_name_override_wh3_dlc27_chs_mon_dragon_ogre_shaggoth_minor_boss}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_nor_mon_war_mammoth_boss	{{tr:agent_subtypes_onscreen_name_override_wh3_dlc27_chs_mon_dragon_ogre_shaggoth_minor_boss}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_nor_sayl_the_faithless	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_sla_dechala	{{tr:agent_subtypes_onscreen_name_override_wh_pro02_vmp_isabella_von_carstein}}	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_sla_druchii_anointed	Druchii Anointed	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_sla_masque_of_slaanesh	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_dlc27_sla_styrkaar_the_sortsvinaer	Anh hùng Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_main_cth_alchemist	Alchemist	false
+agent_subtypes_onscreen_name_override_wh3_main_cth_astromancer	Astromancer	false
+agent_subtypes_onscreen_name_override_wh3_main_cth_dragon_blooded_shugengan_yang	Chúa tể Shugengan Mang Dòng Máu Rồng (Dương)	false
+agent_subtypes_onscreen_name_override_wh3_main_cth_dragon_blooded_shugengan_yin	Chúa tể Shugengan Mang Dòng Máu Rồng (Âm)	false
+agent_subtypes_onscreen_name_override_wh3_main_cth_lord_caravan_master	Chủ Đoàn buôn	false
+agent_subtypes_onscreen_name_override_wh3_main_cth_lord_magistrate_yang	Chúa tể Pháp quan (Dương)	false
+agent_subtypes_onscreen_name_override_wh3_main_cth_lord_magistrate_yin	Chúa tể Pháp quan (Âm)	false
+agent_subtypes_onscreen_name_override_wh3_main_cth_miao_ying	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_main_cth_zhao_ming	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_main_dae_belakor	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_main_dae_daemon_prince	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_main_dae_daemon_prince_khorne	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_main_dae_daemon_prince_khorne_fe	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_main_dae_daemon_prince_nurgle	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_main_dae_daemon_prince_nurgle_fe	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_main_dae_daemon_prince_slaanesh	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_main_dae_daemon_prince_slaanesh_fe	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_main_dae_daemon_prince_tzeentch	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_main_dae_daemon_prince_tzeentch_fe	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_main_ie_nor_burplesmirk_spewpit	Great Unclean One Vĩ Đại	false
+agent_subtypes_onscreen_name_override_wh3_main_ie_nor_killgore_slaymaim	Nhà vô địch Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_main_kho_bloodreaper	Bloodreaper	false
+agent_subtypes_onscreen_name_override_wh3_main_kho_cult_magus	Khorne Cult Magus	false
+agent_subtypes_onscreen_name_override_wh3_main_kho_cultist	Tín đồ Khorne	false
+agent_subtypes_onscreen_name_override_wh3_main_kho_exalted_bloodthirster	Bloodthirster Vĩ Đại	false
+agent_subtypes_onscreen_name_override_wh3_main_kho_herald_of_khorne	Sứ giả của Khorne	false
+agent_subtypes_onscreen_name_override_wh3_main_kho_herald_of_khorne_khorne_spawned_army	{{tr:khorne_spawned_army}}	false
+agent_subtypes_onscreen_name_override_wh3_main_kho_skarbrand	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_main_ksl_ataman	{{tr:land_units_onscreen_name_wh3_main_ksl_cha_ataman}}	false
+agent_subtypes_onscreen_name_override_wh3_main_ksl_boris	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_main_ksl_boyar	Boyar	false
+agent_subtypes_onscreen_name_override_wh3_main_ksl_frost_maiden_ice	Băng Nữ (Băng)	false
+agent_subtypes_onscreen_name_override_wh3_main_ksl_frost_maiden_tempest	Băng Nữ (Bão tố)	false
+agent_subtypes_onscreen_name_override_wh3_main_ksl_ice_witch_ice	Băng Phù thủy (Băng)	false
+agent_subtypes_onscreen_name_override_wh3_main_ksl_ice_witch_tempest	Băng Phù thủy (Bão tố)	false
+agent_subtypes_onscreen_name_override_wh3_main_ksl_katarin	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_main_ksl_kostaltyn	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_main_ksl_patriarch	Patriarch	false
+agent_subtypes_onscreen_name_override_wh3_main_nur_cult_magus	Nurgle Cult Magus	false
+agent_subtypes_onscreen_name_override_wh3_main_nur_cultist	Tín đồ Nurgle	false
+agent_subtypes_onscreen_name_override_wh3_main_nur_cultist_plague_ritual	Plague Cultist	false
+agent_subtypes_onscreen_name_override_wh3_main_nur_exalted_great_unclean_one_death	Great Unclean One Vĩ Đại (Tử thần)	false
+agent_subtypes_onscreen_name_override_wh3_main_nur_exalted_great_unclean_one_nurgle	Great Unclean One Vĩ Đại (Nurgle)	false
+agent_subtypes_onscreen_name_override_wh3_main_nur_herald_of_nurgle_death	Sứ giả của Nurgle (Tử thần)	false
+agent_subtypes_onscreen_name_override_wh3_main_nur_herald_of_nurgle_nurgle	Sứ giả của Nurgle (Nurgle)	false
+agent_subtypes_onscreen_name_override_wh3_main_nur_kugath	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_main_nur_plagueridden_death	Plagueridden (Tử thần)	false
+agent_subtypes_onscreen_name_override_wh3_main_nur_plagueridden_nurgle	Plagueridden (Nurgle)	false
+agent_subtypes_onscreen_name_override_wh3_main_ogr_butcher_beasts	Butcher (Dã thú)	false
+agent_subtypes_onscreen_name_override_wh3_main_ogr_butcher_great_maw	Butcher (Cái Miệng Lớn)	false
+agent_subtypes_onscreen_name_override_wh3_main_ogr_firebelly	Firebelly	false
+agent_subtypes_onscreen_name_override_wh3_main_ogr_greasus_goldtooth	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_main_ogr_hunter	Thợ săn	false
+agent_subtypes_onscreen_name_override_wh3_main_ogr_skrag_the_slaughterer	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_main_ogr_slaughtermaster_beasts	Slaughtermaster (Dã thú)	false
+agent_subtypes_onscreen_name_override_wh3_main_ogr_slaughtermaster_great_maw	Slaughtermaster (Cái Miệng Lớn)	false
+agent_subtypes_onscreen_name_override_wh3_main_ogr_tyrant	Bạo chúa (Tyrant)	false
+agent_subtypes_onscreen_name_override_wh3_main_ogr_tyrant_camp	Bạo chúa Trại	false
+agent_subtypes_onscreen_name_override_wh3_main_pro_kho_bloodthirster	Kẻ Tạo Cầu	false
+agent_subtypes_onscreen_name_override_wh3_main_pro_kho_cultist	Tín đồ Khorne	false
+agent_subtypes_onscreen_name_override_wh3_main_pro_kho_herald_of_khorne	Sứ giả của Khorne	false
+agent_subtypes_onscreen_name_override_wh3_main_pro_ksl_boyar	Boyar	false
+agent_subtypes_onscreen_name_override_wh3_main_pro_ksl_cha_yuri_0_1	Hoàng tử vùng Kislev	false
+agent_subtypes_onscreen_name_override_wh3_main_pro_ksl_cha_yuri_0_2	Hoàng tử vùng Kislev	false
+agent_subtypes_onscreen_name_override_wh3_main_pro_ksl_cha_yuri_0_3	Hoàng tử vùng Kislev	false
+agent_subtypes_onscreen_name_override_wh3_main_pro_ksl_frost_maiden_ice	Băng Nữ	false
+agent_subtypes_onscreen_name_override_wh3_main_pro_ksl_gerik_0	Gerik	false
+agent_subtypes_onscreen_name_override_wh3_main_pro_ksl_patriarch	Patriarch	false
+agent_subtypes_onscreen_name_override_wh3_main_pro_ksl_sergi_0	Skollden	false
+agent_subtypes_onscreen_name_override_wh3_main_pro_ksl_yuri_0	Hoàng tử vùng Kislev	false
+agent_subtypes_onscreen_name_override_wh3_main_pro_ksl_yuri_1	Hoàng tử vùng Kislev	false
+agent_subtypes_onscreen_name_override_wh3_main_pro_ksl_yuri_2	Hoàng tử vùng Kislev	false
+agent_subtypes_onscreen_name_override_wh3_main_pro_ksl_yuri_3	Hoàng tử vùng Kislev	false
+agent_subtypes_onscreen_name_override_wh3_main_pro_ksl_yuri_4	Hoàng tử vùng Kislev	false
+agent_subtypes_onscreen_name_override_wh3_main_pro_slavin_0	Slavin Kurnz	false
+agent_subtypes_onscreen_name_override_wh3_main_pro_tze_cultist	Tín đồ Tzeentch	false
+agent_subtypes_onscreen_name_override_wh3_main_pro_tze_herald_of_tzeentch_tzeentch	Sứ giả của Tzeentch (Tzeentch)	false
+agent_subtypes_onscreen_name_override_wh3_main_sla_alluress_shadow	Alluress (Bóng tối)	false
+agent_subtypes_onscreen_name_override_wh3_main_sla_alluress_slaanesh	Alluress (Slaanesh)	false
+agent_subtypes_onscreen_name_override_wh3_main_sla_cult_magus	Slaanesh Cult Magus	false
+agent_subtypes_onscreen_name_override_wh3_main_sla_cultist	Tín đồ Slaanesh	false
+agent_subtypes_onscreen_name_override_wh3_main_sla_exalted_keeper_of_secrets_shadow	Keeper of Secrets Vĩ Đại (Bóng tối)	false
+agent_subtypes_onscreen_name_override_wh3_main_sla_exalted_keeper_of_secrets_slaanesh	Keeper of Secrets Vĩ Đại (Slaanesh)	false
+agent_subtypes_onscreen_name_override_wh3_main_sla_herald_of_slaanesh_shadow	Sứ giả của Slaanesh (Bóng tối)	false
+agent_subtypes_onscreen_name_override_wh3_main_sla_herald_of_slaanesh_slaanesh	Sứ giả của Slaanesh (Slaanesh)	false
+agent_subtypes_onscreen_name_override_wh3_main_sla_herald_of_slaanesh_slaanesh_disciple_army	Sứ giả của Slaanesh (Slaanesh)	false
+agent_subtypes_onscreen_name_override_wh3_main_sla_nkari	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_main_tze_cult_magus	Tzeentch Cult Magus	false
+agent_subtypes_onscreen_name_override_wh3_main_tze_cultist	Tín đồ Tzeentch	false
+agent_subtypes_onscreen_name_override_wh3_main_tze_exalted_lord_of_change_metal	Chúa tể Thay đổi Vĩ Đại (Kim loại)	false
+agent_subtypes_onscreen_name_override_wh3_main_tze_exalted_lord_of_change_tzeentch	Chúa tể Thay đổi Vĩ Đại (Tzeentch)	false
+agent_subtypes_onscreen_name_override_wh3_main_tze_herald_of_tzeentch_metal	Sứ giả của Tzeentch (Kim loại)	false
+agent_subtypes_onscreen_name_override_wh3_main_tze_herald_of_tzeentch_tzeentch	Sứ giả của Tzeentch (Tzeentch)	false
+agent_subtypes_onscreen_name_override_wh3_main_tze_iridescent_horror_metal	Iridescent Horror (Kim loại)	false
+agent_subtypes_onscreen_name_override_wh3_main_tze_iridescent_horror_tzeentch	Iridescent Horror (Tzeentch)	false
+agent_subtypes_onscreen_name_override_wh3_main_tze_kairos	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_pro10_chs_daemon_prince_tzeentch		false
+agent_subtypes_onscreen_name_override_wh3_pro10_tze_cultist		false
+agent_subtypes_onscreen_name_override_wh3_pro11_chs_cha_harald_hammerstorm	Anh hùng Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_pro12_kho_cha_karanak	Anh hùng Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_prologue_apostles_of_change_chaos_knights	Chaos Knights	false
+agent_subtypes_onscreen_name_override_wh3_prologue_general_test	Tướng quân vùng Kislev	false
+agent_subtypes_onscreen_name_override_wh3_survival_dae_cha_belakor_01	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_survival_kho_cha_daemon_prince_of_khorne	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_survival_kho_cha_daemon_prince_of_khorne_fe	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_survival_nur_cha_daemon_prince_of_nurgle	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_survival_nur_cha_daemon_prince_of_nurgle_fe	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_survival_sla_cha_daemon_prince_of_slaanesh	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_survival_sla_cha_daemon_prince_of_slaanesh_fe	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_survival_tze_cha_daemon_prince_of_tzeentch	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh3_survival_tze_cha_daemon_prince_of_tzeentch_fe	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_dlc01_chs_kholek_suneater	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_dlc01_chs_prince_sigvald	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_dlc01_chs_sorcerer_lord_death	Chúa tể Pháp sư Hỗn mang (Tử thần)	false
+agent_subtypes_onscreen_name_override_wh_dlc01_chs_sorcerer_lord_fire	Chúa tể Pháp sư Hỗn mang (Lửa)	false
+agent_subtypes_onscreen_name_override_wh_dlc01_chs_sorcerer_lord_metal	Chúa tể Pháp sư Hỗn mang (Kim loại)	false
+agent_subtypes_onscreen_name_override_wh_dlc01_nor_sorcerer_lord_metal	Chúa tể Pháp sư Hỗn mang (Kim loại)	false
+agent_subtypes_onscreen_name_override_wh_dlc03_bst_beastlord	Beastlord	false
+agent_subtypes_onscreen_name_override_wh_dlc03_bst_bray_shaman_beasts	Bray-Shaman (Dã thú)	false
+agent_subtypes_onscreen_name_override_wh_dlc03_bst_bray_shaman_death	Bray-Shaman (Tử thần)	false
+agent_subtypes_onscreen_name_override_wh_dlc03_bst_bray_shaman_shadows	Bray-Shaman (Bóng tối)	false
+agent_subtypes_onscreen_name_override_wh_dlc03_bst_bray_shaman_wild	Bray-Shaman (Hoang dã)	false
+agent_subtypes_onscreen_name_override_wh_dlc03_bst_gorebull	Gorebull	false
+agent_subtypes_onscreen_name_override_wh_dlc03_bst_khazrak	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_dlc03_bst_malagor	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_dlc03_emp_amber_wizard	Pháp sư Hổ phách	false
+agent_subtypes_onscreen_name_override_wh_dlc03_emp_boris_todbringer	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_dlc04_emp_arch_lector	Arch Lector	false
+agent_subtypes_onscreen_name_override_wh_dlc04_emp_volkmar	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_dlc04_vmp_helman_ghorst	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_dlc04_vmp_strigoi_ghoul_king	Strigoi Ghoul King	false
+agent_subtypes_onscreen_name_override_wh_dlc04_vmp_vlad_con_carstein	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_dlc04_vmp_vlad_von_carstein_hero	Anh hùng Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_dlc05_bst_morghur	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_dlc05_emp_grey_wizard	Pháp sư Xám	false
+agent_subtypes_onscreen_name_override_wh_dlc05_emp_jade_wizard	Pháp sư Ngọc bích	false
+agent_subtypes_onscreen_name_override_wh_dlc05_vmp_red_duke	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_dlc05_vmp_vampire_shadow	Ma tớn (Bóng tối)	false
+agent_subtypes_onscreen_name_override_wh_dlc05_wef_ancient_treeman	Treeman Cổ đại	false
+agent_subtypes_onscreen_name_override_wh_dlc05_wef_branchwraith	Branchwraith	false
+agent_subtypes_onscreen_name_override_wh_dlc05_wef_durthu	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_dlc05_wef_glade_lord	Glade Lord	false
+agent_subtypes_onscreen_name_override_wh_dlc05_wef_glade_lord_fem	Glade Lord	false
+agent_subtypes_onscreen_name_override_wh_dlc05_wef_orion	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_dlc05_wef_spellsinger_beasts	Spellsinger (Dã thú)	false
+agent_subtypes_onscreen_name_override_wh_dlc05_wef_spellsinger_life	Spellsinger (Sự sống)	false
+agent_subtypes_onscreen_name_override_wh_dlc05_wef_spellsinger_shadow	Spellsinger (Bóng tối)	false
+agent_subtypes_onscreen_name_override_wh_dlc05_wef_waystalker	Waystalker	false
+agent_subtypes_onscreen_name_override_wh_dlc06_dwf_belegar	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_dlc06_dwf_master_engineer_ghost	Master Engineer	false
+agent_subtypes_onscreen_name_override_wh_dlc06_dwf_runelord	Runelord	false
+agent_subtypes_onscreen_name_override_wh_dlc06_dwf_runesmith_ghost	Runesmith	false
+agent_subtypes_onscreen_name_override_wh_dlc06_dwf_thane_ghost_1	Thane	false
+agent_subtypes_onscreen_name_override_wh_dlc06_dwf_thane_ghost_2	Thane	false
+agent_subtypes_onscreen_name_override_wh_dlc06_grn_night_goblin_warboss	Night Goblin Warboss	false
+agent_subtypes_onscreen_name_override_wh_dlc06_grn_skarsnik	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_dlc06_grn_wurrzag_da_great_prophet	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_dlc07_brt_alberic	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_dlc07_brt_damsel_beasts	Damsel (Dã thú)	false
+agent_subtypes_onscreen_name_override_wh_dlc07_brt_damsel_life	Damsel (Sự sống)	false
+agent_subtypes_onscreen_name_override_wh_dlc07_brt_fay_enchantress	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_dlc07_brt_green_knight	Anh hùng Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_dlc07_brt_prophetess_beasts	Prophetess (Dã thú)	false
+agent_subtypes_onscreen_name_override_wh_dlc07_brt_prophetess_heavens	Prophetess (Thiên giới)	false
+agent_subtypes_onscreen_name_override_wh_dlc07_brt_prophetess_life	Prophetess (Sự sống)	false
+agent_subtypes_onscreen_name_override_wh_dlc07_chs_chaos_sorcerer_shadow	Pháp sư Hỗn mang (Bóng tối)	false
+agent_subtypes_onscreen_name_override_wh_dlc07_chs_sorcerer_lord_shadow	Chúa tể Pháp sư Hỗn mang (Bóng tối)	false
+agent_subtypes_onscreen_name_override_wh_dlc08_bst_cygor_boss	Quái thú Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_dlc08_chs_challenger_khorne	Kẻ Thách Thức Hỗn Mang (Chaos Challenger)	false
+agent_subtypes_onscreen_name_override_wh_dlc08_chs_challenger_nurgle	Kẻ Thách Thức Hỗn Mang (Chaos Challenger)	false
+agent_subtypes_onscreen_name_override_wh_dlc08_chs_challenger_slaanesh	Kẻ Thách Thức Hỗn Mang (Chaos Challenger)	false
+agent_subtypes_onscreen_name_override_wh_dlc08_chs_challenger_tzeentch	Kẻ Thách Thức Hỗn Mang (Chaos Challenger)	false
+agent_subtypes_onscreen_name_override_wh_dlc08_chs_dragon_ogre_shaggoth_boss	Quái thú Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_dlc08_grn_giant_boss	Quái thú Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_dlc08_grn_venom_queen_boss	Quái thú Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_dlc08_nor_arzik	Lord of Change	false
+agent_subtypes_onscreen_name_override_wh_dlc08_nor_fimir_balefiend_fire	Fimir Balefiend (Lửa)	false
+agent_subtypes_onscreen_name_override_wh_dlc08_nor_fimir_balefiend_shadow	Fimir Balefiend (Bóng tối)	false
+agent_subtypes_onscreen_name_override_wh_dlc08_nor_frost_wyrm_boss	Quái thú Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_dlc08_nor_kihar	Pháp sư Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_dlc08_nor_shaman_sorcerer_death	Shaman-Sorcerer (Tử thần)	false
+agent_subtypes_onscreen_name_override_wh_dlc08_nor_shaman_sorcerer_fire	Shaman-Sorcerer (Lửa)	false
+agent_subtypes_onscreen_name_override_wh_dlc08_nor_shaman_sorcerer_metal	Shaman-Sorcerer (Kim loại)	false
+agent_subtypes_onscreen_name_override_wh_dlc08_nor_skin_wolf_werekin	Skin Wolf Werekin	false
+agent_subtypes_onscreen_name_override_wh_dlc08_nor_throgg	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_dlc08_nor_wulfrik	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_dlc08_vmp_terrorgheist_boss	Quái thú Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_dlc08_wef_forest_dragon_boss	Quái thú Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_main_brt_damsel_heavens	Damsel (Thiên giới)	false
+agent_subtypes_onscreen_name_override_wh_main_brt_lord	Chúa tể	false
+agent_subtypes_onscreen_name_override_wh_main_brt_louen_leoncouer	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_main_brt_paladin	Paladin	false
+agent_subtypes_onscreen_name_override_wh_main_chs_archaon	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_main_chs_chaos_sorcerer_death	Pháp sư Hỗn mang (Tử thần)	false
+agent_subtypes_onscreen_name_override_wh_main_chs_chaos_sorcerer_fire	Pháp sư Hỗn mang (Lửa)	false
+agent_subtypes_onscreen_name_override_wh_main_chs_chaos_sorcerer_metal	Pháp sư Hỗn mang (Kim loại)	false
+agent_subtypes_onscreen_name_override_wh_main_chs_exalted_hero	Nhà Vô Địch (Exalted Hero)	false
+agent_subtypes_onscreen_name_override_wh_main_chs_lord	Chúa tể Hỗn mang	false
+agent_subtypes_onscreen_name_override_wh_main_chs_lord_of_change	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_main_dwf_lord	Chúa tể	false
+agent_subtypes_onscreen_name_override_wh_main_dwf_master_engineer	Master Engineer	false
+agent_subtypes_onscreen_name_override_wh_main_dwf_runesmith	Runesmith	false
+agent_subtypes_onscreen_name_override_wh_main_dwf_thane	Thane	false
+agent_subtypes_onscreen_name_override_wh_main_dwf_thorgrim_grudgebearer	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_main_dwf_ungrim_ironfist	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_main_emp_balthasar_gelt	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_main_emp_bright_wizard	Pháp sư Lửa (Bright Wizard)	false
+agent_subtypes_onscreen_name_override_wh_main_emp_captain	Đội trưởng Đế chế	false
+agent_subtypes_onscreen_name_override_wh_main_emp_celestial_wizard	Pháp sư Thiên giới (Celestial Wizard)	false
+agent_subtypes_onscreen_name_override_wh_main_emp_karl_franz	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_main_emp_light_wizard	Pháp sư Ánh sáng	false
+agent_subtypes_onscreen_name_override_wh_main_emp_lord	Tướng quân Đế chế	false
+agent_subtypes_onscreen_name_override_wh_main_emp_lord_spawned_army	{{tr:agent_subtypes_onscreen_name_override_wh_main_emp_lord}}	false
+agent_subtypes_onscreen_name_override_wh_main_emp_warrior_priest	Warrior Priest	false
+agent_subtypes_onscreen_name_override_wh_main_emp_witch_hunter	Witch Hunter	false
+agent_subtypes_onscreen_name_override_wh_main_grn_azhag_the_slaughterer	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_main_grn_goblin_big_boss	Goblin Big Boss	false
+agent_subtypes_onscreen_name_override_wh_main_grn_goblin_great_shaman	Đại Pháp sư Goblin	false
+agent_subtypes_onscreen_name_override_wh_main_grn_grimgor_ironhide	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_main_grn_night_goblin_shaman	Pháp sư Night Goblin	false
+agent_subtypes_onscreen_name_override_wh_main_grn_orc_shaman	Orc Shaman	false
+agent_subtypes_onscreen_name_override_wh_main_grn_orc_warboss	Orc Warboss	false
+agent_subtypes_onscreen_name_override_wh_main_nor_chaos_sorcerer_metal	Pháp sư Hỗn mang (Kim loại)	false
+agent_subtypes_onscreen_name_override_wh_main_nor_marauder_chieftain	Thủ lĩnh Marauder	false
+agent_subtypes_onscreen_name_override_wh_main_teb_bright_wizard	Pháp sư Lửa	false
+agent_subtypes_onscreen_name_override_wh_main_teb_captain	Đội trưởng	false
+agent_subtypes_onscreen_name_override_wh_main_teb_lord	Tướng quân	false
+agent_subtypes_onscreen_name_override_wh_main_vmp_banshee	Banshee	false
+agent_subtypes_onscreen_name_override_wh_main_vmp_heinrich_kemmler	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_main_vmp_lord	Chúa tể Ma tớn	false
+agent_subtypes_onscreen_name_override_wh_main_vmp_mannfred_von_carstein	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_main_vmp_master_necromancer	Bậc thầy Necromancer	false
+agent_subtypes_onscreen_name_override_wh_main_vmp_necromancer	Necromancer	false
+agent_subtypes_onscreen_name_override_wh_main_vmp_vampire_death	Ma tớn (Tử thần)	false
+agent_subtypes_onscreen_name_override_wh_main_vmp_wight_king	Wight King	false
+agent_subtypes_onscreen_name_override_wh_pro01_dwf_grombrindal	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_pro02_vmp_isabella_von_carstein	Chúa tể Huyền thoại	false
+agent_subtypes_onscreen_name_override_wh_pro02_vmp_isabella_von_carstein_hero	Anh hùng Huyền thoại	false
