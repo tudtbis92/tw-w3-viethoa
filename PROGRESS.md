@@ -54,9 +54,10 @@
 | campaign_group_ritual_chains__.loc.tsv | 91 | 91 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (91/91). Chứa toàn placeholder/empty. |
 | campaign_group_rituals__.loc.tsv | 1275 | 1275 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (1275/1275). |
 | campaign_interactable_marker_infos__.loc.tsv | 146 | 146 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (146/146). |
-| ... (219 tables khác) | - | 0 | Not Started | 0% | Sẽ cập nhật khi bắt đầu dịch |
+| campaign_localised_strings__.loc.tsv | 2264 | 2264 | Done | 100% | Đã chia 12 chunk và dùng subagents dịch song song. Dịch xong toàn bộ file và kiểm tra số lượng key khớp (2264/2264). |
+| ... (218 tables khác) | - | 0 | Not Started | 0% | Sẽ cập nhật khi bắt đầu dịch |
 ---
-*Cập nhật lần cuối: 2026-05-26 (20:30 ICT)*
+*Cập nhật lần cuối: 2026-05-26 (20:43 ICT)*
 *Quy tắc an toàn: Cập nhật ngay sau mỗi table hoặc mỗi 100 dòng dịch.*
 *Xem các quy tắc dịch đặc biệt tại: GEMINI.md (Section 4)*
 
