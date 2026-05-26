@@ -1,0 +1,65 @@
+key	text	tooltip
+#Loc;1;text/db/campaign_videos__.loc		
+campaign_videos_localised_title_gam_int	Cuốn sách Định mệnh	false
+campaign_videos_localised_title_warhammer3/adv_int	Một thế giới tan vỡ	false
+campaign_videos_localised_title_warhammer3/belakor_1	Nguồn gốc	false
+campaign_videos_localised_title_warhammer3/belakor_2	Lời nguyền	false
+campaign_videos_localised_title_warhammer3/belakor_3	Ngai vàng	false
+campaign_videos_localised_title_warhammer3/belakor_4	Thăng hoa	false
+campaign_videos_localised_title_warhammer3/champions/dlc20_azazel_intro	Hoàng tử Đọa đày	false
+campaign_videos_localised_title_warhammer3/champions/dlc20_azazel_win	Sự cống nạp của Kẻ cám dỗ	false
+campaign_videos_localised_title_warhammer3/champions/dlc20_festus_intro	Dược sư Hắc ám	false
+campaign_videos_localised_title_warhammer3/champions/dlc20_festus_win	Lễ vật của Bác sĩ	false
+campaign_videos_localised_title_warhammer3/champions/dlc20_valkia_intro	Nữ hoàng Máu	false
+campaign_videos_localised_title_warhammer3/champions/dlc20_valkia_win	Lễ vật của Kiếm sĩ	false
+campaign_videos_localised_title_warhammer3/champions/dlc20_vilitch_intro	Bậc thầy Hỗn loạn	false
+campaign_videos_localised_title_warhammer3/champions/dlc20_vilitch_win	Sự cống nạp của Kẻ bị nguyền rủa	false
+campaign_videos_localised_title_warhammer3/chd/dlc23_astragoth_intro	Di sản của Astragoth	false
+campaign_videos_localised_title_warhammer3/chd/dlc23_astragoth_win	Ngọn lửa của Astragoth	false
+campaign_videos_localised_title_warhammer3/chd/dlc23_drazhoath_intro	Sự trỗi dậy của Drazhoath	false
+campaign_videos_localised_title_warhammer3/chd/dlc23_drazhoath_win	Ngọn lửa của Drazhoath	false
+campaign_videos_localised_title_warhammer3/chd/dlc23_zhatan_intro	Sức mạnh của Zhatan	false
+campaign_videos_localised_title_warhammer3/chd/dlc23_zhatan_win	Ngọn lửa của Zhatan	false
+campaign_videos_localised_title_warhammer3/cth/bhashiva_intro	Móng vuốt của Bạch Hổ	false
+campaign_videos_localised_title_warhammer3/cth/cth_intro	Linh hồn của Gấu	false
+campaign_videos_localised_title_warhammer3/cth/cth_win	Ánh sáng phía trước	false
+campaign_videos_localised_title_warhammer3/cth/yuan_bo_intro	Đôi mắt của Rồng	false
+campaign_videos_localised_title_warhammer3/cth/yuan_bo_win	Mệnh lệnh của Thiên tử	false
+campaign_videos_localised_title_warhammer3/dae/dae_intro	Kẻ giết Gấu	false
+campaign_videos_localised_title_warhammer3/dae/dae_win	Kẻ diệt Thế giới	false
+campaign_videos_localised_title_warhammer3/dwf/malakai_intro	Bánh răng Chiến tranh	false
+campaign_videos_localised_title_warhammer3/dwf/malakai_win	Những đại sảnh Huyền thoại	false
+campaign_videos_localised_title_warhammer3/emp/elspeth_intro	Hoa hồng Nghĩa địa	false
+campaign_videos_localised_title_warhammer3/emp/elspeth_win	Nỗi khiếp sợ ban đêm	false
+campaign_videos_localised_title_warhammer3/grn/gorbad_ironclaw_intro	Bậc thầy Chiến thuật	false
+campaign_videos_localised_title_warhammer3/hef/aislinn_intro	Bậc thầy của những con thủy triều	false
+campaign_videos_localised_title_warhammer3/journey_to_forge	Hành trình đến Lò rèn	false
+campaign_videos_localised_title_warhammer3/kho/kho_intro_ska	Hộp sọ của Gấu	false
+campaign_videos_localised_title_warhammer3/kho/kho_win_ska	Sọ cho Ngai vàng	false
+campaign_videos_localised_title_warhammer3/kho/skulltaker_intro	Áo choàng Đầu lâu	false
+campaign_videos_localised_title_warhammer3/ksl/ksl_intro_bor	Người bảo vệ Gấu	false
+campaign_videos_localised_title_warhammer3/ksl/ksl_intro_kat	Trái tim của Gấu	false
+campaign_videos_localised_title_warhammer3/ksl/ksl_intro_kot	Môn đồ của Gấu	false
+campaign_videos_localised_title_warhammer3/ksl/ksl_win_bor	Được đúc trong Băng	false
+campaign_videos_localised_title_warhammer3/ksl/ksl_win_kat	Một quốc gia thống nhất	false
+campaign_videos_localised_title_warhammer3/ksl/ksl_win_kot	Vì Chính thống giáo	false
+campaign_videos_localised_title_warhammer3/ksl/mother_ostankya_intro	Sương mù của Rừng	false
+campaign_videos_localised_title_warhammer3/ksl/mother_ostankya_win	Lời nguyền Tàn phá	false
+campaign_videos_localised_title_warhammer3/nor/sayl_intro	Con đường của Kẻ bất lương	false
+campaign_videos_localised_title_warhammer3/nur/nur_intro_plg	Thân xác của Gấu	false
+campaign_videos_localised_title_warhammer3/nur/nur_win_plg	Đậu mùa Thần thánh	false
+campaign_videos_localised_title_warhammer3/nur/tamurkhan_intro	Vật ký sinh	false
+campaign_videos_localised_title_warhammer3/nur/tamurkhan_win	Thủy triều Chết chóc	false
+campaign_videos_localised_title_warhammer3/ogr/golgfag_intro	Danh vọng & Tài lộc	false
+campaign_videos_localised_title_warhammer3/ogr/ogr_intro	Thịt của Gấu	false
+campaign_videos_localised_title_warhammer3/ogr/ogr_win_gre	Yến tiệc lớn nhất	false
+campaign_videos_localised_title_warhammer3/ogr/ogr_win_skg	Nhát cắt tinh tế nhất	false
+campaign_videos_localised_title_warhammer3/prologue/pro_int	Vị Thần bị lãng quên	false
+campaign_videos_localised_title_warhammer3/prologue/pro_win	Thử thách của Đức tin	false
+campaign_videos_localised_title_warhammer3/sla/dechala_intro	Vẻ đẹp và Nỗi kinh hoàng	false
+campaign_videos_localised_title_warhammer3/sla/sla_intro_nka	Nỗi buồn của Gấu	false
+campaign_videos_localised_title_warhammer3/sla/sla_win_nka	Tinh hoa của Tuyệt vọng	false
+campaign_videos_localised_title_warhammer3/tze/the_changeling_intro	Hãy để trò chơi bắt đầu	false
+campaign_videos_localised_title_warhammer3/tze/the_changeling_win	Bậc thầy Mưu lược thực thụ	false
+campaign_videos_localised_title_warhammer3/tze/tze_intro_fat	Đôi mắt của Gấu	false
+campaign_videos_localised_title_warhammer3/tze/tze_win_fat	Đôi mắt thấu suốt mọi sự	false

@@ -1,0 +1,192 @@
+key	text	tooltip
+#Loc;1;text/db/campaign_post_battle_captive_options__.loc		
+campaign_post_battle_captive_options_description_101527833	Chia sẻ chiến lợi phẩm với Chúa tể của bạn, giúp cải thiện lòng trung thành của họ.	false
+campaign_post_battle_captive_options_description_1054695231	Những chiến binh bại trận có thể được khai sáng để nhận ra con đường sai lầm mà họ đã theo đuổi, và từ đó sẽ đi theo Đại Kế hoạch.	false
+campaign_post_battle_captive_options_description_1055999647	Mọi thứ được mang theo bởi những kẻ phục tùng Đại Kẻ thù đều bị ô uế - nhưng có lẽ một số thứ vẫn có thể tận dụng được.	false
+campaign_post_battle_captive_options_description_1079164628	Những kẻ đã chiến đấu chống lại chúng ta và còn sống sót không được phép tự do sau đó. Còn rất nhiều việc phải làm tại những vùng đất mà chúng ta đã khai phá ở đây trong Vùng Hoang địa. Hãy bắt chúng làm việc!	false
+campaign_post_battle_captive_options_description_1086924500	Xà Thần, Sotek, sẽ ban ân huệ cho những ai thực hiện các nghi lễ tế lễ đẫm máu dưới danh nghĩa của ngài.	false
+campaign_post_battle_captive_options_description_1089539338	Biến những tù binh này thành thức ăn sẽ thu hút những bầy thú ăn xác thối đồng thời làm thỏa mãn cơn khát máu của quân đội bạn.	false
+campaign_post_battle_captive_options_description_1115979234	Những tù binh mà chúng ta không ép ra tiền tuyến có thể được đưa vào làm việc để chăm sóc các đơn vị và sửa chữa phương tiện của chúng ta.	false
+campaign_post_battle_captive_options_description_1124097752	Có rất nhiều đặc ân khi tôn thờ Hoàng tử Khoái lạc... hãy lôi kéo chúng theo chính nghĩa của chúng ta.	false
+campaign_post_battle_captive_options_description_1131826404	Tăng cường sức mạnh cho quân đội của bạn bằng cách giới thiệu các tù binh với Nghệ thuật Hắc ám.	false
+campaign_post_battle_captive_options_description_1135301228	Gửi các tù binh về nhà của họ, không bị tổn hại… với một cái giá. Kẻ thù sẽ bày tỏ sự biết ơn, cho phép bạn tiến xa hơn trong các mưu đồ của mình.	false
+campaign_post_battle_captive_options_description_1156815199	Gửi nô lệ trở lại ổ có thể mang lại phần thưởng, hoặc ngăn chặn một sự phản bội - ít nhất là vào thời điểm hiện tại.	false
+campaign_post_battle_captive_options_description_1184086307	{{tr:campaign_post_battle_captive_options_description_1228100539}}	false
+campaign_post_battle_captive_options_description_1193682847	Tàn sát các tù binh dưới danh nghĩa của các vị Thần Hỗn mang!	false
+campaign_post_battle_captive_options_description_1218614274	Để các tù binh tiếp xúc với mầm bệnh, sau đó ủ bệnh và chiết xuất những gì còn lại.	false
+campaign_post_battle_captive_options_description_1228100539	Gửi linh hồn của những tù binh này đến Hắc Vương.	false
+campaign_post_battle_captive_options_description_1273067813	Các chiến binh bại trận có thể được thuyết phục để đi theo một Chúa tể chiến thắng.	false
+campaign_post_battle_captive_options_description_1282427752	Tế lễ các tù binh dưới danh nghĩa của Khorne và Ngài sẽ ban cho bạn những món quà của Ngài!	false
+campaign_post_battle_captive_options_description_1352401758	Giết hết chúng đi! Kẻ thù và đồng minh của chúng sẽ thực sự căm ghét bạn vì điều này, nhưng kẻ thù của kẻ thù sẽ đánh giá cao điều đó…	false
+campaign_post_battle_captive_options_description_135369374	Không bắt tù binh – không để ai sống sót!	false
+campaign_post_battle_captive_options_description_1362331655	Tiêu thụ các tù binh để tăng cường sức mạnh cho quân đoàn quỷ này.	false
+campaign_post_battle_captive_options_description_1371750908	Cho phép những chiến binh này trở về vương quốc của họ – với một cái giá.	false
+campaign_post_battle_captive_options_description_1402417137	Tàn sát các tù binh dưới danh nghĩa của các vị Thần Hỗn mang!	false
+campaign_post_battle_captive_options_description_1403722180	Việc tiêu diệt những tù binh này sẽ góp phần thúc đẩy Đại Kế hoạch của các Cổ Thần.	false
+campaign_post_battle_captive_options_description_1461807891	Tiêu thụ các tù binh để tăng cường sức mạnh cho quân đoàn quỷ này.	false
+campaign_post_battle_captive_options_description_1463634537	Kiếm thêm một ít chiến lợi phẩm bằng cách bán các tù binh đi! Kẻ thù thậm chí sẽ cảm ơn bạn vì đã không ăn sống chúng.	false
+campaign_post_battle_captive_options_description_1505287696	Cái chết tràn ngập trên chiến trường. Sự giải phóng năng lượng của nó được sử dụng để tiếp thêm sinh lực cho các chiến binh của bạn và đưa họ xông lên trận chiến.	false
+campaign_post_battle_captive_options_description_1523432826	Bị kéo đến để tế lễ trước thạch đàn, các tù binh bị xé xác và ngốn ngấu bởi những Người thú luôn thèm khát.	false
+campaign_post_battle_captive_options_description_1528577727	{{tr:effect_bundles_localised_description_wh3_main_bundle_captives_sands_of_time}}	false
+campaign_post_battle_captive_options_description_15612657	Chúng ta không thể chiến đấu với cái bụng rỗng, hãy ăn thịt chúng ngay bây giờ!	false
+campaign_post_battle_captive_options_description_1563768610	Những kẻ bại trận là tài sản, và có thể được bán cho người trả giá cao nhất.	false
+campaign_post_battle_captive_options_description_1578497231	Thống trị những tay sai của kẻ thù này! Hãy để ý chí của bạn khuất phục tầm ảnh hưởng còn sót lại của bất kỳ tên pháp sư xác sống đáng thương nào trước đó và tôn vinh sự uy nghiêm của bạn thay vào đó.	false
+campaign_post_battle_captive_options_description_1579336154	Các mỏ của chúng ta đã đầy công suất, vì vậy việc cho chuộc các tù binh này sẽ hiệu quả hơn.	false
+campaign_post_battle_captive_options_description_1624040601	Buộc những đội quân này phải thay đổi lòng trung thành và cho phép họ phục vụ trong quân đội của bạn.	false
+campaign_post_battle_captive_options_description_1651831387	Tiêu thụ các tù binh để tăng cường sức mạnh cho quân đoàn quỷ này.	false
+campaign_post_battle_captive_options_description_1651899248	Các đồng minh Dawi bị thu hút gia nhập quân đoàn của bạn sau màn thể hiện sự dũng cảm quá mức, thậm chí là *liều chết*, trên chiến trường.	false
+campaign_post_battle_captive_options_description_1749597219	{{tr:campaign_post_battle_captive_options_description_1193682847}}	false
+campaign_post_battle_captive_options_description_1751195936	Kiếm thêm một ít chiến lợi phẩm bằng cách cho chuộc tù binh lấy tiền mặt!	false
+campaign_post_battle_captive_options_description_1773786478	Hãy đưa những tù binh này làm Lao động trong các mỏ của chúng ta.	false
+campaign_post_battle_captive_options_description_178216414	Ép những người Dawi này thực hiện các lời thề ràng buộc và đưa họ vào quân đoàn của bạn.	false
+campaign_post_battle_captive_options_description_1797518193	Tế lễ các tù binh dưới danh nghĩa của tất cả các vị Thần Hỗn mang và các vị Thần Hỗn mang sẽ ban cho bạn những món quà của họ!	false
+campaign_post_battle_captive_options_description_1839252548	Hành quyết tù binh có thể rèn luyện thêm một lực lượng cho chiến tranh.	false
+campaign_post_battle_captive_options_description_1843580409	Những người này là đồng bào của chúng ta. Nếu họ sẵn lòng hối cải về hành động của mình, chúng ta nên đề nghị cho họ một vị trí trong hàng ngũ của mình.	false
+campaign_post_battle_captive_options_description_1958052296	Cho phép những chiến binh này trở về vương quốc của họ – với một cái giá.	false
+campaign_post_battle_captive_options_description_1970123519	Dâng nộp những tù binh này cho các vị Thần Hỗn mang để đổi lấy sự ban ơn của họ.	false
+campaign_post_battle_captive_options_description_1983935149	Nô lệ hóa những kẻ ngu ngốc này - bẻ gãy chúng và tiêu thụ linh hồn của chúng!	false
+campaign_post_battle_captive_options_description_2015631255	Cho bầy Sói dữ ăn thịt chúng, xác chết của chúng chắc chắn sẽ hữu ích sau này! Đế chế của các nạn nhân và đồng minh của họ sẽ căm ghét bạn, nhưng kẻ thù của họ sẽ thích điều đó.	false
+campaign_post_battle_captive_options_description_2017353944	Tế lễ các tù binh dưới danh nghĩa của Tzeentch và Ngài sẽ ban cho bạn những món quà của Ngài!	false
+campaign_post_battle_captive_options_description_2031856484	Việc giết hại tù binh mang lại một sự giải trí thú vị và mang tính răn đe.	false
+campaign_post_battle_captive_options_description_2057380485	Từ bỏ một nguồn thịt tươi từ các tù binh bị chinh phục, ngay cả khi có lý do chính đáng, cũng khiến quân đội yếu đi.	false
+campaign_post_battle_captive_options_description_2062995851	Cơn Đói Đen có thể được xoa dịu bằng cách ăn thịt những kẻ đã ngã xuống.	false
+campaign_post_battle_captive_options_description_2073936174	Cho chuộc tù binh mang lại phần thưởng riêng, nhưng quân lính không thích điều đó.	false
+campaign_post_battle_captive_options_description_2081266657	Sau một trận chiến cam go, những người sống sót của Đế chế dành thời gian để ca ngợi Sigmar, Thần Vương, cho chiến thắng của họ!	false
+campaign_post_battle_captive_options_description_2084187633	Gửi những kẻ thù này trở lại với những chủ nhân cũ và những vị thần đáng khinh của chúng. Nếu các thủ lĩnh của chúng không trả tiền chuộc, hãy tước đoathết bất kỳ vật giá trị nào chúng mang theo. Đây là công lý của Gấu. 	false
+campaign_post_battle_captive_options_description_2086312487	Dâng nộp những tù binh này cho các vị Thần Hỗn mang để đổi lấy sự ban ơn của họ.	false
+campaign_post_battle_captive_options_description_2087696419	Cho chuộc tù binh mang lại phần thưởng riêng, nhưng quân lính không thích điều đó.	false
+campaign_post_battle_captive_options_description_2105636767	{{tr:campaign_post_battle_captive_options_description_1970123519}}	false
+campaign_post_battle_captive_options_description_2112099920	Không bắt tù binh – không để ai sống sót!	false
+campaign_post_battle_captive_options_description_2115720326	Gặt hái các tù binh và thu lấy đầu lâu của chúng!	false
+campaign_post_battle_captive_options_description_2119919487	Vì đã chống lại chính nghĩa của chúng ta, những người này phải trả cái giá cao nhất. Giết hết chúng đi.	false
+campaign_post_battle_captive_options_description_2120875581	Không bắt tù binh – không để tên Asrai nào sống sót!	false
+campaign_post_battle_captive_options_description_2124615801	Chiến trường ngổn ngang những khẩu súng bị vứt bỏ của các chiến binh đã ngã xuống. Những mẫu vật thu hồi được đã được đưa đến các xưởng của Trường Pháo binh Đế quốc, từ đó chúng ta có thể học hỏi từ thiết kế của chúng và từ đó cải thiện vũ khí của chính mình.	false
+campaign_post_battle_captive_options_description_2137075511	Những linh hồn lạc lối trong trận chiến được giữ lại bên trong cơ thể khung xương của họ, kẻo họ chạy trốn đến Cõi Linh hồn.	false
+campaign_post_battle_captive_options_description_218128004	Tế lễ các tù binh dưới danh nghĩa của Nurgle và Ngài sẽ ban cho bạn những món quà của Ngài!	false
+campaign_post_battle_captive_options_description_246393969	Cho phép những chiến binh này trở về quê hương của họ, để đổi lấy tiền chuộc. Mặc dù phải chi một khoản từ ngân khố, kẻ thù vẫn sẽ đánh giá cao hành động như vậy.	false
+campaign_post_battle_captive_options_description_271468824	Không để tù binh nào sống sót. Tế lễ chúng cho hội phù thủy.	false
+campaign_post_battle_captive_options_description_313329685	Vào cuối trận chiến, các tổ tiên được cảm tạ; thông qua sự tôn kính đó, sự hài hòa đạt được, và cả thể xác lẫn tâm hồn đều được trẻ hóa.	false
+campaign_post_battle_captive_options_description_334063116	{{tr:campaign_post_battle_captive_options_description_1983935149}}	false
+campaign_post_battle_captive_options_description_38100645	Chia sẻ chiến lợi phẩm với Chúa tể của bạn, giúp cải thiện lòng trung thành của họ.	false
+campaign_post_battle_captive_options_description_392405950	"Những kẻ sẵn lòng phục tùng Thralldom sẽ được phép sống để phục vụ Dechala. ""Loại bỏ"" số còn lại."	false
+campaign_post_battle_captive_options_description_400532370	Một phần của con đường ngoằn ngoèo dẫn đến Pháo đài Bất khả thi được tiết lộ.	false
+campaign_post_battle_captive_options_description_4085859	Chúng ta không có thời gian để nuông chiều kẻ thù, đặc biệt là những kẻ đã chiến đấu chống lại chúng ta và đã quá chậm chạp để chết trong trận chiến! Giết chúng ngay bây giờ. Hãy kết thúc nhanh chóng và có lẽ Ursun sẽ ủng hộ sự nhân từ đó… 	false
+campaign_post_battle_captive_options_description_427565148	Kiếm thêm một ít chiến lợi phẩm bằng cách cho chuộc tù binh lấy tiền mặt!	false
+campaign_post_battle_captive_options_description_457552681	Không thể có những gánh nặng, vì nhiều mối thù vẫn còn đó. Tước đoạt những vật giá trị từ các xác chết và tiếp tục hành trình.	false
+campaign_post_battle_captive_options_description_474277175	Một bữa tiệc thịt giúp hồi phục.	false
+campaign_post_battle_captive_options_description_495762298	Dâng nộp những tù binh này cho các vị Thần Hỗn mang để đổi lấy sự ban ơn của họ. Việc dâng nộp tù binh cho các vị Thần Hỗn mang đảm bảo sự ban ơn của họ, nhưng bầy đàn của bạn sẽ bị đói và không hạnh phúc vì kết quả đó.	false
+campaign_post_battle_captive_options_description_51769576	Từ bỏ một nguồn thịt tươi từ các tù binh bị chinh phục, ngay cả khi có lý do chính đáng, cũng khiến quân đội yếu đi.	false
+campaign_post_battle_captive_options_description_536840012	Có vẻ như có thịt cho vào nồi rồi, các chàng trai!	false
+campaign_post_battle_captive_options_description_537208489	Lao động cưỡng bức làm giảm gánh nặng cho quân lính, giúp quá trình hồi phục nhanh chóng hơn.	false
+campaign_post_battle_captive_options_description_5967986	Sự sinh tồn khi chiến đấu với các Hắc Thần đòi hỏi một… cách tiếp cận thực tế.	false
+campaign_post_battle_captive_options_description_625830769	Lòng nhân từ của Nữ thần sẽ tiếp thêm sinh lực và phục hồi cho những ai phải chịu đau đớn.	false
+campaign_post_battle_captive_options_description_627011600	Tế lễ các tù binh dưới danh nghĩa của Slaanesh và Ngài sẽ ban cho bạn những món quà của Ngài!	false
+campaign_post_battle_captive_options_description_640301377	Dâng nộp làm vật phẩm tế lễ	false
+campaign_post_battle_captive_options_description_64096457	Nô lệ hóa làm giảm gánh nặng cho quân lính, giúp quá trình hồi phục nhanh chóng hơn.	false
+campaign_post_battle_captive_options_description_669551016	Những tên gầy gò này trông có vẻ ngon - hãy ăn thịt chúng và bổ sung cho những chàng trai với cái bụng no nê!	false
+campaign_post_battle_captive_options_description_727021835	Để các tù binh tiếp xúc với mầm bệnh, sau đó ủ bệnh và chiết xuất những gì còn lại.	false
+campaign_post_battle_captive_options_description_755557953	Hãy uống mừng chiến thắng! Mang rượu Bugman ra đây!	false
+campaign_post_battle_captive_options_description_803494256	Tiêu thụ các tù binh để tăng cường sức mạnh cho quân đoàn quỷ này.	false
+campaign_post_battle_captive_options_description_826154462	Tế lễ những tù binh Hỗn mang này dưới danh nghĩa của các vị thần Kislev!	false
+campaign_post_battle_captive_options_description_832122823	Mặc dù chắc chắn không phải là một hành động hào hiệp, chúng ta có thể cho những người này chuộc về với chủ nhân của họ để đổi lấy một ít tiền vàng.	false
+campaign_post_battle_captive_options_description_839488472	Gửi linh hồn của những tù binh này đến Chúa Ruồi.	false
+campaign_post_battle_captive_options_description_88488403	Chiếm đoạt những tù binh này cho khu rừng.	false
+campaign_post_battle_captive_options_description_924806959	Gửi linh hồn của những tù binh này đến Raven God.	false
+campaign_post_battle_captive_options_description_935305073	Tiền chuộc cho những tù binh này sẽ làm tăng thêm ngân khố.	false
+campaign_post_battle_captive_options_description_96382337	Không để tù binh nào sống sót. Kẻ thù và đồng minh của chúng sẽ không nhìn nhận bạn một cách tử tế, nhưng kẻ thù của chúng sẽ tôn trọng quyết định của bạn.	false
+campaign_post_battle_captive_options_description_976903749	Giam giữ linh hồn của những tù binh này, và những Cơn gió sẽ xoáy quanh Kẻ Chủ mưu Vĩ đại.	false
+campaign_post_battle_captive_options_onscreen_name_101527833	Chia sẻ chiến lợi phẩm	false
+campaign_post_battle_captive_options_onscreen_name_1054695231	Thu nạp Chiến binh	false
+campaign_post_battle_captive_options_onscreen_name_1055999647	Thanh tẩy Nghi lễ	false
+campaign_post_battle_captive_options_onscreen_name_1079164628	Khế ước Lao động	false
+campaign_post_battle_captive_options_onscreen_name_1086924500	Đánh dấu Tế lễ	false
+campaign_post_battle_captive_options_onscreen_name_1089539338	Bày Xác thối	false
+campaign_post_battle_captive_options_onscreen_name_1115979234	Trưng dụng Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_1124097752	Lôi kéo Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_1131826404	Đồng hóa Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_1135301228	Trả lại Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_1156815199	Nô lệ hóa	false
+campaign_post_battle_captive_options_onscreen_name_1184086307	{{tr:campaign_post_battle_captive_options_onscreen_name_1228100539}}	false
+campaign_post_battle_captive_options_onscreen_name_1193682847	Giết Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_1218614274	Ủ bệnh Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_1228100539	Dâng nộp Vật phẩm	false
+campaign_post_battle_captive_options_onscreen_name_1273067813	Tiếp nhận Chiến binh	false
+campaign_post_battle_captive_options_onscreen_name_1282427752	Dâng cho Khorne	false
+campaign_post_battle_captive_options_onscreen_name_1352401758	Tàn sát Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_135369374	Cơn thịnh nộ của Arahan	false
+campaign_post_battle_captive_options_onscreen_name_1362331655	Ngốn ngấu Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_1371750908	Ân sủng của Naestra	false
+campaign_post_battle_captive_options_onscreen_name_1402417137	Giết Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_1403722180	Tiêu diệt	false
+campaign_post_battle_captive_options_onscreen_name_1461807891	Ngốn ngấu Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_1463634537	Cho chuộc Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_1505287696	Hành quân Bất tận	false
+campaign_post_battle_captive_options_onscreen_name_1523432826	Ngốn ngấu Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_1528577727	{{tr:effect_bundles_localised_title_wh3_main_bundle_captives_sands_of_time}}	false
+campaign_post_battle_captive_options_onscreen_name_15612657	Ăn thịt Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_1563768610	Tiền chuộc	false
+campaign_post_battle_captive_options_onscreen_name_1578497231	Thống trị Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_1579336154	Cho chuộc Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_1624040601	Tiếp nhận Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_1651831387	Ngốn ngấu Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_1651899248	Thu hút Quân dự bị	false
+campaign_post_battle_captive_options_onscreen_name_1749597219	{{tr:campaign_post_battle_captive_options_onscreen_name_1193682847}}	false
+campaign_post_battle_captive_options_onscreen_name_1751195936	Cho chuộc Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_1773786478	Vận chuyển Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_178216414	Tiếp nhận Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_1797518193	Dâng cho các vị Thần Hỗn mang	false
+campaign_post_battle_captive_options_onscreen_name_1839252548	Sát hại Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_1843580409	Đề nghị Chuộc lỗi	false
+campaign_post_battle_captive_options_onscreen_name_1958052296	Thả Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_1970123519	Tế lễ Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_1983935149	Nô lệ hóa Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_2015631255	Sát hại Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_2017353944	Dâng cho Tzeentch	false
+campaign_post_battle_captive_options_onscreen_name_2031856484	Hành quyết Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_2057380485	Thả Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_2062995851	Ăn thịt Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_2073936174	Cho chuộc Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_2081266657	Ngợi ca Sigmar!	false
+campaign_post_battle_captive_options_onscreen_name_2084187633	Tiền chuộc	false
+campaign_post_battle_captive_options_onscreen_name_2086312487	Tế lễ Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_2087696419	Cho chuộc Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_2105636767	{{tr:campaign_post_battle_captive_options_onscreen_name_1970123519}}	false
+campaign_post_battle_captive_options_onscreen_name_2112099920	Giết Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_2115720326	Gặt hái Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_2119919487	Hành quyết Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_2120875581	Tàn sát!	false
+campaign_post_battle_captive_options_onscreen_name_2124615801	Thu hồi Khí giới	false
+campaign_post_battle_captive_options_onscreen_name_2137075511	Trói buộc Linh hồn	false
+campaign_post_battle_captive_options_onscreen_name_218128004	Dâng cho Nurgle	false
+campaign_post_battle_captive_options_onscreen_name_246393969	Ân xá Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_271468824	Hành quyết Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_313329685	Tôn kính	false
+campaign_post_battle_captive_options_onscreen_name_334063116	{{tr:campaign_post_battle_captive_options_onscreen_name_1983935149}}	false
+campaign_post_battle_captive_options_onscreen_name_38100645	Chia sẻ chiến lợi phẩm	false
+campaign_post_battle_captive_options_onscreen_name_392405950	Thống trị Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_400532370	Tiết lộ Biểu tượng Dịch chuyển	false
+campaign_post_battle_captive_options_onscreen_name_4085859	Hành quyết	false
+campaign_post_battle_captive_options_onscreen_name_427565148	Cho chuộc Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_457552681	Hành quyết & Cướp phá	false
+campaign_post_battle_captive_options_onscreen_name_474277175	Giết & Ăn thịt	false
+campaign_post_battle_captive_options_onscreen_name_495762298	Tế lễ Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_51769576	Bán đi	false
+campaign_post_battle_captive_options_onscreen_name_536840012	Chế biến Thịt	false
+campaign_post_battle_captive_options_onscreen_name_537208489	Cưỡng bức Lao động	false
+campaign_post_battle_captive_options_onscreen_name_5967986	Thu hoạch Nguyên liệu	false
+campaign_post_battle_captive_options_onscreen_name_625830769	Salyak Ban tặng	false
+campaign_post_battle_captive_options_onscreen_name_627011600	Dâng cho Slaanesh	false
+campaign_post_battle_captive_options_onscreen_name_640301377	Dâng nộp Vật phẩm	false
+campaign_post_battle_captive_options_onscreen_name_64096457	Nô lệ hóa	false
+campaign_post_battle_captive_options_onscreen_name_669551016	Ăn thịt Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_727021835	Ủ bệnh Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_755557953	Uống mừng Chiến thắng!	false
+campaign_post_battle_captive_options_onscreen_name_803494256	Ngốn ngấu Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_826154462	Tế lễ Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_832122823	Cho chuộc Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_839488472	Dâng nộp Vật phẩm	false
+campaign_post_battle_captive_options_onscreen_name_88488403	Bắt cóc Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_924806959	Dâng nộp Vật phẩm	false
+campaign_post_battle_captive_options_onscreen_name_935305073	Cho chuộc Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_96382337	Hành quyết Tù binh	false
+campaign_post_battle_captive_options_onscreen_name_976903749	Triệu hồi Locus	false

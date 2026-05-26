@@ -1,8 +1,8 @@
 # Tiến độ Việt hoá Total War: Warhammer III
 
 ## Tiến độ tổng quan (Overall Progress)
-- **Tiến độ theo File**: 59 / 235 files hoàn thành (~25.11%)
-- **Tiến độ theo Key**: 49,777 / 241,728 keys hoàn thành (~20.59%)
+- **Tiến độ theo File**: 71 / 235 files hoàn thành (~25.53%)
+- **Tiến độ theo Key**: 51,767 / 241,728 keys hoàn thành (~21.42%)
 
 
 | File Table | Tổng số Key | Đã dịch | Trạng thái | % Hoàn thành | Ghi chú |
@@ -66,7 +66,20 @@
 | campaign_map_winds_of_magic_areas__.loc.tsv | 299 | 299 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (299/299). |
 | campaign_map_winds_of_magic_strengths__.loc.tsv | 6 | 6 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (6/6). |
 | campaign_payload_ui_details__.loc.tsv | 704 | 704 | Done | 100% | Đã chia 4 chunk và dịch song song. Kiểm tra số lượng key khớp (704/704). |
-| ... (212 tables khác) | - | 0 | Not Started | 0% | Sẽ cập nhật khi bắt đầu dịch |
+| campaign_post_battle_captive_options__.loc.tsv | 190 | 190 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (190/190). |
+| campaign_statistics_categories__.loc.tsv | 19 | 19 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (19/19). |
+| campaign_statistics_strings__.loc.tsv | 83 | 83 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (83/83). |
+| campaign_storms__.loc.tsv | 10 | 10 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (10/10). |
+| campaign_streak_effects__.loc.tsv | 10 | 10 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (10/10). |
+| campaign_unit_stat_bonuses__.loc.tsv | 43 | 43 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (43/43). |
+| campaign_videos__.loc.tsv | 63 | 63 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (63/63). |
+| campaigns__.loc.tsv | 9 | 9 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (9/9). |
+| capture_point_category_types__.loc.tsv | 5 | 5 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (5/5). |
+| capture_point_types__.loc.tsv | 102 | 102 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (102/102). |
+| cdir_events_categories__.loc.tsv | 72 | 72 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (72/72). |
+| cdir_events_dilemma_choice_details__.loc.tsv | 5734 | 5734 | Done | 100% | Đã hiệu chỉnh mapping và dịch xong 100% key. |
+| character_skill_level_details__.loc.tsv | 4186 | 0 | In Progress | 0% | Đã chia 21 chunk. Đang dịch. |
+| ... (199 tables khác) | - | 0 | Not Started | 0% | Sẽ cập nhật khi bắt đầu dịch |
 ---
 *Cập nhật lần cuối: 2026-05-26 (21:17 ICT)*
 *Quy tắc an toàn: Cập nhật ngay sau mỗi table hoặc mỗi 100 dòng dịch.*

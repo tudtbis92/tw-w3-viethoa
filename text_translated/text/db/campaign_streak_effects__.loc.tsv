@@ -1,0 +1,12 @@
+key	text	tooltip
+#Loc;1;text/db/campaign_streak_effects__.loc		
+campaign_streak_effects_onscreen_name_wh3_dlc20_valkia_win_streak_0	Huyết tế – Gây thương tật\\n(0-1 trận thắng)	false
+campaign_streak_effects_onscreen_name_wh3_dlc20_valkia_win_streak_1	Huyết tế – Làm tàn phế\\n(2-4 trận thắng)	false
+campaign_streak_effects_onscreen_name_wh3_dlc20_valkia_win_streak_2	Huyết tế – Tàn sát\\n(5-7 trận thắng)	false
+campaign_streak_effects_onscreen_name_wh3_dlc20_valkia_win_streak_3	Huyết tế – Thảm sát\\n(8+ trận thắng)	false
+campaign_streak_effects_onscreen_name_wh3_dlc20_valkia_win_streak_negative	Huyết tế – Ngưng hoạt động	false
+campaign_streak_effects_onscreen_name_wh3_main_khorne_win_streak_0	Huyết tế – Gây thương tật\\n(0-1 trận thắng)	false
+campaign_streak_effects_onscreen_name_wh3_main_khorne_win_streak_1	Huyết tế – Làm tàn phế\\n(2-4 trận thắng)	false
+campaign_streak_effects_onscreen_name_wh3_main_khorne_win_streak_2	Huyết tế – Tàn sát\\n(5-7 trận thắng)	false
+campaign_streak_effects_onscreen_name_wh3_main_khorne_win_streak_3	Huyết tế – Thảm sát\\n(8+ trận thắng)	false
+campaign_streak_effects_onscreen_name_wh3_main_khorne_win_streak_negative	Huyết tế – Ngưng hoạt động	false

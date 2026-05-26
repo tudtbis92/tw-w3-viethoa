@@ -1,0 +1,12 @@
+key	text	tooltip
+#Loc;1;text/db/campaign_storms__.loc		
+campaign_storms_display_name_1cst_fog_storm	Sương mù Nguyền rủa	false
+campaign_storms_display_name_1hef_mist_storm	Sương mù Yvresse	false
+campaign_storms_display_name_1ksl_winter	Đất Mẹ	false
+campaign_storms_display_name_1land_storm	Bão cát	false
+campaign_storms_display_name_1vampire_coast_sea_monster_storm	Sự giày vò của Quái thú	false
+campaign_storms_display_name_1wandering_decaying_sea_storm	Gió mạnh dữ dội	false
+campaign_storms_display_name_2wandering_decaying_sea_storm	Bão	false
+campaign_storms_display_name_3wandering_decaying_sea_storm	Bão lớn	false
+campaign_storms_display_name_4wandering_decaying_sea_storm	Siêu bão	false
+campaign_storms_display_name_5wandering_decaying_sea_storm	Cuồng phong	false
