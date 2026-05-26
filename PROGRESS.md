@@ -5,7 +5,7 @@
 | abilities__.loc.tsv | 27 | 27 | Done | 100% | Đã dịch xong và kiểm tra số lượng key khớp. |
 | achievements__.loc.tsv | 278 | 278 | Done | 100% | Đã dịch xong và kiểm tra số lượng key khớp. |
 | advice_info_texts__.loc.tsv | 4174 | 4174 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
-| advice_levels__.loc.tsv | 5698 | 2950 | In Progress | 51% | Bị mất dữ liệu từ dòng 2951 do sự cố truncate file. Đã khôi phục 2950 dòng đầu. Cần dịch lại phần sau. |
+| advice_levels__.loc.tsv | 5698 | 5698 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (đã khôi phục thành công). |
 | advisors__.loc.tsv | 11 | 11 | Done | 100% | Đã dịch xong (không cần dịch tên riêng Gerik/Yuri). |
 | agent_ability_categories__.loc.tsv | 3 | 3 | Done | 100% | Đã dịch xong. |
 | agent_actions__.loc.tsv | 163 | 163 | Done | 100% | Đã dịch xong toàn bộ mô tả hành động Anh hùng. |

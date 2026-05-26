@@ -1,0 +1,30 @@
+advice_levels_onscreen_text_1091820390	Tour Kịch Bản đã Ẩn	false
+advice_levels_onscreen_text_1092229878	Tour Kịch Bản đã Ẩn	false
+advice_levels_onscreen_text_1102251077	Nhiều hơn những người anh em khát máu của ngài đã sẵn sàng cầm vũ khí nhân danh Malekith. Hãy chiêu mộ chúng ngay bây giờ và chúng sẽ sẵn sàng chiến đấu trong những trận chiến sắp tới.	false
+advice_levels_onscreen_text_114953719	Tour Kịch Bản đã Ẩn	false
+advice_levels_onscreen_text_1162956597	Tour Kịch Bản đã Ẩn	false
+advice_levels_onscreen_text_1307190165	Tour Kịch Bản đã Ẩn	false
+advice_levels_onscreen_text_1329680804	Huyết Thần coi trọng sự tàn sát trên tất cả mọi thứ, và không có vật cống nạp nào phù hợp với cơn thịnh nộ của Ngài hơn hộp sọ của những kẻ bị giết trong trận chiến. Hãy gửi cống vật của ngài để bồi đắp ngai vàng của Ngài và ân sủng của Ngài sẽ giáng xuống ngài.	false
+advice_levels_onscreen_text_1353353725	Tour Kịch Bản đã Ẩn	false
+advice_levels_onscreen_text_140076286	Naaa'kaaaai!	false
+advice_levels_onscreen_text_1507511056	Tour Kịch Bản đã Ẩn	false
+advice_levels_onscreen_text_165944266	Tour Kịch Bản đã Ẩn	false
+advice_levels_onscreen_text_1666705907	Tour Kịch Bản đã Ẩn	false
+advice_levels_onscreen_text_1704432663	Tour Kịch Bản đã Ẩn	false
+advice_levels_onscreen_text_1772223839	KHÔNG SỬ DỤNG	false
+advice_levels_onscreen_text_1806367463	Tour Kịch Bản đã Ẩn	false
+advice_levels_onscreen_text_1871962849	Tour Kịch Bản đã Ẩn	false
+advice_levels_onscreen_text_1881635775	Tour Kịch Bản đã Ẩn	false
+advice_levels_onscreen_text_1886756074	Tour Kịch Bản đã Ẩn	false
+advice_levels_onscreen_text_1975907681	Tour Kịch Bản đã Ẩn	false
+advice_levels_onscreen_text_2073083473	Tour Kịch Bản đã Ẩn	false
+advice_levels_onscreen_text_279197684	Tour Kịch Bản đã Ẩn	false
+advice_levels_onscreen_text_327354460	Tour Kịch Bản đã Ẩn	false
+advice_levels_onscreen_text_48439041	Tour Kịch Bản đã Ẩn	false
+advice_levels_onscreen_text_502583046	Tour Kịch Bản đã Ẩn	false
+advice_levels_onscreen_text_558353667	Tour Kịch Bản đã Ẩn	false
+advice_levels_onscreen_text_749844431	Tour Kịch Bản đã Ẩn	false
+advice_levels_onscreen_text_811004186	Lực lượng tiếp viện của loài chuột thỉnh thoảng có thể được triệu hồi từ bên dưới chiến trường, thưa lãnh chúa hùng mạnh. Không phải tự nhiên mà giống loài của ngài lại nổi tiếng với việc sử dụng yếu tố bất ngờ trong chiến tranh.	false
+advice_levels_onscreen_text_830705929	Tour Kịch Bản đã Ẩn	false
+advice_levels_onscreen_text_884335102	Tour Kịch Bản đã Ẩn	false
+advice_levels_onscreen_text_894092559	Tour Kịch Bản đã Ẩn	false
