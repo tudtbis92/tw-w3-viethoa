@@ -1,8 +1,8 @@
 # Tiến độ Việt hoá Total War: Warhammer III
 
 ## Tiến độ tổng quan (Overall Progress)
-- **Tiến độ theo File**: 56 / 235 files hoàn thành (~23.83%)
-- **Tiến độ theo Key**: 48,768 / 241,728 keys hoàn thành (~20.17%)
+- **Tiến độ theo File**: 57 / 235 files hoàn thành (~24.26%)
+- **Tiến độ theo Key**: 49,067 / 241,728 keys hoàn thành (~20.30%)
 
 
 | File Table | Tổng số Key | Đã dịch | Trạng thái | % Hoàn thành | Ghi chú |
@@ -62,7 +62,7 @@
 | campaign_localised_strings__.loc.tsv | 2264 | 2264 | Done | 100% | Đã chia 12 chunk và dùng subagents dịch song song. Dịch xong toàn bộ file và kiểm tra số lượng key khớp (2264/2264). |
 | ... (218 tables khác) | - | 0 | Not Started | 0% | Sẽ cập nhật khi bắt đầu dịch |
 ---
-*Cập nhật lần cuối: 2026-05-26 (20:43 ICT)*
+*Cập nhật lần cuối: 2026-05-26 (21:05 ICT)*
 *Quy tắc an toàn: Cập nhật ngay sau mỗi table hoặc mỗi 100 dòng dịch.*
 *Xem các quy tắc dịch đặc biệt tại: GEMINI.md (Section 4)*
 
