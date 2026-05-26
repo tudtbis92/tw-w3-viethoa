@@ -14,7 +14,13 @@ Tài liệu này quy định quy trình làm việc bắt buộc cho Agent khi t
 
 ## 3. Quy trình dịch và Kiểm tra (Translation & Validation)
 - Khi dịch một file từ `text_origin/`, kết quả phải được lưu vào đường dẫn tương ứng trong `text_translated/`.
-- **Xử lý file lớn:** Đối với các file có số lượng key lớn (ví dụ: trên 500 key), Agent **bắt buộc** phải chia nhỏ nội dung để dịch theo từng đợt từ 100~200 key/lần. Việc này giúp tránh vượt giới hạn ngữ cảnh (context limit) của model và đảm bảo độ chính xác. Sau mỗi đợt dịch, cần lưu file và kiểm tra số dòng để đảm bảo không bị trùng lặp hoặc mất dữ liệu.
+- **Xử lý file lớn:** Đối với các file có số lượng key lớn, Agent **bắt buộc** thực hiện quy trình sau:
+    1. Đọc nội dung file gốc với kích thước **200 key/lần**.
+    2. Dịch từng phần.
+    3. Ghi kết quả dịch của mỗi phần vào một file tạm (chunk).
+    4. Sử dụng script `append_safe.py` để nối nội dung từ file chunk vào file kết quả cuối cùng trong `text_translated/`.
+    5. Cập nhật `PROGRESS.md` sau mỗi đợt dịch.
+    6. Lặp lại cho đến khi kết thúc file.
 - **Encoding (Mã hóa):** Khi ghi file (sử dụng `write_file`, `replace` hoặc các lệnh shell), **bắt buộc** phải sử dụng mã hóa **UTF-8** (đảm bảo hiển thị đúng tiếng Việt có dấu). Tuyệt đối tránh sử dụng các encoding mặc định của hệ thống hoặc không xác định, điều này sẽ gây ra lỗi hiển thị (Mojibake).
 - **Bắt buộc:** Sau khi dịch xong mỗi file table, Agent phải thực hiện kiểm tra số lượng key (hoặc số dòng dữ liệu).
 - Số lượng key trong file tại `text_translated/` **phải khớp hoàn toàn** với số lượng key trong file gốc tại `text_origin/`.
