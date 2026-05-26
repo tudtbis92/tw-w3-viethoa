@@ -14,7 +14,7 @@
 | agent_recruitment_categories__.loc.tsv | 134 | 134 | Done | 100% | Đã dịch xong các danh mục chiêu mộ Chúa tể. |
 | agent_subtypes__.loc.tsv | 1228 | 1228 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
 | aide_de_camp_speeches__.loc.tsv | 60 | 60 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
-| ancillaries__.loc.tsv | 8002 | 0 | In Progress | 0% | Bắt đầu dịch lại từ đầu. |
+| ancillaries__.loc.tsv | 8004 | 8004 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
 | unit_abilities__.loc.tsv | 5773 | 0 | Not Started | 0% | |
 | ... (231 tables khác) | - | 0 | Not Started | 0% | Sẽ cập nhật khi bắt đầu dịch |
 ---
