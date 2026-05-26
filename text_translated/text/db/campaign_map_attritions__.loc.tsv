@@ -1,0 +1,176 @@
+key	text	tooltip
+#Loc;1;text/db/campaign_map_attritions__.loc		
+campaign_map_attritions_campaign_map_tooltip_athel_loren	Đạo quân sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn khi ở trong khu rừng Athel Loren.	false
+campaign_map_attritions_campaign_map_tooltip_awakened_forest	Đạo quân này đang gánh chịu [[img:icon_attrition]][[/img]]hao mòn do các công trình hoặc nhân vật Wood Elf ở địa phương.	false
+campaign_map_attritions_campaign_map_tooltip_besieged	Khu định cư này đang gánh chịu tổn thất [[img:icon_attrition]][[/img]]hao mòn do bị bao vây.	false
+campaign_map_attritions_campaign_map_tooltip_besieging	Đạo quân này đang gánh chịu tổn thất [[img:icon_attrition]][[/img]]hao mòn do đang tiến hành bao vây.	false
+campaign_map_attritions_campaign_map_tooltip_blockaded	Cảng này đang gánh chịu tổn thất [[img:icon_attrition]][[/img]]hao mòn do đang bị phong tỏa.	false
+campaign_map_attritions_campaign_map_tooltip_blockading	Hạm đội này đang gánh chịu tổn thất [[img:icon_attrition]][[/img]]hao mòn do đang tiến hành phong tỏa.	false
+campaign_map_attritions_campaign_map_tooltip_blood_voyage_desertion	Với việc Death Night chỉ còn là một ký ức xa xăm, lực lượng này bắt đầu giải tán.	false
+campaign_map_attritions_campaign_map_tooltip_building_attrition	Đạo quân này đang gánh chịu [[img:icon_attrition]][[/img]]hao mòn do các công trình trong khu vực.	false
+campaign_map_attritions_campaign_map_tooltip_chaos_territory	Đạo quân sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn khi ở trong các khu vực có mức độ suy đồi Chaos cao.	false
+campaign_map_attritions_campaign_map_tooltip_chaos_wastes	Đạo quân sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn khi ở trong Chaos Wastes.	false
+campaign_map_attritions_campaign_map_tooltip_chaos_wastes_bonus_value	Đạo quân sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn khi ở trong Chaos Wastes.	false
+campaign_map_attritions_campaign_map_tooltip_chd_summoned_army	Đạo quân này sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn sau vài lượt	false
+campaign_map_attritions_campaign_map_tooltip_compass	Đạo quân sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn khi Cơn thịnh nộ của Dragon Emperor được giải phóng.	false
+campaign_map_attritions_campaign_map_tooltip_deep_sea	Hạm đội sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn khi ở vùng nước sâu.	false
+campaign_map_attritions_campaign_map_tooltip_desert	Đạo quân sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn khi ở trong các vùng sa mạc.	false
+campaign_map_attritions_campaign_map_tooltip_desertion	Những đạo quân không thể duy trì sẽ gánh chịu tổn thất [[img:icon_attrition]][[/img]]hao mòn thông qua việc đào ngũ.	false
+campaign_map_attritions_campaign_map_tooltip_disciple_army	Disciple Armies sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn trừ khi ở trong các khu vực có mức độ [[img:icon_corruption_sla]][[/img]]suy đồi Slaanesh cao	false
+campaign_map_attritions_campaign_map_tooltip_disease	Đạo quân sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn trong khi phải chịu đựng dịch bệnh [[img:icon_plague]][[/img]]plague của Skaven.	false
+campaign_map_attritions_campaign_map_tooltip_dlc17_despoiler_raiding	Đạo quân này đang gánh chịu [[img:icon_attrition]][[/img]]hao mòn do các cuộc cướp bóc despoiler bởi Beastmen của Morghur.	false
+campaign_map_attritions_campaign_map_tooltip_dlc25_chieftain_attrition	Đạo quân sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn khi ở trong một tỉnh bị tàn phá bởi Kayzk the Befouled.	false
+campaign_map_attritions_campaign_map_tooltip_event_attrition	Đạo quân này đang gánh chịu tổn thất [[img:icon_attrition]][[/img]]hao mòn do một sự kiện gần đây.	false
+campaign_map_attritions_campaign_map_tooltip_event_attrition_no_immunity	Đạo quân này đang gánh chịu tổn thất [[img:icon_attrition]][[/img]]hao mòn do một sự kiện gần đây.	false
+campaign_map_attritions_campaign_map_tooltip_horde_infighting	Các đạo quân Horde đóng quân quá gần nhau sẽ bắt đầu đấu đá nội bộ và gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn.	false
+campaign_map_attritions_campaign_map_tooltip_hostile_territory	Đạo quân này sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn khi ở trong lãnh thổ này do một nghi thức của kẻ thù.	false
+campaign_map_attritions_campaign_map_tooltip_kho_summoned_army	Đạo quân này không thể tự duy trì mà không đổ máu liên tục. Hãy chiến đấu để có được sự ân xá tạm thời.	false
+campaign_map_attritions_campaign_map_tooltip_khorne_infighting	Đạo quân sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn trong các thử thách chiến đấu.	false
+campaign_map_attritions_campaign_map_tooltip_kislev_winter	Đạo quân sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn khi ở trong lãnh thổ Kislev đã triệu hồi Motherland.	false
+campaign_map_attritions_campaign_map_tooltip_lizard_defenders	Đạo quân này sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn khi ở trong lãnh thổ Lizardmen khi Rite of Allegiance đang kích hoạt.	false
+campaign_map_attritions_campaign_map_tooltip_low_morale	{{tr:low_morale_waaagh_campaign_map_tooltip}}	false
+campaign_map_attritions_campaign_map_tooltip_madness_rage_infighting	Đạo quân bị đẩy vào cơn thịnh nộ điên cuồng sẽ phải gánh chịu sự [[img:icon_attrition]][[/img]]hao mòn liên tục do đấu đá nội bộ.	false
+campaign_map_attritions_campaign_map_tooltip_maelstrom	lỗi thời	false
+campaign_map_attritions_campaign_map_tooltip_malediction_of_ruin	Đạo quân sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn khi Malediction of Ruin được giải phóng.	false
+campaign_map_attritions_campaign_map_tooltip_mist	Đạo quân sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn trong màn sương mù bị nguyền rủa.	false
+campaign_map_attritions_campaign_map_tooltip_mist_of_yvresse	Đạo quân sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn khi ở trong Mists of Yvresse.	false
+campaign_map_attritions_campaign_map_tooltip_mountain	Đạo quân sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn khi băng qua các đèo núi.	false
+campaign_map_attritions_campaign_map_tooltip_non_vampire_territory	Đạo quân Undead sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn khi ở trong lãnh thổ được kiểm soát bởi người sống.	false
+campaign_map_attritions_campaign_map_tooltip_nurgle_plague	Đạo quân sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn khi ở trong khu vực đang phải chịu đựng Plague của Crow.	false
+campaign_map_attritions_campaign_map_tooltip_nurgle_realm	Đạo quân sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn khi ở trong Land of the Plaguelord.	false
+campaign_map_attritions_campaign_map_tooltip_ogre_meat	Đạo quân không có nguồn cung cấp [[img:icon_ogr_meat]][[/img]]thịt sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn.	false
+campaign_map_attritions_campaign_map_tooltip_plague_nurgle	Đạo quân sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn trong khi phải chịu đựng dịch bệnh [[img:icon_plague]][[/img]]plague của Nurgle.	false
+campaign_map_attritions_campaign_map_tooltip_recreant_spirit	Đạo quân Recreant Spirit sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn.	false
+campaign_map_attritions_campaign_map_tooltip_reef	Hạm đội sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn khi ở các rạn san hô.	false
+campaign_map_attritions_campaign_map_tooltip_regionless	Đạo quân sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn khi không kiểm soát một khu vực quê nhà.	false
+campaign_map_attritions_campaign_map_tooltip_sabotage	placeholder	false
+campaign_map_attritions_campaign_map_tooltip_sea_monster_storm	Hạm đội sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn khi ở trong vùng nước nơi Amanar cư ngụ.	false
+campaign_map_attritions_campaign_map_tooltip_snow	Đạo quân sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn khi ở trong các vùng băng giá.	false
+campaign_map_attritions_campaign_map_tooltip_storm_level_1	Hạm đội sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn trong các cơn bão.	false
+campaign_map_attritions_campaign_map_tooltip_storm_level_2	Hạm đội sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn trong các cơn bão.	false
+campaign_map_attritions_campaign_map_tooltip_storm_level_3	Hạm đội sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn trong các cơn bão.	false
+campaign_map_attritions_campaign_map_tooltip_storm_level_4	Hạm đội sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn trong các cơn bão.	false
+campaign_map_attritions_campaign_map_tooltip_storm_level_5	Hạm đội sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn trong các cơn bão.	false
+campaign_map_attritions_campaign_map_tooltip_storm_sandstorm	Đạo quân sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn trong các trận bão cát.	false
+campaign_map_attritions_campaign_map_tooltip_swamp	Đạo quân sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn khi ở trong vùng đầm lầy.	false
+campaign_map_attritions_campaign_map_tooltip_vampire_territory	Đạo quân không thuộc phe Vampire sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn khi ở trong lãnh thổ của Undead hoặc các khu vực có mức độ [[img:icon_corruption_vmp]][[/img]]suy đồi Vampiric cao.	false
+campaign_map_attritions_campaign_map_tooltip_very_low_morale	{{tr:very_low_morale_waaagh_campaign_map_tooltip}}	false
+campaign_map_attritions_campaign_map_tooltip_wasteland	Đạo quân sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn khi ở trong vùng đất hoang cằn cỗi.	false
+campaign_map_attritions_campaign_map_tooltip_wh3_dlc27_the_crow_attrition	Crow sẽ cộng thêm thương vong của ngươi vào sổ sách của hắn. Không ai có thể chống chọi được sự [[img:icon_attrition]][[/img]]hao mòn này.	false
+campaign_map_attritions_campaign_map_tooltip_yuan_garrison_degradation	Đạo quân dự bị sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn.	false
+campaign_map_attritions_unit_card_tooltip_athel_loren	Hầu hết những du khách tiến vào Athel Loren được tìm thấy ở vùng ngoại ô không hơn gì những kẻ điên loạn lảm nhảm, tâm trí của họ đã bị nghiền nát bởi bất kỳ nỗi kinh hoàng nào mà họ chứng kiến trong khu rừng ma thuật.	false
+campaign_map_attritions_unit_card_tooltip_awakened_forest	Khu rừng ở đây đã bị đánh thức, biến nó thành một nơi nguy hiểm đối với bất kỳ kẻ thù nào của Wood Elves.	false
+campaign_map_attritions_unit_card_tooltip_besieged	Dân số của khu định cư đang bị bao vây này đang chết vì suy dinh dưỡng.	false
+campaign_map_attritions_unit_card_tooltip_besieging	Việc bao vây một khu định cư cũng gây tổn thất cho những kẻ bao vây, vì bệnh tật và các cuộc giao tranh nhỏ sẽ cướp đi sinh mạng của những kẻ yếu ớt.	false
+campaign_map_attritions_unit_card_tooltip_blockaded	Không có nguồn cung cấp đến từ các tuyến đường thương mại trên biển, khu định cư này ngày càng đói khát.	false
+campaign_map_attritions_unit_card_tooltip_blockading	Mọi người đều phải chịu đựng trong một cuộc phong tỏa kéo dài. Giữ hạm đội ngoài biển gây tổn hại cho tất cả.	false
+campaign_map_attritions_unit_card_tooltip_blood_voyage_desertion	Với việc Death Night chỉ còn là một ký ức xa xăm, lực lượng này bắt đầu giải tán.	false
+campaign_map_attritions_unit_card_tooltip_building_attrition	Các công trình trong khu vực địa phương đang khiến đạo quân này chịu tổn thất. Hãy nhanh chóng rút lui!	false
+campaign_map_attritions_unit_card_tooltip_chaos_territory	Bị tàn phá bởi các thế lực Chaos, mặt đất trở nên cứng như sắt và những cơn gió hú cắt da cắt thịt bằng cái lạnh buốt thấu xương.	false
+campaign_map_attritions_unit_card_tooltip_chaos_wastes	Du hành qua Chaos Wastes là mời gọi sự điên loạn, vì không sinh vật phàm trần nào có thể thấu hiểu được chúng.	false
+campaign_map_attritions_unit_card_tooltip_chaos_wastes_bonus_value	Du hành qua Chaos Wastes là mời gọi sự điên loạn, vì không sinh vật phàm trần nào có thể thấu hiểu được chúng.	false
+campaign_map_attritions_unit_card_tooltip_chd_summoned_army	Đạo quân này sẽ gánh chịu tổn thất do [[img:icon_attrition]][[/img]]hao mòn sau vài lượt	false
+campaign_map_attritions_unit_card_tooltip_compass	Cơn thịnh nộ của Dragon Emperor đã được giải phóng! Đạo quân Chaos này phải run sợ trước sức mạnh của nó.	false
+campaign_map_attritions_unit_card_tooltip_deep_sea	Các nguyên tố phô diễn sức mạnh thực sự của chúng trên vùng biển sâu, không ngừng vùi dập hạm đội và mang đến cái chết cho các thủy thủ.	false
+campaign_map_attritions_unit_card_tooltip_desert	Tất cả đều bỏ mạng trong sa mạc! Một vị Chúa tể khôn ngoan sẽ tìm một con đường hoặc rời khỏi nơi này.	false
+campaign_map_attritions_unit_card_tooltip_desertion	Không có nguồn cung cấp để duy trì, nạn đói, bệnh tật hoặc đào ngũ đang khiến quân lính phải chịu [[img:icon_attrition]][[/img]]hao mòn.	false
+campaign_map_attritions_unit_card_tooltip_disciple_army	Vật hiến tế theo chủ nghĩa khoái lạc dành cho Dark Prince này rất yếu và sẽ dần suy tàn theo thời gian.	false
+campaign_map_attritions_unit_card_tooltip_disease	Dịch bệnh [[img:icon_plague]][[/img]]plague của Skaven mang đến đau khổ và cái chết cho đạo quân này! Chỉ có thời gian mới có thể rũ bỏ căn bệnh này khỏi chúng.	false
+campaign_map_attritions_unit_card_tooltip_dlc17_despoiler_raiding	Những sinh vật bẩn thỉu và thối nát quấy rối lực lượng này do sự tàn phá của bọn Beastmen địa phương!	false
+campaign_map_attritions_unit_card_tooltip_dlc25_chieftain_attrition	Maggot Host của Tamurkhan gieo rắc mầm bệnh và sự tuyệt vọng khi nó tiến quân.	false
+campaign_map_attritions_unit_card_tooltip_event_attrition	Một sự kiện gần đây đã khiến đạo quân này chịu tổn thất! Ôi, những vị thần độc ác, khi nào thì chuyện này mới qua đi?	false
+campaign_map_attritions_unit_card_tooltip_event_attrition_no_immunity	Một sự kiện gần đây đã khiến đạo quân này chịu tổn thất! Ôi, những vị thần độc ác, khi nào thì chuyện này mới qua đi?	false
+campaign_map_attritions_unit_card_tooltip_horde_infighting	Sự kình địch giữa hai bầy đàn hùng mạnh đã lên tới đỉnh điểm. Các chiến binh đã bắt đầu tàn sát lẫn nhau!	false
+campaign_map_attritions_unit_card_tooltip_hostile_territory	Một nghi thức đã được thực hiện trong vùng lãnh thổ này – nhiều chiến binh đang mất mạng vì môi trường này.	false
+campaign_map_attritions_unit_card_tooltip_kho_summoned_army	Đạo quân này không thể tự duy trì mà không đổ máu liên tục. Hãy chiến đấu để có được sự ân xá tạm thời.	false
+campaign_map_attritions_unit_card_tooltip_khorne_infighting	Đạo quân này đang chịu tổn thất nặng nề vì vướng vào các thử thách chiến đấu đẫm máu của Khorne.	false
+campaign_map_attritions_unit_card_tooltip_kislev_winter	Motherland đã được triệu hồi tại vùng lãnh thổ Kislevite này, đạo quân không thể chịu đựng được cái lạnh thấu xương!	false
+campaign_map_attritions_unit_card_tooltip_lizard_defenders	Người Lizardmen trong khu vực này có các hiệu ứng từ Rite of Allegiance - nhiều chiến binh đang mất mạng vì môi trường này.	false
+campaign_map_attritions_unit_card_tooltip_low_morale	{{tr:low_morale_waaagh_unit_card}}	false
+campaign_map_attritions_unit_card_tooltip_madness_rage_infighting	Sự hỗn loạn và điên rồ đang gây tổn thất nặng nề cho đạo quân này.	false
+campaign_map_attritions_unit_card_tooltip_maelstrom	lỗi thời	false
+campaign_map_attritions_unit_card_tooltip_malediction_of_ruin	Malediction of Ruin đã được giải phóng! Đạo quân này phải run sợ trước sức mạnh của Mother Ostankya.	false
+campaign_map_attritions_unit_card_tooltip_mist	Đạo quân này đang gánh chịu những tổn thất nặng nề trong màn sương mù bị nguyền rủa.	false
+campaign_map_attritions_unit_card_tooltip_mist_of_yvresse	Đạo quân này đang gánh chịu tổn thất nặng nề trong Mists of Yvresse.	false
+campaign_map_attritions_unit_card_tooltip_mountain	Ngọn núi đang lấy đi sinh mạng. Một vị Chúa tể khôn ngoan sẽ tìm một con đường hoặc rời khỏi nơi này.	false
+campaign_map_attritions_unit_card_tooltip_non_vampire_territory	Vùng đất của người sống không cung cấp nơi trú ẩn cho kẻ chết. Lời nguyền của Vanhel đang giáng xuống chúng ta, hãy nhanh chóng vượt qua vùng lãnh thổ này hoặc chúng sẽ trở lại thành những xác chết vô tri.	false
+campaign_map_attritions_unit_card_tooltip_nurgle_plague	Một dịch bệnh được giải phóng vào thế giới bởi vị Cổ Thần phương Bắc được biết đến với cái tên Crow. Chạy trốn thật nhanh về hướng ngược lại là điều duy nhất có thể cứu họ khỏi tai họa không hồi kết này!	false
+campaign_map_attritions_unit_card_tooltip_nurgle_realm	Gần như không thể tránh khỏi vô số nỗi đau đớn khủng khiếp tìm thấy ở Land of the Plaguelord.	false
+campaign_map_attritions_unit_card_tooltip_ogre_meat	Không có thức ăn, bộ lạc này đã phải dùng đến cách ăn thịt đồng loại để thỏa mãn cơn đói của chúng!	false
+campaign_map_attritions_unit_card_tooltip_plague_nurgle	Dịch bệnh [[img:icon_plague]][[/img]]plague của Nurgle mang đến đau khổ và cái chết cho đạo quân này! Chỉ có thời gian mới có thể rũ bỏ căn bệnh này khỏi chúng.	false
+campaign_map_attritions_unit_card_tooltip_recreant_spirit	Lực lượng được triệu hồi của Mother Ostankya rất yếu ớt và sẽ dần suy giảm theo thời gian.	false
+campaign_map_attritions_unit_card_tooltip_reef	Những rạn san hô ở vùng biển nông này tàn phá cả hạm đội. Hãy vạch ra một lộ trình mới ngay lập tức!	false
+campaign_map_attritions_unit_card_tooltip_regionless	Không có khu vực nào để gọi là nhà, lực lượng này đang phải chịu đựng sự [[img:icon_attrition]][[/img]]hao mòn.	false
+campaign_map_attritions_unit_card_tooltip_sabotage	Đạo quân này đã bị phá hoại; nhiều người đã mất mạng.	false
+campaign_map_attritions_unit_card_tooltip_sea_monster_storm	Hạm đội này đã đi lạc vào vùng nước của Amanar – các tàu đang bị vùi dập bởi sự hung hăng của con quái thú!	false
+campaign_map_attritions_unit_card_tooltip_snow	Cái lạnh tạo ra những xác chết. Một vị Chúa tể khôn ngoan sẽ tìm một con đường hoặc rời khỏi nơi này.	false
+campaign_map_attritions_unit_card_tooltip_storm_level_1	Hạm đội này đã gặp phải một cơn bão trên biển - các con tàu đang bị thiên nhiên vùi dập. Hãy giương buồm!	false
+campaign_map_attritions_unit_card_tooltip_storm_level_2	Hạm đội này đã gặp phải một cơn bão trên biển - các con tàu đang bị thiên nhiên vùi dập. Hãy giương buồm!	false
+campaign_map_attritions_unit_card_tooltip_storm_level_3	Hạm đội này đã gặp phải một cơn bão trên biển - các con tàu đang bị thiên nhiên vùi dập. Hãy giương buồm!	false
+campaign_map_attritions_unit_card_tooltip_storm_level_4	Hạm đội này đã gặp phải một cơn bão trên biển - các con tàu đang bị thiên nhiên vùi dập. Hãy giương buồm!	false
+campaign_map_attritions_unit_card_tooltip_storm_level_5	Hạm đội này đã gặp phải một cơn bão trên biển - các con tàu đang bị thiên nhiên vùi dập. Hãy giương buồm!	false
+campaign_map_attritions_unit_card_tooltip_storm_sandstorm	Đạo quân này đang bị bão cát vùi dập và gánh chịu tổn thất nặng nề.	false
+campaign_map_attritions_unit_card_tooltip_swamp	Bãi lầy này nuốt chửng những kẻ bất cẩn. Một vị Chúa tể khôn ngoan sẽ tìm một con đường hoặc rời khỏi nơi này.	false
+campaign_map_attritions_unit_card_tooltip_vampire_territory	Các vùng đất dưới sự cai trị của một Vampire mang một diện mạo đáng sợ – không có nguồn sống nào ở đây cho người sống, vì sinh lực của họ bị hút cạn khỏi cơ thể.	false
+campaign_map_attritions_unit_card_tooltip_very_low_morale	{{tr:very_low_morale_waaagh_unit_card}}	false
+campaign_map_attritions_unit_card_tooltip_wasteland	Những vùng đất hoang cằn cỗi vô cùng rộng lớn, khắc nghiệt và khan hiếm thức ăn - những vùng đất cằn cỗi như vậy không dành cho người sống.	false
+campaign_map_attritions_unit_card_tooltip_wh3_dlc27_the_crow_attrition	{{tr:campaign_map_attritions_campaign_map_tooltip_wh3_dlc27_the_crow_attrition}}	false
+campaign_map_attritions_unit_card_tooltip_yuan_garrison_degradation	Ta không vứt bỏ mạng sống của các ngươi một cách vô ích, nhưng ta không ngại sử dụng chúng một cách khôn ngoan đâu!	false
+campaign_map_attritions_unit_immunity_text_athel_loren	Rừng Athel Loren	false
+campaign_map_attritions_unit_immunity_text_awakened_forest	Rừng Awakened	false
+campaign_map_attritions_unit_immunity_text_besieged	Khi bị bao vây	false
+campaign_map_attritions_unit_immunity_text_besieging		false
+campaign_map_attritions_unit_immunity_text_blockaded		false
+campaign_map_attritions_unit_immunity_text_blockading		false
+campaign_map_attritions_unit_immunity_text_blood_voyage_desertion	Đào ngũ	false
+campaign_map_attritions_unit_immunity_text_building_attrition		false
+campaign_map_attritions_unit_immunity_text_chaos_territory	Sự suy đồi Chaos	false
+campaign_map_attritions_unit_immunity_text_chaos_wastes	Vùng Đất Hỗn Mang	false
+campaign_map_attritions_unit_immunity_text_chaos_wastes_bonus_value	Vùng Đất Hỗn Mang	false
+campaign_map_attritions_unit_immunity_text_chd_summoned_army		false
+campaign_map_attritions_unit_immunity_text_compass	Cơn thịnh nộ của Dragon Emperor	false
+campaign_map_attritions_unit_immunity_text_deep_sea	Biển sâu	false
+campaign_map_attritions_unit_immunity_text_desert	Sa mạc	false
+campaign_map_attritions_unit_immunity_text_desertion		false
+campaign_map_attritions_unit_immunity_text_disciple_army		false
+campaign_map_attritions_unit_immunity_text_disease	Dịch bệnh Skaven	false
+campaign_map_attritions_unit_immunity_text_dlc17_despoiler_raiding	Despoiler cướp bóc	false
+campaign_map_attritions_unit_immunity_text_dlc25_chieftain_attrition	Khu vực bị ô uế	false
+campaign_map_attritions_unit_immunity_text_event_attrition		false
+campaign_map_attritions_unit_immunity_text_event_attrition_no_immunity		false
+campaign_map_attritions_unit_immunity_text_horde_infighting	Đấu đá nội bộ trong bầy đàn	false
+campaign_map_attritions_unit_immunity_text_hostile_territory	Rite of Sotek (Lãnh thổ Lizardmen)	false
+campaign_map_attritions_unit_immunity_text_kho_summoned_army	Khát máu	false
+campaign_map_attritions_unit_immunity_text_khorne_infighting		false
+campaign_map_attritions_unit_immunity_text_kislev_winter	Motherland	false
+campaign_map_attritions_unit_immunity_text_lizard_defenders	Rite of Allegiance (Lãnh thổ Lizardmen)	false
+campaign_map_attritions_unit_immunity_text_low_morale	{{tr:unit_immunity_text_low}}	false
+campaign_map_attritions_unit_immunity_text_madness_rage_infighting		false
+campaign_map_attritions_unit_immunity_text_maelstrom	lỗi thời	false
+campaign_map_attritions_unit_immunity_text_malediction_of_ruin	Lời nguyền Hủy diệt	false
+campaign_map_attritions_unit_immunity_text_mist	Sương mù Bị nguyền rủa	false
+campaign_map_attritions_unit_immunity_text_mist_of_yvresse	Sương mù Yvresse	false
+campaign_map_attritions_unit_immunity_text_mountain	Núi	false
+campaign_map_attritions_unit_immunity_text_non_vampire_territory		false
+campaign_map_attritions_unit_immunity_text_nurgle_plague	Plague của Crow	false
+campaign_map_attritions_unit_immunity_text_nurgle_realm	Vùng đất của Chúa tể Bệnh dịch	false
+campaign_map_attritions_unit_immunity_text_ogre_meat		false
+campaign_map_attritions_unit_immunity_text_plague_nurgle	Plague của Nurgle	false
+campaign_map_attritions_unit_immunity_text_recreant_spirit		false
+campaign_map_attritions_unit_immunity_text_reef	Rạn san hô	false
+campaign_map_attritions_unit_immunity_text_regionless	Vô gia cư	false
+campaign_map_attritions_unit_immunity_text_sabotage		false
+campaign_map_attritions_unit_immunity_text_sea_monster_storm	Cơn bão Amanar	false
+campaign_map_attritions_unit_immunity_text_snow	Băng tuyết	false
+campaign_map_attritions_unit_immunity_text_storm_level_1	Gió giật mạnh	false
+campaign_map_attritions_unit_immunity_text_storm_level_2	Bão	false
+campaign_map_attritions_unit_immunity_text_storm_level_3	Bão mạnh	false
+campaign_map_attritions_unit_immunity_text_storm_level_4	Bão cuồng phong	false
+campaign_map_attritions_unit_immunity_text_storm_level_5	Siêu bão	false
+campaign_map_attritions_unit_immunity_text_storm_sandstorm	Bão cát	false
+campaign_map_attritions_unit_immunity_text_swamp	Đầm lầy	false
+campaign_map_attritions_unit_immunity_text_vampire_territory	Lãnh thổ Vampire	false
+campaign_map_attritions_unit_immunity_text_very_low_morale	{{tr:unit_immunity_text_very_low}}	false
+campaign_map_attritions_unit_immunity_text_wasteland	Vùng đất hoang cằn cỗi	false
+campaign_map_attritions_unit_immunity_text_wh3_dlc27_the_crow_attrition	{{tr:campaign_map_attritions_unit_card_tooltip_wh3_dlc27_the_crow_attrition}}	false
+campaign_map_attritions_unit_immunity_text_yuan_garrison_degradation		false

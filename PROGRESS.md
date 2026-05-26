@@ -1,5 +1,10 @@
 # Tiến độ Việt hoá Total War: Warhammer III
 
+## Tiến độ tổng quan (Overall Progress)
+- **Tiến độ theo File**: 56 / 235 files hoàn thành (~23.83%)
+- **Tiến độ theo Key**: 48,768 / 241,728 keys hoàn thành (~20.17%)
+
+
 | File Table | Tổng số Key | Đã dịch | Trạng thái | % Hoàn thành | Ghi chú |
 | :--- | :---: | :---: | :---: | :---: | :--- |
 | abilities__.loc.tsv | 27 | 27 | Done | 100% | Đã dịch xong và kiểm tra số lượng key khớp. |

@@ -1,0 +1,93 @@
+key	text	tooltip
+#Loc;1;text/db/campaign_map_tooltip_texts__.loc		
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_abandoned_major_region	Thủ phủ tỉnh đã bị phá hủy	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_abandoned_minor_region	Khu định cư nhỏ đã bị phá hủy	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_contested_sea_region_self	Việc bổ sung hoặc chiêu mộ chỉ diễn ra tại các cảng của bạn.	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_hostile_sea_region_self	Không thể bổ sung hoặc chiêu mộ.	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_left_clk_inscpect_must_break_blockade	Chuột trái để kiểm tra\\nPhải phá vỡ phong tỏa trước	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_left_clk_inspect_must_break_siege	Chuột trái để chọn\\nPhải phá vỡ vòng vây trước	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_left_clk_inspect_right_clk_move_to_coast	Chuột trái để kiểm tra\\nChuột phải để di chuyển tới điểm đổ bộ gần nhất	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_left_clk_inspect_right_declare_war	Chuột phải để tuyên chiến\\nChuột trái để kiểm tra	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_left_clk_select	Chuột trái để chọn	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_left_clk_select_inspection	Chuột trái để kiểm tra	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_left_clk_select_must_break_blockade	Chuột trái để chọn\\nPhải phá vỡ phong tỏa trước	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_left_clk_select_must_break_siege	Chuột trái để chọn\\nPhải phá vỡ vòng vây trước	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_left_clk_select_right_clk_move_to_coast	Chuột trái để chọn\\nChuột phải để di chuyển tới điểm đổ bộ gần nhất	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_left_clk_select_warning_port_occupied	Chuột trái để chọn\\nCảng đã bị chiếm đóng	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_allied_admiral	Hạm đội đồng minh	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_allied_agent	Hero đồng minh: %S	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_allied_general	Đạo quân đồng minh	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_allied_general_on_sea	Tàu vận tải đồng minh	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_allied_minor_settlement	Khu định cư nhỏ của đồng minh	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_allied_province_capital	Thủ phủ tỉnh của đồng minh	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_enemy_admiral	Hạm đội phe địch	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_enemy_agent	Hero phe địch: %S	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_enemy_general	Đạo quân phe địch	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_enemy_general_on_sea	Tàu vận tải phe địch	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_enemy_minor_settlement	Khu định cư nhỏ của phe địch	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_enemy_province_capital	Thủ phủ tỉnh của phe địch	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_non_player_admiral	Hạm đội trung lập	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_non_player_agent	Hero trung lập: %S	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_non_player_general	Đạo quân trung lập	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_non_player_general_on_sea	Tàu vận tải trung lập	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_non_player_minor_settlement	Khu định cư nhỏ trung lập	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_non_player_province_capital	Thủ phủ tỉnh trung lập	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_player_admiral	Hạm đội của bạn	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_player_agent	Hero của bạn: %S	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_player_general	Đạo quân của bạn	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_player_general_on_sea	Tàu vận tải của bạn	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_player_minor_settlement	Khu định cư nhỏ của bạn	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_player_province_capital	Thủ phủ tỉnh của bạn	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_main_province	Tỉnh: %S	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_move_to_coast	Chuột phải để di chuyển tới điểm đổ bộ gần nhất	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_must_break_blockade	Phải phá vỡ phong tỏa trước.	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_must_break_siege	Phải phá vỡ vòng vây trước.	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_player_sea_trade_route_self	Tuyến giao thương trên biển của bạn	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_player_trade_route_self	Tuyến giao thương của bạn	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_act_against_army_left_clk_select_inspection	Chuột phải để hành động\\nChuột trái để kiểm tra	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_act_against_character_left_clk_select_inspection	Chuột phải để hành động\\nChuột trái để kiểm tra	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_act_against_settlement_left_clk_select_inspection	Chuột phải để hành động\\nChuột trái để kiểm tra	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_attack_army_left_clk_select_inspection	{{tr:rome2_tltip_right_clk_attack_army_left_clk_select_inspection}}	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_attack_navy_left_clk_select_inspection	{{tr:rome2_tltip_right_clk_attack_army_left_clk_select_inspection}}	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_attack_port_settlement_left_clk_select_inspection	Chuột phải để tấn công cảng\\nChuột trái để kiểm tra	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_attack_settlement_left_clk_select_inspection	{{tr:rome2_tltip_right_clk_attack_settlement_left_clk_select_inspection}}	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_disembark	Chuột phải để lên bờ	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_embark	Chuột phải để lên tàu	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_embed_agent	Chuột phải để sát nhập [[img:icon_hero]][[/img]]Hero	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_embed_agent_left_clk_select	Chuột phải để sát nhập [[img:icon_hero]][[/img]]Hero\\nChuột trái để chọn	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_garrison_port_left_clk_select	Chuột phải để đồn trú tại cảng\\nChuột trái để chọn	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_garrison_settlement_left_clk_select	Nhấp chuột phải để đồn trú tại khu định cư\\nNhấp chuột trái để chọn\\n\\nViệc đồn trú tại một khu định cư sẽ cung cấp một phần thưởng cho [[img:icon_public_order]]{{tr:hp_campaign_public_order_term}}, mặc dù điều này sẽ giảm đi dựa trên số lượng khu định cư được kiểm soát trong tỉnh.	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_get_escorted_left_clk_select	Chuột phải để sát nhập [[img:icon_hero]][[/img]]Hero\\nChuột trái để chọn	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_move	Chuột phải để di chuyển	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_transfer_units_left_clk_select_army	Chuột phải để trao đổi unit\\nChuột trái để chọn	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_right_clk_transfer_units_left_clk_select_navy	Chuột phải để trao đổi unit\\nChuột trái để chọn	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_warning_agent_cannot_act_own_settlement	Agent không thể hành động chống lại khu định cư của chính họ.	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_warning_already_besieged	Khu định cư này đã bị bao vây.	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_warning_already_besieged_non_enemy	Khu định cư này đã bị bao vây.\\n[[col:yellow]]Tấn công tài sản của phe khác là một hành động gây chiến![[/col]]	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_warning_already_blockaded	Khu định cư này đã bị phong tỏa.	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_warning_already_blockaded_non_enemy	Khu định cư này đã bị phong tỏa.\\n[[col:yellow]]Tấn công tài sản của phe khác là một hành động gây chiến![[/col]]	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_warning_cannot_act_besieged_non_enemy	[[col:red]]Các khu định cư đang bị bao vây không thể được chọn làm mục tiêu.[[/col]]	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_warning_cannot_attack_stance	[[col:red]]Đạo quân này không thể tấn công trong stance hiện tại.[[/col]]	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_warning_cannot_move_stance	[[col:red]]Đạo quân này không thể di chuyển trong stance hiện tại.[[/col]]	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_warning_diplomatic_impact_action	[[col:yellow]]Hành động chống lại tài sản của phe khác có thể gây ra hậu quả về mặt ngoại giao![[/col]]	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_warning_diplomatic_impact_attack	[[col:yellow]]Tấn công tài sản của phe khác là một hành động gây chiến![[/col]]	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_warning_no_access	[[img:ui/skins/default/icon_diplomacy_path.png]][[/img]][[col:red]]Xâm phạm lãnh thổ sẽ gây ra hậu quả về mặt ngoại giao![[/col]]	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_warning_port_occupied	Cảng đã bị chiếm đóng.	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_warning_settlement_under_blockade	[[col:yellow]]Khu định cư này đang bị phong tỏa[[/col]]	false
+campaign_map_tooltip_texts_tooltip_text_rome2_tltip_warning_settlement_under_siege	[[col:yellow]]Khu định cư này đang bị bao vây[[/col]]	false
+campaign_map_tooltip_texts_tooltip_text_rome_2_tltip_left_ck_inspect_right_clk_disembark_at_coast	Chuột trái để kiểm tra\\nChuột phải để lên bờ và tấn công	false
+campaign_map_tooltip_texts_tooltip_text_rome_2_tltip_left_clk_select_right_clk_disembark_at_coast	Chuột trái để chọn\\nChuột phải để lên bờ	false
+campaign_map_tooltip_texts_tooltip_text_wh2_main_tltip_allied_blark	Black Ark đồng minh	false
+campaign_map_tooltip_texts_tooltip_text_wh2_main_tltip_attack_exit_stance	[[col:yellow]]Tấn công sẽ khiến đạo quân này thoát khỏi stance hiện tại.[[/col]]	false
+campaign_map_tooltip_texts_tooltip_text_wh2_main_tltip_enemy_blark	Black Ark phe địch	false
+campaign_map_tooltip_texts_tooltip_text_wh2_main_tltip_move_exit_stance	[[col:yellow]]Di chuyển sẽ khiến đạo quân này thoát khỏi stance hiện tại.[[/col]]	false
+campaign_map_tooltip_texts_tooltip_text_wh2_main_tltip_non_player_blark	Black Ark trung lập	false
+campaign_map_tooltip_texts_tooltip_text_wh2_main_tltip_player_blark	Black Ark của bạn	false
+campaign_map_tooltip_texts_tooltip_text_wh2_main_tltip_player_force	Lực lượng của bạn	false
+campaign_map_tooltip_texts_tooltip_text_wh2_main_tltip_ruins	{{tr:wh2_main_tltip_ruins}}	false
+campaign_map_tooltip_texts_tooltip_text_wh3_main_tltip_allied_fixed_camp	Trại đồng minh	false
+campaign_map_tooltip_texts_tooltip_text_wh3_main_tltip_enemy_fixed_camp	Trại phe địch	false
+campaign_map_tooltip_texts_tooltip_text_wh3_main_tltip_non_player_fixed_camp	Trại trung lập	false
+campaign_map_tooltip_texts_tooltip_text_wh3_main_tltip_player_fixed_camp	Trại của bạn	false
+campaign_map_tooltip_texts_tooltip_text_wh_main_tltip_waaagh_army	{{tr:your_waaagh_army_tooltip}}	false
+campaign_map_tooltip_texts_tooltip_text_wh_main_tltip_waaagh_army_info	Đạo quân chủ: %s	false
