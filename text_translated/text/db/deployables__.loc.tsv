@@ -1,0 +1,20 @@
+key	text	tooltip
+#Loc;1;text/db/deployables__.loc		
+deployables_description_deployable_barricade	Vật cản được thiết kế để ngăn chặn đối thủ hơn là gây ra thương vong. Thường được làm từ cây cối, đá hoặc đất đào lên, một vật cản có thể chặn đứng một đợt xung phong của kỵ binh, làm chậm bước hành quân của bộ binh, hoặc tạo ra vùng tử địa cho các đơn vị tầm xa.	false
+deployables_description_deployable_brimstone	Lưu huỳnh và nhựa đường, cùng với một số thứ khác, có thể được pha trộn để tạo ra một vũ khí cực kỳ nguy hiểm. Nhựa đường giúp hỗn hợp lưu huỳnh cháy chậm bám chặt vào các vật thể, đặc biệt là người và thú cưỡi, gây ra bỏng nặng nếu không muốn nói là tử vong. Ngoài tên lửa, hỗn hợp này cũng có thể được đổ từ các tòa tháp trong các cuộc công thành. Một hố lưu huỳnh có thể được triển khai trước khi trận chiến bắt đầu và được kích hoạt khi kẻ địch đang xung phong, lý tưởng nhất là khi đã quá muộn để chúng có thể rút lui.	false
+deployables_description_deployable_caltrop	Chông gỗ là một loại vũ khí cực kỳ linh hoạt. Do đặc tính cấu tạo, chúng có thể được cắm xuống đất để tạo ra các hàng rào thấp hoặc đan xen vào nhau để tạo thành hình chông. Ở dạng chông, chông gỗ có thể tiêu diệt các đơn vị đang xung phong/chạy tới từ cả hai hướng (điều mà cọc gỗ không làm được).	false
+deployables_description_deployable_sharp_stones	Các bãi đá sắc nhọn được tạo ra từ nhiều loại đá khác nhau, được xây dựng như một hình thức phòng thủ không gây chết người xung quanh các khu định cư. Đá có thể được chôn xuống đất hoặc xếp thành những đống lộn xộn. Bộ binh thấy những vật thể này rất khó để băng qua, trong khi kỵ binh chỉ có thể đi qua bằng cách chọn các con đường nằm giữa các tảng đá. Hiệu ứng làm chậm này tạo ra một vùng tử địa hiệu quả bên trong và xung quanh các tảng đá, là địa điểm lý tưởng để các đơn vị tầm xa bẫy mục tiêu của họ.	false
+deployables_description_deployable_spiketrap	Bẫy chông là những chiếc cọc gỗ được cắm sâu xuống hố hoặc các nhóm cọc gỗ được che giấu bởi tán lá. Thường gây ra nhiều thương vong hơn khi đối phương xung phong, lớp tán lá sẽ sụp xuống khi bị dẫm lên, gây thương tích hoặc tử vong do bị xiên cọc.	false
+deployables_description_deployable_stakes	Cọc gỗ là một trong những hình thức phòng thủ khu định cư phổ biến nhất. Một thiết bị đơn giản nhưng hiệu quả, các cọc gỗ vót nhọn được đặt theo các hàng nghiêng 45 độ để đâm xuyên qua quân lính hoặc ngựa đang xung phong. Có thể dễ dàng di chuyển vòng qua chúng khi đi chậm, nhưng ngay cả điều này cũng có thể được các đơn vị tầm xa tận dụng. Cọc gỗ nghiêng theo cách này cũng cho phép quân phòng thủ xuất kích mà không có nguy cơ bị đâm trúng.	false
+deployables_name_deployable_barricade	Vật cản	false
+deployables_name_deployable_brimstone	Hố Lưu huỳnh	false
+deployables_name_deployable_caltrop	Chông gỗ	false
+deployables_name_deployable_sharp_stones	Bãi Đá sắc nhọn	false
+deployables_name_deployable_spiketrap	Bẫy Chông	false
+deployables_name_deployable_stakes	Cọc gỗ	false
+deployables_tooltip_deployable_barricade	Vật cản ngăn chặn các đơn vị tiến lên trong một thời gian ngắn.\\n\\nChúng có thể bị phá hủy bởi các phát bắn rực lửa.	false
+deployables_tooltip_deployable_brimstone	Hố lửa có thể được đốt cháy để thiêu rụi các đơn vị không đề phòng. Chúng có thể được kích hoạt bởi các vật thể bắn ra rực lửa hoặc sự tương tác của đơn vị.	false
+deployables_tooltip_deployable_caltrop	Chông gỗ gây sát thương cho các đơn vị cưỡi thú tiếp cận từ bất kỳ góc độ nào, và thêm sát thương nếu chúng đang di chuyển nhanh.	false
+deployables_tooltip_deployable_sharp_stones	Đá sắc nhọn cản trở tiến trình của một đơn vị, biến chúng thành mục tiêu dễ dàng cho các đơn vị tầm xa.	false
+deployables_tooltip_deployable_spiketrap	Bẫy chông là một mối nguy hiểm tiềm ẩn, gây thương vong cao cho bất kỳ đơn vị nào cố gắng di chuyển qua chúng.	false
+deployables_tooltip_deployable_stakes	Cọc gỗ gây sát thương cho các đơn vị cưỡi thú tiếp cận từ phía trước. Chúng gây thêm sát thương nếu đơn vị đó đang di chuyển nhanh.	false

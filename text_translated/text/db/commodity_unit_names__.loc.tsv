@@ -1,0 +1,26 @@
+key	text	tooltip
+#Loc;1;text/db/commodity_unit_names__.loc		
+commodity_unit_names_plural_barrels	thùng	false
+commodity_unit_names_plural_bundle	bó	false
+commodity_unit_names_plural_cages	lồng	false
+commodity_unit_names_plural_chests	hòm	false
+commodity_unit_names_plural_ingot	thỏi	false
+commodity_unit_names_plural_kegs	thùng	false
+commodity_unit_names_plural_kilnful	mẻ	false
+commodity_unit_names_plural_logs	khúc gỗ	false
+commodity_unit_names_plural_ounce	ounce	false
+commodity_unit_names_plural_sacks	bao	false
+commodity_unit_names_plural_slabs	phiến	false
+commodity_unit_names_plural_tusks	ngà	false
+commodity_unit_names_singular_barrels	thùng	false
+commodity_unit_names_singular_bundle	bó	false
+commodity_unit_names_singular_cages	lồng	false
+commodity_unit_names_singular_chests	hòm	false
+commodity_unit_names_singular_ingot	thỏi	false
+commodity_unit_names_singular_kegs	thùng	false
+commodity_unit_names_singular_kilnful	mẻ	false
+commodity_unit_names_singular_logs	khúc gỗ	false
+commodity_unit_names_singular_ounce	ounce	false
+commodity_unit_names_singular_sacks	bao	false
+commodity_unit_names_singular_slabs	phiến	false
+commodity_unit_names_singular_tusks	ngà	false

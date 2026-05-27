@@ -1,0 +1,166 @@
+key	text	tooltip
+#Loc;1;text/db/cooking_recipes__.loc		
+cooking_recipes_display_text_wh2_dlc15_food_dish_1	Nước dùng Núi Sương mù	false
+cooking_recipes_display_text_wh2_dlc15_food_dish_10	Nấm Phô mai	false
+cooking_recipes_display_text_wh2_dlc15_food_dish_2	Xiên thịt Xương xẩu	false
+cooking_recipes_display_text_wh2_dlc15_food_dish_3	Hầm Wyvern	false
+cooking_recipes_display_text_wh2_dlc15_food_dish_4	Gà viên n' Nhầy	false
+cooking_recipes_display_text_wh2_dlc15_food_dish_5	Thịt n' Cá của Grom	false
+cooking_recipes_display_text_wh2_dlc15_food_dish_6	Xúc xích Nấm n' Lòng	false
+cooking_recipes_display_text_wh2_dlc15_food_dish_7	Pizza Magnum	false
+cooking_recipes_display_text_wh2_dlc15_food_dish_8	Burger Nấm Cá	false
+cooking_recipes_display_text_wh2_dlc15_food_dish_9	Bánh Quiche Hải sản Gobbo	false
+cooking_recipes_display_text_wh2_dlc15_food_special_dish_1	Cua Ma Hoàng gia	false
+cooking_recipes_display_text_wh2_dlc15_food_special_dish_2	Gan ngỗng Tiên	false
+cooking_recipes_display_text_wh2_dlc15_food_special_dish_3	Dồi tiết của Mork	false
+cooking_recipes_display_text_wh2_dlc15_food_special_dish_4	Cá Sóc Chiên	false
+cooking_recipes_display_text_wh2_dlc15_food_special_dish_5	Sườn Tẩm bột của Bugman	false
+cooking_recipes_display_text_wh3_dlc24_recipe_agonys_succession	Nỗi Đau Tiếp Nối	false
+cooking_recipes_display_text_wh3_dlc24_recipe_bears_bulwark	Thành Trì Của Gấu	false
+cooking_recipes_display_text_wh3_dlc24_recipe_craven_scent	Mùi Hương Hèn Nhát	false
+cooking_recipes_display_text_wh3_dlc24_recipe_deadeyes_sting	Phát Bắn Sát Thủ	false
+cooking_recipes_display_text_wh3_dlc24_recipe_ember_dread	Nỗi Khiếp Sợ Tàn Tro	false
+cooking_recipes_display_text_wh3_dlc24_recipe_entropous	Hỗn Loạn	false
+cooking_recipes_display_text_wh3_dlc24_recipe_fragmentii	Mảnh Vỡ	false
+cooking_recipes_display_text_wh3_dlc24_recipe_frostwyverns_toil	Nỗ Lực Của Băng Long	false
+cooking_recipes_display_text_wh3_dlc24_recipe_gait_of_thorns	Bước Chân Gai Góc	false
+cooking_recipes_display_text_wh3_dlc24_recipe_hags_denial	Lời Khước Từ Của Mụ Phù Thủy	false
+cooking_recipes_display_text_wh3_dlc24_recipe_harrowing_coil	Vòng Xoáy Khổ Đau	false
+cooking_recipes_display_text_wh3_dlc24_recipe_hushed_cast	Phép Thuật Lặng Lẽ	false
+cooking_recipes_display_text_wh3_dlc24_recipe_incarnates_wrath	Cơn Thịnh Nộ Của Hiện Thân	false
+cooking_recipes_display_text_wh3_dlc24_recipe_inversus	Đảo Nghịch	false
+cooking_recipes_display_text_wh3_dlc24_recipe_leshys_embrace	Vòng Tay Của Leshy	false
+cooking_recipes_display_text_wh3_dlc24_recipe_rats_grit	Sự Kiên Cường Của Chuột	false
+cooking_recipes_display_text_wh3_dlc24_recipe_spectres_miasma	Chướng Khí Của Bóng Ma	false
+cooking_recipes_display_text_wh3_dlc24_recipe_spirited_away	Lạc Vào Cõi Linh Hồn	false
+cooking_recipes_display_text_wh3_dlc24_recipe_typhlosis	Mù Lòa	false
+cooking_recipes_display_text_wh3_dlc24_recipe_unburdened_step	Bước Chân Thanh Thản	false
+cooking_recipes_display_text_wh3_dlc24_recipe_whiff_of_madness	Làn Gió Điên Loạn	false
+cooking_recipes_display_text_wh3_dlc24_recipe_wraith_sight	Tầm Nhìn U Linh	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_ascendancy	Uy Thế Tột Đỉnh	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_ascendancy_ii	{{tr:cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_ascendancy}} II	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_ascendancy_iii	{{tr:cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_ascendancy}} III	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_charge	deprecated	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_charge_ii	deprecated	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_charge_iii	deprecated	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_denial	Sự Khước Từ Bẽn Lẽn	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_denial_ii	{{tr:cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_denial}} II	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_denial_iii	{{tr:cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_denial}} III	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_despair	Mùi Hương Tuyệt Vọng	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_despair_ii	{{tr:cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_despair}} II	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_despair_iii	{{tr:cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_despair}} III	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_down	deprecated	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_down_ii	deprecated	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_down_iii	deprecated	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_empathy	deprecated	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_empathy_ii	deprecated	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_empathy_iii	deprecated	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_excess	deprecated	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_excess_ii	deprecated	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_excess_iii	deprecated	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_fascination	deprecated	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_fascination_ii	deprecated	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_fascination_iii	deprecated	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_furies	deprecated	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_furies_ii	deprecated	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_furies_iii	deprecated	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_indolence	Sự Lười Biếng Uể Oải	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_indolence_ii	{{tr:cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_indolence}} II	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_indolence_iii	{{tr:cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_indolence}} III	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_lash	Chú Ý Đến Ngọn Roi	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_lash_ii	{{tr:cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_lash}} II	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_lash_iii	{{tr:cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_lash}} III	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_onslaught	deprecated	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_onslaught_ii	deprecated	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_onslaught_iii	deprecated	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_pain	Nỗi Đau Đê Mê	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_pain_ii	{{tr:cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_pain}} II	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_pain_iii	{{tr:cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_pain}} III	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_rapture	deprecated	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_rapture_ii	deprecated	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_rapture_iii	deprecated	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_sensation	deprecated	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_sensation_ii	deprecated	false
+cooking_recipes_display_text_wh3_dlc27_recipe_mark_of_vindictiveness_sensation_iii	deprecated	false
+cooking_recipes_flavour_text_wh2_dlc15_food_dish_1	Cái nước dùng này nhìn như một mớ hỗn độn chả ra làm sao. Kia là cái cánh, cái chân, hay đùi gà? Hoặc thậm chí là cái đầu của con gì đó? Càng ít biết thì càng tốt!	false
+cooking_recipes_flavour_text_wh2_dlc15_food_dish_10	Chất nhầy thối rữa? Nấm nhìn như có độc? Có gì mà không thích chứ? Ngoại trừ cái vụ xì hơi sau đó thôi, dĩ nhiên rồi.	false
+cooking_recipes_flavour_text_wh2_dlc15_food_dish_2	Xương và móng của mấy thứ bay lượn làm xiên rất tốt cho mấy miếng cá, cũng giống như xương cá dành cho mấy thứ bay lượn vậy. Cơ mà, khó mà biết được cái nào là cái nào…	false
+cooking_recipes_flavour_text_wh2_dlc15_food_dish_3	Với vài quả nấm và mấy thứ bay lượn không tên, ai cũng có thể làm ra thứ gì đó hơi giống món hầm. Còn nó có vị giống như người ta quảng cáo không thì lại là chuyện khác.	false
+cooking_recipes_flavour_text_wh2_dlc15_food_dish_4	Băm nhỏ vài loại thịt lạ hoắc, dù là dơi, Rồng, hay bất cứ thứ gì, rồi dọn ra với loại nước sốt kinh tởm nhất có thể tưởng tượng được – đúng kiểu Grom thích.	false
+cooking_recipes_flavour_text_wh2_dlc15_food_dish_5	Mấy miếng thịt và cá hoàn toàn không thể nhận dạng được vứt bừa lên đĩa tạo nên một bữa ăn đầy hương vị dễ chuẩn bị! Cứ như một bữa tiệc bãi biển trong miệng ngươi vậy, nhưng ai nấy đều đang nôn thốc nôn tháo.	false
+cooking_recipes_flavour_text_wh2_dlc15_food_dish_6	Chả có gì ra dáng ‘bữa tối’ với Grom hơn là lòng mề, nội tạng và thịt vụn nhồi vào trong mấy cái ruột, kèm thêm vài quả nấm vớ vẩn ném vào cho đủ bộ.	false
+cooking_recipes_flavour_text_wh2_dlc15_food_dish_7	Biến tấu riêng của Grom từ công thức Tilea truyền thống không dành cho những kẻ yếu tim. Một người ăn chay có thể lăn đùng ra chết chỉ bằng cách nhìn vào nó.	false
+cooking_recipes_flavour_text_wh2_dlc15_food_dish_8	Ở Marienburg, tụi nó thích kẹp thịt vào bánh mì Halfling, nhưng Grom thích phiên bản nấm cá của lão hơn nhiều. Và cá càng ươn thì càng ngon!	false
+cooking_recipes_flavour_text_wh2_dlc15_food_dish_9	Mỗi tên gobbo đều yêu một cái bánh quiche ngon lành, mặc dù tụi nó đã quên mất cái quiche thực sự là cái quái gì rồi. Mà tụi nó cũng chả quan tâm, miễn là nó bốc mùi tệ hơn cả cái áo của một Mụ Phù Thủy Troll là được.	false
+cooking_recipes_flavour_text_wh2_dlc15_food_special_dish_1	Chẳng ai thực sự biết món ăn thoát tục này được tạo ra như thế nào. Thật khó để giết một thứ gì đó vốn đã chết. Và càng khó hơn để làm cho nó có vị gì đó!	false
+cooking_recipes_flavour_text_wh2_dlc15_food_special_dish_2	Người ta kể rằng một nông dân Bretonnia tình cờ bắt được một con đại bàng lạc từ Ulthuan rồi nhồi nhét cho nó ăn đến chết; ông ta thấy gan của nó đặc biệt ngon!	false
+cooking_recipes_flavour_text_wh2_dlc15_food_special_dish_3	Các Pháp sư thường thử những công thức gây say để họ có thể ‘trò chuyện’ với Gork hoặc Mork, cuối cùng phát hiện ra rằng món ăn đặc biệt này có vị ngon hơn nhiều so với cảm giác mà nó mang lại.	false
+cooking_recipes_flavour_text_wh2_dlc15_food_special_dish_4	Một số món nghe thì có vẻ khiêm tốn nhưng việc chế biến còn rủi ro hơn cả chăn Squig. Ai đó cần phải đột nhập vào hang của một con Arachnarok và đánh cắp những quả trứng mới đẻ của nó.	false
+cooking_recipes_flavour_text_wh2_dlc15_food_special_dish_5	Nếu đám lùn biết tụi gobbo đang làm gì với loại bia yêu quý của chúng, chắc chắn sẽ có thêm một mục nữa trong Đại Quyển Hận Thù. Tụi nó chả biết gì đâu – đồ ăn của Người Lùn vị cứ như nước mũi Troll ấy mà!	false
+cooking_recipes_flavour_text_wh3_dlc24_recipe_agonys_succession	Những mảnh sọ trôi nổi tăng thêm sắc thái kinh hoàng cho hỗn hợp chết chóc này, hoàn hảo cho mọi nhu cầu nguyền rủa của ngươi.	false
+cooking_recipes_flavour_text_wh3_dlc24_recipe_bears_bulwark	Một mùi hương nồng nặc lan tỏa theo mỗi lời thì thầm, đủ mạnh để khiến một người đàn ông ngã quỵ.	false
+cooking_recipes_flavour_text_wh3_dlc24_recipe_craven_scent	Người ta chỉ có thể hy vọng rằng nó vốn dĩ phải trông và có mùi tệ hại như thế này…	false
+cooking_recipes_flavour_text_wh3_dlc24_recipe_deadeyes_sting	Nó có mùi như thứ gì đó đã chết bên trong, nhưng ít nhất nó giúp làm nhạy bén các giác quan! Đáng tiếc, điều đó bao gồm cả khứu giác…	false
+cooking_recipes_flavour_text_wh3_dlc24_recipe_ember_dread	Hãy cẩn trọng: độc dược này nóng bỏng khi chạm vào và còn rát hơn nữa trên đầu lưỡi.	false
+cooking_recipes_flavour_text_wh3_dlc24_recipe_entropous	Chỉ cần nhìn đủ lâu vào hỗn hợp đặc quánh, nhớp nháp này là đủ để hút cạn sức lực từ xương tủy một người.	false
+cooking_recipes_flavour_text_wh3_dlc24_recipe_fragmentii	Một giọt duy nhất của hỗn hợp này sẽ gây ra sự yếu ớt, làm vấy bẩn tất cả những gì nó chạm vào bằng sự mỏng manh.	false
+cooking_recipes_flavour_text_wh3_dlc24_recipe_frostwyverns_toil	Chiếc vạc gần như đóng băng, tỏa ra hơi lạnh phù hợp với mùa đông khắc nghiệt nhất.	false
+cooking_recipes_flavour_text_wh3_dlc24_recipe_gait_of_thorns	Mỗi từ ngữ đều mang theo sự gai góc, được thốt lên bên trên làn nước đang sôi sục chắc chắn sẽ làm bỏng rát làn da.	false
+cooking_recipes_flavour_text_wh3_dlc24_recipe_hags_denial	Một ma pháp như vậy chắc chắn sẽ làm tim đập liên hồi, và lạ thay, để lại vị đất trên đầu lưỡi.	false
+cooking_recipes_flavour_text_wh3_dlc24_recipe_harrowing_coil	Người ta có thể nghe thấy tiếng la hét yếu ớt của những linh hồn bị giam cầm theo mỗi lời tụng… Có lẽ đó chỉ là trí tưởng tượng?	false
+cooking_recipes_flavour_text_wh3_dlc24_recipe_hushed_cast	Mỗi từ trong câu thần chú lại nhỏ hơn từ trước đó, cho đến khi những lời thì thầm hầu như không còn nghe thấy được bên trên tiếng sôi sục của chiếc vạc.	false
+cooking_recipes_flavour_text_wh3_dlc24_recipe_incarnates_wrath	Mỗi nguyên liệu đều được thấm đẫm sức mạnh của khu rừng, kết hợp lại để tạo ra một lời chú tăng cường, tràn đầy quyền năng của thiên nhiên.	false
+cooking_recipes_flavour_text_wh3_dlc24_recipe_inversus	Lời nguyền này không quá đáng sợ, nếu người ta có thể lờ đi những tiếng tụng kinh điềm gở và mùi tử khí thoang thoảng.	false
+cooking_recipes_flavour_text_wh3_dlc24_recipe_leshys_embrace	Nó có vẻ giống như một mớ xương động vật xoay vần gớm ghiếc, nhưng khi kết hợp với những từ ngữ chuẩn xác, nó sẽ tạo ra những điều kỳ diệu trên chiến trường.	false
+cooking_recipes_flavour_text_wh3_dlc24_recipe_rats_grit	Đó chính là đặc điểm của loài chuột... chúng luôn sống sót, không ngừng lẩn trốn về phía an toàn.	false
+cooking_recipes_flavour_text_wh3_dlc24_recipe_spectres_miasma	Tốt nhất là ngươi nên bắt đầu tin vào những câu chuyện ma đi là vừa…	false
+cooking_recipes_flavour_text_wh3_dlc24_recipe_spirited_away	Giao tiếp với các linh hồn của khu rừng luôn là một công việc nguy hiểm, nhưng phần thưởng thì…	false
+cooking_recipes_flavour_text_wh3_dlc24_recipe_typhlosis	Thị giác là giác quan mỏng manh nhất, dễ dàng bị đánh cắp bởi một câu chú đơn giản hay một thứ nước độc hại.	false
+cooking_recipes_flavour_text_wh3_dlc24_recipe_unburdened_step	Một loại tiên dược ma thuật, hứa hẹn sẽ giải thoát ngươi khỏi những gánh nặng và xoa dịu mọi nỗi lo âu.	false
+cooking_recipes_flavour_text_wh3_dlc24_recipe_whiff_of_madness	Tất cả chúng ta thỉnh thoảng đều trở nên hơi… chệch nhịp… đúng không?	false
+cooking_recipes_flavour_text_wh3_dlc24_recipe_wraith_sight	Nếu nhìn vào vạc đủ lâu, hình ảnh chết chóc của một hộp sọ sẽ nhìn lại, được tạo hình bởi những bong bóng độc hại.	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_ascendancy	Vài đỉnh cao tự hủy của sự đê mê mang lại hiệu ứng chóng mặt cho cảm giác về giá trị bản thân. Nó trôi qua – và rồi sự sụp đổ kéo đến. Nhưng khi cơn hưng phấn còn kéo dài…	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_ascendancy_ii	{{tr:cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_ascendancy}}	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_ascendancy_iii	{{tr:cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_ascendancy}}	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_charge	deprecated	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_charge_ii	deprecated	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_charge_iii	deprecated	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_denial	Sự e thẹn làm ngọt ngào lời khước từ bằng bản chất đầy toan tính của nó. Đó là tinh hoa của việc kiểm soát kẻ khác, để rồi thu hoạch nỗi khao khát không được đáp lại của họ cho riêng mình.	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_denial_ii	{{tr:cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_denial}}	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_denial_iii	{{tr:cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_denial}}	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_despair	Ở một số kẻ, nhu cầu tuyệt vọng và kinh hoàng mạnh mẽ đến mức chúng tỏa ra những làn sóng áp đảo, bẻ gãy cả những ý chí kiên cường nhất.	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_despair_ii	{{tr:cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_despair}}	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_despair_iii	{{tr:cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_despair}}	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_down	deprecated	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_down_ii	deprecated	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_down_iii	deprecated	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_empathy	deprecated	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_empathy_ii	deprecated	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_empathy_iii	deprecated	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_excess	deprecated	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_excess_ii	deprecated	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_excess_iii	deprecated	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_fascination	deprecated	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_fascination_ii	deprecated	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_fascination_iii	deprecated	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_furies	deprecated	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_furies_ii	deprecated	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_furies_iii	deprecated	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_indolence	Một chiến binh với cơ thể như một mớ giẻ rách uể oải treo trên cái que ý chí khô héo thì chẳng qua chỉ là một kẻ hát rong mệt mỏi đang diễn trò chiến tranh.	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_indolence_ii	{{tr:cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_indolence}}	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_indolence_iii	{{tr:cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_indolence}}	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_lash	Dấu Ấn này thích nghi linh hồn với con đường bất ngờ, không thể đoán định của ngọn roi. Những ngạnh của nó chứa đựng sự đau khổ và ngọt ngào ở mức độ ngang nhau.	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_lash_ii	{{tr:cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_lash}}	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_lash_iii	{{tr:cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_lash}}	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_onslaught	deprecated	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_onslaught_ii	deprecated	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_onslaught_iii	deprecated	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_pain	Nhầm lẫn nỗi đau với khoái lạc được coi là sự rối loạn của các giác quan. Với các bầy tôi của Dechala, đó là một sự sắp đặt có tính toán nhất.	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_pain_ii	{{tr:cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_pain}}	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_pain_iii	{{tr:cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_pain}}	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_rapture	deprecated	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_rapture_ii	deprecated	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_rapture_iii	deprecated	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_sensation	deprecated	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_sensation_ii	deprecated	false
+cooking_recipes_flavour_text_wh3_dlc27_recipe_mark_of_vindictiveness_sensation_iii	deprecated	false

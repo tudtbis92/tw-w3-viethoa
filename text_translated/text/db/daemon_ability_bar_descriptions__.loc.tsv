@@ -1,0 +1,24 @@
+key	text	tooltip
+#Loc;1;text/db/daemon_ability_bar_descriptions__.loc		
+daemon_ability_bar_descriptions_bar_description_archaon	{{tr:daemon_ability_bar_descriptions_bar_description_slaaneshi_factions}}	false
+daemon_ability_bar_descriptions_bar_description_belakor	{{tr:daemon_ability_bar_descriptions_bar_description_slaaneshi_factions}}	false
+daemon_ability_bar_descriptions_bar_description_faction_set_culture_daemons	Điểm được tích lũy khi [[img:icon_general]][[/img]]Chúa tể của bạn gây sát thương (sát thương gây ra cho các đơn vị cấp cao hơn sẽ mang lại nhiều điểm hơn).	false
+daemon_ability_bar_descriptions_bar_description_faction_set_culture_greenskins	Điểm Waaagh! được tích lũy cho mỗi cá thể tham gia cận chiến. Khi tích đủ điểm, thanh năng lượng sẽ đầy và kỹ năng Waaagh! có thể sử dụng được. Càng nhiều đơn vị đồng minh trong trận chiến thì càng cần nhiều điểm để làm đầy thanh năng lượng. Mỗi lần sử dụng kỹ năng cũng làm tăng số điểm cần thiết.	false
+daemon_ability_bar_descriptions_bar_description_faction_set_culture_ogres	Điểm được tích lũy cho mỗi đơn vị đồng minh đang xung phong.	false
+daemon_ability_bar_descriptions_bar_description_faction_set_culture_tomb_kings	Khi các chiến binh Tomb Kings tử trận trên chiến trường, linh hồn của họ sẽ tiến vào Vương quốc Linh hồn.	false
+daemon_ability_bar_descriptions_bar_description_kholek	{{tr:daemon_ability_bar_descriptions_bar_description_slaaneshi_factions}}	false
+daemon_ability_bar_descriptions_bar_description_khornate_factions	Điểm được tích lũy cho mỗi cá thể địch bị tiêu diệt.	false
+daemon_ability_bar_descriptions_bar_description_nurglish_factions	Điểm được tích lũy dựa trên số lượng đơn vị kẻ địch bị suy yếu bởi các nguồn như phép thuật, kỹ năng và các hiệu ứng tiếp xúc, chẳng hạn như độc tố.	false
+daemon_ability_bar_descriptions_bar_description_slaaneshi_factions	Điểm được tích lũy khi tiêu diệt các cá thể trong các đơn vị đang có trạng thái [[img:icon_morale]][[/img]]Chỉ huy tiêu cực.	false
+daemon_ability_bar_descriptions_bar_description_tzeentchian_factions	Điểm được tích lũy bằng cách thi triển phép thuật tiêu tốn Ngọn gió Ma thuật.	false
+daemon_ability_bar_descriptions_bar_title_archaon	{{tr:daemon_ability_bar_descriptions_bar_title_slaaneshi_factions}}	false
+daemon_ability_bar_descriptions_bar_title_belakor	{{tr:daemon_ability_bar_descriptions_bar_title_slaaneshi_factions}}	false
+daemon_ability_bar_descriptions_bar_title_faction_set_culture_daemons	Điểm Vinh quang	false
+daemon_ability_bar_descriptions_bar_title_faction_set_culture_greenskins	Điểm Waaagh!	false
+daemon_ability_bar_descriptions_bar_title_faction_set_culture_ogres	Cú Xung phong Khổng lồ	false
+daemon_ability_bar_descriptions_bar_title_faction_set_culture_tomb_kings	Vương quốc Linh hồn	false
+daemon_ability_bar_descriptions_bar_title_kholek	{{tr:daemon_ability_bar_descriptions_bar_title_slaaneshi_factions}}	false
+daemon_ability_bar_descriptions_bar_title_khornate_factions	Máu cho Thần Máu	false
+daemon_ability_bar_descriptions_bar_title_nurglish_factions	Phước lành của Chúa Tể Dịch Bệnh	false
+daemon_ability_bar_descriptions_bar_title_slaaneshi_factions	Sự Quyến rũ Nhục dục	false
+daemon_ability_bar_descriptions_bar_title_tzeentchian_factions	Con mắt của Tzeentch	false

@@ -1,0 +1,131 @@
+key	text	tooltip
+#Loc;1;text/db/cooking_ingredients__.loc		
+cooking_ingredients_display_text_wh2_dlc15_ale	Bia Lùn	false
+cooking_ingredients_display_text_wh2_dlc15_bat	Da Cánh Dơi	false
+cooking_ingredients_display_text_wh2_dlc15_boar	Thịt Heo Rừng	false
+cooking_ingredients_display_text_wh2_dlc15_clams	Nghêu Đại Dương	false
+cooking_ingredients_display_text_wh2_dlc15_crab	Cua Vỏ Cứng	false
+cooking_ingredients_display_text_wh2_dlc15_discharge	Chất Nhầy Quái Vật	false
+cooking_ingredients_display_text_wh2_dlc15_dragon	Đuôi Rồng	false
+cooking_ingredients_display_text_wh2_dlc15_eagle	Móng Vuốt Đại Bàng	false
+cooking_ingredients_display_text_wh2_dlc15_ectoplasm	Ngoại Chất	false
+cooking_ingredients_display_text_wh2_dlc15_glowing	Nấm Phát Sáng	false
+cooking_ingredients_display_text_wh2_dlc15_goblin	Chân Goblin	false
+cooking_ingredients_display_text_wh2_dlc15_gold_fish	Cá Vàng	false
+cooking_ingredients_display_text_wh2_dlc15_green	Bào Tử Xanh	false
+cooking_ingredients_display_text_wh2_dlc15_harpy	Đầu Harpy	false
+cooking_ingredients_display_text_wh2_dlc15_indigo	Nấm Sữa Chàm	false
+cooking_ingredients_display_text_wh2_dlc15_lion	Thịt Sư Tử	false
+cooking_ingredients_display_text_wh2_dlc15_lizard	Chân Thằn Lằn	false
+cooking_ingredients_display_text_wh2_dlc15_milk	Sữa Centigor	false
+cooking_ingredients_display_text_wh2_dlc15_pepper	Nấm Ớt Địa Ngục	false
+cooking_ingredients_display_text_wh2_dlc15_phoenix	Móng Vuốt Phượng Hoàng	false
+cooking_ingredients_display_text_wh2_dlc15_puffer_fish	Cá Nóc	false
+cooking_ingredients_display_text_wh2_dlc15_stinky	Nấm Thối	false
+cooking_ingredients_display_text_wh2_dlc15_tentacle	Xúc Tu	false
+cooking_ingredients_display_text_wh2_dlc15_troll	Thịt Troll	false
+cooking_ingredients_display_text_wh2_dlc15_yolk	Lòng Đỏ Trứng Nhện	false
+cooking_ingredients_display_text_wh3_dlc24_ingredient_bones_nehekharan_spine	Xương Sống Nehekhara	false
+cooking_ingredients_display_text_wh3_dlc24_ingredient_bones_rotting_clavicle	Xương Đòn Mục Rỗng	false
+cooking_ingredients_display_text_wh3_dlc24_ingredient_bones_well_gnawed_bone	Xương Gặm Dở	false
+cooking_ingredients_display_text_wh3_dlc24_ingredient_horns_dawi_zharr_horn	Sừng Dawi-Zharr	false
+cooking_ingredients_display_text_wh3_dlc24_ingredient_horns_gor_horn	Sừng Gor	false
+cooking_ingredients_display_text_wh3_dlc24_ingredient_horns_horned_one_trophy	Chiến Tích Kẻ Có Sừng	false
+cooking_ingredients_display_text_wh3_dlc24_ingredient_skulls_daemon_skull	Sọ Ác Quỷ	false
+cooking_ingredients_display_text_wh3_dlc24_ingredient_skulls_elven_skull	Sọ Tiên	false
+cooking_ingredients_display_text_wh3_dlc24_ingredient_skulls_marauder_skull	Sọ Kẻ Cướp	false
+cooking_ingredients_display_text_wh3_dlc24_ingredient_stone_brynduraz	Brynduraz	false
+cooking_ingredients_display_text_wh3_dlc24_ingredient_stone_stone_dog_ornament	Tượng Chó Đá	false
+cooking_ingredients_display_text_wh3_dlc24_ingredient_stone_warpstone_fragment	Mảnh Đá Warpstone	false
+cooking_ingredients_display_text_wh3_dlc24_ingredient_teeth_cold_ones_fang	Răng Nanh Cold One	false
+cooking_ingredients_display_text_wh3_dlc24_ingredient_teeth_incisor_of_man	Răng Cửa Người	false
+cooking_ingredients_display_text_wh3_dlc24_ingredient_teeth_orc_molar	Răng Hàm Orc	false
+cooking_ingredients_display_text_wh3_dlc24_ingredient_wood_bark_of_ages	Vỏ Cây Ngàn Năm	false
+cooking_ingredients_display_text_wh3_dlc24_ingredient_wood_branch_of_arden	Cành Cây Arden	false
+cooking_ingredients_display_text_wh3_dlc24_ingredient_wood_ursun_totem	Vật Tổ Ursun	false
+cooking_ingredients_display_unlock_text_wh2_dlc15_ale	[[col:red]]Cướp bóc một khu định cư của người Lùn[[/col]]	false
+cooking_ingredients_display_unlock_text_wh2_dlc15_bat	[[col:red]]Thắng một trận chiến chống lại quân đội có chứa bất kỳ sinh vật bay nào của Lustria hoặc máy móc có cánh (bao gồm cả thú cưỡi)[[/col]]	false
+cooking_ingredients_display_unlock_text_wh2_dlc15_boar	[[col:red]]Trang bị thú cưỡi Heo Rừng Chiến cho một nhân vật[[/col]]	false
+cooking_ingredients_display_unlock_text_wh2_dlc15_clams	[[col:red]]Ra khơi thám hiểm biển cả hoặc cướp bóc một khu định cư của Bretonnia[[/col]]	false
+cooking_ingredients_display_unlock_text_wh2_dlc15_crab	[[col:red]]Ra khơi thám hiểm biển cả hoặc cướp bóc một khu định cư của Vampire Coast[[/col]]	false
+cooking_ingredients_display_unlock_text_wh2_dlc15_discharge	"[[col:red]]Chiêu mộ Trung đoàn Danh tiếng ""Da Swamp Fings""[[/col]]"	false
+cooking_ingredients_display_unlock_text_wh2_dlc15_dragon	[[col:red]]Thắng một trận chiến chống lại quân đội có chứa bất kỳ Rồng hoặc Wyvern nào (bao gồm cả thú cưỡi)[[/col]]	false
+cooking_ingredients_display_unlock_text_wh2_dlc15_eagle	[[col:red]]Thu hồi Rìu của Grom[[/col]]	false
+cooking_ingredients_display_unlock_text_wh2_dlc15_ectoplasm	[[col:red]]Thắng một trận chiến chống lại quân đội có chứa bất kỳ linh hồn ma quái nào[[/col]]	false
+cooking_ingredients_display_unlock_text_wh2_dlc15_glowing	[[col:red]]Đạt cấp 15 với một Goblin Great Shaman hoặc Night Goblin Shaman[[/col]]	false
+cooking_ingredients_display_unlock_text_wh2_dlc15_goblin	[[col:red]]Nhận được chiến tích từ một cuộc kêu gọi Waaagh! thành công[[/col]]	false
+cooking_ingredients_display_unlock_text_wh2_dlc15_gold_fish	[[col:red]]Ra khơi thám hiểm biển cả hoặc cướp bóc một khu định cư của Đế Chế[[/col]]	false
+cooking_ingredients_display_unlock_text_wh2_dlc15_green	[[col:red]]Làm theo lời khuyên của Blacktoof...[[/col]]	false
+cooking_ingredients_display_unlock_text_wh2_dlc15_harpy	[[col:red]]Cướp bóc một khu định cư của Dark Elf[[/col]]	false
+cooking_ingredients_display_unlock_text_wh2_dlc15_indigo	[[col:red]]Đạt cấp 15 với một Orc Shaman[[/col]]	false
+cooking_ingredients_display_unlock_text_wh2_dlc15_lion	[[col:red]]Thắng một trận chiến chống lại quân đội có chứa bất kỳ loại sư tử, xe kéo sư tử hoặc sinh vật lai sư tử nào (bao gồm cả thú cưỡi)[[/col]]	false
+cooking_ingredients_display_unlock_text_wh2_dlc15_lizard	[[col:red]]Thắng một trận chiến chống lại quân đội có chứa bất kỳ sinh vật khổng lồ giống khủng long nào (bao gồm cả thú cưỡi)[[/col]]	false
+cooking_ingredients_display_unlock_text_wh2_dlc15_milk	[[col:red]]Thắng một trận chiến chống lại quân đội có chứa bất kỳ sinh vật sáu chi giống nhân mã nào[[/col]]	false
+cooking_ingredients_display_unlock_text_wh2_dlc15_pepper	[[col:red]]Chiêu mộ bất kỳ đơn vị Night Goblin Fanatics nào[[/col]]	false
+cooking_ingredients_display_unlock_text_wh2_dlc15_phoenix	[[col:red]]Nhận được chiến tích từ một cuộc kêu gọi Waaagh! thành công chống lại bất kỳ phe Elf nào[[/col]]	false
+cooking_ingredients_display_unlock_text_wh2_dlc15_puffer_fish	[[col:red]]Ra khơi thám hiểm biển cả hoặc thắng một trận chiến chống lại quân đội có chứa một Bloated Corpse[[/col]]	false
+cooking_ingredients_display_unlock_text_wh2_dlc15_stinky	[[col:red]]Đạt cấp 15 với một Giant River Troll Hag[[/col]]	false
+cooking_ingredients_display_unlock_text_wh2_dlc15_tentacle	[[col:red]]Ra khơi thám hiểm biển cả hoặc cướp bóc một khu định cư của Norsca[[/col]]	false
+cooking_ingredients_display_unlock_text_wh2_dlc15_troll	[[col:red]]bắt đầu với[[/col]]	false
+cooking_ingredients_display_unlock_text_wh2_dlc15_yolk	[[col:red]]Chiêu mộ một Nhện Arachnarok[[/col]]	false
+cooking_ingredients_display_unlock_text_wh3_dlc24_ingredient_bones_nehekharan_spine	[[col:red]]Thiết lập liên minh với, hoặc đánh bại quân đội Tomb Kings trong trận chiến[[/col]]	false
+cooking_ingredients_display_unlock_text_wh3_dlc24_ingredient_bones_rotting_clavicle	[[col:red]]Thiết lập liên minh với, hoặc đánh bại quân đội Vampire Counts hoặc Vampire Coast trong trận chiến[[/col]]	false
+cooking_ingredients_display_unlock_text_wh3_dlc24_ingredient_bones_well_gnawed_bone	[[col:red]]Thiết lập liên minh with, hoặc đánh bại quân đội Ogre Kingdoms trong trận chiến[[/col]]	false
+cooking_ingredients_display_unlock_text_wh3_dlc24_ingredient_horns_dawi_zharr_horn	[[col:red]]Thiết lập liên minh with, hoặc đánh bại quân đội Chaos Dwarfs trong trận chiến[[/col]]	false
+cooking_ingredients_display_unlock_text_wh3_dlc24_ingredient_horns_gor_horn	[[col:red]]Thiết lập liên minh with, hoặc đánh bại quân đội Beastmen trong trận chiến[[/col]]	false
+cooking_ingredients_display_unlock_text_wh3_dlc24_ingredient_horns_horned_one_trophy	[[col:red]]Thiết lập liên minh with, hoặc đánh bại quân đội Lizardmen trong trận chiến[[/col]]	false
+cooking_ingredients_display_unlock_text_wh3_dlc24_ingredient_skulls_daemon_skull	[[col:red]]Thiết lập liên minh with, hoặc đánh bại bất kỳ quân đội Daemons of Chaos nào trong trận chiến[[/col]]	false
+cooking_ingredients_display_unlock_text_wh3_dlc24_ingredient_skulls_elven_skull	[[col:red]]Thiết lập liên minh with, hoặc đánh bại quân đội High Elves trong trận chiến[[/col]]	false
+cooking_ingredients_display_unlock_text_wh3_dlc24_ingredient_skulls_marauder_skull	[[col:red]]Thiết lập liên minh with, hoặc đánh bại quân đội Warriors of Chaos hoặc Norsca trong trận chiến[[/col]]	false
+cooking_ingredients_display_unlock_text_wh3_dlc24_ingredient_stone_brynduraz	[[col:red]]Thiết lập liên minh with, hoặc đánh bại quân đội người Lùn trong trận chiến[[/col]]	false
+cooking_ingredients_display_unlock_text_wh3_dlc24_ingredient_stone_stone_dog_ornament	[[col:red]]Thiết lập liên minh with, hoặc đánh bại quân đội Grand Cathay trong trận chiến[[/col]]	false
+cooking_ingredients_display_unlock_text_wh3_dlc24_ingredient_stone_warpstone_fragment	[[col:red]]Thiết lập liên minh with, hoặc đánh bại quân đội Skaven trong trận chiến[[/col]]	false
+cooking_ingredients_display_unlock_text_wh3_dlc24_ingredient_teeth_cold_ones_fang	[[col:red]]Thiết lập liên minh with, hoặc đánh bại quân đội Dark Elves trong trận chiến[[/col]]	false
+cooking_ingredients_display_unlock_text_wh3_dlc24_ingredient_teeth_incisor_of_man	[[col:red]]Thiết lập liên minh with, hoặc đánh bại quân đội Đế Chế trong trận chiến[[/col]]	false
+cooking_ingredients_display_unlock_text_wh3_dlc24_ingredient_teeth_orc_molar	[[col:red]]Thiết lập liên minh with, hoặc đánh bại quân đội Greenskins trong trận chiến[[/col]]	false
+cooking_ingredients_display_unlock_text_wh3_dlc24_ingredient_wood_bark_of_ages	[[col:red]]Thiết lập liên minh with, hoặc đánh bại quân đội Wood Elves trong trận chiến[[/col]]	false
+cooking_ingredients_display_unlock_text_wh3_dlc24_ingredient_wood_branch_of_arden	[[col:red]]Thiết lập liên minh with, hoặc đánh bại quân đội Bretonnia trong trận chiến[[/col]]	false
+cooking_ingredients_display_unlock_text_wh3_dlc24_ingredient_wood_ursun_totem		false
+cooking_ingredients_flavour_text_wh2_dlc15_ale	Hổng có gì giải sầu ngon bằng cái này! Mấy thằng lùn xỉn quắc cần câu ta đập tơi bời chắc cũng chịu vậy...	false
+cooking_ingredients_flavour_text_wh2_dlc15_bat	Mấy miếng vỗ cánh với xương rỗng này làm món ăn giòn rụm luôn!	false
+cooking_ingredients_flavour_text_wh2_dlc15_boar	Dính đầy lông lá, nhưng mà vẫn ngon hơn thịt goblin nhiều!	false
+cooking_ingredients_flavour_text_wh2_dlc15_clams	Phần thịt mềm ở trong, nhưng ta cũng khoái nhai luôn cả vỏ!	false
+cooking_ingredients_flavour_text_wh2_dlc15_crab	Chẳng có gì dưới biển ngon bằng cái này. Trừ mấy thằng thủy thủ tiên...	false
+cooking_ingredients_flavour_text_wh2_dlc15_discharge	Cứ bóp mạnh tay vào, kiểu gì cái thứ nhờn nhầy cũng phọt ra thôi, tụi nó muốn hay không cũng kệ xác!	false
+cooking_ingredients_flavour_text_wh2_dlc15_dragon	Loại thịt lạ lùng nhất trong tất cả các loại thịt! Hổng có gì dai hơn cái này đâu!	false
+cooking_ingredients_flavour_text_wh2_dlc15_eagle	Làm tăm xỉa răng cũng tốt, hoặc đem nghiền ra rồi rắc vào nồi sầm cho thơm.	false
+cooking_ingredients_flavour_text_wh2_dlc15_ectoplasm	Mủ phép thuật làm món ăn ngon hơn đó! Hổng có biết nó từ đâu ra đâu nha!	false
+cooking_ingredients_flavour_text_wh2_dlc15_glowing	Ta hổng biết cái gì làm tụi nó sáng trưng vậy nữa, nhưng mà sau khi ăn xong đống phân nhìn đẹp phết!	false
+cooking_ingredients_flavour_text_wh2_dlc15_goblin	Mấy tên định cướp ta ở Vùng Đất Xấu, ta đập tụi nó một trận rồi lột chân luôn.	false
+cooking_ingredients_flavour_text_wh2_dlc15_gold_fish	Ta từng nuôi tụi nó làm thú cưng trong ao, nhưng mà tụi nó ngon quá nên thôi... ăn luôn.	false
+cooking_ingredients_flavour_text_wh2_dlc15_green	Mới chôm được từ khu rừng của mấy tên tai nhọn. Tiện tay đập luôn vài đứa trên đường đi.	false
+cooking_ingredients_flavour_text_wh2_dlc15_harpy	Mấy con Harpy ngu ngốc dám tấn công ta ở Xứ Troll. Giờ tụi nó hết bay nổi rồi!	false
+cooking_ingredients_flavour_text_wh2_dlc15_indigo	Hổng có nấm nào đắng hơn cái này, nó còn dính hơn cả mông Squig nữa!	false
+cooking_ingredients_flavour_text_wh2_dlc15_lion	Hơi nặng mùi, nhưng mà ngon! Chỉ có ở hòn đảo của tụi tai nhọn mới tìm được hàng tươi hơn thôi.	false
+cooking_ingredients_flavour_text_wh2_dlc15_lizard	Lột da tụi nó trước đã, làm thắt lưng hơi bị xịn luôn!	false
+cooking_ingredients_flavour_text_wh2_dlc15_milk	Ờ, ta mới vắt sữa Centigor đó. Nó là một cậu chàng ngọt ngào...	false
+cooking_ingredients_flavour_text_wh2_dlc15_pepper	Cũng đáng cái công xả ra đống khí thối hoắc sau khi ăn đó!	false
+cooking_ingredients_flavour_text_wh2_dlc15_phoenix	Con chim khổng lồ suýt đớp được ta, nhưng ta đã biến nó thành bữa tối. Giờ chỉ còn lại mấy cái móng vuốt thôi!	false
+cooking_ingredients_flavour_text_wh2_dlc15_puffer_fish	Nếu hổng biết làm thì chết chắc. Nhưng mà chính cái đó mới làm nó ngon!	false
+cooking_ingredients_flavour_text_wh2_dlc15_stinky	Tụi nó gọi đây là nấm thối nhưng ta thấy ngược lại. Ta khoái nghiền nát nó ra rồi xoa lên người. Tốt cho da lắm, thử đi!	false
+cooking_ingredients_flavour_text_wh2_dlc15_tentacle	Coi chừng mấy cái vòi mút đó, ta mất cả tháng mới gỡ được cái vòi cuối cùng dính trên người đó!	false
+cooking_ingredients_flavour_text_wh2_dlc15_troll	Phải nướng sơ qua để nó ngừng hồi phục, tốt nhất là cứ nấu cho tới khi nó đen thui luôn!	false
+cooking_ingredients_flavour_text_wh2_dlc15_yolk	Cái này là cao lương mỹ vị với đám goblin đêm – mấy tên đó lén lút nhưng mà biết chọn món quiche ngon đó!	false
+cooking_ingredients_flavour_text_wh3_dlc24_ingredient_bones_nehekharan_spine	Những mảnh cát và xương rơi ra từ đoạn xương sống cổ xưa này, dù nhỏ bé, nhưng vẫn chứa đựng tiềm năng ngàn năm.	false
+cooking_ingredients_flavour_text_wh3_dlc24_ingredient_bones_rotting_clavicle	Sức mạnh của một vật phẩm có thể bắt nguồn từ người tạo ra nó, từ quyền năng ma thuật, từ nguồn gốc hoặc từ mùi hôi thối không gì sánh bằng.	false
+cooking_ingredients_flavour_text_wh3_dlc24_ingredient_bones_well_gnawed_bone	Không rõ khúc xương này từng thuộc về sinh vật nào, nhưng nhìn đống thịt bị gặm sạch bách thế này thì chắc hẳn nó phải ngon lắm.	false
+cooking_ingredients_flavour_text_wh3_dlc24_ingredient_horns_dawi_zharr_horn	Sự tham lam tàn bạo vốn có của loài Dawi-Zharr rỉ ra từ chiếc sừng vặn vẹo này.	false
+cooking_ingredients_flavour_text_wh3_dlc24_ingredient_horns_gor_horn	Những sinh vật của Hỗn Loạn này thấm đẫm Ma thuật Hắc ám, dù chúng có khả năng điều khiển nó hay không.	false
+cooking_ingredients_flavour_text_wh3_dlc24_ingredient_horns_horned_one_trophy	Nếu loài thằn lằn có thể mọc lại cả các chi, thì da thịt của chúng chắc hẳn cũng mang lại sức mạnh tương tự cho kẻ khác.	false
+cooking_ingredients_flavour_text_wh3_dlc24_ingredient_skulls_daemon_skull	Với những kỹ thuật phù hợp, khả năng phục hồi của Ác quỷ có thể được tận dụng, hoặc đôi khi, bị vô hiệu hóa.	false
+cooking_ingredients_flavour_text_wh3_dlc24_ingredient_skulls_elven_skull	Những đường cong duyên dáng của chiếc sọ tách rời này che giấu sức mạnh ma thuật tiềm ẩn trong mọi tộc nhân Asur.	false
+cooking_ingredients_flavour_text_wh3_dlc24_ingredient_skulls_marauder_skull	Ngọn lửa bên trong là yếu tố sống còn để đảm bảo sự sinh tồn giữa vùng lãnh nguyên phương Bắc khắc nghiệt.	false
+cooking_ingredients_flavour_text_wh3_dlc24_ingredient_stone_brynduraz	‘Đá tỏa sáng’ quý hiếm và đầy kiêu hãnh của người Lùn thường được sử dụng để chế tác những vũ khí và giáp trụ tinh xảo và vô cùng bền bỉ.	false
+cooking_ingredients_flavour_text_wh3_dlc24_ingredient_stone_stone_dog_ornament	Vật tổ của một người bạn đồng hành, cũng như kẻ bảo vệ bếp lửa và tổ ấm. Đây là một mẫu vật rất tốt.	false
+cooking_ingredients_flavour_text_wh3_dlc24_ingredient_stone_warpstone_fragment	Chỉ những bậc thầy phép thuật dày dạn kinh nghiệm nhất mới dám mạo hiểm nghịch ngợm với một loại vật liệu vốn dĩ đa năng và dễ bay hơi như Warpstone.	false
+cooking_ingredients_flavour_text_wh3_dlc24_ingredient_teeth_cold_ones_fang	Răng nanh của một kẻ săn mồi đơn độc, một thợ săn luôn truy đuổi con mồi cho đến nhát cắn cuối cùng.	false
+cooking_ingredients_flavour_text_wh3_dlc24_ingredient_teeth_incisor_of_man	Con người, dù cá nhân yếu ớt, nhưng lại mang trong mình tiềm năng đầy tham vọng. Tầm với của họ, và quả thực là cả miếng cắn của họ, là rất lớn.	false
+cooking_ingredients_flavour_text_wh3_dlc24_ingredient_teeth_orc_molar	Những mẩu thịt vụn, những sợi dây thần kinh và một phần lớn sự thối rữa vẫn còn bám vào chiếc răng vừa mới đào lên này.	false
+cooking_ingredients_flavour_text_wh3_dlc24_ingredient_wood_bark_of_ages	Mảnh vỏ cây này, đã tồn tại nhiều thế kỷ, đã chứng kiến nhiều điều hơn hầu hết các cá nhân, bất chấp bản tính đứng yên của nó.	false
+cooking_ingredients_flavour_text_wh3_dlc24_ingredient_wood_branch_of_arden	Sự dũng cảm của các sinh vật từ các cuộc xung đột biên giới thấm vào từng rễ cây và cành con của khu rừng cổ xưa.	false
+cooking_ingredients_flavour_text_wh3_dlc24_ingredient_wood_ursun_totem	Một thánh tích quý giá từ vùng lãnh nguyên quê hương, và không dễ gì bị hy sinh, nhưng hoàn cảnh bắt buộc thì phải chịu.	false

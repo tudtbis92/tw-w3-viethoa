@@ -28,10 +28,11 @@ Tài liệu này quy định quy trình làm việc bắt buộc cho Agent khi t
 ## 4. Quy tắc đặc biệt khi dịch
 
 ### Key "placeholder" — KHÔNG ĐƯỢC DỊCH
-- Các key có text = `placeholder`, `PLACEHOLDER`, hoặc `Placeholder` trong file gốc là **text tạm thời của CA chưa được điền nội dung thực**.
-- **Bắt buộc:** Giữ nguyên nguyên văn giá trị gốc (giữ đúng case: lowercase/uppercase/titlecase như file origin).
-- **Tuyệt đối không** dịch thành "vùng giữ chỗ" hay bất kỳ nội dung tiếng Việt nào.
-- Phạm vi ảnh hưởng: ~1.643 key trải rộng 29 file trong toàn dự án.
+- Các key có nội dung text là `placeholder`, `PLACEHOLDER`, `Placeholder`, hoặc các biến thể viết tắt như `ph`, `PH`, `[ph]`, `[PH]`, cũng như từ `deprecated` trong file gốc là **text tạm thời của CA chưa được điền nội dung thực hoặc đã bị loại bỏ**.
+- **Bắt buộc:** Giữ nguyên nguyên văn giá trị gốc (giữ đúng case: lowercase/uppercase/titlecase/brackets như file origin).
+- **Tuyệt đối không** dịch thành "vùng giữ chỗ", "lỗi thời" hay bất kỳ nội dung tiếng Việt nào.
+- Nếu text chứa placeholder kèm theo mô tả khác (ví dụ: `[ph] empire fort`), hãy giữ nguyên phần placeholder và dịch phần nội dung thực nếu cần, hoặc tốt nhất là giữ nguyên cả câu nếu nó rõ ràng là text nháp của developer.
+- Phạm vi ảnh hưởng: Hàng ngàn key trải rộng nhiều file trong toàn dự án.
 
 ## 5. Đóng gói (Packing)
 - Sử dụng `rpfm_cli` để tạo một pack mới tên là `text_translated.pack`.

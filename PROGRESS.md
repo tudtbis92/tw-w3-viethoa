@@ -1,8 +1,8 @@
 # Tiến độ Việt hoá Total War: Warhammer III
 
 ## Tiến độ tổng quan (Overall Progress)
-- **Tiến độ theo File**: 77 / 235 files hoàn thành (~32.77%)
-- **Tiến độ theo Key**: 61,971 / 241,728 keys hoàn thành (~25.64%)
+- **Tiến độ theo File**: 85 / 235 files hoàn thành (~36.17%)
+- **Tiến độ theo Key**: 62,574 / 241,728 keys hoàn thành (~25.89%)
 
 
 | File Table | Tổng số Key | Đã dịch | Trạng thái | % Hoàn thành | Ghi chú |
@@ -86,7 +86,21 @@
 | character_training_dilemmas__.loc.tsv | 72 | 72 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
 | character_training_groups__.loc.tsv | 2 | 2 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
 | character_trait_levels__.loc.tsv | 3912 | 3912 | Done | 100% | Đã dịch xong và kiểm tra số lượng key khớp (3912/3912). |
-| ... (192 tables khác) | - | 0 | Not Started | 0% | Sẽ cập nhật khi bắt đầu dịch |
+| chat_shortcuts__.loc.tsv | 9 | 9 | Done | 100% | Đã dịch xong toàn bộ file mô tả phím tắt chat. |
+| commodity_unit_names__.loc.tsv | 24 | 24 | Done | 100% | Đã dịch xong và kiểm tra số lượng key khớp. |
+| compass_directions__.loc.tsv | 16 | 16 | Done | 100% | Đã dịch xong 1 chunk và nối file thành công. |
+| cooking_ingredient_groups__.loc.tsv | 22 | 22 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
+| cooking_ingredients__.loc.tsv | 131 | 131 | Done | 100% | Đã dịch xong toàn bộ file qua 1 chunk và kiểm tra số lượng key khớp. |
+| cooking_recipes__.loc.tsv | 164 | 164 | Done | 100% | Đã dịch xong toàn bộ file qua 1 chunk và kiểm tra số lượng key khớp. |
+| culture_settlement_occupation_options__.loc.tsv | 370 | 370 | Done | 100% | Đã dịch xong toàn bộ file qua 2 chunk và kiểm tra số lượng key khớp. |
+| cultures__.loc.tsv | 54 | 54 | Done | 100% | Đã dịch xong toàn bộ mô tả Chủng tộc (54/54 keys). |
+| cultures_subcultures__.loc.tsv | 128 | 128 | Done | 100% | Đã dịch xong và kiểm tra số lượng key khớp. |
+| custom_battle_settings__.loc.tsv | 32 | 32 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp (32/32). |
+| custom_loading_screen_components__.loc.tsv | 310 | 310 | Done | 100% | Đã dịch xong toàn bộ file qua 2 chunk và kiểm tra số lượng key khớp (310/310). |
+| daemon_ability_bar_descriptions__.loc.tsv | 22 | 22 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
+| death_types__.loc.tsv | 24 | 24 | Done | 100% | Đã dịch xong toàn bộ file qua 1 chunk và kiểm tra số lượng key khớp. |
+| deployables__.loc.tsv | 18 | 18 | Done | 100% | Đã dịch xong toàn bộ file qua 1 chunk và kiểm tra số lượng key khớp. |/
+| ... (182 tables khác) | - | 0 | Not Started | 0% | Sẽ cập nhật khi bắt đầu dịch |
 ---
 *Cập nhật lần cuối: 2026-05-26 (23:05 ICT)*
 *Quy tắc an toàn: Cập nhật ngay sau mỗi table hoặc mỗi 100 dòng dịch.*

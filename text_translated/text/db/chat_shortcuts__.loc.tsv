@@ -1,0 +1,11 @@
+key	text	tooltip
+#Loc;1;text/db/chat_shortcuts__.loc		
+chat_shortcuts_description_all	trò chuyện với tất cả người chơi trong trận hiện tại (/all nội_dung)	false
+chat_shortcuts_description_block	chặn vĩnh viễn chat và voice của người chơi được chỉ định cho đến khi bỏ chặn (/block tên_người_chơi)	false
+chat_shortcuts_description_help	hiển thị tất cả các lệnh tắt chat khả dụng cho khu vực game hiện tại (/help)	false
+chat_shortcuts_description_mute	tắt tiếng chat và voice của người chơi được chỉ định trong phiên hiện tại (/mute tên_người_chơi)	false
+chat_shortcuts_description_pm	gửi tin nhắn riêng cho người chơi được chỉ định (/pm tên_người_chơi nội_dung)	false
+chat_shortcuts_description_r	trả lời người cuối cùng đã nhắn tin riêng cho bạn (/r nội_dung)	false
+chat_shortcuts_description_team	trò chuyện với các người chơi trong cùng đội (/team nội_dung)	false
+chat_shortcuts_description_unblock	bỏ chặn chat và voice của người chơi được chỉ định (/unblock tên_người_chơi)	false
+chat_shortcuts_description_unmute	bỏ tắt tiếng chat và voice của người chơi được chỉ định trong phiên hiện tại (/unmute tên_người_chơi)	false
