@@ -1,6 +1,5 @@
 import sys
 import os
-import csv
 
 def split_tsv(file_path, chunk_size=200):
     if not os.path.exists(file_path):
@@ -14,38 +13,32 @@ def split_tsv(file_path, chunk_size=200):
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
-    with open(file_path, 'r', encoding='utf-8', newline='') as f:
-        reader = csv.reader(f, delimiter='\t')
-        try:
-            header = next(reader)
-            sub_header = next(reader)
-        except StopIteration:
-            print(f"Error: File {file_path} is empty or malformed.")
-            return
-
-        chunk = []
-        chunk_idx = 1
+    with open(file_path, 'r', encoding='utf-8') as f:
+        lines = f.readlines()
         
-        for row in reader:
-            chunk.append(row)
-            if len(chunk) >= chunk_size:
-                write_chunk(output_dir, file_name_no_ext, chunk_idx, header, sub_header, chunk)
-                chunk = []
-                chunk_idx += 1
-        
-        if chunk or chunk_idx == 1:
-            write_chunk(output_dir, file_name_no_ext, chunk_idx, header, sub_header, chunk)
+    if len(lines) < 2:
+        print(f"Error: File {file_path} is too short.")
+        return
 
-    print(f"Split {file_path} into chunks in {output_dir}")
+    header = lines[0]
+    sub_header = lines[1]
+    data_lines = lines[2:]
+
+    chunk_idx = 1
+    for i in range(0, len(data_lines), chunk_size):
+        chunk = data_lines[i:i + chunk_size]
+        write_chunk(output_dir, file_name_no_ext, chunk_idx, header, sub_header, chunk)
+        chunk_idx += 1
+
+    print(f"Split {file_path} into {chunk_idx - 1} chunks in {output_dir}")
 
 def write_chunk(output_dir, file_name, idx, header, sub_header, data):
-    # Format: filename_chunk_x.tsv
     chunk_file = os.path.join(output_dir, f"{file_name}_chunk_{idx}.tsv")
-    with open(chunk_file, 'w', encoding='utf-8', newline='') as f:
-        writer = csv.writer(f, delimiter='\t')
-        writer.writerow(header)
-        writer.writerow(sub_header)
-        writer.writerows(data)
+    with open(chunk_file, 'w', encoding='utf-8') as f:
+        f.write(header)
+        f.write(sub_header)
+        for line in data:
+            f.write(line)
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:

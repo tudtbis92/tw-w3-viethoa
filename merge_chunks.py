@@ -1,6 +1,5 @@
 import sys
 import os
-import csv
 import glob
 import re
 
@@ -29,32 +28,29 @@ def merge_chunks(file_name_no_ext):
     translated_files.sort(key=get_chunk_num)
 
     first_file = True
-    with open(output_path, 'w', encoding='utf-8', newline='') as outfile:
-        writer = csv.writer(outfile, delimiter='\t')
-        
+    with open(output_path, 'w', encoding='utf-8') as outfile:
         for chunk_file in translated_files:
-            with open(chunk_file, 'r', encoding='utf-8', newline='') as infile:
-                reader = csv.reader(infile, delimiter='\t')
-                try:
-                    header = next(reader)
-                    sub_header = next(reader)
-                    
-                    if first_file:
-                        writer.writerow(header)
-                        writer.writerow(sub_header)
-                        first_file = False
-                    
-                    for row in reader:
-                        writer.writerow(row)
-                except StopIteration:
+            with open(chunk_file, 'r', encoding='utf-8') as infile:
+                lines = infile.readlines()
+                if not lines:
                     continue
+                
+                if first_file:
+                    # Write everything from the first file
+                    outfile.writelines(lines)
+                    first_file = False
+                else:
+                    # Skip the first 2 header lines for subsequent files
+                    if len(lines) > 2:
+                        outfile.writelines(lines[2:])
 
     print(f"Merged {len(translated_files)} chunks into {output_path}")
 
     # Cleanup: Delete origin chunks and translated chunks for this file
     # Patterns: filename_chunk_x.tsv and filename_chunk_translated_x.tsv
-    origin_pattern = os.path.join(chunk_dir, f"{file_name_no_ext}_chunk_*.tsv")
-    files_to_delete = glob.glob(origin_pattern)
+    # We use a pattern that matches both original and translated chunks
+    all_chunks_pattern = os.path.join(chunk_dir, f"{file_name_no_ext}_chunk_*.tsv")
+    files_to_delete = glob.glob(all_chunks_pattern)
     for f in files_to_delete:
         try:
             os.remove(f)

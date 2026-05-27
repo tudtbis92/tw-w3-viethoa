@@ -99,7 +99,8 @@
 | custom_loading_screen_components__.loc.tsv | 310 | 310 | Done | 100% | Đã dịch xong toàn bộ file qua 2 chunk và kiểm tra số lượng key khớp (310/310). |
 | daemon_ability_bar_descriptions__.loc.tsv | 22 | 22 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
 | death_types__.loc.tsv | 24 | 24 | Done | 100% | Đã dịch xong toàn bộ file qua 1 chunk và kiểm tra số lượng key khớp. |
-| deployables__.loc.tsv | 18 | 18 | Done | 100% | Đã dịch xong toàn bộ file qua 1 chunk và kiểm tra số lượng key khớp. |/
+| deployables__.loc.tsv | 18 | 18 | Done | 100% | Đã dịch xong toàn bộ file qua 1 chunk và kiểm tra số lượng key khớp. |
+| dilemmas__.loc.tsv | 2254 | 2254 | Done | 100% | Đã dịch xong toàn bộ file qua 12 chunk và kiểm tra số lượng key khớp (2254/2254). |
 | ... (182 tables khác) | - | 0 | Not Started | 0% | Sẽ cập nhật khi bắt đầu dịch |
 ---
 *Cập nhật lần cuối: 2026-05-26 (23:05 ICT)*

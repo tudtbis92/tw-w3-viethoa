@@ -18,8 +18,9 @@ Tài liệu này quy định quy trình làm việc bắt buộc cho Agent khi t
     1. Chạy script `split_tsv.py <path_to_origin_tsv>` để chia file gốc thành các file chunk lưu trực tiếp trong thư mục `chunks/` theo định dạng `filename_chunk_x.tsv` (mỗi file 200 key).
     2. Spawn sub-agent dịch song song các file chunk. Kết quả dịch của mỗi chunk phải được lưu thành `filename_chunk_translated_x.tsv` trong cùng thư mục `chunks/`.
     3. Cập nhật `PROGRESS.md` sau khi hoàn thành mỗi chunk.
-    4. Sau khi dịch xong toàn bộ các chunk, chạy script `merge_chunks.py <filename>` để nối các file chunk đã dịch thành file kết quả cuối cùng trong `text_translated/`. Script này cũng sẽ thực hiện xóa bỏ các file chunk (gốc và dịch) sau khi hoàn tất.
-    5. Thực hiện so sánh số lượng key giữa file kết quả và file gốc để đảm bảo tính toàn vẹn.
+    4. **Kiểm tra tính toàn vẹn (Bắt buộc):** Trước khi chạy script merge, Agent **phải** kiểm tra số lượng dòng (key) của từng file `filename_chunk_translated_x.tsv` so với file gốc `filename_chunk_x.tsv`. Hai file phải có số dòng khớp hoàn toàn. Nếu phát hiện sai lệch (do sub-agent dịch thiếu hoặc thừa dòng), phải yêu cầu dịch lại chunk đó trước khi tiếp tục.
+    5. Sau khi đã xác nhận toàn bộ các chunk đều khớp, chạy script `merge_chunks.py <filename>` để nối các file chunk đã dịch thành file kết quả cuối cùng trong `text_translated/`. Script này cũng sẽ thực hiện xóa bỏ các file chunk (gốc và dịch) sau khi hoàn tất.
+    6. Thực hiện so sánh số lượng key giữa file kết quả và file gốc để đảm bảo tính toàn vẹn.
 - **Encoding (Mã hóa):** Khi ghi file (sử dụng `write_file`, `replace` hoặc các lệnh shell), **bắt buộc** phải sử dụng mã hóa **UTF-8** (đảm bảo hiển thị đúng tiếng Việt có dấu). Tuyệt đối tránh sử dụng các encoding mặc định của hệ thống hoặc không xác định, điều này sẽ gây ra lỗi hiển thị (Mojibake).
 - **Bắt buộc:** Sau khi dịch xong mỗi file table, Agent phải thực hiện kiểm tra số lượng key (hoặc số dòng dữ liệu).
 - Số lượng key trong file tại `text_translated/` **phải khớp hoàn toàn** với số lượng key trong file gốc tại `text_origin/`.
