@@ -1,8 +1,8 @@
 # Tiến độ Việt hoá Total War: Warhammer III
 
 ## Tiến độ tổng quan (Overall Progress)
-- **Tiến độ theo File**: 85 / 235 files hoàn thành (~36.17%)
-- **Tiến độ theo Key**: 62,574 / 241,728 keys hoàn thành (~25.89%)
+- **Tiến độ theo File**: 87 / 235 files hoàn thành (~37.02%)
+- **Tiến độ theo Key**: 85,406 / 241,728 keys hoàn thành (~35.33%)
 
 
 | File Table | Tổng số Key | Đã dịch | Trạng thái | % Hoàn thành | Ghi chú |
@@ -25,7 +25,7 @@
 | ancillary_sets__.loc.tsv | 170 | 170 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
 | ancillary_uniqueness_groupings__.loc.tsv | 16 | 16 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
 | armory_item_set_ui_infos__.loc.tsv | 56 | 56 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
-| armory_item_ui_infos__.loc.tsv | 724 | 724 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
+| armory_item_ui_infos__.loc (724/724) | 724 | 724 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
 | armory_item_variant_ui_infos__.loc.tsv | 944 | 944 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
 | armory_slot_type_ui_infos__.loc.tsv | 13 | 13 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
 | battle_result_types__.loc.tsv | 52 | 52 | Done | 100% | Đã dịch xong toàn bộ file và kiểm tra số lượng key khớp. |
@@ -101,8 +101,10 @@
 | death_types__.loc.tsv | 24 | 24 | Done | 100% | Đã dịch xong toàn bộ file qua 1 chunk và kiểm tra số lượng key khớp. |
 | deployables__.loc.tsv | 18 | 18 | Done | 100% | Đã dịch xong toàn bộ file qua 1 chunk và kiểm tra số lượng key khớp. |
 | dilemmas__.loc.tsv | 2254 | 2254 | Done | 100% | Đã dịch xong toàn bộ file qua 12 chunk và kiểm tra số lượng key khớp (2254/2254). |
-| ... (182 tables khác) | - | 0 | Not Started | 0% | Sẽ cập nhật khi bắt đầu dịch |
+| diplomacy_quick_deal_offers__.loc.tsv | 9 | 9 | Done | 100% | Đã dịch xong 1 chunk và kiểm tra số lượng key khớp. |
+| diplomacy_strings__.loc.tsv | 23823 | 23823 | Done | 100% | Đã hoàn thành 100% key bằng phương pháp Patch Missing Keys. Khớp line count (23825). |
+| ... (179 tables khác) | - | 0 | Not Started | 0% | Sẽ cập nhật khi bắt đầu dịch |
 ---
-*Cập nhật lần cuối: 2026-05-26 (23:05 ICT)*
+*Cập nhật lần cuối: 2026-05-27 (11:00 ICT)*
 *Quy tắc an toàn: Cập nhật ngay sau mỗi table hoặc mỗi 100 dòng dịch.*
 *Xem các quy tắc dịch đặc biệt tại: GEMINI.md (Section 4)*

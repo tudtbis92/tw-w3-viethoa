@@ -1,0 +1,11 @@
+key	text	tooltip
+#Loc;1;text/db/diplomacy_quick_deal_offers__.loc		
+diplomacy_quick_deal_offers_localised_quick_deal_title_diplomatic_option_client_state	Trở thành Chư hầu nộp cống	false
+diplomacy_quick_deal_offers_localised_quick_deal_title_diplomatic_option_confederation	[[img:icon_confederation]][[/img]] Gia nhập Liên minh	false
+diplomacy_quick_deal_offers_localised_quick_deal_title_diplomatic_option_defensive_alliance	[[img:icon_defensive_alliance]][[/img]] Liên minh Phòng thủ	false
+diplomacy_quick_deal_offers_localised_quick_deal_title_diplomatic_option_military_alliance	[[img:icon_military_alliance]][[/img]] Liên minh Quân sự	false
+diplomacy_quick_deal_offers_localised_quick_deal_title_diplomatic_option_nonaggression_pact	[[img:icon_non-aggression_pact]][[/img]] Hiệp ước Không xâm phạm	false
+diplomacy_quick_deal_offers_localised_quick_deal_title_diplomatic_option_peace	Hiệp ước Hòa bình	false
+diplomacy_quick_deal_offers_localised_quick_deal_title_diplomatic_option_soft_access	[[img:icon_military_access]][[/img]] Quyền hành quân	false
+diplomacy_quick_deal_offers_localised_quick_deal_title_diplomatic_option_trade_agreement	[[img:icon_trade_agreement]][[/img]] Hiệp định Thương mại	false
+diplomacy_quick_deal_offers_localised_quick_deal_title_diplomatic_option_vassal	[[img:icon_vassal]][[/img]] Trở thành Chư hầu	false
